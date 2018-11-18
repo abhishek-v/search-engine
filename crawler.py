@@ -18,7 +18,6 @@ class Crawler:
     def parse_HTML(self,text):
         target = "<a href=\""
         domain = ".uic.edu"
-        #comment
         l = len(target)
         idx = 0
         flag = 0
@@ -27,13 +26,14 @@ class Crawler:
             if(flag == 1):
                 if(ch != "\""):
                     cur_link += ch
-                    self.URL_queue.append(cur_link)
                     continue
                 else:
                     flag = 0
-                    print(cur_link)
-                    cur_link = ""
                     idx = 0
+                    if(domain in cur_link):
+                        self.URL_queue.append(cur_link)
+                        print(cur_link)
+                    cur_link = ""
                     continue
             if(ch == target[idx]):
                 idx += 1
