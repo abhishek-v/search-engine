@@ -1,5 +1,9 @@
 import requests
 
+'''
+Parsing is not perfect
+Does not handle relative links
+'''
 
 class Crawler:
 
@@ -11,9 +15,13 @@ class Crawler:
         for URL in self.root_URL:
             self.URL_queue.append(URL)
         for URL in self.URL_queue:
-            r = requests.get(URL)
-            self.parse_HTML(r.text)
-            exit(1)
+            try:
+                r = requests.get(URL)
+                self.parse_HTML(r.text)
+                print("Number of nodes in the graph is:",len(self.URL_queue))
+            except:
+                continue
+
 
     def parse_HTML(self,text):
         target = "<a href=\""
@@ -31,8 +39,8 @@ class Crawler:
                     flag = 0
                     idx = 0
                     if(domain in cur_link):
-                        self.URL_queue.append(cur_link)
-                        print(cur_link)
+                        if(domain not in self.URL_queue):
+                            self.URL_queue.append(cur_link)
                     cur_link = ""
                     continue
             if(ch == target[idx]):
