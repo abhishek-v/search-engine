@@ -19,6 +19,9 @@ class Crawler:
                 r = requests.get(URL)
                 self.parse_HTML(r.text)
                 print("Number of nodes in the graph is:",len(self.URL_queue))
+                if(len(self.URL_queue) > 3000):
+                    print("Page limit reached. Breaking..")
+                    break
             except:
                 continue
 
