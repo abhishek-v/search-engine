@@ -21,7 +21,7 @@ class Crawler:
         self.link_reference = {}
         self.ps = PorterStemmer()
         self.IDF = {}
-        self.page_threshold = 1000
+        self.page_threshold = 1500
         self.regex = re.compile(
         r'^(?:http|ftp)s?://' # http:// or https://
         r'(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|[A-Z0-9-]{2,}\.?)|' #domain...
