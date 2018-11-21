@@ -7,6 +7,7 @@ from nltk.corpus import stopwords
 import re
 from nltk.stem import PorterStemmer #For Porter Stemmer function
 import pickle
+from urllib.parse import urlparse
 #Branch BS
 '''
 Does not handle relative links
@@ -21,7 +22,7 @@ class Crawler:
         self.link_reference = {}
         self.ps = PorterStemmer()
         self.IDF = {}
-        self.page_threshold = 1500
+        self.page_threshold = 3000
         self.regex = re.compile(
         r'^(?:http|ftp)s?://' # http:// or https://
         r'(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|[A-Z0-9-]{2,}\.?)|' #domain...
@@ -30,7 +31,8 @@ class Crawler:
         r'(?::\d+)?' # optional port
         r'(?:/?|[/?]\S+)$', re.IGNORECASE)
         for URL in url_list:
-            self.URL_queue.append(URL)
+            o = urlparse(URL)
+            self.URL_queue.append((o.netloc+o.path).lstrip("www.").rstrip("/"))
         self.domain = "uic.edu"
         nltk.download('stopwords')
         self.stop_words = set(stopwords.words('english'))
@@ -52,7 +54,7 @@ class Crawler:
         while(len(self.URL_queue) != 0):
             try:
                 URL = self.URL_queue.popleft()
-                r = requests.get(URL)
+                r = requests.get("http://"+URL)
                 if(r.status_code == 200):
                     self.inv_index[self.page_count] = {}
                     self.link_reference[self.page_count] = URL
@@ -67,6 +69,7 @@ class Crawler:
                         if(word not in self.stop_words):
                             word = word.lstrip(" ")
                             word = word.rstrip(" ")
+                            word = word.lower()
                             word = self.ps.stem(word)
                             #valid word. add it to inverted index
                             self.inv_index[self.page_count][word] = self.inv_index[self.page_count].get(word,0) + 1
@@ -76,9 +79,11 @@ class Crawler:
                     temp_word_list = []
                     for tag in tags:
                         try: #make sure there is a href tag. For <a class="", this will throw error. Hence, the try catch
-                            if(re.match(self.regex, tag["href"]) is not None and\
-                            self.domain in tag["href"] and tag["href"] not in self.link_reference.values()):
-                                self.URL_queue.append(tag["href"])
+                            if(re.match(self.regex, tag["href"]) is not None):
+                                o = urlparse(tag["href"])
+                                temp_href = ((o.netloc+o.path).lstrip("www.").rstrip("/"))
+                                if(self.domain in tag["href"] and temp_href not in self.link_reference.values() and temp_href not in self.URL_queue):
+                                    self.URL_queue.append(temp_href)
                         except:
                             continue
                     # print("LIST:\n\n",self.URL_queue)
@@ -94,8 +99,10 @@ class Crawler:
                         break
 
                     self.page_count += 1
+                    print("URL is: ",URL)
                     print("Number of nodes in the graph is:",len(self.link_reference.keys()))
             except Exception as e:
+                print(e)
                 print("Connection failed for ", URL)
                 continue
 
