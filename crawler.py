@@ -10,7 +10,7 @@ import pickle
 from urllib.parse import urlparse
 #Branch BS
 '''
-Does not handle relative links
+Need to add page rank
 '''
 
 class Crawler:
@@ -21,8 +21,10 @@ class Crawler:
         self.inv_index = {}
         self.link_reference = {}
         self.ps = PorterStemmer()
+        self.nodes_score = dict()
+        self.nodes = dict()
         self.IDF = {}
-        self.page_threshold = 3000
+        self.page_threshold = 1000 #increase limit
         self.regex = re.compile(
         r'^(?:http|ftp)s?://' # http:// or https://
         r'(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|[A-Z0-9-]{2,}\.?)|' #domain...
