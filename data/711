@@ -1,768 +1,1246 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortlink" href="/node/479" />
-<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="/answer/how-do-i-change-my-password" />
-  <title>How do I change my password? | Academic Computing and Communications Center  </title>
-  <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_C97MNtte-L48LG9bh-ZvFzSRgqR9x1gIfrvIDp9o6Y4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_OsO2r3O_I2E-8-khV3NulWZIRJOw7aXphEVlJbgm2xI.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_Gi2KQBa4KQP-viS3Xs9utbwGTmqh2ceGxVSM10J8c9c.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_2THG1eGiBIizsWFeexsNe1iDifJ00QRS9uSd03rY9co.css" media="print" />
-
-<!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/all/themes/acccbartik/css/ie.css?pi5mp1" media="all" />
-<![endif]-->
-
-<!--[if IE 6]>
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/all/themes/acccbartik/css/ie6.css?pi5mp1" media="all" />
-<![endif]-->
-  <script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
-<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_f_6-OzlFXjayKlsU5sJKLwjz7LFQvdIZDm-Mt6jKwyM.js"></script>
-<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_9G1HmFpiIIAASGUsStD4Bs7yInEexthhfZpuiB7qGwQ.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://accc.uic.edu/sites/default/files/googleanalytics/analytics.js?pi5mp1","ga");ga("create", "UA-27751174-1", {"cookieDomain":"auto"});ga("send", "pageview");
-//--><!]]>
-</script>
-<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"Jhl70_kG1zcXQDUIMAitfQfBvyuc4tAcIypCay-K_po","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/answer\/how-do-i-change-my-password":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
-//--><!]]>
-</script>
-</head>
-<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-479 node-type-answer footer-columns" >
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-    <a href="/service/learning-environments/accessibility" class="element-invisible element-focusable">Accessibility Resources</a>
-  </div>
-    <div id="page-wrapper"><div id="page">
-
-  <div id="header" class="without-secondary-menu"><div class="section clearfix">
-
-          <a href="/" title="Home" rel="home" id="logo">
-        <img src="https://accc.uic.edu/sites/default/files/logo-50.png" alt="Home" />
-      </a>
-    
-          <div id="name-and-slogan" class="element-invisible">
-
-                              <div id="site-name" class="element-invisible">
-              <strong>
-                <a href="/" title="Home" rel="home"><span>Academic Computing and Communications Center  </span></a>
-              </strong>
-            </div>
-                  
-        
-      </div> <!-- /#name-and-slogan -->
-    
-      <div class="region region-header">
-    <div id="block-search-form" class="block block-search">
-
-    
-  <div class="content">
-    <form class="google-cse" action="/answer/how-do-i-change-my-password" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-W7r8tMEQQHmWRklGZ3e3zTNVYxC8iAEMPvQr-jEtK8g" />
-<input type="hidden" name="form_id" value="search_block_form" />
-</div>
-</div></form>  </div>
-</div>
-<div id="block-block-14" class="block block-block">
-
-    
-  <div class="content">
-    <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=uic_accc&show_count=false" style="width:115px; height:20px;"></iframe>  </div>
-</div>
-  </div>
-
-          <div id="main-menu" class="navigation">
-        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-227 first"><a href="/">Home</a></li>
-<li class="menu-4868"><a href="/news/all" title="">News</a></li>
-<li class="menu-9690"><a href="http://one.uic.edu" title="">ONE.UIC</a></li>
-<li class="menu-568"><a href="/service-status">Service Status</a></li>
-<li class="menu-2965"><a href="/service/all">Service Catalog</a></li>
-<li class="menu-4784 active-trail"><a href="/answer/all" title="" class="active-trail">Answers</a></li>
-<li class="menu-9670"><a href="http://accc.uic.edu/about" title="">About</a></li>
-<li class="menu-4776 last"><a href="/contact">Contact</a></li>
-</ul>      </div> <!-- /#main-menu -->
-    
-    
-  </div></div> <!-- /.section, /#header -->
-
-  
-  
-  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
-
-          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » <a href="/answer/all"></a></div></div>
-    
-    
-    <div id="content" class="column"><div class="section">
-            <a id="main-content"></a>
-                    <h1 class="title" id="page-title">
-          How do I change my password?        </h1>
-                          <div class="tabs">
-                  </div>
-                          <div class="region region-content">
-    <div class="ds-1col node node-answer node-full view-mode-full clearfix">
-
-  
-  <div id="node-answer-full-group-borderwrap" class="nocontent group-borderwrap field-group-div"><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Tags:&nbsp;</strong><span class="field-items"><a href="/tag/password" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">password</a>, <a href="/tag/security" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">security</a></span></div><div class="field field-name-field-entity-ref field-type-entityreference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Service:&nbsp;</strong><span class="field-items"><a href="/service/computer-labs">Computer Labs</a>, <a href="/service/identity-and-access-management">Identity and Access Management</a>, <a href="/service/helpdesk">Helpdesk Services</a>, <a href="/service/email-and-calendaring">Email and Calendaring</a>, <a href="/service/exchange">Exchange</a>, <a href="/service/security">Security</a></span></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden news-text"><div class="field-items"><div class="field-item odd first last" property="content:encoded"><p>Your NetID and associated password are the only credentials needed to access most University and campus networking and computing services.  Services such as the <a href="http://my.uic.edu">my.UIC portal</a>, <a href="/service/learning-management-system">Blackboard</a>, <a href="/service/email-and-calendaring">email</a>, campus computer labs, printers and more.</p>
-<p>Passwords are managed centrally via the IAM Password Management service. </p>
-<ul><li>Know your password and want to change it?
-<ul><li>Go to <a href="http://password.uic.edu">password.uic.edu</a></li>
-</ul></li>
-<li>Don't know your password?
-<ul><li>Go to <a href="https://identity.uillinois.edu">identity.uillinois.edu</a> and select <strong>I forgot my password.  </strong>Use pre-registered recovery options to reset your password.</li>
-</ul></li>
-<li>Don't know your password and don't have recovery options registered?
-<ul><li>An in-person visit to an ACCC Service Desk is your only option.  Password resets are never made over the phone or through email.   <strong>You must have your i-card with you.</strong></li>
-<li>Visit the C-stop Service Desk in the BSB Learning Center.  It's located on the first floor, <strong>Behavioral Sciences Building, </strong>1007 West Harrison Street.  
-<ul><li>Password assistance: Monday - Friday, 9:00am - 5:00pm</li>
-<li>C-stop hours: Monday - Friday, 8:00am - 7:00pm​</li>
-</ul></li>
-</ul></li>
-</ul><h2>Password Tips</h2>
-<ol><li>Do not ever share your password with anyone, and do not send your password via email anyone (including any ACCC and other campus units).</li>
-<li><strong>Do not use personal information</strong> in your password that someone else is likely to be able to figure out. Obviously, things like your name, phone number, and address are to be avoided. Even names of acquaintances and the like should be avoided.</li>
-<li>Do not use words, geographical names, or biographical names that are listed in standard dictionaries.</li>
-<li>Never use a password that is the same as your account name.</li>
-<li>Do not use passwords that are <strong>easy to spot while you're typing them in</strong>. Avoid passwords like <em>12345</em>, <em>qwerty</em> (i.e., all keys right next to each other), and <em>nnnnnn</em>.</li>
-</ol><h3>Try This Trick</h3>
-<p>If you are having difficulty picking a good password, <strong>one good method is to use the first letter of each word in a phrase you can easily remember</strong>. For example, "McDonald's is your kind of place" is <em>miykop</em>. That will need some modification because you need an uppercase letter and a number too and it's not long enough, so how about: M'5iykop</p>
-<p>Another method is to intentionally use misspelled words, or words with a number or punctuation mark suffixed. For example: Co77ege.<br />
-(Since the password has to be at least 8 characters long, the period on the end is part of the password.)</p>
-<p>Don't use these examples!</p>
-<h3>Common Mistakes</h3>
-<p>These are too easy to guess. Don't use them. (The dictionary check should take care of most of them, but even if it doesn't, please don't try.)</p>
-<ul><li>Your name</li>
-<li>Your spouse's name</li>
-<li>Your parent's name</li>
-<li>Your pet's name</li>
-<li>Your child's name</li>
-<li>Names of close friends or coworkers</li>
-<li>Names of your favorite fantasy characters</li>
-<li>Your boss's name</li>
-<li>Anybody's name</li>
-<li>The name of the operating system you're using</li>
-<li>The hostname of your computer</li>
-<li>Your phone number</li>
-<li>Your license plate number</li>
-<li>Any part of your social security number</li>
-<li>Anybody's birth date</li>
-<li>Other information that is easily obtained about you</li>
-<li>Words such as wizard, guru, gandalf, and so on.</li>
-<li>Any username on the computer in any form (as is, capitalized, etc.)</li>
-<li>A word in the English dictionary</li>
-<li>A place</li>
-<li>A proper noun</li>
-<li>Passwords of all the same letter</li>
-<li>Simple patterns on the keyboard, like qwerty</li>
-<li><strong>Any of the above spelled backwards</strong></li>
-<li><strong>Any of the above preceded or followed by one or two digits</strong></li>
-</ul></div></div></div><h2 class="label-above">Need help?</h2><div class="view view-answers view-id-answers view-display-id-answer_support nocontent view-dom-id-804093303ecfd61b78e5e12eb0e6dc0f">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field views-field-title">        <span class="field-content"><h3>Exchange</h3></span>  </div>  
-  <div class="views-field views-field-field-support">        <div class="field-content"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Email</th>
-<td><a href="mailto:email-support@uic.edu?subject=ACCC%20Exchange%20Support%20-%20Service%20Page">email-support@uic.edu</a></td>
-</tr><tr><th scope="row">Phone</th>
-<td>312-413-0003</td>
-</tr></tbody></table><p> </p>
-</div>  </div>  </div>
-  <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field views-field-title">        <span class="field-content"><h3>Security</h3></span>  </div>  
-  <div class="views-field views-field-field-support">        <div class="field-content"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Email</th>
-<td><a href="mailto:security@uic.edu">security@uic.edu</a></td>
-</tr><tr><th scope="row">Phone</th>
-<td>312-413-0003</td>
-</tr></tbody></table><p> </p>
-</div>  </div>  </div>
-  <div class="views-row views-row-3 views-row-odd">
-      
-  <div class="views-field views-field-title">        <span class="field-content"><h3>Computer Labs</h3></span>  </div>  
-  <div class="views-field views-field-field-support">        <div class="field-content"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row" style="width:30%">Email</th>
-<td><a href="mailto:LTS@uic.edu">LTS@uic.edu</a></td>
-</tr><tr><th scope="row">Phone</th>
-<td>312-413-0003 Option 1</td>
-</tr><tr><th scope="row">In person</th>
-<td>
-<p>Lecture Center E<br />
-			Room E112</p>
-<ul><li>Monday - Thursday 7:45am to 7:00pm, Friday 8:00 am to 5:00 pm during academic sessions</li>
-</ul></td>
-</tr></tbody></table></div>  </div>  </div>
-  <div class="views-row views-row-4 views-row-even">
-      
-  <div class="views-field views-field-title">        <span class="field-content"><h3>Identity and Access Management</h3></span>  </div>  
-  <div class="views-field views-field-field-support">        <div class="field-content"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Email</th>
-<td><a href="mailto:accounts@uic.edu">iam@uic.edu</a></td>
-</tr><tr><th scope="row">Phone</th>
-<td>312-413-0003</td>
-</tr></tbody></table><p> </p>
-</div>  </div>  </div>
-  <div class="views-row views-row-5 views-row-odd">
-      
-  <div class="views-field views-field-title">        <span class="field-content"><h3>Helpdesk Services</h3></span>  </div>  
-  <div class="views-field views-field-field-support">        <div class="field-content"><table border="1" cellpadding="1" cellspacing="1" style="width: 100%; "><tbody><tr><th scope="row">
-				Email</th>
-<td>
-				<a href="mailto:consult@uic.edu">consult@uic.edu</a></td>
-</tr><tr><th scope="row">
-				Phone</th>
-<td>
-				312-413-0003</td>
-</tr></tbody></table><p> </p>
-</div>  </div>  </div>
-  <div class="views-row views-row-6 views-row-even views-row-last">
-      
-  <div class="views-field views-field-title">        <span class="field-content"><h3>Email and Calendaring</h3></span>  </div>  
-  <div class="views-field views-field-field-support">        <div class="field-content"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Email</th>
-<td><a href="mailto:consult@uic.edu">consult@uic.edu</a></td>
-</tr><tr><th scope="row">Phone</th>
-<td>312-413-0003</td>
-</tr></tbody></table><p> </p>
-</div>  </div>  </div>
+<!DOCTYPE html><html lang="en"><head><title>Academics</title><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#D50032"><meta name="google-site-verification" content="x4bg-s_z2XTL2GQjjZyktPBd3ibAzFZfRQb2eUHRaVc"><style>.interior-section-header{ color: rgb(54, 54, 54); font-size: 24px; font-weight: 400; line-height: 1.2; }
+body{ font-family: Theinhardt, Arial, sans-serif; }
+.body-text, .campus-reminders .reminder-text, .category-link-list .text-cell, .error-help, .text-input, .text-area, .number-input, .tel-input, .email-input, .form-help-text, .highlight .content-cell, .home-lists .home-list-blurb, .interior-page-intro .interior-page-text, .key-message-block .message-cell .text, .landing-page-intro .intro-text, .link-block .text, .link-list .text-cell, .text-block-with-inline-image .intro-row, .text-block-with-inline-image .text-and-image-row, .text-block-with-inline-image .link-list, .text-block-with-large-image .link-list, .topic-block-list .text-cell, .topic-block-list .topic-block-text-cell, .block-wysiwyg { color: rgb(54, 54, 54); font-size: 16px; font-weight: 400; line-height: 1.36; }
+.body-text p, .campus-reminders .reminder-text p, .category-link-list .text-cell p, .error-help p, .text-input p, .text-area p, .number-input p, .tel-input p, .email-input p, .form-help-text p, .highlight .content-cell p, .home-lists .home-list-blurb p, .interior-page-intro .interior-page-text p, .key-message-block .message-cell .text p, .landing-page-intro .intro-text p, .link-block .text p, .link-list .text-cell p, .text-block-with-inline-image .intro-row p, .text-block-with-inline-image .text-and-image-row p, .text-block-with-inline-image .link-list p, .text-block-with-large-image .link-list p, .topic-block-list .text-cell p, .topic-block-list .topic-block-text-cell p, .block-wysiwyg p { margin-bottom: 1em; }
+.ms-grid, .ms-row, [class*="col-"]{ box-sizing: border-box; }
+.ms-grid{ display: block; position: relative; width: 100%; margin-left: auto; margin-right: auto; max-width: 1400px; padding-left: 12px; padding-right: 12px; }
+.ms-grid .ms-row{ -webkit-align-items: stretch; display: -webkit-flex; -webkit-flex-wrap: wrap; margin-left: -1vw; margin-right: -1vw; }
+.ms-grid .ms-row::after, .ms-grid [class*="col-"]::after{ content: ''; display: table; clear: both; }
+[class*="col-"]{ float: left; width: 100%; position: relative; margin: 0px; padding-left: 1vw; padding-right: 1vw; }
+@media screen and (min-width: 540px){
+.ms-grid{ padding-left: 24px; padding-right: 24px; }
+}
+@media screen and (min-width: 768px){
+.ms-grid{ padding-left: 30px; padding-right: 30px; width: 100%; }
+}
+@media screen and (min-width: 2000px){
+.ms-grid .ms-row{ margin-left: -0.5vw; margin-right: -0.5vw; }
+.ms-grid .ms-row > [class*="col-"]{ padding-left: 0.5vw; padding-right: 0.5vw; }
+}
+@media screen and (min-width: 768px){
+.m-col-1-4{ width: 25%; }
+.m-col-3-4{ width: 75%; }
+}
+*{ border: 0px; box-sizing: border-box; margin: 0px; padding: 0px; }
+img{ vertical-align: bottom; }
+@media (min-width: 768px){
+.main{ margin-top: 40px; }
+}
+.ms-grid{ max-width: 1080px; }
+@media (max-width: 767px){
+.ms-grid{ padding-left: 20px; padding-right: 20px; overflow: hidden; }
+}
+@media (max-width: 1084px) and (min-width: 768px){
+.ms-grid{ padding-left: 30px; padding-right: 30px; width: 100%; }
+}
+@media (min-width: 1140px){
+.ms-grid{ padding-left: 0px; padding-right: 0px; }
+}
+.component{ margin-bottom: 80px; }
+.landing-page-title{ color: rgb(255, 255, 255); font-size: 124px; font-weight: 900; line-height: 1; }
+.interior-section-header{ font-size: 30px; }
+body{ background-color: rgb(248, 248, 248); }
+.header{ position: relative; width: 100%; background-color: rgb(0, 0, 0); }
+.header-menu-bar{ position: relative; }
+.header--blue .header-menu-bar{ background-color: rgb(0, 127, 165); }
+@media (max-width: 1084px){
+.header--blue .navigation-primary .primary-nav-list .primary-list-item{ background-color: rgb(0, 127, 165); }
+}
+.header--blue .navigation-primary .primary-nav-list .expander, .header--blue .navigation-primary .primary-nav-list .menu-label-item{ background-color: rgb(0, 102, 132); }
+@media (max-width: 1084px){
+.header--blue .navigation-primary .primary-nav-list .primary-list-active-item > .primary-list-anchor{ background-color: rgb(0, 102, 132); }
+}
+@media (min-width: 1084px){
+.header--blue .navigation-eyebrow{ background-color: rgb(0, 127, 165); }
+}
+.header--blue .navigation-primary:not(.scrolled-after) .primary-nav-list .primary-second-tier-list{ border-color: rgb(0, 127, 165); }
+.header-content{ margin: 0px auto; max-width: 1400px; position: relative; }
+.header-background-image-container{ bottom: 0px; left: 0px; overflow: hidden; position: absolute; right: 0px; top: 0px; }
+.header-background-image{ background-size: cover; bottom: -5px; -webkit-filter: blur(5px); left: -5px; position: absolute; right: -5px; top: -5px; background-position: 50% 50%; background-repeat: no-repeat no-repeat; }
+.hero-image-container{ overflow: hidden; }
+.hero-image{ display: block; left: 50%; margin: 0px auto; position: relative; -webkit-transform: translateX(-50%); width: auto; height: 250px; }
+@media (min-width: 768px){
+.hero-image{ height: 600px; }
+}
+@media (max-width: 768px) and (min-width: 540px){
+.hero-image{ height: 600px; }
+}
+@media (min-width: 1084px){
+.hero-image{ max-height: none; }
+}
+.page-title-container.hero-image-with-title .landing-page-title{ line-height: 80%; width: 75%; }
+@media (min-width: 1084px){
+.page-title-container.hero-image-with-title .landing-page-title{ float: right; -webkit-transform: translateY(100%); }
+}
+@media (max-width: 1084px){
+.page-title-container.hero-image-with-title .landing-page-title{ line-height: 1.2; padding: 0px 20px; width: 100%; }
+}
+@media (max-width: 1084px) and (min-width: 768px){
+.page-title-container.hero-image-with-title .landing-page-title{ font-size: 100px; }
+}
+@media (max-width: 767px){
+.page-title-container.hero-image-with-title .landing-page-title{ font-size: 45px; }
+}
+@media (min-width: 1084px){
+.page-title-container.hero-image-with-title .header-brand-mark{ float: left; width: 25%; }
+}
+@media (max-width: 1084px){
+.page-title-container.hero-image-with-title .header-brand-mark{ display: none !important; }
+}
+.landing-page-intro .interior-section-header{ margin-bottom: 15px; }
+.link-block-group .link-block-anchor { margin-top: 40px; }
+@media (min-width: 540px){
+.link-block-group .link-block-anchor { max-width: 50%; }
+}
+.link-block-group .link-block-anchor, .link-block-group .link-block-anchor:hover, .link-block-group .link-block-anchor:visited { color: rgb(54, 54, 54); text-decoration: none; }
+.link-block { padding-top: 1px; position: relative; }
+.link-block::before { background-color: rgb(213, 0, 50); content: ''; height: 1px; left: 0px; position: absolute; top: 1px; transition: all 0.4s; -webkit-transition: all 0.4s; width: 100%; }
+.link-block .subhead { margin: 15px 0px 4px; padding-right: 20px; position: relative; }
+.link-block .subhead .arrow { fill: #001e62; height: 10px; transition: all 0.3s cubic-bezier(0.7, 0.3, 0.75, 1.4); -webkit-transition: all 0.3s cubic-bezier(0.7, 0.3, 0.75, 1.4); position: absolute; right: 5px; top: calc(0.5em - 5px); width: 10px; }
+.link-block-anchor:hover, .link-block-anchor:focus { outline: none; }
+.link-block-anchor:hover .link-block::before, .link-block-anchor:focus .link-block::before { height: 3px; }
+.link-block-anchor:hover .arrow, .link-block-anchor:focus .arrow { -webkit-transform: translateX(5px); }
+.navigation-eyebrow{ height: 40px; }
+@media (min-width: 1084px){
+.navigation-eyebrow{ background-color: rgb(0, 127, 165); }
+}
+.navigation-eyebrow .navigation-eyebrow-inner{ margin: 0px auto; max-width: 1080px; position: relative; }
+.navigation-eyebrow .eyebrow-list{ display: -webkit-flex; color: rgb(255, 255, 255); font-size: 14px; font-weight: 400; -webkit-justify-content: space-between; list-style: none inside; margin: 0px auto; padding: 0px 20px; }
+@media (min-width: 1084px){
+.navigation-eyebrow .eyebrow-list{ padding: 0px 0px 0px 25%; }
+}
+.navigation-eyebrow .eyebrow-list-item{ display: none; line-height: 40px; height: 40px; }
+@media (min-width: 1084px){
+.navigation-eyebrow .eyebrow-list-item{ display: block; float: left; }
+}
+.navigation-eyebrow .eyebrow-list-item:not(.search-button-item):not(.eyebrow-button) .eyebrow-list-anchor{ overflow: hidden; position: relative; }
+.navigation-eyebrow .eyebrow-list-item:not(.search-button-item):not(.eyebrow-button) .eyebrow-list-anchor::before{ background-color: rgb(213, 0, 50); content: ' '; height: 2px; left: 0px; position: absolute; transition: all 0.35s ease-out; -webkit-transition: all 0.35s ease-out; width: 100%; }
+.navigation-eyebrow .eyebrow-list-item:not(.search-button-item):not(.eyebrow-button) .eyebrow-list-anchor::before{ bottom: 0px; -webkit-transform: translateY(100%); }
+.navigation-eyebrow .eyebrow-list-item:not(.search-button-item):not(.eyebrow-button) .eyebrow-list-anchor::before{ background-color: rgb(255, 255, 255); height: 4px; }
+.navigation-eyebrow .eyebrow-button{ -webkit-align-self: center; }
+.navigation-eyebrow .eyebrow-button .eyebrow-list-anchor{ font-weight: 700; padding-left: 34px; padding-right: 20px; overflow: hidden; position: relative; }
+.navigation-eyebrow .eyebrow-button .eyebrow-list-anchor::before{ background-color: rgb(213, 0, 50); content: ' '; height: 2px; left: 0px; position: absolute; transition: all 0.35s ease-out; -webkit-transition: all 0.35s ease-out; width: 100%; }
+.navigation-eyebrow .eyebrow-button .eyebrow-list-anchor::before{ bottom: 0px; -webkit-transform: translateY(100%); }
+.navigation-eyebrow .eyebrow-button .eyebrow-list-anchor::before{ background-color: rgb(255, 255, 255); height: 4px; }
+.navigation-eyebrow .eyebrow-button .eyebrow-list-anchor::after{ content: '+'; left: 10px; position: absolute; text-align: center; top: 0px; width: 20px; }
+.navigation-eyebrow .eyebrow-list-anchor{ display: block; outline: none; }
+.navigation-eyebrow .eyebrow-list-anchor{ color: rgb(255, 255, 255); text-decoration: none; }
+.navigation-eyebrow .search-button-item{ display: block; height: 40px; position: absolute; top: 0px; right: 40px; width: 40px; z-index: 1; }
+@media (min-width: 1084px){
+.navigation-eyebrow .search-button-item{ height: 40px; position: relative; top: 0px; right: 0px; width: auto; }
+}
+.navigation-eyebrow .search-button{ background-color: transparent; cursor: pointer; height: 40px; transition: background-color 0.4s; -webkit-transition: background-color 0.4s; width: 40px; }
+.navigation-eyebrow .search-button .search-glass{ fill: #ffffff; height: 20px; margin: 10px; transition: fill 0.4s; -webkit-transition: fill 0.4s; width: 20px; }
+.navigation-eyebrow .search-input-container{ position: absolute; top: 0px; height: 40px; right: 42px; -webkit-transform: translateY(-100%); transition: all 0.4s; -webkit-transition: all 0.4s; width: 278px; z-index: 3; }
+@media (min-width: 1084px){
+.navigation-eyebrow .search-input-container{ height: 40px; right: 40px; }
+}
+.navigation-eyebrow .search-input-container form{ position: relative; width: 100%; height: 100%; }
+.navigation-eyebrow .search-input-container input[type="text"]{ color: rgb(149, 149, 149); height: 100%; padding: 0px 12px; font-size: 18px; width: 100%; }
+.navigation-eyebrow .search-input-container .submit-button{ -webkit-appearance: none; clip: rect(1px 1px 1px 1px); position: absolute !important; }
+.navigation-primary{ pointer-events: none; position: absolute; top: 0px; width: 100%; z-index: 2; }
+@media (min-width: 1084px){
+.navigation-primary{ pointer-events: auto; position: relative; }
+}
+.navigation-primary .navigation-primary-inner{ margin: 0px auto; max-width: 1080px; position: relative; min-height: 40px; }
+.navigation-primary .primary-nav-list{ display: -webkit-flex; -webkit-flex-wrap: wrap; -webkit-justify-content: space-between; line-height: 1; list-style: none inside; overflow: hidden; padding: 0px; position: absolute; right: 0px; transition: all 0.4s; -webkit-transition: all 0.4s; top: 0px; width: 260px; }
+@media (min-width: 1084px){
+.navigation-primary .primary-nav-list{ -webkit-flex-wrap: nowrap; left: 0px; margin: 0px auto; overflow: visible; padding-top: 0px; padding-right: 0px; padding-left: 25%; position: relative; transition: 0s; -webkit-transition: 0s; top: 0px; width: auto; }
+}
+.navigation-primary .primary-nav-list .primary-list-item{ background-color: rgb(0, 127, 165); color: rgb(255, 255, 255); font-size: 16px; font-weight: 700; letter-spacing: 0.06em; position: relative; text-transform: uppercase; width: 100%; background-position: initial initial; background-repeat: initial initial; }
+@media (min-width: 1084px){
+.navigation-primary .primary-nav-list .primary-list-item{ background-color: transparent; float: left; background-position: initial initial; background-repeat: initial initial; }
+}
+.navigation-primary .primary-nav-list .primary-list-anchor{ display: block; line-height: 1; }
+.navigation-primary .primary-nav-list .primary-list-anchor, .navigation-primary .primary-nav-list .primary-second-tier-list-anchor{ color: inherit; text-decoration: none; }
+.navigation-primary .primary-nav-list .primary-second-tier-list{ display: none; list-style: none inside; }
+.navigation-primary .primary-nav-list .primary-second-tier-list-item{ background-color: rgb(255, 255, 255); color: rgb(54, 54, 54); font-size: 14px; font-weight: 400; letter-spacing: normal; line-height: 1.25; text-transform: none; background-position: initial initial; background-repeat: initial initial; }
+.navigation-primary .primary-nav-list .primary-second-tier-list-item:last-child{ border-bottom-width: 0px; }
+.navigation-primary .primary-nav-list .primary-second-tier-list-item .primary-second-tier-list-anchor{ display: block; padding: 10px; }
+.navigation-primary .primary-nav-list .expander{ display: none; }
+@media (min-width: 1084px){
+.navigation-primary .primary-nav-list .primary-list-item{ padding: 0px; position: relative; width: auto; }
+.navigation-primary .primary-nav-list .primary-list-item.primary-list-active-item > .primary-list-anchor{ border-bottom-width: 8px; border-bottom-style: solid; border-bottom-color: rgb(255, 255, 255); padding-bottom: 12px; }
+.navigation-primary .primary-nav-list .primary-list-item > .primary-list-anchor{ display: block; outline: none; padding: 22px 0px; }
+.navigation-primary .primary-nav-list .primary-list-item:not(.primary-list-active-item) > .primary-list-anchor{ overflow: hidden; position: relative; }
+.navigation-primary .primary-nav-list .primary-list-item:not(.primary-list-active-item) > .primary-list-anchor::before{ background-color: rgb(213, 0, 50); content: ' '; height: 2px; left: 0px; position: absolute; transition: all 0.35s ease-out; -webkit-transition: all 0.35s ease-out; width: 100%; }
+.navigation-primary .primary-nav-list .primary-list-item:not(.primary-list-active-item) > .primary-list-anchor::before{ bottom: 0px; -webkit-transform: translateY(100%); }
+.navigation-primary .primary-nav-list .primary-list-item:not(.primary-list-active-item) > .primary-list-anchor::before{ background-color: rgb(255, 255, 255); bottom: 2px; height: 8px; -webkit-transform: translateY(135%); }
+.navigation-primary .primary-nav-list .primary-second-tier-list{ border-right-width: 2px; border-right-style: solid; border-right-color: rgb(0, 127, 165); border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 127, 165); border-left-width: 2px; border-left-style: solid; border-left-color: rgb(0, 127, 165); display: block; opacity: 0; pointer-events: none; position: absolute; left: -2px; top: 60px; transition: opacity 0.4s; -webkit-transition: opacity 0.4s; width: 260px; }
+.navigation-primary .primary-nav-list .primary-list-item:nth-last-child(1) .primary-second-tier-list, .navigation-primary .primary-nav-list .primary-list-item:nth-last-child(2) .primary-second-tier-list{ left: auto; right: -2px; }
+}
+@media (max-width: 1083px){
+.navigation-primary .primary-nav-list .expander{ background-color: rgb(39, 152, 182); display: block; height: 44px; position: absolute; top: 0px; right: 0px; width: 44px; }
+.navigation-primary .primary-nav-list .expander::before{ color: rgb(255, 255, 255); content: '+'; display: block; line-height: 44px; text-align: center; width: 100%; }
+.navigation-primary .primary-nav-list .primary-list-anchor{ line-height: 24px; padding: 10px 20px; }
+.navigation-primary .primary-nav-list .primary-list-active-item > .primary-list-anchor{ background-color: rgb(0, 102, 132); padding-left: 22px; position: relative; }
+.navigation-primary .primary-nav-list .primary-list-item{ min-height: 44px; -webkit-transform: translateX(260px); transition: all 0.33s; -webkit-transition: all 0.33s; }
+.navigation-primary .primary-nav-list .primary-list-item:nth-child(n+0){ transition: 0s; -webkit-transition: 0s; }
+.navigation-primary .primary-nav-list .primary-list-item:nth-child(n+1){ transition: 0.08s; -webkit-transition: 0.08s; }
+.navigation-primary .primary-nav-list .primary-list-item:nth-child(n+2){ transition: 0.16s; -webkit-transition: 0.16s; }
+.navigation-primary .primary-nav-list .primary-list-item:nth-child(n+3){ transition: 0.24s; -webkit-transition: 0.24s; }
+.navigation-primary .primary-nav-list .primary-list-item:nth-child(n+4){ transition: 0.32s; -webkit-transition: 0.32s; }
+.navigation-primary .primary-nav-list .primary-list-item:nth-child(n+5){ transition: 0.4s; -webkit-transition: 0.4s; }
+.navigation-primary .primary-nav-list .primary-list-item:nth-child(n+6){ transition: 0.48s; -webkit-transition: 0.48s; }
+.navigation-primary .primary-nav-list .primary-list-item:nth-child(n+7){ transition: 0.56s; -webkit-transition: 0.56s; }
+.navigation-primary .primary-nav-list .primary-list-item:nth-child(n+8){ transition: 0.64s; -webkit-transition: 0.64s; }
+.navigation-primary .primary-nav-list .primary-list-item:nth-child(n+9){ transition: 0.72s; -webkit-transition: 0.72s; }
+}
+@media (max-width: 1083px){
+.navigation-primary .primary-nav-list{ pointer-events: none; }
+}
+.navigation-primary .primary-nav-list .menu-label-item{ background-color: rgb(39, 152, 182); color: rgb(255, 255, 255); font-size: 16px; font-weight: 700; height: 40px; letter-spacing: 0.06em; line-height: 40px; min-height: 40px; padding-top: 0px; padding-bottom: 0px; padding-left: 20px; position: relative; text-transform: uppercase; -webkit-transform: translateX(260px); transition: all 0.33s; -webkit-transition: all 0.33s; width: 100%; }
+@media (min-width: 1084px){
+.navigation-primary .primary-nav-list .menu-label-item{ display: none; }
+}
+.navigation-primary .primary-nav-list .menu-label{ opacity: 0; transition: opacity 0.45s 0.45s; -webkit-transition: opacity 0.45s 0.45s; }
+.navigation-primary .primary-nav-list .menu-toggle{ background-color: transparent; display: block; height: 40px; pointer-events: auto; position: absolute; top: 0px; right: 0px; width: 40px; z-index: 1; background-position: initial initial; background-repeat: initial initial; }
+.navigation-primary .primary-nav-list .menu-toggle > span{ position: absolute; left: -999vw; }
+.navigation-primary .primary-nav-list .menu-toggle .menu-toggle-icon{ background-color: rgb(255, 255, 255); height: 2px; margin-left: 9px; position: absolute; top: 20px; transition: all 300ms ease-out; -webkit-transition: all 300ms ease-out; width: 24px; left: 0px; background-position: initial initial; background-repeat: initial initial; }
+.navigation-primary .primary-nav-list .menu-toggle .menu-toggle-icon::after, .navigation-primary .primary-nav-list .menu-toggle .menu-toggle-icon::before{ content: ''; position: absolute; width: 100%; height: 100%; left: 0px; top: 6px; background-color: rgb(255, 255, 255); transition: all 300ms ease-out; -webkit-transition: all 300ms ease-out; background-position: initial initial; background-repeat: initial initial; }
+.navigation-primary .primary-nav-list .menu-toggle .menu-toggle-icon::before{ top: auto; bottom: 6px; }
+@media (min-width: 1083px){
+.navigation-primary .primary-nav-list .menu-toggle{ display: none; }
+}
+.navigation-primary .circle-logo-container{ height: 40px; left: 0px; opacity: 0; pointer-events: auto; position: absolute; -webkit-transform: translateY(-100px); top: 10px; width: 40px; z-index: 1; }
+@media (max-width: 1120px) and (min-width: 1080px){
+.navigation-primary .circle-logo-container{ left: 20px; }
+}
+.navigation-primary .circle-logo-container span{ -webkit-appearance: none; clip: rect(1px 1px 1px 1px); position: absolute !important; }
+@media (max-width: 1084px){
+.navigation-primary .circle-logo-container{ height: 32px; margin-left: 20px; opacity: 1; -webkit-transform: translateY(4px); top: 0px; width: 32px; }
+}
+.navigation-primary .circle-logo-container .circle-logo path{ fill: #ffffff; transition: all 0.5s; -webkit-transition: all 0.5s; }
+.navigation-primary .circle-logo-container a{ color: rgb(255, 255, 255); outline: none; }
+.navigation-primary .circle-logo-container .circle-logo{ -webkit-transform: rotate(-360deg); }
+.navigation-sidebar{ margin-left: -20px; margin-right: -20px; position: relative; }
+@media (min-width: 768px){
+.navigation-sidebar{ margin-left: 0px; margin-right: 0px; }
+}
+.navigation-sidebar .navigation-sidebar-title{ background-color: rgb(255, 255, 255); border-bottom-width: 0px; color: rgb(13, 5, 127); font-size: 16px; font-weight: 900; line-height: 1.5; margin-bottom: 20px; padding: 10px 20px 10px 47px; position: relative; text-transform: uppercase; transition: color 0.4s, background-color 0.4s; -webkit-transition: color 0.4s, background-color 0.4s; }
+.navigation-sidebar .navigation-sidebar-title a{ color: rgb(13, 5, 127); text-decoration: none; transition: color 0.4s; -webkit-transition: color 0.4s; }
+.navigation-sidebar .navigation-sidebar-title::after{ content: ' Menu'; color: rgb(13, 5, 127); }
+@media (min-width: 768px){
+.navigation-sidebar .navigation-sidebar-title{ background-color: transparent; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(225, 225, 225); margin-bottom: 0px; padding: 0px 0px 15px; }
+.navigation-sidebar .navigation-sidebar-title::after{ content: none; }
+}
+.navigation-sidebar .navigation-sidebar-title .chevron{ display: block; height: 12px; left: 20px; position: absolute; top: calc(0.75em + 4px); width: 12px; }
+.navigation-sidebar .navigation-sidebar-title .chevron .anchor-point{ display: block; fill: #007fa5; height: 8px; margin: auto; -webkit-transform: rotate(-90deg); transition: all 0.4s; -webkit-transition: all 0.4s; width: 12px; }
+@media (min-width: 768px){
+.navigation-sidebar .navigation-sidebar-title .chevron{ display: none; }
+}
+@media (max-width: 767px){
+.navigation-sidebar .navigation-sidebar-list-container{ overflow: hidden; pointer-events: none; position: absolute; top: 44px; width: 100%; z-index: 1; }
+}
+@media (max-width: 767px){
+.navigation-sidebar .navigation-sidebar-list{ background-color: rgb(255, 255, 255); border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: rgb(225, 225, 225); padding-left: 20px; padding-right: 20px; -webkit-transform: translateY(-100%); transition: all 0.55s; -webkit-transition: all 0.55s; }
+}
+.navigation-sidebar .navigation-sidebar-list .anchor-point{ height: 5px; position: absolute; right: 0px; top: 4px; width: 8px; }
+.navigation-sidebar .navigation-sidebar-list .navigation-sidebar-anchor .anchor-point{ top: 21px; }
+.navigation-sidebar .navigation-sidebar-list, .navigation-sidebar .sidebar-second-tier-list{ list-style: none inside; }
+.navigation-sidebar .navigation-sidebar-anchor, .navigation-sidebar .sidebar-second-tier-anchor{ display: block; width: 100%; }
+.navigation-sidebar .navigation-sidebar-item{ border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(225, 225, 225); min-height: 50px; }
+.navigation-sidebar .navigation-sidebar-anchor{ color: rgb(54, 54, 54); font-size: 16px; font-weight: 400; line-height: 1; padding: 17px 0px; position: relative; text-decoration: none; }
+.navigation-sidebar .sidebar-second-tier-list{ padding-left: 14px; }
+.navigation-sidebar .sidebar-second-tier-item{ font-size: 14px; font-weight: 400; margin-bottom: 16px; }
+.navigation-sidebar .sidebar-second-tier-anchor{ color: rgb(54, 54, 54); position: relative; text-decoration: none; }
+.navigation-sidebar .navigation-sidebar-item.open .navigation-sidebar-anchor{ font-weight: 700; padding-right: 24px; width: 100%; }
+.page-title-container{ left: 0px; position: absolute; width: 100%; z-index: 1; }
+@media (min-width: 1084px){
+.page-title-container{ height: auto; top: -40px; }
+}
+.page-title-container .page-title-container-inner{ margin: 0px auto; max-width: 1080px; display: -webkit-flex; -webkit-align-items: flex-end; }
+@media (max-width: 1084px) and (min-width: 768px){
+.page-title-container .page-title-container-inner{ height: 600px; }
+}
+@media (max-width: 768px) and (min-width: 540px){
+.page-title-container .page-title-container-inner{ height: 600px; }
+}
+@media (max-width: 540px){
+.page-title-container .page-title-container-inner{ height: 250px; }
+}
+@media (min-width: 1084px){
+.page-title-container .page-title-container-inner{ -webkit-align-items: flex-end; }
+}
+.page-title-container .header-brand-mark{ bottom: 0px; height: 250px; padding: 20px; position: absolute; width: 100%; }
+@media (min-width: 768px){
+.page-title-container .header-brand-mark{ bottom: 30px; height: auto; left: 30px; right: 30px; top: 30px; padding: 0px; }
+}
+@media (min-width: 1084px){
+.page-title-container .header-brand-mark{ height: 320px; padding: 0px 20px; position: static; width: 100%; }
+}
+.page-title-container .header-brand-mark .large-brand-mark-link{ color: rgb(255, 255, 255); }
+@media (min-width: 1084px){
+.page-title-container .header-brand-mark .large-brand-mark-link{ float: left; width: 234px; }
+}
+.page-title-container .header-brand-mark .large-brand-mark-link span{ -webkit-appearance: none; clip: rect(1px 1px 1px 1px); position: absolute !important; }
+.page-title-container .header-brand-mark .large-brand-mark{ display: block; fill: #ffffff; height: 100%; max-width: 100%; width: auto; }
+@media (min-width: 1084px){
+.page-title-container .header-brand-mark .large-brand-mark{ height: 320px; width: 234px; }
+}/* Styles appended to the end of every critical path css stylesheet */
+.navigation-primary .primary-list {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.navigation-eyebrow .eyebrow-list {
+    display: flex;
+    justify-content: space-between;
+}
+.calls-to-action .call-to-action {
+    align-items: center;
+    display: flex;
+}
+.calls-to-action .reminders-container {
+    display: flex;
+}
+.calls-to-action .reminders-anchor {
+    display: flex;
+}</style></head><body><header class="header  header--red" role="banner">
+    <div class="header-background-image-container">
+        <div class="header-background-image" aria-hidden="true" style="background-image: url(/_assets/9f3e549118946c23afe395f02fb359da.jpg)"></div>
     </div>
-  
-  
-  
-  
-  
-  
-</div><div class="field field-name-last-updated field-type-ds field-label-inline clearfix"><div class="field-label">Last updated:&nbsp;</div><div class="field-items"><div class="field-item odd"><p>October 16, 2016</p>
-</div></div></div></div>
-
-<div id="block-tagclouds-1" class="block block-tagclouds">
-
-    <h2>Browse by tag</h2>
-  
-  <div class="nocontent">
-    <span class='tagclouds-term'><a href="/tag/360" class="tagclouds level2" title="">360</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/instructor-access" class="tagclouds level1" title="">access</a></span>
-<span class='tagclouds-term'><a href="/tag/accessibility" class="tagclouds level3" title="">accessibility</a></span>
-<span class='tagclouds-term'><a href="/tag/active-directory" class="tagclouds level2" title="">active directory</a></span>
-<span class='tagclouds-term'><a href="/service/classroom/tbc" class="tagclouds level1" title="">active learning</a></span>
-<span class='tagclouds-term'><a href="/tag/adda" class="tagclouds level3" title="">adda</a></span>
-<span class='tagclouds-term'><a href="/tag/adding" class="tagclouds level1" title="">adding</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-manage-users-my-webhost-site" class="tagclouds level1" title="">adding users</a></span>
-<span class='tagclouds-term'><a href="/tag/addressbook" class="tagclouds level3" title="">addressbook</a></span>
-<span class='tagclouds-term'><a href="/answer/who-has-administrator-access-my-fact-computer-ay14-15-deprecated" class="tagclouds level1" title="">administrator</a></span>
-<span class='tagclouds-term'><a href="/tag/adsm" class="tagclouds level5" title="">adsm</a></span>
-<span class='tagclouds-term'><a href="/tag/alp" class="tagclouds level1" title="">ALP</a></span>
-<span class='tagclouds-term'><a href="/tag/android" class="tagclouds level2" title="">android</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/questionable-test-answers" class="tagclouds level1" title="">answers</a></span>
-<span class='tagclouds-term'><a href="/tag/antivirus" class="tagclouds level2" title="">antivirus</a></span>
-<span class='tagclouds-term'><a href="/tag/apple" class="tagclouds level1" title="">apple</a></span>
-<span class='tagclouds-term'><a href="/tag/argo" class="tagclouds level4" title="">argo</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/creating-tests" class="tagclouds level1" title="">assesments</a></span>
-<span class='tagclouds-term'><a href="/tag/assessments" class="tagclouds level1" title="">assessments</a></span>
-<span class='tagclouds-term'><a href="/tag/audio-visual" class="tagclouds level2" title="">audio-visual</a></span>
-<span class='tagclouds-term'><a href="/answer/why-do-i-receive-an-allow-this-website-to-configure-server-settings-message" class="tagclouds level1" title="">Autodiscover</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/content-item-availability-adaptive-release" class="tagclouds level1" title="">availability</a></span>
-<span class='tagclouds-term'><a href="/tag/backup" class="tagclouds level5" title="">backup</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-install-and-configure-adsm-backup-client-windows" class="tagclouds level1" title="">backup adsm</a></span>
-<span class='tagclouds-term'><a href="/tag/backups" class="tagclouds level2" title="">Backups</a></span>
-<span class='tagclouds-term'><a href="/tag/blackboard" class="tagclouds level6" title="">blackboard</a></span>
-<span class='tagclouds-term'><a href="/tag/blackboard-collaborate" class="tagclouds level4" title="">blackboard collaborate</a></span>
-<span class='tagclouds-term'><a href="/answer/blackboard-interface-now-mobile-friendly-and-standardized" class="tagclouds level1" title="">blackboard learn</a></span>
-<span class='tagclouds-term'><a href="/tag/bluestem" class="tagclouds level3" title="">bluestem</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/browsers" class="tagclouds level1" title="">browser</a></span>
-<span class='tagclouds-term'><a href="/answer/box-supported-browsers" class="tagclouds level1" title="">browser IE Internet Explorer</a></span>
-<span class='tagclouds-term'><a href="/tag/calendar" class="tagclouds level3" title="">calendar</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-provision-my-sccm-client-workstation-authentication-certificates" class="tagclouds level1" title="">certificates</a></span>
-<span class='tagclouds-term'><a href="/tag/classroom" class="tagclouds level4" title="">classroom</a></span>
-<span class='tagclouds-term'><a href="/answer/are-files-stored-classroom-computers-backed" class="tagclouds level1" title="">classrooms</a></span>
-<span class='tagclouds-term'><a href="/tag/clicker" class="tagclouds level2" title="">clicker</a></span>
-<span class='tagclouds-term'><a href="/tag/collaboration" class="tagclouds level1" title="">collaboration</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/adding-weighted-columns" class="tagclouds level1" title="">column</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/viewinghiding-columns" class="tagclouds level1" title="">columns</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-print-discussion-board-content-blackboard" class="tagclouds level1" title="">communication</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/browsers" class="tagclouds level1" title="">compatibility</a></span>
-<span class='tagclouds-term'><a href="/tag/computer-lab" class="tagclouds level5" title="">computer lab</a></span>
-<span class='tagclouds-term'><a href="/answer/what-has-changed-starting-ay15-16-fact-program" class="tagclouds level1" title="">computer replacement program</a></span>
-<span class='tagclouds-term'><a href="/answer/are-files-stored-classroom-computers-backed" class="tagclouds level1" title="">computers</a></span>
-<span class='tagclouds-term'><a href="/tag/content" class="tagclouds level2" title="">content</a></span>
-<span class='tagclouds-term'><a href="/tag/content-editor" class="tagclouds level2" title="">content editor</a></span>
-<span class='tagclouds-term'><a href="/tag/course-availability" class="tagclouds level1" title="">course availability</a></span>
-<span class='tagclouds-term'><a href="/tag/course-content" class="tagclouds level1" title="">course content</a></span>
-<span class='tagclouds-term'><a href="/tag/crashplan" class="tagclouds level2" title="">Crashplan</a></span>
-<span class='tagclouds-term'><a href="/tag/database" class="tagclouds level3" title="">database</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-find-mac-address-my-specific-device" class="tagclouds level1" title="">device</a></span>
-<span class='tagclouds-term'><a href="/answer/what-size-content-should-i-create-template" class="tagclouds level1" title="">digital signage</a></span>
-<span class='tagclouds-term'><a href="/tag/directory" class="tagclouds level3" title="">directory</a></span>
-<span class='tagclouds-term'><a href="/tag/discussion-board" class="tagclouds level2" title="">discussion board</a></span>
-<span class='tagclouds-term'><a href="/tag/download" class="tagclouds level1" title="">download</a></span>
-<span class='tagclouds-term'><a href="/answer/how-can-i-print-wepa-my-own-device" class="tagclouds level1" title="">driver</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-configure-drupal-use-shibboleth" class="tagclouds level1" title="">drupal</a></span>
-<span class='tagclouds-term'><a href="/tag/echo" class="tagclouds level2" title="">echo</a></span>
-<span class='tagclouds-term'><a href="/tag/echo360" class="tagclouds level3" title="">echo360</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-get-my-network-access-unsuspended" class="tagclouds level1" title="">eduroam</a></span>
-<span class='tagclouds-term'><a href="/tag/email" class="tagclouds level6" title="">email</a></span>
-<span class='tagclouds-term'><a href="/tag/emergency" class="tagclouds level2" title="">emergency</a></span>
-<span class='tagclouds-term'><a href="/tag/encryption" class="tagclouds level3" title="">encryption</a></span>
-<span class='tagclouds-term'><a href="/tag/equipment" class="tagclouds level3" title="">equipment</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/browser-errors" class="tagclouds level1" title="">error</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/troubleshooting" class="tagclouds level1" title="">errors</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-sign-esri-online-classes" class="tagclouds level1" title="">esri</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-convert-eudora-thunderbird" class="tagclouds level1" title="">eudora</a></span>
-<span class='tagclouds-term'><a href="/tag/exchange" class="tagclouds level5" title="">exchange</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-setup-exchange-online-my-ios-mobile-device" class="tagclouds level1" title="">Exchange Office365 iOS</a></span>
-<span class='tagclouds-term'><a href="/answer/why-am-i-seeing-message-restart-outlook" class="tagclouds level1" title="">exchange outlook</a></span>
-<span class='tagclouds-term'><a href="/tag/export-grades" class="tagclouds level1" title="">export grades</a></span>
-<span class='tagclouds-term'><a href="/tag/fact" class="tagclouds level4" title="">fact</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/proper-file-name-conventions" class="tagclouds level1" title="">file name</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-connect-webhost-using-sftp" class="tagclouds level1" title="">ftp</a></span>
-<span class='tagclouds-term'><a href="/tag/gmail" class="tagclouds level4" title="">gmail</a></span>
-<span class='tagclouds-term'><a href="/tag/googleapps" class="tagclouds level5" title="">googleapps</a></span>
-<span class='tagclouds-term'><a href="/tag/google-apps" class="tagclouds level1" title="">Google Apps</a></span>
-<span class='tagclouds-term'><a href="/service/googleapps/configuration" class="tagclouds level1" title="">googleapps gsuite</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-create-calendar-google-group" class="tagclouds level1" title="">google groups</a></span>
-<span class='tagclouds-term'><a href="/tag/grade-center" class="tagclouds level4" title="">grade center</a></span>
-<span class='tagclouds-term'><a href="/tag/groups" class="tagclouds level1" title="">groups</a></span>
-<span class='tagclouds-term'><a href="/service/identity-and-access-management/accounts-for-affiliates" class="tagclouds level1" title="">Guest Accounts</a></span>
-<span class='tagclouds-term'><a href="/tag/i-card" class="tagclouds level1" title="">i-card</a></span>
-<span class='tagclouds-term'><a href="/tag/iam" class="tagclouds level4" title="">IAM</a></span>
-<span class='tagclouds-term'><a href="/tag/im" class="tagclouds level1" title="">IM</a></span>
-<span class='tagclouds-term'><a href="/tag/ink" class="tagclouds level1" title="">Ink</a></span>
-<span class='tagclouds-term'><a href="/tag/instant-messaging" class="tagclouds level3" title="">instant messaging</a></span>
-<span class='tagclouds-term'><a href="/tag/instant-messenger" class="tagclouds level2" title="">instant messenger</a></span>
-<span class='tagclouds-term'><a href="/tag/instructor" class="tagclouds level1" title="">instructor</a></span>
-<span class='tagclouds-term'><a href="/tag/ios" class="tagclouds level1" title="">ios</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-configure-and-use-openvpn-iphone-and-ipad" class="tagclouds level1" title="">ipad</a></span>
-<span class='tagclouds-term'><a href="/tag/iphone" class="tagclouds level3" title="">iphone</a></span>
-<span class='tagclouds-term'><a href="/tag/ldap" class="tagclouds level2" title="">ldap</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-request-software-be-installed-classroom-or-computer-lab" class="tagclouds level1" title="">learning environments</a></span>
-<span class='tagclouds-term'><a href="/tag/lecture-capture" class="tagclouds level2" title="">lecture capture</a></span>
-<span class='tagclouds-term'><a href="/tag/linux" class="tagclouds level3" title="">linux</a></span>
-<span class='tagclouds-term'><a href="/tag/listserv" class="tagclouds level4" title="">listserv</a></span>
-<span class='tagclouds-term'><a href="/tag/mac" class="tagclouds level5" title="">mac</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-find-mac-address-my-specific-device" class="tagclouds level1" title="">MAC address</a></span>
-<span class='tagclouds-term'><a href="/tag/mailbox" class="tagclouds level2" title="">mailbox</a></span>
-<span class='tagclouds-term'><a href="/tag/massmail" class="tagclouds level2" title="">massmail</a></span>
-<span class='tagclouds-term'><a href="/tag/migrate" class="tagclouds level1" title="">migrate</a></span>
-<span class='tagclouds-term'><a href="/tag/mobile" class="tagclouds level1" title="">mobile</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/adding-my-courses-module" class="tagclouds level1" title="">modules</a></span>
-<span class='tagclouds-term'><a href="/tag/multimedia" class="tagclouds level3" title="">multimedia</a></span>
-<span class='tagclouds-term'><a href="/tag/mydevices" class="tagclouds level1" title="">mydevices</a></span>
-<span class='tagclouds-term'><a href="/tag/netid" class="tagclouds level4" title="">NetID</a></span>
-<span class='tagclouds-term'><a href="/tag/network" class="tagclouds level3" title="">network</a></span>
-<span class='tagclouds-term'><a href="/tag/non-accc" class="tagclouds level3" title="">non-accc</a></span>
-<span class='tagclouds-term'><a href="/service/email-and-calendaring/addressbook" class="tagclouds level1" title="">o365</a></span>
-<span class='tagclouds-term'><a href="/tag/office365" class="tagclouds level4" title="">Office365</a></span>
-<span class='tagclouds-term'><a href="/tag/office365-android-ios" class="tagclouds level1" title="">Office365 Android iOS</a></span>
-<span class='tagclouds-term'><a href="/tag/office365-exchange" class="tagclouds level2" title="">Office365 Exchange</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-setup-exchange-online-use-outlook-mac" class="tagclouds level1" title="">Office365 Exchange Outlook</a></span>
-<span class='tagclouds-term'><a href="/tag/office365-onedrive" class="tagclouds level2" title="">Office365 Onedrive</a></span>
-<span class='tagclouds-term'><a href="/answer/what-is-microsoft-teams-and-how-do-i-use-it" class="tagclouds level1" title="">Office365 Teams</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/working-offline" class="tagclouds level1" title="">offline</a></span>
-<span class='tagclouds-term'><a href="/answer/my-fact-machine-is-not-working-how-do-i-request-support" class="tagclouds level1" title="">on-site</a></span>
-<span class='tagclouds-term'><a href="/tag/originality-report" class="tagclouds level1" title="">originality report</a></span>
-<span class='tagclouds-term'><a href="/tag/outlook" class="tagclouds level5" title="">outlook</a></span>
-<span class='tagclouds-term'><a href="/service/phone/pagers" class="tagclouds level1" title="">pagers</a></span>
-<span class='tagclouds-term'><a href="/tag/password" class="tagclouds level5" title="">password</a></span>
-<span class='tagclouds-term'><a href="/tag/passwords" class="tagclouds level2" title="">passwords</a></span>
-<span class='tagclouds-term'><a href="/tag/pgp" class="tagclouds level3" title="">pgp</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-use-mobile-printing" class="tagclouds level1" title="">pharos</a></span>
-<span class='tagclouds-term'><a href="/tag/phone" class="tagclouds level4" title="">phone</a></span>
-<span class='tagclouds-term'><a href="/tag/phonebook" class="tagclouds level2" title="">phonebook</a></span>
-<span class='tagclouds-term'><a href="/tag/pine" class="tagclouds level1" title="">pine</a></span>
-<span class='tagclouds-term'><a href="/tag/pinnacle" class="tagclouds level2" title="">pinnacle</a></span>
-<span class='tagclouds-term'><a href="/tag/printing" class="tagclouds level4" title="">printing</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/troubleshooting" class="tagclouds level1" title="">problems</a></span>
-<span class='tagclouds-term'><a href="/tag/qualtrics" class="tagclouds level1" title="">qualtrics</a></span>
-<span class='tagclouds-term'><a href="/tag/removing-users" class="tagclouds level1" title="">removing users</a></span>
-<span class='tagclouds-term'><a href="/tag/res-net" class="tagclouds level4" title="">res-net</a></span>
-<span class='tagclouds-term'><a href="/tag/resphone" class="tagclouds level2" title="">resphone</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/respondus" class="tagclouds level1" title="">respondus</a></span>
-<span class='tagclouds-term'><a href="/tag/rt" class="tagclouds level2" title="">rt</a></span>
-<span class='tagclouds-term'><a href="/tag/safeassign" class="tagclouds level3" title="">safeassign</a></span>
-<span class='tagclouds-term'><a href="/answer/booting-safe-mode" class="tagclouds level1" title="">safemode</a></span>
-<span class='tagclouds-term'><a href="/tag/sccm" class="tagclouds level1" title="">sccm</a></span>
-<span class='tagclouds-term'><a href="/tag/security" class="tagclouds level4" title="">security</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-shareaccept-calendar-o365" class="tagclouds level1" title="">share calendar</a></span>
-<span class='tagclouds-term'><a href="/tag/sharepoint" class="tagclouds level2" title="1) How do I request a SharePoint site?
-
-To request a SharePoint site, please fill out Request SharePoint Service. To access the form you need to enter a UIC netid and common password.
-
-2) Do you need to authenticate in order to use SharePoint?
-
-Yes, you need active UIC netid and common password.
-
-3) I have entered my username and password correctly, but I&amp;#39;m still unable to access SharePoint site?
-
-Adding &amp;ldquo;ad\netid&amp;rdquo; in the user field is usually the solution with your UIC common password. If you cannot login to SharePoint in IE or Firefox, it could be because the specific computer is not on the UIC domain.
-
-4) Do I need VPN to access SharePoint?
-
-No, it is not required.
-
-5) What is SharePoint SFTP limit?
-
-SharePoint SFTP limit is 100MB.
-
-6) What is a site collection?
-
-&amp;nbsp;A site collection contains&amp;nbsp;a top-level website and&amp;nbsp;can contain one or more sub-sites&amp;nbsp;web sites that have the same owner and share administration settings.
-
-7) Once a site is created, how to change who gets the email for site access request?
-
-Each site, that has its own permissions, by default has the person that created it is the contact for access request.
-
-This can be changed from the site following these steps:
-
-Site Actions &amp;ndash; Site Settings
-
-Site Permissions &amp;ndash; Manage Access Requests
-
-Then just change it to what you want or disable it.
-">SharePoint</a></span>
-<span class='tagclouds-term'><a href="/tag/shibboleth" class="tagclouds level3" title="">shibboleth</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/blackboard-is-running-slowly" class="tagclouds level1" title="">slow</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-deploy-score-center-softchalk-lesson-blackboard" class="tagclouds level1" title="">softchalk</a></span>
-<span class='tagclouds-term'><a href="/tag/software" class="tagclouds level4" title="">software</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-report-spam-or-account-abuse-googleappsuic-gmail" class="tagclouds level1" title="">spam</a></span>
-<span class='tagclouds-term'><a href="/tag/spss" class="tagclouds level2" title="">spss</a></span>
-<span class='tagclouds-term'><a href="/tag/ssh" class="tagclouds level3" title="">ssh</a></span>
-<span class='tagclouds-term'><a href="/tag/stata" class="tagclouds level3" title="">stata</a></span>
-<span class='tagclouds-term'><a href="/tag/statistical-software" class="tagclouds level3" title="">statistical software</a></span>
-<span class='tagclouds-term'><a href="/tag/storage" class="tagclouds level1" title="">storage</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/student-access" class="tagclouds level1" title="">student access</a></span>
-<span class='tagclouds-term'><a href="/tag/student-preview" class="tagclouds level1" title="">student preview</a></span>
-<span class='tagclouds-term'><a href="/answer/what-support-is-provided-fact-machines" class="tagclouds level1" title="">support</a></span>
-<span class='tagclouds-term'><a href="/tag/survey" class="tagclouds level2" title="">survey</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-manage-users-my-webhost-site" class="tagclouds level1" title="">suspension</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-uninstall-symantec-endpoint-protection-upgrade-windows-10" class="tagclouds level1" title="">Symantec Windows10</a></span>
-<span class='tagclouds-term'><a href="/tag/systat" class="tagclouds level1" title="">systat</a></span>
-<span class='tagclouds-term'><a href="/tag/telecom" class="tagclouds level4" title="">telecom</a></span>
-<span class='tagclouds-term'><a href="/tag/template" class="tagclouds level1" title="">template</a></span>
-<span class='tagclouds-term'><a href="/tag/tests" class="tagclouds level2" title="">tests</a></span>
-<span class='tagclouds-term'><a href="/answer/blackboard-interface-now-mobile-friendly-and-standardized" class="tagclouds level1" title="">theme</a></span>
-<span class='tagclouds-term'><a href="/tag/thunderbird" class="tagclouds level2" title="">thunderbird</a></span>
-<span class='tagclouds-term'><a href="/tag/tools" class="tagclouds level5" title="">tools</a></span>
-<span class='tagclouds-term'><a href="/service/training/lynda" class="tagclouds level1" title="">training</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/student-dropped-out-test" class="tagclouds level1" title="">troubleshooting</a></span>
-<span class='tagclouds-term'><a href="/tag/troublshooting" class="tagclouds level1" title="">troublshooting</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-connect-uic-wifi-apple-tv-3rd4th-gen" class="tagclouds level1" title="">tvOS</a></span>
-<span class='tagclouds-term'><a href="/tag/u-print" class="tagclouds level3" title="">u-print</a></span>
-<span class='tagclouds-term'><a href="/tag/uicalendar" class="tagclouds level4" title="">uicalendar</a></span>
-<span class='tagclouds-term'><a href="/tag/uic-alert" class="tagclouds level3" title="">UIC Alert</a></span>
-<span class='tagclouds-term'><a href="/tag/unix" class="tagclouds level3" title="">unix</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-use-mobile-printing" class="tagclouds level1" title="">UPrint</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-manage-users-my-webhost-site" class="tagclouds level1" title="">user</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-manage-users-my-webhost-site" class="tagclouds level1" title="">users</a></span>
-<span class='tagclouds-term'><a href="/tag/video-streaming" class="tagclouds level3" title="">video streaming</a></span>
-<span class='tagclouds-term'><a href="/tag/virtual-server" class="tagclouds level3" title="">virtual server</a></span>
-<span class='tagclouds-term'><a href="/answer/fixing-viscosity-error-about-unsafe-scripts" class="tagclouds level1" title="">Viscosity</a></span>
-<span class='tagclouds-term'><a href="/tag/voicemail" class="tagclouds level3" title="">voicemail</a></span>
-<span class='tagclouds-term'><a href="/tag/voip" class="tagclouds level4" title="">voip</a></span>
-<span class='tagclouds-term'><a href="/tag/vpn" class="tagclouds level3" title="">vpn</a></span>
-<span class='tagclouds-term'><a href="/tag/webdisk" class="tagclouds level3" title="">webdisk</a></span>
-<span class='tagclouds-term'><a href="/answer/where-do-i-find-webdrive-software-webdisks" class="tagclouds level1" title="">webdrive</a></span>
-<span class='tagclouds-term'><a href="/tag/webex-meetings" class="tagclouds level1" title="">WebEx Meetings</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-manage-users-my-webhost-site" class="tagclouds level1" title="">webhost</a></span>
-<span class='tagclouds-term'><a href="/tag/webmail" class="tagclouds level3" title="">webmail</a></span>
-<span class='tagclouds-term'><a href="/tag/web-publishing" class="tagclouds level5" title="">web publishing</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-restore-files-webhostuicedu" class="tagclouds level1" title="">webpublishing</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/adding-weighted-columns" class="tagclouds level1" title="">weighted</a></span>
-<span class='tagclouds-term'><a href="/tag/wepa" class="tagclouds level3" title="">wepa</a></span>
-<span class='tagclouds-term'><a href="/tag/wifi" class="tagclouds level4" title="">wifi</a></span>
-<span class='tagclouds-term'><a href="/tag/wiki" class="tagclouds level1" title="">wiki</a></span>
-<span class='tagclouds-term'><a href="/blackboard/voice-tools" class="tagclouds level1" title="">wimba voice</a></span>
-<span class='tagclouds-term'><a href="/tag/windows" class="tagclouds level4" title="">windows</a></span>
-<span class='tagclouds-term'><a href="/tag/wireless" class="tagclouds level4" title="">wireless</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-install-bluestem-authentication-plugin-wordpress" class="tagclouds level1" title="">wordpress</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-sign-accc-workshops" class="tagclouds level1" title="">workshops</a></span>
-<div class="more-link"><a href="/tagclouds/chunk/1" title="more tags">More</a></div>  </div>
+        <div class="header-menu-bar">
+        <nav class="navigation-eyebrow" role="navigation" aria-label="Eyebrow navigation">
+    <div class="navigation-eyebrow-inner">
+        <ul class="eyebrow-list">
+                            <li class="eyebrow-list-item"><a class="eyebrow-list-anchor" href="http://maps.uic.edu/">Map</a></li>
+                            <li class="eyebrow-list-item"><a class="eyebrow-list-anchor" href="http://www.uic.edu/apps/departments-az/search">Directory</a></li>
+                            <li class="eyebrow-list-item"><a class="eyebrow-list-anchor" href="/about/contact-us">Contact Us</a></li>
+                            <li class="eyebrow-list-item"><a class="eyebrow-list-anchor" href="http://library.uic.edu/">Library</a></li>
+                            <li class="eyebrow-list-item"><a class="eyebrow-list-anchor" href="http://www.uicflames.com/">Athletics</a></li>
+                            <li class="eyebrow-list-item"><a class="eyebrow-list-anchor" href="http://oge.uic.edu/">International</a></li>
+                            <li class="eyebrow-list-item"><a class="eyebrow-list-anchor" href="https://today.uic.edu/resources/current-students">Current Students</a></li>
+                            <li class="eyebrow-list-item"><a class="eyebrow-list-anchor" href="https://today.uic.edu/resources/faculty-staff">Faculty and Staff</a></li>
+                            <li class="eyebrow-list-item"><a class="eyebrow-list-anchor" href="http://hospital.uillinois.edu/">UI Health</a></li>
+                            <li class="eyebrow-list-item"><a class="eyebrow-list-anchor" href="https://give.uic.edu/">+ Give</a></li>
+                            <li class="eyebrow-list-item search-button-item">
+                    <button class="search-button" type="button">
+                        <svg class="search-glass" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" aria-label="Expand search box"><title>Expand search box</title><path d="M19.7 18.3l-5.9-5.9c1-1.3 1.6-2.9 1.6-4.7C15.4 3.5 12 0 7.7 0S0 3.4 0 7.7c0 4.2 3.4 7.7 7.7 7.7 1.8 0 3.4-.6 4.7-1.6l5.9 5.9c.2.2.4.3.7.3s.5-.1.7-.3c.4-.4.4-1 0-1.4zM2 7.7C2 4.6 4.6 2 7.7 2s5.7 2.6 5.7 5.7-2.5 5.7-5.7 5.7C4.6 13.4 2 10.8 2 7.7z"/></svg>
+                    </button>
+                </li>
+        </ul>
+        <div class="search-input-container">
+            <form method="get" action="/search" role="search">
+                <input type="text" name="q" class="search-input" placeholder="Search..." disabled tabindex="-1" aria-label="Search">
+                <input type="submit" class="submit-button" name="search" value="Submit">
+            </form>
+        </div>
+    </div>
+</nav>
+        <nav class="navigation-primary" role="navigation" aria-label="Primary navigation">
+    <div class="navigation-primary-inner">
+                <div class="circle-logo-container">
+            <a href="/">
+                <svg class="circle-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><path d="M36.5 17.3L33.1 19c-.3-1.3-1-2-2.3-2-1.7 0-2.5 1.4-2.5 3.6s.8 3.6 2.5 3.6c1.2 0 1.8-.6 2.2-1.6l3.5 1.3c-.9 2.1-2.8 3.5-5.8 3.5-4.1 0-6.5-2.8-6.5-6.8s2.5-6.8 6.6-6.8c3.2.1 5 1.8 5.7 3.5m-14.1 9.8h-3.9v-13h3.9v13zm-6.3-5.3c0 1.8-.2 2.7-.7 3.6-.9 1.4-3.2 2-5.2 2s-4.3-.6-5.2-2c-.5-.9-.7-1.8-.7-3.6v-7.7h3.9v7.8c0 .9.1 1.5.4 1.8.3.4.8.5 1.5.5s1.2-.2 1.5-.5c.3-.4.4-1 .4-1.8v-7.8h3.9v7.7zM40 20C40 9 31 0 20 0S0 9 0 20s9 20 20 20 20-9 20-20"/></svg>
+<span>University of Illinois at Chicago</span>            </a>
+        </div>
+                            <ul class="primary-nav-list">
+    <li><button class="menu-toggle" type="button" role="button" tabindex="-1">
+        <span class="menu-toggle-icon"></span>
+        <span>Expand menu</span>
+    </button></li>
+    <li class="menu-label-item"><span class="menu-label">Menu</span></li>
+            <li class="primary-list-item ">
+            <a class="primary-list-anchor" href="/admissions-aid">Admissions &#038; Aid</a>
+                            <ul class="primary-second-tier-list">
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/admissions-aid/visit-campus">Visit Campus</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/admissions-aid/paying-for-college">Paying for College</a></li>
+                                    </ul>
+                    </li>
+            <li class="primary-list-item primary-list-active-item">
+            <a class="primary-list-anchor" href="/academics">Academics</a>
+                            <ul class="primary-second-tier-list">
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/academics/programs-of-study">Programs of Study</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/academics/colleges-schools">Colleges &#038; Schools</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/academics/student-support">Student Support</a></li>
+                                    </ul>
+                    </li>
+            <li class="primary-list-item ">
+            <a class="primary-list-anchor" href="/research">Research</a>
+                            <ul class="primary-second-tier-list">
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/research/research-impact">Research Impact</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/research/research-strengths">Research Strengths</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/research/resources-facilities">Resources &#038; Facilities</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/research/student-research">Student Research</a></li>
+                                    </ul>
+                    </li>
+            <li class="primary-list-item ">
+            <a class="primary-list-anchor" href="/life-at-uic">Life at UIC</a>
+                            <ul class="primary-second-tier-list">
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/life-at-uic/living-on-around-campus">Living On &#038; Around Campus</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/life-at-uic/campus-resources">Campus Resources</a></li>
+                                    </ul>
+                    </li>
+            <li class="primary-list-item ">
+            <a class="primary-list-anchor" href="/chicago">Chicago</a>
+                            <ul class="primary-second-tier-list">
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/chicago/exploring-chicago">Exploring Chicago</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/chicago/city-transportation">City Transportation</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/chicago/essential-chicago">Essential Chicago</a></li>
+                                    </ul>
+                    </li>
+            <li class="primary-list-item ">
+            <a class="primary-list-anchor" href="/alumni">Alumni</a>
+                    </li>
+            <li class="primary-list-item ">
+            <a class="primary-list-anchor" href="/about">About</a>
+                            <ul class="primary-second-tier-list">
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/about/visit-directions">Visit &#038; Directions</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/about/history">History</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/about/leadership">Leadership</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/about/public-media-resources">Public &#038; Media Resources</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/about/job-opportunities">Job Opportunities</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/about/contact-us">Contact Us</a></li>
+                                            <li class="primary-second-tier-list-item"><a class="primary-second-tier-list-anchor" href="/about/acerca">Acerca de la UIC (en español)</a></li>
+                                    </ul>
+                    </li>
+    </ul>
+            </div>
+</nav>    </div>
+    <div class="header-content">
+        <div class="page-title-container hero-image-with-title">
+    <div class="page-title-container-inner">
+        <div class="header-brand-mark">
+            <a href="/" class="large-brand-mark-link"><svg class="large-brand-mark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234 320.6"><path d="M229.1 289.7l-4.6 2.2c-.4-1.7-1.4-2.7-3.1-2.7-2.3 0-3.4 1.9-3.4 5s1.1 4.9 3.4 4.9c1.6 0 2.5-.8 3-2.2l4.8 1.7c-1.3 2.8-3.8 4.8-7.8 4.8-5.6 0-8.8-3.8-8.8-9.2 0-5.5 3.4-9.2 8.9-9.2 4.2 0 6.7 2.4 7.6 4.7m-19.2 13.4h-5.3v-17.8h5.3v17.8zm-8.5-7.3c0 2.5-.3 3.7-1 4.9-1.2 2-4.3 2.7-7.1 2.7-2.7 0-5.9-.8-7.1-2.7-.7-1.2-1-2.4-1-4.9v-10.5h5.3v10.6c0 1.2.2 2 .6 2.5.4.5 1.1.7 2.1.7s1.7-.2 2.1-.7c.4-.5.6-1.3.6-2.5v-10.6h5.3v10.5zm32.5-2.5c0-15-12.2-27.2-27.2-27.2s-27.2 12.2-27.2 27.2 12.2 27.2 27.2 27.2c15 .1 27.2-12.1 27.2-27.2M150 137.8c-4.1 0-6.6-1.6-6.6-4.6 0-2.9 2.5-4.5 6.6-4.5 4 0 6.5 1.5 6.5 4.5 0 3.1-2.4 4.6-6.5 4.6m0 7.2c7.3 0 12.2-4.4 12.2-11.7 0-7.4-4.8-11.7-12.2-11.7-7.4 0-12.2 4.6-12.2 11.7S142.6 145 150 145m0 27.7c7.8 0 12.2-4.4 12.2-10.4 0-2.8-.9-4.7-2-6h1.6v-6.1H148v11.4h5.4v-5.2c2 .2 3.5 1.6 3.5 4.3 0 3.5-2.7 4.9-6.9 4.9-4.1 0-6.6-1.6-6.6-4.7 0-2.3 1.3-3.7 3.7-4.3l-2.9-5.9c-3.1 1.2-6.3 4.5-6.3 10.1-.1 7.3 4.9 11.9 12.1 11.9m2.2 12.5v3.9l-4.8-1.4c-.9-.2-1.8-.4-2.3-.6l2.3-.6 4.8-1.3zm5.6 5.5v-7.1l3.9-1.2V175l-23.5 7.8v8.4l23.5 7.9v-7.3l-3.9-1.1zm-4.3 16.6c1.8.7 2.9 1.9 2.9 3.9 0 3-2.4 4.5-6.5 4.5s-6.6-1.5-6.6-4.5c0-2.2 1.3-3.5 3.6-4.1L144 201c-3.1 1.2-6.3 4.5-6.3 10.1 0 7.3 4.9 11.8 12.2 11.8 7.2 0 12.2-4.3 12.2-11.7 0-5.4-2.6-8.7-6.4-10.4l-2.2 6.5zm-15.2 27.6h23.5v-7.1h-23.5v7.1zm14.5 13.7h9v-7.1h-23.5v7.1h8.4v6.8h-8.4v7.1h23.5v-7.1h-9v-6.8zm.7 24.1c1.8.7 2.9 1.9 2.9 3.9 0 3-2.4 4.5-6.5 4.5s-6.6-1.5-6.6-4.5c0-2.2 1.3-3.5 3.6-4.1l-2.9-6.1c-3.1 1.2-6.3 4.5-6.3 10.1 0 7.3 4.9 11.8 12.2 11.8 7.2 0 12.2-4.3 12.2-11.7 0-5.4-2.6-8.7-6.4-10.4l-2.2 6.5zm-44.1-11.3v-5.9h17.8v-7.1h-17.8v-5.9h-5.7v18.9h5.7zm8.2 11.7v3.9l-4.8-1.4c-.9-.2-1.8-.4-2.3-.6l2.3-.6 4.8-1.3zm5.7 5.5v-7.1l3.9-1.2v-7.4l-23.5 7.8v8.4l23.5 7.9v-7.3l-3.9-1.1zM72.7 124.8c-1.5 1.2-4 4.7-4 10.3 0 5.8 3 9.7 7.4 9.7 4.7 0 6.7-3.6 7.5-8l.6-3.1c.3-1.8.5-2.9 1.7-2.9s1.9 1.3 1.9 3.6c0 2.8-1.3 5.4-3.5 7.2l3.8 4.3c1.9-1.3 5-5.2 5-11.4 0-6-2.4-10.4-7.8-10.4-4.4 0-6.2 2.9-7.1 7.5l-.7 3.5c-.3 1.9-.8 2.8-1.9 2.8-1.1 0-1.7-1.2-1.7-2.9 0-2.3 1-4.6 2.6-6.3l-3.8-3.9zm-3.6 32.9h23.5v-7.1H69.1v7.1zm11.8 21.9c-4.1 0-6.6-1.6-6.6-4.6 0-2.9 2.5-4.5 6.6-4.5 4 0 6.5 1.5 6.5 4.5-.1 3.1-2.5 4.6-6.5 4.6m0 7.2c7.3 0 12.2-4.4 12.2-11.7 0-7.4-4.8-11.7-12.2-11.7-7.4 0-12.2 4.6-12.2 11.7s4.8 11.7 12.2 11.7m-11.8 19.8v6.8h23.5v-7.1H87c-3.8 0-6.7.2-6.7.2s2.5-1.4 4.9-3l7.5-4.6v-6.8H69.1v7.1h5.4c3.5 0 6.4-.1 6.4-.1s-1.7 1-5 3.2l-6.8 4.3zm0 20.9h23.5v-7.1H69.1v7.1zm0 21.6h23.5v-16.4h-5.7v9.3H69.1v7.1zm0 21.7h23.5v-16.4h-5.7v9.3H69.1v7.1zm0 14.1h23.5v-7.1H69.1v7.1zM40.2 0h-5.6v17.8h23.5v-7.1h-8.9V1h-5.7v9.8h-3.3V0zm6.1 39.4c-4.1 0-6.6-1.6-6.6-4.6 0-2.9 2.5-4.5 6.6-4.5 4 0 6.5 1.5 6.5 4.5 0 3.1-2.4 4.6-6.5 4.6m0 7.2c7.3 0 12.2-4.4 12.2-11.7 0-7.4-4.8-11.7-12.2-11.7-7.4 0-12.2 4.6-12.2 11.7S39 46.6 46.3 46.6m3 18.8l-14.8-8.2v7.5l8.1 4-8.1 3.9v7.6l14.8-7.7H58v-7.1h-8.7zM40.2 102v-5.9H58V89H40.2v-5.9h-5.7V102h5.7zm-5.6 11.9h23.5v-7.1H34.6v7.1zm3.6 5.8c-1.5 1.2-4 4.7-4 10.3 0 5.8 3 9.7 7.4 9.7 4.7 0 6.7-3.6 7.5-8l.6-3.1c.3-1.8.5-2.9 1.7-2.9s1.9 1.3 1.9 3.6c0 2.8-1.3 5.4-3.5 7.2l3.8 4.3c1.9-1.3 5-5.2 5-11.4 0-6-2.4-10.4-7.8-10.4-4.4 0-6.2 2.9-7.1 7.5L43 130c-.3 1.9-.8 2.8-1.9 2.8s-1.7-1.2-1.7-2.9c0-2.3 1-4.6 2.6-6.3l-3.8-3.9zm1.7 38.6v-3.5c0-.9.1-1.6.4-2 .4-.6 1-.9 1.9-.9.9 0 1.5.3 1.9.9.3.4.4 1.1.4 2v3.5h-4.6zm18.2-6.8V144l-9 5.3c-.1-.3-.3-.7-.5-1-1.4-2.2-3.2-3.3-6.3-3.3-3.5 0-5.9 1.8-6.9 4.5-.5 1.3-.8 3-.8 5.6v10.2h23.5v-7.1h-8.2V156l8.2-4.5zm-17.9 20.6h-5.6v18h23.5v-18.7h-5.7v11.7h-3.5V173h-5.6v10.1h-3.1v-11zm6.7 33.3c1.7.4 3.5.8 3.5.8s-1.8.4-3.5.8l-12.3 3.3v7.4l23.5-7v-9l-23.5-7.1v7.5l12.3 3.3zM34.6 229h23.5v-7H34.6v7zm0 21.6v6.8h23.5v-7.1h-5.7c-3.8 0-6.7.2-6.7.2s2.5-1.4 4.9-3l7.5-4.6v-6.8H34.6v7.1H40c3.5 0 6.4-.1 6.4-.1s-1.7 1-5 3.2l-6.8 4.3zm23.9 23.9c0-3.6-1-7.8-3.6-9.3-1.6-.9-3.2-1.3-6.5-1.3H34.6v7.1h14c1.6 0 2.6.2 3.3.8.7.6 1 1.5 1 2.8 0 1.3-.3 2.2-1 2.8-.7.6-1.7.8-3.3.8h-14v7.1h13.9c3.3 0 4.9-.3 6.5-1.3 2.5-1.7 3.5-5.9 3.5-9.5M0 269.7v18.9h5.7v-5.9h17.8v-7.1H5.7v-5.9H0zm0-25.8v7.1h8.4v6.8H0v7h23.5v-7h-9V251h9v-7.1H0zm17.8-25.7v11.7h-3.5v-10.1H8.8v10.1H5.6v-11.1H0v18h23.5v-18.7h-5.7z"/></svg><span>The University of Illinois at Chicago</span></a>        </div>
+        <h1 class="landing-page-title">Academics</h1>
+    </div>
 </div>
-  </div>
-      
-    </div></div> <!-- /.section, /#content -->
+    <div class="hero-image-container">
+        <img class="hero-image" src="/_assets/9f3e549118946c23afe395f02fb359da.jpg" alt="Yeow Siow teaching a class">
+    </div>
+    </div>
+</header><div class="ms-grid main" role="main">
+    <div class="ms-row">
+        <div class="m-col-1-4">
+            <nav class="navigation-sidebar" role="navigation" aria-label="Secondary navigation">
+    <h2 class="navigation-sidebar-title js-sidebar-toggle">
+        <span class="chevron">
+            <svg class="anchor-point" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 8"><path d="M6 8L.4 2.2C-.1 1.7-.1.9.4.4s1.3-.5 1.8 0l3.9 4 3.9-4c.5-.5 1.3-.5 1.8 0s.5 1.3 0 1.8L6 8z"/></svg>        </span>
+        <a href="/academics">Academics</a>
+    </h2>
+    <div class="navigation-sidebar-list-container">
+        <ul class="navigation-sidebar-list">
+                            <li class="navigation-sidebar-item  ">
+                    <a class="navigation-sidebar-anchor" href="/academics/programs-of-study">
+                                                Programs of Study
+                    </a>
+                                    </li>
+                            <li class="navigation-sidebar-item  ">
+                    <a class="navigation-sidebar-anchor" href="/academics/colleges-schools">
+                                                Colleges &#038; Schools
+                    </a>
+                                    </li>
+                            <li class="navigation-sidebar-item  ">
+                    <a class="navigation-sidebar-anchor" href="/academics/student-support">
+                                                Student Support
+                    </a>
+                                    </li>
+                    </ul>
+    </div>
+</nav>
+        </div>
+        <div class="m-col-3-4">
+            <div class="component">
+                <div class="landing-page-intro">
+    <div class="ms-row">
+        <div class="col-1-1">
+            <div class="interior-section-header">
+                <p>At UIC, there&#8217;s a lot to learn</p>
 
-          <div id="sidebar-second" class="column sidebar"><div class="section">
-          <div class="region region-sidebar-second">
-    <div id="block-views-service-catalog-block-2" class="block block-views">
+            </div>
+        </div>
+    </div>
+    <div class="ms-row">
+        <div class="col-1-1">
+            <div class="intro-text">
+                <p>University of Illinois at Chicago features 15 academic colleges, 83 bachelor’s, 93 master’s and 64 doctoral degree programs. That means plenty of opportunities to explore your interests.</p>
 
-    <h2><a href="/service/all" class="block-title-link">Service Catalog</a></h2>
-  
-  <div class="content">
-    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-8cd9fd6c8a5d87d2bf28cf767537103e">
-        
-  
-  
-      <div class="view-content">
-      <form action="/answer/how-do-i-change-my-password" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
- <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump" name="jump"><option value="" selected="selected">Choose service</option><option value="f1c0fd1eb440653d41d9b934c81f2e1d::/service/acccell">  
-          ACCC Extended Laptop Loan (ACCCELL)  </option><option value="9fdd844bb8a1c40b07e178fc3338f2d5::/service/servicedesk">  
-          ACCC Service Desk  </option><option value="ecc409c51f10b0b63be5a6571ce81b96::/service/acccess-helpdesk">  
-          ACCCeSS Helpdesk  </option><option value="50ed3de763b430b8c1a48453b620db95::/service/active-directory">  
-          Active Directory  </option><option value="df59df48a9787f9562382ae3e0a8956a::/service/active-directory-desktop-advantage">  
-          Active Directory Desktop Advantage (ADDA)  </option><option value="5c3ffc71c191c3a86b18f5ae096390bf::/service/automatic-call-distribution">  
-          Automatic Call Distribution   </option><option value="4eacbcd9609818e1dfa88a75ecc17cbc::/service/backups">  
-          Backups  </option><option value="87649ed6cfbd7cbc975e368cd26d6514::/service/blackboard-collaborate">  
-          Blackboard Collaborate  </option><option value="921b1bf1fcf3d0855dd6266ddcf53043::/service/box">  
-          Box  </option><option value="19e3358c2add0b2367c4e5d43e3c3970::/service/c-stop">  
-          C-stop  </option><option value="4f276c8f111958c4dac723c36e9b71bf::/service/equipment-lending/classroom-equipment-lending">  
-          Classroom Equipment Lending  </option><option value="32bb00830993846ab986d00b0c8a5fd9::/service/classroom">  
-          Classrooms  </option><option value="6a34288ce1585e03b7513e4d47c45e49::/service/collaboration-tools">  
-          Collaboration Tools  </option><option value="0a0aef270d360aa126cf7e0a8ec2ad44::/service/colocation-server-hosting">  
-          Colocation Server Hosting  </option><option value="7adfc88989421c8fb40583511e051a57::/service/computer-labs">  
-          Computer Labs  </option><option value="09591e995510e42238e1dc9f88dfc73b::/service/conferencing">  
-          Conferencing  </option><option value="452d3d2303d0394dab6432f5545d5a87::/service/ceb">  
-          Corporate Executive Board  </option><option value="e8cf41609887f887d29e4506d1186cd8::/service/data-usage-monitoring">  
-          Data Usage Monitoring  </option><option value="0db9ba4d82994b1409130db6f35b35e9::/service/databases">  
-          Database Services  </option><option value="56a4f6ec101c46829e0ed4b821fb389b::/service/digital-signage">  
-          Digital Signage  </option><option value="bf219a4619b9e123df222a4a0b216309::/service/directory">  
-          Directory Services  </option><option value="54acba8c9baec915b09cb1b277e86bbf::/service/email-and-calendaring">  
-          Email and Calendaring  </option><option value="7a1a6698d0be8e706b08fdca9856113f::/service/encryption">  
-          Encryption  </option><option value="d85b23f87c8b939a2de49f757a885404::/service/endpoint-management">  
-          Endpoint Management  </option><option value="1c4c420556b8f4964ec821fbe1c91443::/service/equipment-lending">  
-          Equipment Lending  </option><option value="83b5c96a64686618a1c924de844cd427::/service/event-logging">  
-          Event Logging  </option><option value="05ba4c880395d2e8c112a88383097df8::/service/event-support-av">  
-          Event Support (Audio/Visual)  </option><option value="ec50ae47546b551fe93f9c6766d417e5::/service/events-calendar">  
-          Events Calendar  </option><option value="3aca9ee863caaca38338d91d2b67c153::/service/exchange">  
-          Exchange  </option><option value="497b750a7695989ec1caf7d829a1230a::/service/fact">  
-          Faculty Computer Trade-In (FaCT)  </option><option value="92d5cf8a0a3a88fe65d11d9731373ce3::/service/g-suite">  
-          G Suite (formerly Google Apps)  </option><option value="29fc87540c271b8863beac609c29b42e::/service/helpdesk">  
-          Helpdesk Services  </option><option value="592c5cb5e681f4ee30b09d7482663b5e::/service/high-performance-computing">  
-          High Performance Computing  </option><option value="915b2b821e2fe4e47ac34ed061a0d007::/service/identity-and-access-management">  
-          Identity and Access Management  </option><option value="fddc96fe1e22714e61db4345c78febad::/service/instant-messaging">  
-          Instant Messaging  </option><option value="f94278ec0e388291a8f3988411d314cc::/service/learning-design-and-development">  
-          Learning Design and Development  </option><option value="c6147deed44acd6ca048ad470afcbe33::/service/learning-environments">  
-          Learning Environments  </option><option value="3689d4a6c97c3fd4162a0506b8d959ef::/service/learning-management-system">  
-          Learning Management System  </option><option value="8936c111080f3aa031c861e4448efc99::/LTS">  
-          Learning Technology Solutions  </option><option value="4989923a8a910d2acbb7464d28c7f2a5::/service/lecture-capture">  
-          Lecture Capture  </option><option value="67919309615b8414e3dee04798b5804d::/service/listserv">  
-          Listserv  </option><option value="844e9859712145ab647f937e528f81af::/service/mass-and-emergency-communications">  
-          Mass and Emergency Communications  </option><option value="c27a9506dce9ed22050fde8417def8ba::/service/massmail">  
-          Massmail  </option><option value="c56c755a9fd9d903e460ed676a2b24c4::/service/media-conversion">  
-          Media Conversion  </option><option value="629ee8ca86679fcf902db74ce2a2713c::/service/media-streaming">  
-          Media Streaming  </option><option value="0309479d93b815bb68f2e1f76c34ae31::/service/microsoft-iis">  
-          Microsoft IIS  </option><option value="2570aee9c526595d90eee4ad00cfab22::/service/mobile-phones">  
-          Mobile Phones  </option><option value="9f78a633eded2f13a2cff2a1adec86be::/service/multimedia-production">  
-          Multimedia Production  </option><option value="6c9309bb3bef1869bab876a2b6a397e1::/service/network">  
-          Network  </option><option value="3929c91be987d9925911001ac035bbf9::/service/network-data-moves">  
-          Network Data Moves  </option><option value="c9237d508f18c48eb1b5aee02bcbc10a::/service/network-filters">  
-          Network Filters  </option><option value="49f2ff0aed27f04a3f6a872286a36325::/service/noc">  
-          Network Operations Center  </option><option value="0e52b94c317bdda083778dee5f3b9a1e::/service/network-scanning">  
-          Network Security Vulnerability Scanner  </option><option value="6353814f68b2cf28e760c96a641934ef::/service/office-365">  
-          Office 365  </option><option value="d5b5c084e9d92a32b23edb68c7c7273d::/service/onsite">  
-          On-Site Support  </option><option value="530322567e0527508f43f4a791e1d439::/service/oneuic">  
-          ONE.UIC  </option><option value="fe3bb70146b7ed2b8de88e9af6ebdea8::/service/phone">  
-          Phone Services  </option><option value="126e899c4dc7c6d320bc33149c8d4d52::/service/centrex">  
-          Phones (Centrex)  </option><option value="43877dcbe943b59254a0e0d0e1e27402::/service/printing">  
-          Printing  </option><option value="72cef4679afa528259f1d043126ad344::/service/professional-development-training">  
-          Professional Development &amp; Training  </option><option value="6d8f5e743e878146cd5b6b726879427e::/recharge-stations">  
-          Recharge Stations  </option><option value="ce97cf5eb2bbbab453b5c215228e5be3::/service/rt">  
-          Request Tracker (RT)  </option><option value="e00f51bddf0ac5346c133dc56dba5df3::/service/resident-hall-network-res-net">  
-          Resident Hall Network (Res-Net)  </option><option value="12a1b103043201b45b6dac657bda70ad::/service/resphone">  
-          ResPhone  </option><option value="7c3e92a65a50c6bde2ca6ecc4e72da19::/service/secure-computing-environment">  
-          Secure Computing Environment  </option><option value="3386c64ffcb94879c8ccf0adb1ec85a5::/service/security">  
-          Security  </option><option value="013c818ece3664f5d6072116f8e306dd::/service/sharepoint">  
-          SharePoint  </option><option value="b809113863ca89e6b9bb5e9615141730::/service/single-sign-on">  
-          Single Sign On  </option><option value="c062a95e54affe32842ed9edb5540c52::/service/ssl-certificates">  
-          SSL Certificates  </option><option value="b9c23de9594fad3398e10a7e9dcb48a9::/service/startel">  
-          StarTel  </option><option value="f1d6a17201647bf956b356d9138d44a3::/service/surveys">  
-          Surveys  </option><option value="f8eb511c09ac5ca794ff91c4150ca916::/service/telecom">  
-          Telecommunications   </option><option value="19591106fe22e0d6f02541823194b5d3::/service/uic-alert">  
-          UIC Alert  </option><option value="b1ecd866ebb0bf9028921ca37161dc98::/uicmobile">  
-          UIC Mobile   </option><option value="dec0719df1440c3ce11f38032e82ed99::/service/uicalendar">  
-          UICalendar  </option><option value="0fd8a02dd3a2acad6b6241ec8881d0f7::/service/vpn">  
-          Virtual Private Network (VPN)  </option><option value="ba6ae6defd250193141979db057dc5bb::/service/virtual-servers">  
-          Virtual Servers  </option><option value="be397f639d2f1d34bed945365117f4b3::/service/voicemail">  
-          Voicemail  </option><option value="528645dae420c32d525ca9b51f4bb329::/service/voip">  
-          VoIP  </option><option value="b4b33b22c32bfad584042a5866096f54::/service/web-services">  
-          Web Services  </option><option value="555a2c0af67b49f8eedcbcac9c82062a::/service/wiki">  
-          Wiki  </option><option value="d26ff2b332dda04f377761b3cc13e8a6::/service/uic-net">  
-          Wired Network  </option><option value="7b8b5252a137d17387b07d7470d684d6::/service/wireless">  
-          Wireless Network  </option></select>
+            </div>
+        </div>
+    </div>
+        <div class="ms-row link-block-group">
+            <a class="s-col-1-2 l-col-1-3 link-block-anchor" href="http://catalog.uic.edu/ucat/degree-programs/degree-minors/">
+    <article class="link-block">
+        <h1 class="subhead">Undergraduate degrees and minors<svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg></h1>
+        <div class="text">
+            Find the one that&#039;s right for you
+        </div>
+    </article>
+</a>            <a class="s-col-1-2 l-col-1-3 link-block-anchor" href="http://catalog.uic.edu/gcat/degree-programs/">
+    <article class="link-block">
+        <h1 class="subhead">Graduate and professional degrees<svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg></h1>
+        <div class="text">
+            Study in innovative, nationally ranked programs
+        </div>
+    </article>
+</a>            <a class="s-col-1-2 l-col-1-3 link-block-anchor" href="http://grad.uic.edu">
+    <article class="link-block">
+        <h1 class="subhead">Graduate College<svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg></h1>
+        <div class="text">
+            Supporting the research, scholarship and success of graduate and professional students
+        </div>
+    </article>
+</a>    </div>    </div>            </div>
+                            <div class="component">
+            <section role="region" class="text-block-with-inline-image" aria-label="Our&#x20;faculty">
+        <div class="ms-row header-row">
+        <div class="col-1-1">
+            <h2 class="interior-section-header">Our faculty</h2>
+        </div>
+    </div>
+            <div class="ms-row">
+        <div class="col-1-1">
+                        <img src="/_assets/d195f0c3b8937605963bee64bd6c3091.jpg" alt="" class="image">
+                        <div class="block-wysiwyg">
+                <p>At UIC, you’ll learn from award-winning professors: American Association for the Advancement of Science fellows, Fulbright scholars and National Science Foundation Career Award winners.</p>
+<p>With nearly 2,821 faculty members and a low 1-to-18 faculty-student ratio, UIC undergraduates have exceptional access to the scientists, artists, writers, clinicians, educators and innovators whose work shapes our world.</p>
+
+            </div>
+                            <div class="link-list">
+                        <ul>
+            <li class="link-item">
+            <a href="http://catalog.uic.edu/ucat/the-university/faculty/">
+                Undergraduate faculty
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://catalog.uic.edu/gcat/faculty/">
+                Graduate faculty
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+        </ul>
+
+                </div>
+                    </div>
+    </div>
+</section>
+    </div>                            <div class="component">
+            <section role="region" class="text-block-with-inline-image" aria-label="Arts&#x20;and&#x20;humanities">
+        <div class="ms-row header-row">
+        <div class="col-1-1">
+            <h2 class="interior-section-header">Arts and humanities</h2>
+        </div>
+    </div>
+            <div class="ms-row">
+        <div class="col-1-1">
+                        <img src="/_assets/f077c93b93121a7cfb3c0350d26cd5ed.jpg" alt="Lewis Garrison painting Berlin Wall architectural installation" class="image">
+                        <div class="block-wysiwyg">
+                <p>UIC courses in the arts and humanities help students develop critical-thinking skills and a comprehensive world view.</p>
+<p>The College of Architecture, Design, and the Arts is a diverse community of artists, architects, designers and performers. Humanities studies in the College of Liberal Arts and Sciences —  including the <a href="http://lcsl.uic.edu/">School of Literatures, Cultural Studies and Linguistics</a> — reflect the global identities of UIC and Chicago.</p>
+
+            </div>
+                            <div class="link-list">
+                        <ul>
+            <li class="link-item">
+            <a href="http://cada.uic.edu/">
+                College of Architecture, Design, and the Arts
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://education.uic.edu/">
+                College of Education
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://www.las.uic.edu/">
+                College of Liberal Arts and Sciences
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+        </ul>
+
+                </div>
+                    </div>
+    </div>
+</section>
+    </div>                            <div class="component">
+            <section role="region" class="highlight " aria-label="Be&#x20;innovative">
+    <div class="ms-row zero-margin">
+        <div class="l-col-1-2">
+            <div class="image-cell">
+    <img class="image object-fit-cover" src="/_assets/6b91db75e7286113cf6ad09c4d685d16.jpg" alt="Group of students working at a table">
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-e5XjFhv_Sioh6kge_Vrw695EuPp1ii65EoMldy2O18c" />
-<input type="hidden" name="form_id" value="ctools_jump_menu" />
-</div></form>    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
+        </div>
+        <div class="l-col-1-2 highlight-vertical-center">
+            <div class="content-cell">
+    <h2 class="highlight-title">Be innovative</h2>
+    <div class="highlight-text">
+        <p>The UIC Innovation Center is a place for collaboration, education and incubation that brings together industry, educators and students to find solutions to real-world problems. Students in the MAD Lab (Medical Accelerator for Devices) created a diagnostic tool for women’s health exams.</p>
+
+    </div>
+            <div>
+            <a class="button" href="http://innov-vm-1.cc.uic.edu/wordpress/">More about the Innovation Center</a>
+        </div>
+    </div>
+        </div>
+    </div>
+</section>
+
+    </div>                            <div class="component">
+            <section role="region" class="text-block-with-inline-image" aria-label="Basic&#x20;and&#x20;social&#x20;sciences">
+        <div class="ms-row header-row">
+        <div class="col-1-1">
+            <h2 class="interior-section-header">Basic and social sciences</h2>
+        </div>
+    </div>
+            <div class="ms-row">
+        <div class="col-1-1">
+                        <img src="/_assets/cf404b90a8dc90e79efe27c128bc0918.jpg" alt="" class="image">
+                        <div class="block-wysiwyg">
+                <p>Whether you want to view the world through an electron microscope or the perspective of an entire culture, UIC offers a broad range of programs in the basic and social sciences. UIC researchers study important issues like energy production and conservation, the survival of wildlife in the city, the cultures of lost Amazonian civilizations and the behaviors that surround binge-drinking. Their work translates into classroom learning and student research opportunities.</p>
+
+            </div>
+                            <div class="link-list">
+                        <ul>
+            <li class="link-item">
+            <a href="http://www.las.uic.edu/">
+                College of Liberal Arts and Sciences
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+        </ul>
+
+                </div>
+                    </div>
+    </div>
+</section>
+    </div>                            <div class="component">
+            <section role="region" class="text-block-with-inline-image" aria-label="Business">
+        <div class="ms-row header-row">
+        <div class="col-1-1">
+            <h2 class="interior-section-header">Business</h2>
+        </div>
+    </div>
+            <div class="ms-row">
+        <div class="col-1-1">
+                        <img src="/_assets/9f36d0c0b6180e94556f6bca0aa69843.jpg" alt="Three business students working together at a table" class="image">
+                        <div class="block-wysiwyg">
+                <p>UIC produces leaders for the global economy of the future. The College of Business Administration reinforces the core disciplines — accounting, finance, information and decision sciences, marketing and management — with solid, real-world experience.</p>
+<p>For students whose career goals expand beyond one area of study, UIC offers joint degree options that combine business with medicine, public health, pharmacy, economics, nursing and management information systems.</p>
+
+            </div>
+                            <div class="link-list">
+                        <ul>
+            <li class="link-item">
+            <a href="http://business.uic.edu/">
+                College of Business Administration
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://catalog.uic.edu/gcat/degree-programs/grad-prof-degree-programs/#A">
+                Joint degree programs
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+        </ul>
+
+                </div>
+                    </div>
+    </div>
+</section>
+    </div>                            <div class="component">
+            <section role="region" class="highlight " aria-label="See&#x20;the&#x20;futures">
+    <div class="ms-row zero-margin">
+        <div class="l-col-1-2">
+            <div class="image-cell">
+    <img class="image object-fit-cover" src="/_assets/4cdcab268a824e8304d410673495733f.jpg" alt="John Miller, Gilbert Bassett, and Dale Rosenthal">
 </div>
-<div id="block-views-answers-block-3" class="block block-views">
+        </div>
+        <div class="l-col-1-2 highlight-vertical-center">
+            <div class="content-cell">
+    <h2 class="highlight-title">See the futures</h2>
+    <div class="highlight-text">
+        <p>Today’s financial trading relies on high-speed software and instant access to real-time information from enormous volumes of data. In its market training lab, UIC’s International Center for Futures and Derivatives teaches students in an environment that simulates the trading room at a big investment firm.</p>
 
-    <h2>Related Answers</h2>
-  
-  <div class="content">
-    <div class="view view-answers view-id-answers view-display-id-block_3 nocontent view-dom-id-84e52f478f02430730d6e3e237dc2ada">
-        
-  
-  
-      <div class="view-content">
-      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/what-my-ip-address-mac-address">What is my IP Address / MAC Address?</a></span>  </span></li>
-          <li class="views-row views-row-2 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-activate-my-uic-netid">How do I activate my UIC NetID?</a></span>  </span></li>
-          <li class="views-row views-row-3 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-can-i-secure-my-internet-connection">How can I secure my internet connection?</a></span>  </span></li>
-          <li class="views-row views-row-4 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/what-difference-between-netid-and-enterprise-id">What is the difference between NetID and Enterprise ID?</a></span>  </span></li>
-          <li class="views-row views-row-5 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-set-my-enterprise-password">How do I set my Enterprise password?</a></span>  </span></li>
-          <li class="views-row views-row-6 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-manage-my-passwords-password-manager">How do I manage my passwords with a password manager?</a></span>  </span></li>
-          <li class="views-row views-row-7 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-set-or-update-password-recovery-options">How do I set up or update password recovery options?</a></span>  </span></li>
-          <li class="views-row views-row-8 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-send-files-securely-others-university">How do I send files securely to others at the university?</a></span>  </span></li>
-          <li class="views-row views-row-9 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-obtain-ssl-certificate">How do I obtain a SSL certificate?</a></span>  </span></li>
-          <li class="views-row views-row-10 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-add-users-or-set-passwords-my-mysql-database">How do I add users or set passwords in my MySQL database?</a></span>  </span></li>
-          <li class="views-row views-row-11 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-install-and-configure-shibboleth">How do I install and configure Shibboleth?</a></span>  </span></li>
-          <li class="views-row views-row-12 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/what-is-my-listserv-password">What is my listserv password?</a></span>  </span></li>
-          <li class="views-row views-row-13 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-install-and-configure-zone-labs-integrity-desktop">How do I install and configure Zone Labs Integrity Desktop?</a></span>  </span></li>
-          <li class="views-row views-row-14 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/ad-account-locked-out">AD Account Locked Out</a></span>  </span></li>
-          <li class="views-row views-row-15 views-row-odd views-row-last">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-change-my-voip-voicemail-password">How do I change my VoIP voicemail password?</a></span>  </span></li>
-      </ul></div>    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
+    </div>
+            <div>
+            <a class="button" href="http://business.uic.edu/home-uic-business/faculty-departments-research/international-center-for-futures-and-derivatives">International Center for Futures and Derivatives</a>
+        </div>
+    </div>
+        </div>
+    </div>
+</section>
+
+    </div>                            <div class="component">
+            <section role="region" class="text-block-with-inline-image" aria-label="Computing&#x20;and&#x20;engineering">
+        <div class="ms-row header-row">
+        <div class="col-1-1">
+            <h2 class="interior-section-header">Computing and engineering</h2>
+        </div>
+    </div>
+            <div class="ms-row">
+        <div class="col-1-1">
+                        <img src="/_assets/5e371ca79438f0e6d8e8af1c0453a809.jpg" alt="Close-up of a computer circuit board" class="image">
+                        <div class="block-wysiwyg">
+                <p>UIC is a place where ideas become reality. Researchers are designing more efficient batteries and more powerful computer chips, finding better ways to manage storm water surge and making microelectronics for space exploration. If you’re interested in computer science — gaming, manipulation of big data, computers that understand natural language or visualization, securing healthcare data, the intersection of art and science — you’ll find it at UIC.</p>
+
+            </div>
+                            <div class="link-list">
+                        <ul>
+            <li class="link-item">
+            <a href="http://engineering.uic.edu/">
+                College of Engineering
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://www.las.uic.edu/">
+                College of Liberal Arts and Sciences
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://www.bioe.uic.edu/">
+                The Richard and Loan Hill Department of Bioengineering
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="https://madlab.uic.edu/">
+                MAD Lab
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://ahs.uic.edu/bhis/">
+                Biomedical and Health Information Sciences
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+        </ul>
+
+                </div>
+                    </div>
+    </div>
+</section>
+    </div>                            <div class="component">
+            <section role="region" class="text-block-with-inline-image" aria-label="Health&#x20;sciences">
+        <div class="ms-row header-row">
+        <div class="col-1-1">
+            <h2 class="interior-section-header">Health sciences</h2>
+        </div>
+    </div>
+            <div class="ms-row">
+        <div class="col-1-1">
+                        <img src="/_assets/27d1020d5b53b82ae23ee1f3afb2172d.jpg" alt="Nursing student looking at papers with instructor" class="image">
+                        <div class="block-wysiwyg">
+                <p>UIC’s health sciences colleges emphasize clinical skills, research and community focus. You can prepare for a wide range of health careers in one of the applied health sciences, dentistry, medicine, nursing, pharmacy, public health or social work. Ten pre-health programs in the College of Liberal Arts and Sciences prepare students for future study in UIC health sciences programs and veterinary medicine.</p>
+<p>For students whose goals expand beyond one area of study, UIC offers joint degrees that combine health care studies with other disciplines. The Medical Scientist Training Program is an MD/Ph.D. program for physician-scientists. Bioengineering, a department in both the colleges of Medicine and Engineering, trains students for careers in the growing biomedical field.</p>
+
+            </div>
+                            <div class="link-list">
+                        <ul>
+            <li class="link-item">
+            <a href="http://ahs.uic.edu">
+                College of Applied Health Sciences
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="https://dentistry.uic.edu">
+                College of Dentistry
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://www.medicine.uic.edu/">
+                College of Medicine
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://www.nursing.uic.edu/">
+                College of Nursing
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://www.uic.edu/pharmacy/">
+                College of Pharmacy
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://publichealth.uic.edu/">
+                School of Public Health
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://www.uic.edu/jaddams/college/">
+                Jane Addams College of Social Work
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+        </ul>
+
+                </div>
+                    </div>
+    </div>
+</section>
+    </div>                            <div class="component">
+            <section role="region" class="highlight " aria-label="Center&#x20;for&#x20;Global&#x20;Health">
+    <div class="ms-row zero-margin">
+        <div class="l-col-1-2">
+            <div class="image-cell">
+    <img class="image object-fit-cover" src="/_assets/3061ec38a0d734fe1b068db8ea4d626e.jpg" alt="Janet Lin looking at x-rays on a computer with 2 men">
 </div>
-  </div>
-      </div></div> <!-- /.section, /#sidebar-second -->
-    
-  </div></div> <!-- /#main, /#main-wrapper -->
+        </div>
+        <div class="l-col-1-2 highlight-vertical-center">
+            <div class="content-cell">
+    <h2 class="highlight-title">Center for Global Health</h2>
+    <div class="highlight-text">
+        <p>UIC’s Center for Global Health puts knowledge into practice to make the world a healthier place. Faculty and students work with local hospitals, doctors and community leaders to improve the health of people in India, Africa, Haiti and other developing nations.</p>
 
-  
-  <div id="footer-wrapper"><div class="section">
+    </div>
+            <div>
+            <a class="button" href="http://globalhealth.uic.edu">More about the Center for Global Health</a>
+        </div>
+    </div>
+        </div>
+    </div>
+</section>
 
-          <div id="footer-columns" class="clearfix">
-          <div class="region region-footer-firstcolumn">
-    <div id="block-menu-menu-footer-menu-1" class="block block-menu">
+    </div>                            <div class="component">
+            <section role="region" class="text-block-with-inline-image" aria-label="Social&#x20;justice">
+        <div class="ms-row header-row">
+        <div class="col-1-1">
+            <h2 class="interior-section-header">Social justice</h2>
+        </div>
+    </div>
+            <div class="ms-row">
+        <div class="col-1-1">
+                        <img src="/_assets/b4d99ae90675c83dd2790489ab3ad30f.jpg" alt="Students lying in snow with #BlackLivesMatter flyers during &quot;Die In&quot; demonstration" class="image">
+                        <div class="block-wysiwyg">
+                <p>UIC offers more than 200 courses focused on issues of equality, fairness and inclusion. A minor in social justice in Gender and Women’s Studies explores ethical, social, historical and political questions facing Chicago and the world. Students and faculty are involved in social justice work, from public policy to arts projects, human rights to urban health disparities.</p>
+<p>&nbsp;</p>
 
-    <h2>ACCC</h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/about">About ACCC</a></li>
-<li class="leaf"><a href="/service/learning-environments/accessibility">Accessibility Resources</a></li>
-<li class="leaf"><a href="/job/all" title="Employment Opportunities">Jobs</a></li>
-<li class="leaf"><a href="/news/all" title="">News and Alerts</a></li>
-<li class="leaf"><a href="/policy/all">Policies and Guidelines</a></li>
-<li class="leaf"><a href="/service/telecom" title="">Telecom</a></li>
-<li class="leaf"><a href="/newsletters">ACCC Newsletter</a></li>
-<li class="last leaf"><a href="/reports">Reports</a></li>
-</ul>  </div>
+            </div>
+                            <div class="link-list">
+                        <ul>
+            <li class="link-item">
+            <a href="http://sji.uic.edu/our-work/programs/">
+                Social justice courses and programs of study
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="https://gws.uic.edu/">
+                Gender and Women&#039;s Studies Program
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+            <li class="link-item">
+            <a href="http://ahs.uic.edu/dhd/">
+                Department of Disability and Human Development
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+        </ul>
+
+                </div>
+                    </div>
+    </div>
+</section>
+    </div>                            <div class="component">
+            <section role="region" class="highlight " aria-label="Social&#x20;Justice&#x20;Initiative">
+    <div class="ms-row zero-margin">
+        <div class="l-col-1-2">
+            <div class="image-cell">
+    <img class="image object-fit-cover" src="/_assets/369b4a7e9ec11e392644f9efd6111fbd.jpg" alt="Man writes under a photo on a chalkboard">
 </div>
-  </div>
-          <div class="region region-footer-secondcolumn">
-    <div id="block-menu-menu-tools" class="block block-menu">
+        </div>
+        <div class="l-col-1-2 highlight-vertical-center">
+            <div class="content-cell">
+    <h2 class="highlight-title">Social Justice Initiative</h2>
+    <div class="highlight-text">
+        <p>The UIC Social Justice Initiative links scholars and activists in Chicago and beyond through programs related to social justice, democracy and human rights. The campus-wide project builds critical thinking and research skills that make students effective change agents and socially conscious professionals.</p>
 
-    <h2>Quick Links</h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/get-started">Get started</a></li>
-<li class="leaf"><a href="http://activatenetid.accc.uic.edu" title="Activate your UIC NetID">Activate UIC NetID</a></li>
-<li class="leaf"><a href="http://passwords.accc.uic.edu" title="Change password, reset forgotten password">Change password</a></li>
-<li class="leaf"><a href="http://accountportal.accc.uic.edu" title="Create ACCC-managed accounts">Create accounts</a></li>
-<li class="leaf"><a href="http://uic.blackboard.com" title="Log in to Blackboard Learn">Blackboard Learn</a></li>
-<li class="leaf"><a href="http://sms.accc.uic.edu" title="Subscribe to UIC emergency SMS notifications">Emergency SMS</a></li>
-<li class="leaf"><a href="http://gmail.uic.edu" title="">GoogleApps@UIC</a></li>
-<li class="leaf"><a href="http://emailforwarding.accc.uic.edu" title="Update netID@uic.edu email forwarding">Update email forwarding</a></li>
-<li class="last leaf"><a href="http://webmail.uic.edu" title="">Webmail</a></li>
-</ul>  </div>
-</div>
-  </div>
-          <div class="region region-footer-thirdcolumn">
-    <div id="block-menu-menu-locations" class="block block-menu">
+    </div>
+            <div>
+            <a class="button" href="http://www.uic.edu/depts/oaa/sji/">More about the Social Justice Initiative</a>
+        </div>
+    </div>
+        </div>
+    </div>
+</section>
 
-    <h2>Locations</h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/service/acccess-helpdesk" title="">ACCCeSS Helpdesk</a></li>
-<li class="leaf"><a href="/service/servicedesk" title="">Client Services Office</a></li>
-<li class="collapsed"><a href="/LTS" title="">Learning Technology Solutions</a></li>
-<li class="last leaf"><a href="/service/noc" title="">Network Operations Center</a></li>
-</ul>  </div>
-</div>
-  </div>
-          <div class="region region-footer-fourthcolumn">
-    <div id="block-menu-menu-accc-liaison-resources" class="block block-menu">
+    </div>                            <div class="component">
+            <section role="region" class="text-block-with-inline-image" aria-label="Urban&#x20;planning">
+        <div class="ms-row header-row">
+        <div class="col-1-1">
+            <h2 class="interior-section-header">Urban planning</h2>
+        </div>
+    </div>
+            <div class="ms-row">
+        <div class="col-1-1">
+                        <img src="/_assets/2383068833fcd76c35cad6594d50f146.jpg" alt="Lurie Gardens at Millennium Park" class="image">
+                        <div class="block-wysiwyg">
+                <p>UIC educates city planners and administrators to evaluate needs, find solutions — then make them happen.</p>
+<p>The College of Urban Planning and Public Affairs offers undergraduate and degrees, including Chicago’s only accredited graduate program in urban planning.  Eight research centers specialize in neighborhood development, economics, transportation, race and public policy, criminal justice and other issues.</p>
 
-    <h2>Liaison Resources</h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="https://liaison.uic.edu" title="Liaison Manager Tool">Liaison Manager</a></li>
-<li class="leaf"><a href="http://wiki.uic.edu/ACCC/PbContacts/WebHome" title="Phonebook Contacts Wiki">Phonebook Contacts Wiki</a></li>
-<li class="leaf"><a href="http://wiki.uic.edu/ACCC/REACH/WebHome" title="REACH Wiki">REACH Wiki</a></li>
-<li class="last leaf"><a href="https://helpdesk.uic.edu" title="">RT Helpdesk</a></li>
-</ul>  </div>
-</div>
-<div id="block-menu-menu-website" class="block block-menu">
+            </div>
+                            <div class="link-list">
+                        <ul>
+            <li class="link-item">
+            <a href="http://www.uic.edu/cuppa/">
+                College of Urban Planning and Public Affairs
+                                    <svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg>                            </a>
+        </li>
+        </ul>
 
-    <h2>Website</h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/contact/webmaster" title="">Contact the webmaster</a></li>
-<li class="last leaf"><a href="/sitemap" title="">Site map</a></li>
-</ul>  </div>
+                </div>
+                    </div>
+    </div>
+</section>
+    </div>                            <div class="component">
+            <section role="region" class="highlight " aria-label="Gentrification&#x20;or&#x20;not&#x3F;">
+    <div class="ms-row zero-margin">
+        <div class="l-col-1-2">
+            <div class="image-cell">
+    <img class="image object-fit-cover" src="/_assets/dfaf63b41b21645044797c6c0c4ae7c3.jpg" alt="Aerial view of Wicker Park neighborhood at night">
 </div>
-<div id="block-shib-auth-login-box" class="block block-shib-auth">
+        </div>
+        <div class="l-col-1-2 highlight-vertical-center">
+            <div class="content-cell">
+    <h2 class="highlight-title">Gentrification or not?</h2>
+    <div class="highlight-text">
+        <p>A gentrification index developed by UIC researchers measures neighborhood change in Chicago’s 77 community areas. It quantifies each area&#8217;s residents by ethnicity, age, education, income, occupation, home ownership and home values. Researchers found more neighborhoods declining than gentrifying, despite concerns that long-time residents are being priced out of some areas.</p>
 
-    
-  <div class="content">
-    <div id="shib_login_url">
-  <a href="https://accc.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Faccc.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F479">Log in</a>
-</div>
-  </div>
-</div>
-  </div>
-      </div> <!-- /#footer-columns -->
-    
-          <div id="footer" class="clearfix">
-          <div class="region region-footer">
-    <div id="block-block-3" class="block block-block">
+    </div>
+            <div>
+            <a class="button" href="http://www.voorheescenter.com/#!gentrification-index/ccmx">More about the Gentrification Index</a>
+        </div>
+    </div>
+        </div>
+    </div>
+</section>
 
-    
-  <div class="content">
-    <p><a href="http://www.uic.edu"><img alt="University of Illinois at Chicago" src="/sites/all/themes/acccbartik/images/uic-stacked-logo-180.png" style="float:left; height:136px; margin-right:1em; width:180px" /></a> © Copyright 2018 The Board of Trustees of the University of Illinois | <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a></p>
-  </div>
+    </div>                            <div class="component">
+            <section role="region" class="link-list" aria-label="More academic links">
+        <div class="ms-row">
+        <div class="col-1-1">
+            <h2 class="interior-section-header">More academic links</h2>
+        </div>
+    </div>
+        <div class="ms-row">
+        <div class="col-1-1 text-cell">
+            
+        </div>
+    </div>
+    <div class="ms-row link-block-group">
+            <a class="s-col-1-2 l-col-1-3 link-block-anchor" href="http://www.uic.edu/honors/">
+    <article class="link-block">
+        <h1 class="subhead">Honors College<svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg></h1>
+        <div class="text">
+            An environment for advanced intellectual growth, a foundation for life-long learning
+        </div>
+    </article>
+</a>            <a class="s-col-1-2 l-col-1-3 link-block-anchor" href="http://www.uic.edu/depts/oaa/global_learning/">
+    <article class="link-block">
+        <h1 class="subhead">Global Learning Community<svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg></h1>
+        <div class="text">
+            Certificate program for incoming freshmen promotes global thinking
+        </div>
+    </article>
+</a>            <a class="s-col-1-2 l-col-1-3 link-block-anchor" href="http://studyabroad.uic.edu/">
+    <article class="link-block">
+        <h1 class="subhead">Study Abroad<svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg></h1>
+        <div class="text">
+            Programs on six continents
+        </div>
+    </article>
+</a>            <a class="s-col-1-2 l-col-1-3 link-block-anchor" href="http://tigger.uic.edu/htbin/codewrap/bin/orgs/ura/cgi-bin/">
+    <article class="link-block">
+        <h1 class="subhead">Undergraduate Research Experience<svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg></h1>
+        <div class="text">
+            Opportunities for undergraduates to participate in research
+        </div>
+    </article>
+</a>            <a class="s-col-1-2 l-col-1-3 link-block-anchor" href="http://grad.uic.edu/summer-research-opportunities-program-undergraduates">
+    <article class="link-block">
+        <h1 class="subhead">Summer Research Opportunities Program<svg class="arrow" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/></svg></h1>
+        <div class="text">
+            Undergraduates work one-on-one with a faculty mentor
+        </div>
+    </article>
+</a>    </div></section>
+    </div>                    </div>
+    </div>
 </div>
-  </div>
-      </div> <!-- /#footer -->
-    
-  </div></div> <!-- /.section, /#footer-wrapper -->
-
-</div></div> <!-- /#page, /#page-wrapper -->
-  </body>
-</html>
+<footer class="footer" role="contentinfo">
+    <div class="footer-content" style="background-image: url(/images/footer.jpg)">
+        <div class="ms-grid">
+            <div class="ms-row">
+                <div class="s-col-1-2 m-col-1-4 l-col-3-12 footer-brand-address">
+                                            <img class="footer-brand" src="/images/footer-brand-mark.svg" alt="The University of Illinois at Chicago" aria-hidden="true">
+                                        <div class="footer-address">
+                        <div><strong>1200 West Harrison St.</strong></div>
+                        <div>Chicago, Illinois 60607</div>
+                        <div>312-996-7000</div>
+                    </div>
+                </div>
+                <div role="navigation" class="s-col-1-2 m-col-1-4 l-col-2-12 l-col-12-push-4" aria-label="Tools">
+                    <h2 class="footer-list-title">Tools</h2>
+                    <ul class="footer-list">
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://uic.blackboard.com/">
+        Blackboard
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="https://accc.uic.edu/service/g-suite">
+        GoogleApps@UIC
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="https://my.uic.edu/common/">
+        my UIC
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="https://www.hr.uillinois.edu/pay/">
+        My UI Info: Pay
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="https://outlook.uic.edu">
+        UIC Outlook Online
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://accc.uic.edu/service/uicalendar">
+        UICalendar
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="/about/contact-us">
+        Contact the webmaster
+    </a>
+</li>
+                                            </ul>
+                </div>
+                <div role="navigation" class="s-col-1-2 m-col-1-4 l-col-2-12" aria-label="Resources">
+                    <h2 class="footer-list-title">Resources</h2>
+                    <ul class="footer-list">
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://catalog.uic.edu/ucat/academic-calendar/">
+        Academic Calendar
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="https://today.uic.edu/resources/current-students">
+        Current Students
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://events.uic.edu">
+        Event Calendar
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="https://today.uic.edu/resources/faculty-staff">
+        Faculty and Staff
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://maps.uic.edu">
+        Maps
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://today.uic.edu">
+        UIC Today
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="/about/visit-directions">
+        Visit &#038; Directions
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://clery.uic.edu/">
+        Clery Compliance
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://oae.uic.edu/UnlawfulDiscrimination/index.htm">
+        Nondiscrimination Policy
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://oae.uic.edu/sexual-misconduct/">
+        Title IX: Sexual Misconduct
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://financialaid.uic.edu/consumer-information/department-education-complaint-process/">
+        Student Information Disclosures
+    </a>
+</li>
+                                            </ul>
+                </div>
+                <div role="navigation" class="s-col-1-2 m-col-1-4 l-col-2-12 l-col-12-pull-4" aria-label="Quick Links">
+                    <h2 class="footer-list-title">Quick Links</h2>
+                    <ul class="footer-list">
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://www.uicflames.com/">
+        Athletics
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://www.uic.edu/apps/departments-az/search">
+        Directory
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://disabilityresources.uic.edu/">
+        Disability Resources
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://emergency.uic.edu">
+        Emergency Information
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://oge.uic.edu/">
+        International
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="/about/job-opportunities">
+        Job Opportunities
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://library.uic.edu">
+        Library
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://www.uic.edu/depts/dos/studentveteranaffairs.shtml">
+        Veterans Affairs
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="http://hospital.uillinois.edu">
+        UI Health
+    </a>
+</li>
+                                                    <li class="footer-list-item">
+    <a class="footer-list-link" href="/about/acerca">
+        Acerca de la UIC (en español)
+    </a>
+</li>
+                                            </ul>
+                </div>
+                <div class="l-col-3-12">
+                    <div class="ms-row">
+                        <div role="navigation" class="s-col-1-2 l-col-1-1" aria-label="Calls to Action">
+                            <ul class="footer-button-list">
+            <li class="footer-button-item">
+            <a class="footer-button" href="http://admissions.uic.edu/visit-us" role="button">
+                Book a Visit
+            </a>
+        </li>
+            <li class="footer-button-item">
+            <a class="footer-button" href="http://admissions.uic.edu/undergraduate/request-information" role="button">
+                Request Info
+            </a>
+        </li>
+            <li class="footer-button-item">
+            <a class="footer-button" href="http://admissions.uic.edu/apply-now" role="button">
+                Apply Now
+            </a>
+        </li>
+            <li class="footer-button-item">
+            <a class="footer-button" href="https://give.uic.edu/" role="button">
+                Give
+            </a>
+        </li>
+            <li class="footer-button-item">
+            <a class="footer-button" href="http://advance.uic.edu/alumni-association/" role="button">
+                Join Alumni Association
+            </a>
+        </li>
+            <li class="footer-button-item">
+            <a class="footer-button" href="/about/contact-us" role="button">
+                Contact Us
+            </a>
+        </li>
+    </ul>                        </div>
+                        <div class="s-col-1-2 l-col-1-1 footer-social-icons-cell">
+                            <ul class="social-icons-list">
+            <li>
+            <a href="https://www.facebook.com/uic.edu">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Facebook"><title>Facebook</title><path d="M17 26.7V15h3.2s.3-2 .4-4H17V8.3s.5-.9 1-.9h2.5c0-.6.2-2.4.3-4h-3.7c-5 0-4.9 3.9-4.9 4.5v3.2h-3v4h3.1v11.7H17z"/></svg>
+            </a>
+        </li>
+                <li>
+            <a href="https://twitter.com/thisisuic">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Tweeter"><title>Twitter</title><path d="M25.4 9.4c-.7.3-1.5.6-2.4.7.9-.5 1.5-1.3 1.8-2.3-.8.5-1.7.8-2.6 1-.8-.8-1.8-1.3-3-1.3-2.3 0-4.1 1.9-4.1 4.1 0 .3 0 .6.1.9-3.4-.2-6.5-1.8-8.5-4.3-.4.6-.6 1.3-.6 2.1 0 1.4.7 2.7 1.8 3.4-.7 0-1.3-.2-1.9-.5v.1c0 2 1.4 3.7 3.3 4.1-.3.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.6 2.1 2.8 3.9 2.9-1.4 1.1-3.2 1.8-5.1 1.8-.3 0-.7 0-1-.1 1.8 1.2 4 1.9 6.3 1.9 7.6 0 11.8-6.3 11.8-11.8v-.5c.9-.6 1.6-1.3 2.1-2.2z"/></svg>
+            </a>
+        </li>
+                <li>
+            <a href="https://instagram.com/uicamiridis/">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Instagram"><title>Instagram</title><path fill="none" d="M15 18.8c2 0 3.6-1.6 3.6-3.6S17 11.5 15 11.5s-3.6 1.6-3.6 3.6 1.6 3.7 3.6 3.7z"/><path fill="none" d="M20 15.2c0 2.7-2.2 5-5 5s-5-2.2-5-5c0-.7.1-1.3.4-1.9H6.5V22c0 .9.7 1.6 1.6 1.6H22c.9 0 1.6-.7 1.6-1.6v-8.7h-3.9c.1.6.3 1.2.3 1.9z"/><path d="M21.9 5.1H11.5v5.8h-1.4V5.1H8.8v5.8H7.4V5.2c-1.3.2-2.3 1.4-2.3 2.9V22c0 1.6 1.3 3 3 3H22c1.6 0 3-1.3 3-3V8.1c-.1-1.7-1.4-3-3.1-3zm-2.6 3.4h2.4v2.4h-2.4V8.5zm-4.3 3c2 0 3.6 1.6 3.6 3.6S17 18.8 15 18.8s-3.6-1.6-3.6-3.6 1.6-3.7 3.6-3.7zm8.5 10.4c0 .9-.7 1.6-1.6 1.6H8.1c-.9 0-1.6-.7-1.6-1.6v-8.7h3.9c-.2.6-.4 1.2-.4 1.9 0 2.7 2.2 5 5 5s5-2.2 5-5c0-.7-.1-1.3-.4-1.9h3.9v8.7z"/></svg>
+            </a>
+        </li>
+                    <li>
+            <a href="https://www.youtube.com/user/thisisUIC">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Youtube"><title>YouTube</title><path d="M9.5 11.8h1.4V8.3l1.6-4.8h-1.4l-.9 3.3-.9-3.3H7.9l1.6 5M14.4 11.9c.6 0 1-.1 1.3-.4.3-.3.5-.7.5-1.2V7.1c0-.5-.2-.8-.5-1.1-.3-.3-.7-.4-1.3-.4-.6 0-1 .1-1.3.4-.3.3-.5.7-.5 1.1v3.2c0 .5.2.9.5 1.2.3.3.7.4 1.3.4zM13.9 7c0-.1 0-.2.1-.3.1-.1.2-.1.4-.1s.3 0 .4.1c.1.1.2.2.2.3v3.3c0 .2 0 .3-.1.4-.1.1-.2.1-.4.1s-.3 0-.4-.1c-.1-.1-.1-.2-.1-.4V7zM18 11.8c.2 0 .5-.1.7-.2.2-.1.5-.3.7-.6v.7h1.2V5.6h-1.2v4.6c-.1.1-.2.2-.4.3-.1.1-.3.1-.3.1-.1 0-.2 0-.2-.1-.1-.1-.1-.2-.1-.3V5.6h-1.2v5.1c0 .4.1.6.2.8.1.3.3.3.6.3zM20.7 19.3c-.2 0-.3 0-.4.2-.1.1-.1.3-.1.5v.6h1V20c0-.2 0-.4-.1-.5-.1-.1-.2-.2-.4-.2zM17 19.3c-.4-.1-.6.2-.6.2V23s.3.4.7.2c0 0 .2-.1.2-.5v-2.9c.1.1.2-.4-.3-.5z"/><path d="M23.1 14.9c-.9-.9-8.4-.9-8.4-.9s-7.6 0-8.5.9c-.9.9-.9 5.3-.9 5.4 0 0 0 4.5.9 5.4.9.9 8.5.9 8.5.9s7.6 0 8.5-.9c.9-.9.9-5.4.9-5.4 0-.1-.1-4.5-1-5.4zm-12.2 2.7H9.7V24H8.4v-6.4H7.2v-1.1H11v1.1zm3.6 6.4h-1.1v-.6c-.2.2-.4.4-.6.5-.2.1-.4.2-.6.2-.3 0-.4-.1-.6-.2-.1-.2-.2-.4-.2-.7v-4.6h1.1v4.3c0 .1 0 .2.1.3 0 .1.1.1.2.1s.2 0 .3-.1l.3-.3v-4.2h1.1V24zm4-1.1c0 .4-.1.7-.3.9-.2.2-.4.3-.7.3-.2 0-.4 0-.6-.1-.2-.1-.3-.2-.5-.4v.4h-1.1v-7.5h1.1v2.4c.1-.2.3-.3.5-.4.2-.1.3-.1.5-.1.3 0 .6.1.8.4.2.2.3.6.3 1v3.1zm3.8-1.5h-2.1v1c0 .3 0 .5.1.6.1.1.2.2.4.2s.3 0 .4-.1c.1-.1.1-.3.1-.6v-.3h1.1v.3c0 .6-.1 1-.4 1.3-.3.3-.7.4-1.2.4s-.9-.2-1.2-.5c-.3-.3-.4-.7-.4-1.3V20c0-.5.2-.9.5-1.2.3-.3.7-.5 1.2-.5s.9.1 1.2.4c.3.3.4.7.4 1.2v1.5z"/></svg>
+            </a>
+        </li>
+                    <li>
+            <a href="http://uicscience.tumblr.com/">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Tumblr"><title>Tumblr</title><path d="M15.1 24.2c2.8.7 5.6-.9 5.6-.9v-3c-.8.9-2.6 1.1-3.9.7-1.2-.3-1.1-2-1.1-2v-5.7h4.4v-3h-4.4V5.6H13c-.3 5.1-3.8 5-3.8 5v2.7h2v6.8c.1 2.2 1.1 3.4 3.9 4.1z"/></svg>
+            </a>
+        </li>
+                        <li>
+            <a href="https://news.uic.edu/social-media-directory">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="More"><title>More links</title><path d="M15 5C9.5 5 5 9.5 5 15s4.5 10 10 10 10-4.5 10-10S20.5 5 15 5zm4.7 11H16v3.7h-2V16h-3.7v-2H14v-3.7h2V14h3.7v2z"/></svg>
+            </a>
+        </li>
+    </ul>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-legal">
+        <div class="ms-grid">
+            <div class="ms-row">
+                <div class="l-col-1-2">
+                    &copy; 2018 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span> <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a>
+                </div>
+                <div class="l-col-1-2 campuses">
+                                            <a href="http://www.uillinois.edu/">University of Illinois System</a> <span class="pipe-separator">|</span>
+                                            <a href="http://www.illinois.edu/">Urbana-Champaign</a> <span class="pipe-separator">|</span>
+                                            <a href="http://www.uis.edu/">Springfield</a> 
+                                    </div>
+            </div>
+        </div>
+    </div>
+  <a href="https://plus.google.com/+UicEdu" rel="publisher" hidden>UIC on Google+</a>
+</footer>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://www.uic.edu",
+  "logo": "/images/logo.png",
+  "contactPoint" : [
+    {
+      "@type" : "ContactPoint",
+      "telephone" : "+1-312-996-7000",
+      "contactType" : "customer service"
+    },
+    {
+      "@type" : "ContactPoint",
+      "telephone" : "+1-312-355-0379",
+      "contactType" : "customer service",
+      "contactOption" : "HearingImpairedSupported"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1200 West Harrison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "USA"
+  }
+}
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-20665772-1', 'auto');
+  ga('send', 'pageview');
+</script><link rel="stylesheet" property="stylesheet" href="/css/main.min.css" media="all"><script src="/js/concat/main.min.js"></script><script src="//www.uic.edu/inc/emergency/alert.js"></script></body></html>

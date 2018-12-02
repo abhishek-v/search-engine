@@ -36,11 +36,6 @@
   <div class="row">
     <div class="col-md-8 col-md-offset-2 login-alert">
 
-  <div class="alert alert-warning" role="alert">
-    <strong>Visitors from the University of Illinois at Urbana-Champaign:
-    <a href="/bluestem/login/illinois.edu">Log in with Shibboleth</a></strong>
-  </div>
-
 
     </div>
   </div>
@@ -48,22 +43,22 @@
 
 
 <form id="login-form" class="col-md-4 col-md-offset-4 form-login"
-  name="id" method="POST" action="/bluestem/login.cgi" target="_top">
+  name="id" method="POST" action="/bluestem/login.cgi" >
 
 
-  <input type="hidden" name="BSVersionHash" value="9305368a1df27047105ec9e708131f36a2395b82"/>
+  <input type="hidden" name="BSVersionHash" value="372062157e1021e986b2e16c2b71e4d330cec3cc"/>
 
   <input type="hidden" name="BSVersion" value="1.6"/>
 
-  <input type="hidden" name="cacheid" value="1543027678-837358126"/>
+  <input type="hidden" name="cacheid" value="1543102109-35334197"/>
 
   <input type="hidden" name="msg" value=""/>
 
-  <input type="hidden" name="prior" value="3600"/>
+  <input type="hidden" name="prior" value="1800"/>
 
-  <input type="hidden" name="RetrieveURL" value="2f687462696e2f626c75657374656d2f72657472696576655f617574682e636769"/>
+  <input type="hidden" name="RetrieveURL" value="2f626c75657374656d2f6367692f72657472696576655f617574682e636769"/>
 
-  <input type="hidden" name="return" value="68747470733a2f2f7777772e7569632e6564752f617070732f756963616c2f7574696c6974696573"/>
+  <input type="hidden" name="return" value="68747470733a2f2f73686962626f6c6574682e7569632e6564752f6964702f417574686e2f52656d6f7465557365723f636f6e766572736174696f6e3d65317331"/>
 
 
   <h1 class="sr-only">UIC User Identification Service</h1>
@@ -72,14 +67,14 @@
   <p class="small">
     Application requesting login:
 
-      <a href="https://www.uic.edu/apps/uical/utilities">www.uic.edu</a>
+      <a href="https://shibboleth.uic.edu/idp/Authn/RemoteUser?conversation=e1s1">UIC Shibboleth</a>
 
   </p>
 
   <label for="UserID" class="sr-only">UIC NetID</label>
   <input type="text" id="UserID" name="UserID" pattern="[^@]+(@uic.edu)?"
 
-    title="UIC NetID, @illinois.edu visitors please use the Shibboleth link to log in"
+    title="UIC NetID. This site is only available to individuals with UIC netIDs"
 
     class="form-control" placeholder="UIC NetID" required autofocus
     value="">

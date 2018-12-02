@@ -8,7 +8,7 @@
 <link rel="pingback" href="http://engineering.uic.edu/xmlrpc.php">
 <meta name="format-detection" content="telephone=no">
 
-<title>Student News &#8211; UIC College of Engineering</title>
+<title>College News &#8211; UIC College of Engineering</title>
 <link sizes="16x16" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-01.png" rel="icon" /><link rel="icon" sizes="57x57" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-iphone-01.png" /><link rel="icon" sizes="114x114" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-iphone-retina-01.png" /><link rel="icon" sizes="72x72" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-ipad-01.png" /><link rel="icon" sizes="144x144" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-ipad-retina-01.png" /><link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="UIC College of Engineering &raquo; Feed" href="http://engineering.uic.edu/feed/" />
@@ -83,10 +83,10 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://engineering.uic.edu/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://engineering.uic.edu/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.9.8" />
-<link rel="canonical" href="http://engineering.uic.edu/student-news/" />
-<link rel='shortlink' href='http://engineering.uic.edu/?p=1463' />
-<link rel="alternate" type="application/json+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fstudent-news%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fstudent-news%2F&#038;format=xml" />
+<link rel="canonical" href="http://engineering.uic.edu/college-news/" />
+<link rel='shortlink' href='http://engineering.uic.edu/?p=1461' />
+<link rel="alternate" type="application/json+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fcollege-news%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fcollege-news%2F&#038;format=xml" />
 <script>        jQuery(document).ready(function(){
             var retina = window.devicePixelRatio > 1 ? true : false;
                         if(retina) {
@@ -976,7 +976,7 @@ article
 					};</script>
 <noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 
-<body class="page-template-default page page-id-1463 offcanvas-type-default  offcanvas-right wpb-js-composer js-comp-ver-5.4.5 vc_responsive" id="">
+<body class="page-template-default page page-id-1461 offcanvas-type-default  offcanvas-right wpb-js-composer js-comp-ver-5.4.5 vc_responsive" id="">
 
 	
 <div class="k2t-container">
@@ -1048,8 +1048,8 @@ article
 	<li id="menu-item-1959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1959 k2t-dropdown-submenu"><a    href="http://engineering.uic.edu/donate/" class="btn-ripple"><span class="k2t-title-menu">Make a Gift</span></a></li>
 	<li id="menu-item-1460" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1460 children k2t-dropdown-submenu"><a     class="btn-ripple"><span class="k2t-title-menu">News</span></a>
 	<ul class="sub-menu">
-		<li id="menu-item-1466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1466"><a    href="http://engineering.uic.edu/college-news/" class="btn-ripple"><span class="k2t-title-menu">College News</span></a></li>
-		<li id="menu-item-1465" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1463 current_page_item menu-item-1465 active"><a    href="http://engineering.uic.edu/student-news/" class="btn-ripple"><span class="k2t-title-menu">Student News</span></a></li>
+		<li id="menu-item-1466" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1461 current_page_item menu-item-1466 active"><a    href="http://engineering.uic.edu/college-news/" class="btn-ripple"><span class="k2t-title-menu">College News</span></a></li>
+		<li id="menu-item-1465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1465"><a    href="http://engineering.uic.edu/student-news/" class="btn-ripple"><span class="k2t-title-menu">Student News</span></a></li>
 	</ul>
 </li>
 	<li id="menu-item-1963" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1963 children k2t-dropdown-submenu"><a     class="btn-ripple"><span class="k2t-title-menu">People</span></a>
@@ -1160,8 +1160,8 @@ article
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1959"><div class="wrap-link-item"><a href="http://engineering.uic.edu/donate/">Make a Gift</a><span class="open-sub-menu"></span></div></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1460 children"><div class="wrap-link-item"><a>News</a><span class="open-sub-menu"></span></div>
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1466"><div class="wrap-link-item"><a href="http://engineering.uic.edu/college-news/">College News</a><span class="open-sub-menu"></span></div></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1463 current_page_item menu-item-1465 active"><div class="wrap-link-item"><a href="http://engineering.uic.edu/student-news/">Student News</a><span class="open-sub-menu"></span></div></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1461 current_page_item menu-item-1466 active"><div class="wrap-link-item"><a href="http://engineering.uic.edu/college-news/">College News</a><span class="open-sub-menu"></span></div></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1465"><div class="wrap-link-item"><a href="http://engineering.uic.edu/student-news/">Student News</a><span class="open-sub-menu"></span></div></li>
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1963 children"><div class="wrap-link-item"><a>People</a><span class="open-sub-menu"></span></div>
@@ -1202,13 +1202,13 @@ article
 				<div>
 			<div class="container k2t-wrap">
 				<h1 class="main-title" style="">
-					Student News				</h1>
+					College News				</h1>
 				<div class="main-excerpt">
 									</div><!-- .main-excerpt -->
 			</div>
 		</div>
 		
-		<div><div class="container k2t-wrap breadcrumb"><ul class="k2t-breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://engineering.uic.edu">Home</a></li><li class="current">Student News</li></ul></div><!-- k2t-wrap --></div>			
+		<div><div class="container k2t-wrap breadcrumb"><ul class="k2t-breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://engineering.uic.edu">Home</a></li><li class="current">College News</li></ul></div><!-- k2t-wrap --></div>			
 	</div><!-- .k2t-title-bar -->
 
 
@@ -1220,21 +1220,21 @@ article
 			<main class="k2t-main page" role="main">
 					
 					
-<article id="post-1463" class="post-1463 page type-page status-publish hentry">
+<article id="post-1461" class="post-1461 page type-page status-publish hentry">
 
 	<div class="page-entry">
 		<div id="ld_courses_listing">
 			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<h3>2018</h3>
+			<div  id="Z8sdIKgwja" class="k2t-heading align-left no-border no-subtitle h3 two_dots"><div class="k2t-heading-inner"><div class="text"><h3 class="h"><span>2018</span></h3></div></div></div>
 
 		</div>
 	</div>
 </div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
 <!--list Created by W4 Post List Ver 2.1.2-->
-<!--W4_Post_list_3972-->
-<style id="w4pl-css-3972" type="text/css">.w4pl-inner li {
+<!--W4_Post_list_3971-->
+<style id="w4pl-css-3971" type="text/css">.w4pl-inner li {
 position: relative;
 padding-bottom: 10px;
 width: 100%;
@@ -1353,8 +1353,8 @@ line-height: 1.7rem;
 font-family: inherit;
 color: inherit;
 }</style>
-<div id="w4pl-list-3972" class="w4pl news-items">
-	<div id="w4pl-inner-3972" class="w4pl-inner">
+<div id="w4pl-list-3971" class="w4pl news-items">
+	<div id="w4pl-inner-3971" class="w4pl-inner">
 		<div id="accordion">
 	<div class="event-listing-masonry-wrapper">
 		<div class="event-listing-masonry columns-2">
@@ -1363,13 +1363,13 @@ color: inherit;
 				<div class="inner content-wrap k2t-element-hover">
 
 					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
-						<a href="http://cme.uic.edu/2018/09/26/phd-student-awarded-prestigious-eref-scholarship/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/09/girish-kumar-featured-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/09/girish-kumar-featured-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/09/girish-kumar-featured-image-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/09/girish-kumar-featured-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/09/girish-kumar-featured-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/09/girish-kumar-featured-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/09/girish-kumar-featured-image-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/09/girish-kumar-featured-image-435x435.png 435w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+						<a href="https://chicagotonight.wttw.com/2018/09/12/uic-professor-developing-finger-prick-blood-test-toxic-metals#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/09/blood-test-feature-tile-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/09/blood-test-feature-tile-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/09/blood-test-feature-tile-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/09/blood-test-feature-tile-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/09/blood-test-feature-tile-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/09/blood-test-feature-tile-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 					</div>
 					<article class="news-article wrapper">
-						<span class="news-title"><a class="post_title w4pl_post_title" href="http://cme.uic.edu/2018/09/26/phd-student-awarded-prestigious-eref-scholarship/" title="View PhD Student Awarded Prestigious EREF Scholarship">PhD Student Awarded Prestigious EREF Scholarship</a></span>
-						<span class="post-date">September 26, 2018</span>
-						<div class="post-excerpt">Only a handful of students are awarded scholarships by the Environmental Research and Education Foundation (EREF). This year, UIC’s Girish Kumar, a PhD student in the Department of Civil and Materials Engineering was named a recipient.</div>
-						<a class="read_more" href="http://cme.uic.edu/2018/09/26/phd-student-awarded-prestigious-eref-scholarship/" title="More... PhD Student Awarded Prestigious EREF Scholarship">More...</a>
+						<span class="news-title"><a class="post_title w4pl_post_title" href="https://chicagotonight.wttw.com/2018/09/12/uic-professor-developing-finger-prick-blood-test-toxic-metals#new_tab" title="View BioE Professor Developing Finger-Prick Blood Test for Toxic Metals">BioE Professor Developing Finger-Prick Blood Test for Toxic Metals</a></span>
+						<span class="post-date">September 14, 2018</span>
+						<div class="post-excerpt">UIC bioengineering professor Ian Papautsky is spearheading an effort to develop a portable, smartphone-sized sensor that measures human exposure to lead, manganese and possibly other toxic metals using a single finger prick of blood – and that delivers results in minutes.</div>
+						<a class="read_more" href="https://chicagotonight.wttw.com/2018/09/12/uic-professor-developing-finger-prick-blood-test-toxic-metals#new_tab" title="More... BioE Professor Developing Finger-Prick Blood Test for Toxic Metals">More...</a>
 					</article>
 				</div>
 			</div>
@@ -1378,13 +1378,13 @@ color: inherit;
 				<div class="inner content-wrap k2t-element-hover">
 
 					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
-						<a href="https://www.ece.uic.edu/2018/09/25/new-engineering-organization-building-electric-car-and-opportunities/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/09/electric-car-feature-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/09/electric-car-feature-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/09/electric-car-feature-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/09/electric-car-feature-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/09/electric-car-feature-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/09/electric-car-feature-image-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+						<a href="http://www.chicagobusiness.com/education/uic-will-tap-states-500m-discovery-partners-fund-expansion#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/09/cdrlc-feature-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/09/cdrlc-feature-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/09/cdrlc-feature-image-300x298.png 300w, http://engineering.uic.edu/wp-content/uploads/2018/09/cdrlc-feature-image-500x500.png 500w, http://engineering.uic.edu/wp-content/uploads/2018/09/cdrlc-feature-image-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/09/cdrlc-feature-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/09/cdrlc-feature-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/09/cdrlc-feature-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/09/cdrlc-feature-image-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/09/cdrlc-feature-image-435x435.png 435w, http://engineering.uic.edu/wp-content/uploads/2018/09/cdrlc-feature-image.png 594w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 					</div>
 					<article class="news-article wrapper">
-						<span class="news-title"><a class="post_title w4pl_post_title" href="https://www.ece.uic.edu/2018/09/25/new-engineering-organization-building-electric-car-and-opportunities/" title="View New Engineering Organization Building Electric Car and Opportunities">New Engineering Organization Building Electric Car and Opportunities</a></span>
-						<span class="post-date">September 25, 2018</span>
-						<div class="post-excerpt">A new student organization in the College of Engineering called Vehicle Electronics and System Engineering (VESE) is engineering’s newest organization offering students an opportunity to be pioneers as they start designing and building a formula one electric race car to compete in an SAE sanctioned competition next semester in Lincoln, Nebraska, in May.</div>
-						<a class="read_more" href="https://www.ece.uic.edu/2018/09/25/new-engineering-organization-building-electric-car-and-opportunities/" title="More... New Engineering Organization Building Electric Car and Opportunities">More...</a>
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://www.chicagobusiness.com/education/uic-will-tap-states-500m-discovery-partners-fund-expansion#new_tab" title="View New COE building moving along with additional state funding">New COE building moving along with additional state funding</a></span>
+						<span class="post-date">August 31, 2018</span>
+						<div class="post-excerpt">With another record incoming class this year and intense demand from students for computer science as well as health care studies, officials say the two new buildings—one for drug research, one for computer science—are needed.</div>
+						<a class="read_more" href="http://www.chicagobusiness.com/education/uic-will-tap-states-500m-discovery-partners-fund-expansion#new_tab" title="More... New COE building moving along with additional state funding">More...</a>
 					</article>
 				</div>
 			</div>
@@ -1393,13 +1393,13 @@ color: inherit;
 				<div class="inner content-wrap k2t-element-hover">
 
 					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
-						<a href="https://www.plantengineering.com/events-and-awards/engineering-leaders-under-40/2018-engineering-leaders-under-40/single-profile/2018-engineering-leader-under-40-vincent-errichiello-25/1f2d7dee6e48a0cad7f30f1d2a5800d6.html#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/09/vincent-errichiello-feature-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/09/vincent-errichiello-feature-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/09/vincent-errichiello-feature-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/09/vincent-errichiello-feature-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/09/vincent-errichiello-feature-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/09/vincent-errichiello-feature-image-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/09/vincent-errichiello-feature-image.png 300w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+						<a href="https://www.cs.uic.edu/uic-postdoc-researcher-begins-tenure-track-role-at-michigan/#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image-300x300.png 300w, http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image-500x500.png 500w, http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image-600x600.png 600w, http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image-435x435.png 435w, http://engineering.uic.edu/wp-content/uploads/2018/08/eshete-fetured-image.png 646w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 					</div>
 					<article class="news-article wrapper">
-						<span class="news-title"><a class="post_title w4pl_post_title" href="https://www.plantengineering.com/events-and-awards/engineering-leaders-under-40/2018-engineering-leaders-under-40/single-profile/2018-engineering-leader-under-40-vincent-errichiello-25/1f2d7dee6e48a0cad7f30f1d2a5800d6.html#new_tab" title="View ChemE alum among 2018 CFE Media Engineering Leaders Under 40">ChemE alum among 2018 CFE Media Engineering Leaders Under 40</a></span>
-						<span class="post-date">September 13, 2018</span>
-						<div class="post-excerpt">The 2018 CFE Media Engineering Leaders Under 40 are in a class by themselves, but they also have plenty of experience in a class. These 30 manufacturing professionals are by far the best educated group we've recognized since the program began almost a decade ago. </div>
-						<a class="read_more" href="https://www.plantengineering.com/events-and-awards/engineering-leaders-under-40/2018-engineering-leaders-under-40/single-profile/2018-engineering-leader-under-40-vincent-errichiello-25/1f2d7dee6e48a0cad7f30f1d2a5800d6.html#new_tab" title="More... ChemE alum among 2018 CFE Media Engineering Leaders Under 40">More...</a>
+						<span class="news-title"><a class="post_title w4pl_post_title" href="https://www.cs.uic.edu/uic-postdoc-researcher-begins-tenure-track-role-at-michigan/#new_tab" title="View UIC postdoc researcher begins tenure-track role at Michigan">UIC postdoc researcher begins tenure-track role at Michigan</a></span>
+						<span class="post-date">August 30, 2018</span>
+						<div class="post-excerpt">Birhanu Eshete’s connection to computers began in the most analog of ways: seeing a picture and a description of one in a senior-year high school textbook in Ethiopia, where he grew up. </div>
+						<a class="read_more" href="https://www.cs.uic.edu/uic-postdoc-researcher-begins-tenure-track-role-at-michigan/#new_tab" title="More... UIC postdoc researcher begins tenure-track role at Michigan">More...</a>
 					</article>
 				</div>
 			</div>
@@ -1408,13 +1408,13 @@ color: inherit;
 				<div class="inner content-wrap k2t-element-hover">
 
 					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
-						<a href="https://today.uic.edu/first-ever-3d-printed-electrolyte-for-lithium-ion-batteries#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/08/battery-3d-feature-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/08/battery-3d-feature-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/08/battery-3d-feature-image-300x300.png 300w, http://engineering.uic.edu/wp-content/uploads/2018/08/battery-3d-feature-image-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/08/battery-3d-feature-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/08/battery-3d-feature-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/08/battery-3d-feature-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/08/battery-3d-feature-image-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/08/battery-3d-feature-image-435x435.png 435w, http://engineering.uic.edu/wp-content/uploads/2018/08/battery-3d-feature-image.png 470w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+						<a href="http://mie.uic.edu/2018/08/28/master-of-energy-engineering-program-at-uic-offering-two-new-graduate-certificates/#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/08/energy-featured-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/08/energy-featured-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/08/energy-featured-image-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/08/energy-featured-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/08/energy-featured-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/08/energy-featured-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/08/energy-featured-image-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/08/energy-featured-image-435x435.png 435w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 					</div>
 					<article class="news-article wrapper">
-						<span class="news-title"><a class="post_title w4pl_post_title" href="https://today.uic.edu/first-ever-3d-printed-electrolyte-for-lithium-ion-batteries#new_tab" title="View First-ever 3D-printed electrolyte for lithium-ion batteries">First-ever 3D-printed electrolyte for lithium-ion batteries</a></span>
-						<span class="post-date">August 23, 2018</span>
-						<div class="post-excerpt">For the first time, researchers have successfully printed a complete, albeit experimental, lithium-ion battery including a solid-state electrolyte. While electrodes have been produced using 3D-printing technology before, researchers at the University of Illinois at Chicago College of Engineering have printed a stable, yet flexible, solid-state electrolyte using an elevated-temperature extrusion printing technique.</div>
-						<a class="read_more" href="https://today.uic.edu/first-ever-3d-printed-electrolyte-for-lithium-ion-batteries#new_tab" title="More... First-ever 3D-printed electrolyte for lithium-ion batteries">More...</a>
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://mie.uic.edu/2018/08/28/master-of-energy-engineering-program-at-uic-offering-two-new-graduate-certificates/#new_tab" title="View Master of Energy Engineering Program Offering Two New Graduate Certificates">Master of Energy Engineering Program Offering Two New Graduate Certificates</a></span>
+						<span class="post-date">August 28, 2018</span>
+						<div class="post-excerpt">Earning a master’s degree is not an option for everyone. To provide a choice for busy engineers who want to advance their careers, UIC is offering two new opportunities.</div>
+						<a class="read_more" href="http://mie.uic.edu/2018/08/28/master-of-energy-engineering-program-at-uic-offering-two-new-graduate-certificates/#new_tab" title="More... Master of Energy Engineering Program Offering Two New Graduate Certificates">More...</a>
 					</article>
 				</div>
 			</div>
@@ -1423,13 +1423,13 @@ color: inherit;
 				<div class="inner content-wrap k2t-element-hover">
 
 					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
-						<a href="https://today.uic.edu/engineering-students-blast-to-first-place-at-international-competition#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/08/student-rocket-feauture-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/08/student-rocket-feauture-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-rocket-feauture-image-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-rocket-feauture-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-rocket-feauture-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-rocket-feauture-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-rocket-feauture-image-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-rocket-feauture-image-435x435.png 435w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+						<a href="https://today.uic.edu/researchers-put-a-new-spin-on-cooling-electronic-hotspots#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/08/lucy-shi-feature-imge-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/08/lucy-shi-feature-imge-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/08/lucy-shi-feature-imge-300x300.png 300w, http://engineering.uic.edu/wp-content/uploads/2018/08/lucy-shi-feature-imge-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/08/lucy-shi-feature-imge-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/08/lucy-shi-feature-imge-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/08/lucy-shi-feature-imge-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/08/lucy-shi-feature-imge-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/08/lucy-shi-feature-imge-435x435.png 435w, http://engineering.uic.edu/wp-content/uploads/2018/08/lucy-shi-feature-imge.png 470w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 					</div>
 					<article class="news-article wrapper">
-						<span class="news-title"><a class="post_title w4pl_post_title" href="https://today.uic.edu/engineering-students-blast-to-first-place-at-international-competition#new_tab" title="View Engineering students blast to first place at international competition">Engineering students blast to first place at international competition</a></span>
-						<span class="post-date">July 31, 2018</span>
-						<div class="post-excerpt">The UIC chapter of the American Institute of Aeronautics and Astronautics (AIAA) recently won first place in the “30K Solid Rocket-Student Research and Developed Components” category during the second annual Spaceport America CUP at the Las Cruces Convention Center in New Mexico.</div>
-						<a class="read_more" href="https://today.uic.edu/engineering-students-blast-to-first-place-at-international-competition#new_tab" title="More... Engineering students blast to first place at international competition">More...</a>
+						<span class="news-title"><a class="post_title w4pl_post_title" href="https://today.uic.edu/researchers-put-a-new-spin-on-cooling-electronic-hotspots#new_tab" title="View Researchers put a new spin on cooling electronic hotspots">Researchers put a new spin on cooling electronic hotspots</a></span>
+						<span class="post-date">August 7, 2018</span>
+						<div class="post-excerpt">The longevity of electronic devices is tested in many ways as they endure the rigors of daily usage. Even when they are treated with the utmost care, they still have a major challenge to overcome — the removal of heat.</div>
+						<a class="read_more" href="https://today.uic.edu/researchers-put-a-new-spin-on-cooling-electronic-hotspots#new_tab" title="More... Researchers put a new spin on cooling electronic hotspots">More...</a>
 					</article>
 				</div>
 			</div>
@@ -1438,13 +1438,13 @@ color: inherit;
 				<div class="inner content-wrap k2t-element-hover">
 
 					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
-						<a href="https://today.uic.edu/engineering-international-program-sets-stage-for-student-success#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/08/student-here-feature-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/08/student-here-feature-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-here-feature-image-300x300.png 300w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-here-feature-image-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-here-feature-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-here-feature-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-here-feature-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-here-feature-image-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-here-feature-image-435x435.png 435w, http://engineering.uic.edu/wp-content/uploads/2018/08/student-here-feature-image.png 469w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+						<a href="https://phys.org/news/2018-06-blood-spatter-reconstruct-crime-scenes.html#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/08/yarin-featured-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/08/yarin-featured-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/08/yarin-featured-image-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/08/yarin-featured-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/08/yarin-featured-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/08/yarin-featured-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/08/yarin-featured-image-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/08/yarin-featured-image-435x435.png 435w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 					</div>
 					<article class="news-article wrapper">
-						<span class="news-title"><a class="post_title w4pl_post_title" href="https://today.uic.edu/engineering-international-program-sets-stage-for-student-success#new_tab" title="View Engineering international program sets stage for student success">Engineering international program sets stage for student success</a></span>
-						<span class="post-date">July 18, 2018</span>
-						<div class="post-excerpt">Located in the heart of Chicago, UIC offers students a unique educational experience and work opportunities in a world-class city. </div>
-						<a class="read_more" href="https://today.uic.edu/engineering-international-program-sets-stage-for-student-success#new_tab" title="More... Engineering international program sets stage for student success">More...</a>
+						<span class="news-title"><a class="post_title w4pl_post_title" href="https://phys.org/news/2018-06-blood-spatter-reconstruct-crime-scenes.html#new_tab" title="View Developing better blood spatter models to reconstruct crime scenes">Developing better blood spatter models to reconstruct crime scenes</a></span>
+						<span class="post-date">June 26, 2018</span>
+						<div class="post-excerpt">Blood spatter can provide a lot of informanulltion to an investigator at a crime scene. Unfortunately, current methods do not tell the whole story.</div>
+						<a class="read_more" href="https://phys.org/news/2018-06-blood-spatter-reconstruct-crime-scenes.html#new_tab" title="More... Developing better blood spatter models to reconstruct crime scenes">More...</a>
 					</article>
 				</div>
 			</div>
@@ -1453,13 +1453,13 @@ color: inherit;
 				<div class="inner content-wrap k2t-element-hover">
 
 					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
-						<a href="http://www.chicagotribune.com/suburbs/glen-ellyn/community/chi-ugc-article-college-of-dupage-stem-student-success-progra-2018-06-21-story.html#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/08/stem-students-featured-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/08/stem-students-featured-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/08/stem-students-featured-image-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/08/stem-students-featured-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/08/stem-students-featured-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/08/stem-students-featured-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/08/stem-students-featured-image-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/08/stem-students-featured-image-435x435.png 435w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+						<a href="https://phys.org/news/2018-06-smallest-nanoparticle-stabilized-nanoemulsions-technique.html#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/08/nanoparticle-feature-image-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/08/nanoparticle-feature-image-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/08/nanoparticle-feature-image-300x300.png 300w, http://engineering.uic.edu/wp-content/uploads/2018/08/nanoparticle-feature-image-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/08/nanoparticle-feature-image-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/08/nanoparticle-feature-image-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/08/nanoparticle-feature-image-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/08/nanoparticle-feature-image-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/08/nanoparticle-feature-image-435x435.png 435w, http://engineering.uic.edu/wp-content/uploads/2018/08/nanoparticle-feature-image.png 470w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 					</div>
 					<article class="news-article wrapper">
-						<span class="news-title"><a class="post_title w4pl_post_title" href="http://www.chicagotribune.com/suburbs/glen-ellyn/community/chi-ugc-article-college-of-dupage-stem-student-success-progra-2018-06-21-story.html#new_tab" title="View STEM Student Success Program Opens Doors for Underserved Students">STEM Student Success Program Opens Doors for Underserved Students</a></span>
-						<span class="post-date">June 21, 2018</span>
-						<div class="post-excerpt">Avitia is transferring to the University of Illinois at Chicago this fall to pursue a bachelor's degree in civil engineering, a choice he said will provide him the best of his lifelong interest in architecture and engineering. </div>
-						<a class="read_more" href="http://www.chicagotribune.com/suburbs/glen-ellyn/community/chi-ugc-article-college-of-dupage-stem-student-success-progra-2018-06-21-story.html#new_tab" title="More... STEM Student Success Program Opens Doors for Underserved Students">More...</a>
+						<span class="news-title"><a class="post_title w4pl_post_title" href="https://phys.org/news/2018-06-smallest-nanoparticle-stabilized-nanoemulsions-technique.html#new_tab" title="View Researchers create one of the smallest nanoparticle stabilized nanoemulsions">Researchers create one of the smallest nanoparticle stabilized nanoemulsions</a></span>
+						<span class="post-date">June 23, 2018</span>
+						<div class="post-excerpt">MIE Assistant Professor Sushant Anand and his research associates have had multiple breakthroughs with their work on oil-water mixtures or "emulsions." </div>
+						<a class="read_more" href="https://phys.org/news/2018-06-smallest-nanoparticle-stabilized-nanoemulsions-technique.html#new_tab" title="More... Researchers create one of the smallest nanoparticle stabilized nanoemulsions">More...</a>
 					</article>
 				</div>
 			</div>
@@ -1468,13 +1468,13 @@ color: inherit;
 				<div class="inner content-wrap k2t-element-hover">
 
 					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
-						<a href="https://www.cs.uic.edu/cs-dept-increases-diversity-awareness-with-help-of-braid/#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/08/braid-feature-tile-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/08/braid-feature-tile-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/08/braid-feature-tile-300x298.png 300w, http://engineering.uic.edu/wp-content/uploads/2018/08/braid-feature-tile-500x500.png 500w, http://engineering.uic.edu/wp-content/uploads/2018/08/braid-feature-tile-414x414.png 414w, http://engineering.uic.edu/wp-content/uploads/2018/08/braid-feature-tile-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/08/braid-feature-tile-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/08/braid-feature-tile-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/08/braid-feature-tile-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/08/braid-feature-tile-435x435.png 435w, http://engineering.uic.edu/wp-content/uploads/2018/08/braid-feature-tile.png 587w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+						<a href="http://engineering.uic.edu/2018/04/26/celebrating-the-life-of-professor-faydor-litvin/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/04/Prof-Litvan_Group1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Dr. Faydor Litvin (center) with PhD students (L-R) Qi Fan, Paolo Ruzziconi, Ignacio Gonzalez-Perez, Alessandro Piscopo, Serhan Acikgoz, Luca Carnevali." size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/04/Prof-Litvan_Group1-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2018/04/Prof-Litvan_Group1-500x500.jpg 500w, http://engineering.uic.edu/wp-content/uploads/2018/04/Prof-Litvan_Group1-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2018/04/Prof-Litvan_Group1-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2018/04/Prof-Litvan_Group1-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2018/04/Prof-Litvan_Group1-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2018/04/Prof-Litvan_Group1-435x435.jpg 435w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 					</div>
 					<article class="news-article wrapper">
-						<span class="news-title"><a class="post_title w4pl_post_title" href="https://www.cs.uic.edu/cs-dept-increases-diversity-awareness-with-help-of-braid/#new_tab" title="View CS Dept. increases diversity awareness with help of BRAID and COE">CS Dept. increases diversity awareness with help of BRAID and COE</a></span>
-						<span class="post-date">June 12, 2018</span>
-						<div class="post-excerpt">The UIC Computer Science Department is looking to almost double the number of students it will send to the Annual Grace Hopper Celebration (GHC) taking place in Houston later this fall. </div>
-						<a class="read_more" href="https://www.cs.uic.edu/cs-dept-increases-diversity-awareness-with-help-of-braid/#new_tab" title="More... CS Dept. increases diversity awareness with help of BRAID and COE">More...</a>
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2018/04/26/celebrating-the-life-of-professor-faydor-litvin/" title="View Celebrating the Life of Distinguished Professor Emeritus Faydor Litvin">Celebrating the Life of Distinguished Professor Emeritus Faydor Litvin</a></span>
+						<span class="post-date">April 26, 2018</span>
+						<div class="post-excerpt">In Memoriam Faydor L. Litvin January 21, 1914 – April 26, 2017 On April 26, 2017, the scientific community of mechanical engineers worldwide lost a renowned scientist, a great educator, and a remarkable person who dedicated his life to the development of the modern theory of gearing and made enormous contributions to the development of the theory of mechanisms.Professor Litvin had been recognized as a renowned authority in kinematics and the theory of gearing. A whole epoch in the theory of gearing is concerned with the name of Professor Litvin. He is the author of one of the most fundamental and cited works in the field—a well-known monograph, The Theory of Gearing, which underwent six editions.In a way, he really lived two lives—the first in Russia,&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2018/04/26/celebrating-the-life-of-professor-faydor-litvin/" title="More... Celebrating the Life of Distinguished Professor Emeritus Faydor Litvin">More...</a>
 					</article>
 				</div>
 			</div>
@@ -1483,13 +1483,43 @@ color: inherit;
 				<div class="inner content-wrap k2t-element-hover">
 
 					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
-						<a href="/expo-2018/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/01/expo2017-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Students displaying their senior design project" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/01/expo2017-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2018/01/expo2017-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2018/01/expo2017-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2018/01/expo2017-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2018/01/expo2017-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2018/01/expo2017-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2018/01/expo2017.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+						<a href="http://engineering.uic.edu/2018/02/09/tech-talk-building-smart-buildings/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/02/P1081039-ENG-tech-talk_12.5x18-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Tech Talk Graphic" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/02/P1081039-ENG-tech-talk_12.5x18-1-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2018/02/P1081039-ENG-tech-talk_12.5x18-1-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2018/02/P1081039-ENG-tech-talk_12.5x18-1.jpg 500w, http://engineering.uic.edu/wp-content/uploads/2018/02/P1081039-ENG-tech-talk_12.5x18-1-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2018/02/P1081039-ENG-tech-talk_12.5x18-1-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2018/02/P1081039-ENG-tech-talk_12.5x18-1-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2018/02/P1081039-ENG-tech-talk_12.5x18-1-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2018/02/P1081039-ENG-tech-talk_12.5x18-1-435x435.jpg 435w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 					</div>
 					<article class="news-article wrapper">
-						<span class="news-title"><a class="post_title w4pl_post_title" href="/expo-2018/" title="View Our 29th Annual Engineering EXPO is coming">Our 29th Annual Engineering EXPO is coming</a></span>
-						<span class="post-date">January 18, 2018</span>
-						<div class="post-excerpt">Friday, April 27, 2018. Today’s UIC senior engineering students will become tomorrow’s engineers. Join them along with faculty, parents, and friends to experience their senior design projects at UIC’s EXPO, a celebration of invention, ingenuity, and achievement.</div>
-						<a class="read_more" href="/expo-2018/" title="More... Our 29th Annual Engineering EXPO is coming">More...</a>
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2018/02/09/tech-talk-building-smart-buildings/" title="View Tech Talk: Building Smart Buildings">Tech Talk: Building Smart Buildings</a></span>
+						<span class="post-date">February 9, 2018</span>
+						<div class="post-excerpt">Interested in next-generation building data analytics? Please join us for the first tech talk of the year on February 22, 2018 at 5pm in SEO Room 1000.Guest speakers will include Vytenis Milunas, PE (BS '82), Director of Project Management at UIC; Paul Beukema, Consultant Engineer Specialist at Honeywell; Aaron Mason, Director of Operations at Hawkeye Energy Systems; and John Villani, Vice President at Grumman/Butkus Associates.Light refreshments will be served. RSVP here or to eaa-admin@uic.edu.</div>
+						<a class="read_more" href="http://engineering.uic.edu/2018/02/09/tech-talk-building-smart-buildings/" title="More... Tech Talk: Building Smart Buildings">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2018/01/26/attention-juniors-looking-to-connect-with-a-uic-alum-to-gain-industry-knowledge/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/01/Mentoring-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Mentoring Program Hand Shaking Icon" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/01/Mentoring-150x150.png 150w, http://engineering.uic.edu/wp-content/uploads/2018/01/Mentoring-300x300.png 300w, http://engineering.uic.edu/wp-content/uploads/2018/01/Mentoring-500x500.png 500w, http://engineering.uic.edu/wp-content/uploads/2018/01/Mentoring-55x55.png 55w, http://engineering.uic.edu/wp-content/uploads/2018/01/Mentoring-80x80.png 80w, http://engineering.uic.edu/wp-content/uploads/2018/01/Mentoring-130x130.png 130w, http://engineering.uic.edu/wp-content/uploads/2018/01/Mentoring-100x100.png 100w, http://engineering.uic.edu/wp-content/uploads/2018/01/Mentoring-435x435.png 435w, http://engineering.uic.edu/wp-content/uploads/2018/01/Mentoring.png 568w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2018/01/26/attention-juniors-looking-to-connect-with-a-uic-alum-to-gain-industry-knowledge/" title="View Attention Juniors! Looking to connect with a UIC alum to gain industry knowledge?">Attention Juniors! Looking to connect with a UIC alum to gain industry knowledge?</a></span>
+						<span class="post-date">January 26, 2018</span>
+						<div class="post-excerpt">Check out the College of Engineering Mentoring Program.The goal is to bring together students and alumni to discuss professionalism, aspirations and ideas regarding the varied career pathways within engineering. These relationships provide a learning experience outside the classroom, where you can learn more about the transition into career from a UIC College of Engineering alum.Complete the quick application here.&nbsp;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2018/01/26/attention-juniors-looking-to-connect-with-a-uic-alum-to-gain-industry-knowledge/" title="More... Attention Juniors! Looking to connect with a UIC alum to gain industry knowledge?">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2018/01/05/motor-row-the-auto-show/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2018/01/P1800912-ENG-auto_show_social_square-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Auto Show Graphic" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2018/01/P1800912-ENG-auto_show_social_square-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2018/01/P1800912-ENG-auto_show_social_square-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2018/01/P1800912-ENG-auto_show_social_square-500x500.jpg 500w, http://engineering.uic.edu/wp-content/uploads/2018/01/P1800912-ENG-auto_show_social_square-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2018/01/P1800912-ENG-auto_show_social_square-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2018/01/P1800912-ENG-auto_show_social_square-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2018/01/P1800912-ENG-auto_show_social_square-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2018/01/P1800912-ENG-auto_show_social_square-435x435.jpg 435w, http://engineering.uic.edu/wp-content/uploads/2018/01/P1800912-ENG-auto_show_social_square.jpg 550w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2018/01/05/motor-row-the-auto-show/" title="View Motor Row &amp; the Auto Show">Motor Row &amp; the Auto Show</a></span>
+						<span class="post-date">January 5, 2018</span>
+						<div class="post-excerpt">Join the UIC College of Engineering on Saturday, February 17, 2018 for brunch at Motor Row Brewing and an outing at the Chicago Auto Show. Connect with UIC Engineering alumni and meet UIC Motorsports—the College's Society of Automotive Engineers—whose award-winning formula and baja cars will be on display for the sixth year in a row. Tickets are $25, which include brunch and admission to the Chicago Auto Show.10:30 a.m. Enjoy Brunch at Motor Row Brewing (2337 South Michigan Avenue, Chicago IL 60616)12:00 p.m. Meet UIC Motorsports at McCormick Place (2301 South King Drive, Chicago, IL 60616)12:30 p.m. Explore the Chicago Auto ShowSuggested Parking: Southwest corner of McCormick Place Parking Lot A. Rate is $23 for up to 16 hours. The Chicago&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2018/01/05/motor-row-the-auto-show/" title="More... Motor Row &amp; the Auto Show">More...</a>
 					</article>
 				</div>
 			</div>
@@ -1497,9 +1527,9 @@ color: inherit;
 		</div>
 	</div>
 </div>
-	</div><!--#w4pl-inner-3972-->
-</div><!--#w4pl-3972-->
-<script id="w4pl-js-3972" type="text/javascript">var shorten_excerpt = function() {
+	</div><!--#w4pl-inner-3971-->
+</div><!--#w4pl-3971-->
+<script id="w4pl-js-3971" type="text/javascript">var shorten_excerpt = function() {
 
 var excerpts = document.getElementsByClassName('post-excerpt');
 if ( document.documentElement.clientWidth > 950 || document.documentElement.clientWidth < 750) {
@@ -1600,106 +1630,106 @@ $(".w4pl-inner #accordion").accordion({
     }); 
 }); */</script>
 
-<!--END_W4_Post_list_3972-->
+<!--END_W4_Post_list_3971-->
 </div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="yxaKPkZUbI" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/student-news-2017/" target="_self"><span class="button-text" style=""><span class="text">2017</span></span></a></div>
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="BQlrEAYcCf" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/college-news-2017/" target="_self"><span class="button-text" style=""><span class="text">2017</span></span></a></div>
 
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="dcHtrfCmSN" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/student-news-2016/" target="_self"><span class="button-text" style=""><span class="text">2016</span></span></a></div>
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="UgzILRfvDm" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/college-news-2016/" target="_self"><span class="button-text" style=""><span class="text">2016</span></span></a></div>
 
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="DGlnYdVROv" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/student-news-2015/" target="_self"><span class="button-text" style=""><span class="text">2015</span></span></a></div>
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="riwcGZBAlm" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/college-news-2015/" target="_self"><span class="button-text" style=""><span class="text">2015</span></span></a></div>
 
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="rGQhOBNWyR" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/student-news-2014/" target="_self"><span class="button-text" style=""><span class="text">2014</span></span></a></div>
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="hPSbgXreAB" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/college-news-2014/" target="_self"><span class="button-text" style=""><span class="text">2014</span></span></a></div>
 
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="aupnAlEDIQ" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/student-news-2013/" target="_self"><span class="button-text" style=""><span class="text">2013</span></span></a></div>
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="SRqCzsbUFX" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/college-news-2013/" target="_self"><span class="button-text" style=""><span class="text">2013</span></span></a></div>
 
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="aEdTQsXyLZ" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/student-news-2012/" target="_self"><span class="button-text" style=""><span class="text">2012</span></span></a></div>
-
-		</div>
-	</div>
-</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="wQAUsXFmeM" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/student-news-2011/" target="_self"><span class="button-text" style=""><span class="text">2011</span></span></a></div>
-
-		</div>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="OSeKWfkpmv" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/student-news-2010/" target="_self"><span class="button-text" style=""><span class="text">2010</span></span></a></div>
-
-		</div>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="qKGuUaLYZt" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2009_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2009</span></span></a></div>
-
-		</div>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="klPwQBORjZ" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2008_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2008</span></span></a></div>
-
-		</div>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="iXmHUvgypK" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2007_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2007</span></span></a></div>
-
-		</div>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="KXCOlkpaJQ" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2006_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2006</span></span></a></div>
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="omYfTJrzKZ" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/college-news-2012/" target="_self"><span class="button-text" style=""><span class="text">2012</span></span></a></div>
 
 		</div>
 	</div>
 </div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="ieLUGHMOaE" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2005_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2005</span></span></a></div>
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="eJyrGYvqmf" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/college-news-2011/" target="_self"><span class="button-text" style=""><span class="text">2011</span></span></a></div>
 
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<div class="k2t-button button-default align-center button-fullwidth"><a id="rxRJLjMaQS" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2004_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2004</span></span></a></div>
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="eAgiHFIrYE" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/college-news-2010/" target="_self"><span class="button-text" style=""><span class="text">2010</span></span></a></div>
 
 		</div>
 	</div>
-</div></div></div></div><p></p>		</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="HAoOtdZiyG" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2009_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2009</span></span></a></div>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="AnyiWaEpOF" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2008_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2008</span></span></a></div>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="jTZMAwNhOV" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2007_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2007</span></span></a></div>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="AoIHGpafBj" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2006_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2006</span></span></a></div>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="LdkoiXzIls" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2005_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2005</span></span></a></div>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="k2t-button button-default align-center button-fullwidth"><a id="zQYCOLWRkU" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://www.uic.edu/depts/enga/newsarchive/2004_news_archive.htm" target="_blank"><span class="button-text" style=""><span class="text">2004</span></span></a></div>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div><p></p>		</div>
 	</div><!-- .page-entry -->
 	
 </article><!-- #post-## -->
@@ -1736,7 +1766,7 @@ Chicago, IL 60607</a></p><span class="fa fa-phone"> </span> <span style="padding
 <li id="menu-item-2062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2062"><a href="http://engineering.uic.edu/scholarships/">Scholarships</a></li>
 <li id="menu-item-3772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3772"><a href="http://engineeringalumni.uic.edu">Alumni</a></li>
 <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"><a href="http://engineering.uic.edu/contact/">Contact</a></li>
-</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="gzCTcXdrPn" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
+</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="FSYIZmBonD" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
 		</aside></div><div class="col-3"><aside id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widget-title"><span>Resources</span></h4><div class="menu-footer-secondary-menu-container"><ul id="menu-footer-secondary-menu" class="menu"><li id="menu-item-2067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2067"><a href="http://vcsa.uic.edu/">Student Affairs</a></li>
 <li id="menu-item-2201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2201"><a href="http://www.uic.edu/apps/departments-az/search">Directory</a></li>
 <li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1694"><a href="http://engineering.uic.edu/offices/">Offices</a></li>
@@ -1850,7 +1880,7 @@ var mainParams = {"sticky_menu":"","smart_sticky":"0"};
 
 <script type='text/javascript'>
 /* <![CDATA[ */
-var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"276d87e536","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"ee093dbe34","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
 /* ]]> */
 </script>
 
@@ -1876,7 +1906,7 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
 Minified using disk
-Database Caching 47/107 queries in 0.149 seconds using disk
+Database Caching 48/113 queries in 0.171 seconds using disk
 
-Served from: engineering.uic.edu @ 2018-11-24 06:30:56 by W3 Total Cache
+Served from: engineering.uic.edu @ 2018-11-24 23:05:45 by W3 Total Cache
 -->

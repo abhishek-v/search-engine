@@ -13,13 +13,13 @@
 
 <head profile="http://www.w3.org/1999/xhtml/vocab">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="up" href="/LTS" />
-<link rel="next" href="/service/acccell" />
-<link rel="prev" href="/service/wiki" />
-<link rel="shortlink" href="/node/450" />
+<link rel="up" href="/service/email-and-calendaring" />
+<link rel="next" href="/service/googleapps/migration" />
+<link rel="prev" href="/service/email-and-calendaring" />
+<link rel="shortlink" href="/node/417" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="/service/equipment-lending" />
-  <title>Equipment Lending | Academic Computing and Communications Center  </title>
+<link rel="canonical" href="/service/g-suite" />
+  <title>G Suite (formerly Google Apps) | Academic Computing and Communications Center  </title>
   <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_C97MNtte-L48LG9bh-ZvFzSRgqR9x1gIfrvIDp9o6Y4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_OsO2r3O_I2E-8-khV3NulWZIRJOw7aXphEVlJbgm2xI.css" media="all" />
@@ -44,11 +44,11 @@
 <script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"22DHrjxMYsY4C5MoSpcWHGhYrpZs7FJYwDiwqgdJbAU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/service\/equipment-lending":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"OKk9_-P3QtDogSVJiNql1gmUqXzh8Rhdwye0W9K3yD0","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/service\/g-suite":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
 //--><!]]>
 </script>
 </head>
-<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-450 node-type-service-catalog-entry footer-columns" >
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-417 node-type-service-catalog-entry footer-columns" >
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
     <a href="/service/learning-environments/accessibility" class="element-invisible element-focusable">Accessibility Resources</a>
@@ -77,13 +77,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     
   <div class="content">
-    <form class="google-cse" action="/service/equipment-lending" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <form class="google-cse" action="/service/g-suite" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
       <h2 class="element-invisible">Search form</h2>
     <div class="form-item form-type-textfield form-item-search-block-form">
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-reWYnZvG8ZvHumQgxH2axhbnnoLr0VeB8UYL_YtZm3E" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-0KUThMd939us2QgQGJHUz6TUfSdnoIEARTeiHhrNhno" />
 <input type="hidden" name="form_id" value="search_block_form" />
 </div>
 </div></form>  </div>
@@ -120,24 +120,80 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <div class="region region-sidebar-first">
     <div id="block-book-navigation" class="block block-book">
 
-    <h2><a href="/policies" class="block-title-link"><a href="/LTS" class="book-title">Learning Technology Solutions</a></a></h2>
+    <h2><a href="/policies" class="block-title-link"><a href="/service/email-and-calendaring" class="book-title">Email and Calendaring</a></a></h2>
   
   <div class="content">
-    <ul class="menu clearfix"><li class="first collapsed"><a href="/service/collaboration-tools">Collaboration Tools</a></li>
-<li class="expanded active-trail"><a href="/service/equipment-lending" class="active-trail active">Equipment Lending</a><ul class="menu clearfix"><li class="first leaf"><a href="/service/acccell">ACCC Extended Laptop Loan (ACCCELL)</a></li>
-<li class="last leaf"><a href="/service/equipment-lending/classroom-equipment-lending">Classroom Equipment Lending</a></li>
+    <ul class="menu clearfix"><li class="first expanded active-trail"><a href="/service/g-suite" class="active-trail active">G Suite (formerly Google Apps)</a><ul class="menu clearfix"><li class="first leaf"><a href="/service/googleapps/migration">ACCC Email Migration to UIC Gmail</a></li>
+<li class="leaf"><a href="/service/googleapps/configuration">GSuite Client Configuration</a></li>
+<li class="leaf"><a href="/gmail">Gmail</a></li>
+<li class="leaf"><a href="/service/googleaps/calendar">Google Calendar</a></li>
+<li class="leaf"><a href="/service/googleapps/groups">Google Groups</a></li>
+<li class="leaf"><a href="/service/googleapps/sites">Google Sites</a></li>
+<li class="leaf"><a href="/service/googleapps/accessibility">GoogleApps Accessibility</a></li>
+<li class="last leaf"><a href="/service/googleapps/security">GoogleApps Security and Privacy</a></li>
 </ul></li>
-<li class="leaf"><a href="/service/event-support-av">Event Support (Audio/Visual)</a></li>
-<li class="leaf"><a href="/service/learning-design-and-development">Learning Design and Development</a></li>
-<li class="collapsed"><a href="/service/learning-environments">Learning Environments</a></li>
-<li class="collapsed"><a href="/service/learning-management-system">Learning Management System</a></li>
-<li class="collapsed"><a href="/service/lecture-capture">Lecture Capture</a></li>
-<li class="leaf"><a href="/service/media-conversion">Media Conversion</a></li>
-<li class="collapsed"><a href="/service/media-streaming">Media Streaming</a></li>
-<li class="collapsed"><a href="/service/multimedia-production">Multimedia Production</a></li>
-<li class="collapsed"><a href="/service/printing">Printing</a></li>
-<li class="last collapsed"><a href="/service/professional-development-training">Professional Development &amp; Training</a></li>
+<li class="collapsed"><a href="/service/exchange">Exchange</a></li>
+<li class="collapsed"><a href="/service/uicalendar">UICalendar</a></li>
+<li class="leaf"><a href="/service/email-and-calendaring/addressbook">Addressbook Conversion</a></li>
+<li class="leaf"><a href="/service/email-and-calendaring/phishing">Phishing</a></li>
+<li class="last leaf"><a href="/service/email-and-calendaring/directory">Campus Email Directory</a></li>
 </ul>  </div>
+</div>
+<div id="block-views-answers-block-4" class="block block-views">
+
+    <h2><a href="/answer/G%20Suite%20%28formerly%20Google%20Apps%29" class="block-title-link">Answers related to G Suite (formerly Google Apps)</a></h2>
+  
+  <div class="content">
+    <div class="view view-answers view-id-answers view-display-id-block_4 nocontent view-dom-id-bbc29381e34a7f106e526ea6aeb10f30">
+            <div class="view-header">
+      Displaying 15 of 22 answers    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-set-out-office-or-vacation-email-auto-reply">How do I set up an out-of-office or vacation email auto-reply?</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-check-my-uic-email">How do I check my UIC email?</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-create-calendar-google-group">How do I create a calendar for a Google Group?</a></span>  </span></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-update-my-uic-email-forwarding">How do I update my UIC email forwarding?</a></span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/what-email-address-my-googleappsuic-account">What is the email address for my GoogleApps@UIC account?</a></span>  </span></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/what-difference-between-pop-and-imap">What is the difference between POP and IMAP?</a></span>  </span></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-use-uic-email-address-book-outlook">How do I use the UIC email address book with Outlook?</a></span>  </span></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-use-pine-alpine-googleapps">How do I use pine (Alpine) with GoogleApps?</a></span>  </span></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-use-uic-email-address-book-my-mac">How do I use the UIC email address book on my Mac?</a></span>  </span></li>
+          <li class="views-row views-row-10 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-export-my-uicalendar-data">How do I export my UICalendar data?</a></span>  </span></li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-report-spam-or-account-abuse-googleappsuic-gmail">How do I report spam or account abuse for GoogleApps@UIC gmail?</a></span>  </span></li>
+          <li class="views-row views-row-12 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-move-my-contacts-googleapps">How do I move my contacts into GoogleApps?</a></span>  </span></li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/is-googleappsuic-gmail-compatible-listserv-email-lists">Is GoogleApps@UIC Gmail compatible with Listserv email lists?</a></span>  </span></li>
+          <li class="views-row views-row-14 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-change-how-my-name-appears-email">How do I change how my name appears in email?</a></span>  </span></li>
+          <li class="views-row views-row-15 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-import-my-other-google-calendar-googleappsuic">How do I import my other Google Calendar into GoogleApps@UIC?</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/answer/G%20Suite%20%28formerly%20Google%20Apps%29">
+    View more answers  </a>
+</div>
+  
+  
+  
+</div>  </div>
 </div>
   </div>
       </div></div> <!-- /.section, /#sidebar-first -->
@@ -145,119 +201,56 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div id="content" class="column"><div class="section">
             <a id="main-content"></a>
                     <h1 class="title" id="page-title">
-          Equipment Lending        </h1>
+          G Suite (formerly Google Apps)        </h1>
                           <div class="tabs">
                   </div>
                           <div class="region region-content">
     <div class="ds-1col node node-service-catalog-entry node-full view-mode-full clearfix">
 
   
-  <div id="node-service-catalog-entry-full-group-borderwrap" class=" group-borderwrap field-group-div"><div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Category:&nbsp;</strong><span class="field-items"><a href="/category/facilities-and-equipment" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Facilities and Equipment</a>, <a href="/category/learning-tools" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Learning Tools</a></span></div><div class="field field-name-field-audience field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Audience:&nbsp;</strong><span class="field-items"><a href="/audience/faculty" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Faculty</a>, <a href="/audience/staff" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Staff</a>, <a href="/audience/students" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Students</a>, <a href="/audience/it" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">IT</a></span></div><div class="field field-name-field-launch field-type-link-field field-label-hidden"><div class="field-item odd first last"><a href="http://accc.uic.edu/policy/equipment-loan" target="_blank">Equipment Lending Policy</a></div></div></div><h2 class="field-label">Overview&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>The ACCC provides multimedia equipment for a variety of uses:</p>
-<ul><li>Students may check out laptops and other multimedia equipment for three days at a time, at no cost, from several locations on campus.
-<ul><li>Laptops are limited to three total checkouts per semester, in order to ensure the limited supply of laptops is available to as many students as possible.</li>
-</ul></li>
-<li>Faculty may reserve or check out laptops and other multimedia equipment for use in a specific class session, at no cost, from the ACCC-LTS Support office.</li>
-<li>Faculty may check out multimedia equipment for three days at a time, at no cost, from the ACCC-LTS Multimedia Lab.</li>
-<li>Students, faculty, or staff can rent multimedia equipment for scheduled events, for a fee. Details of this service are found at the <a href="/service/event-support-av">Event Support (Audio/Visual) service page</a>.</li>
-</ul></div></div><h2 class="field-label">Features&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p><strong>Students:</strong></p>
-<p>Students are able to check out equipment/accessories from three locations on campus:</p>
-<ul><li>BSB Learning Center (first floor of BSB next to cafeteria)
-<ul><li>Windows Laptops</li>
-<li>Device Charging cables/adapters</li>
-</ul></li>
-<li>Daley Library (LTS Multimedia Lab, formerly Instructional Technology Lab East)
-<ul><li>Windows Laptops for general use</li>
-<li>Windows and Apple Laptops dedicated to multimedia production/editing use</li>
-<li>Digital Projectors</li>
-<li>Camcorders
-<ul><li>Tripods</li>
-<li>SD Card</li>
-</ul></li>
-<li>Digital Audio Recorders</li>
-<li>USB Headsets</li>
-<li>and more!</li>
-</ul></li>
-</ul><p>The checkout duration for students is three business days, and a checkout can be renewed one time for an additional three days, but the student must physically return to the checkout location with the equipment to renew the checkout.  Equipment checkouts to students are first-come, first-serve, there are no reservations.</p>
-<p><strong>Faculty:</strong></p>
-<p><strong>In-Class Use:</strong></p>
-<p>Faculty/Instructors are able to check out equipment for use in a particular class session.  Checkouts are made for the duration of a class session and must be returned promptly to be available for other instructors.  Equipment can be checked out from the LTS Support office at Lecture Center E, room E112 (west side of the building).  The following equipment is available for this type of checkout:</p>
-<p>Larger equipment such as the TV monitors can be delivered and setup in the classroom.  High-value items such as laptops and projectors *must* be checked out in person from the office.  Instructors are able to designate a Teaching Assistant to pick up equipment in their stead.</p>
-<ul><li>Wireless microphone for use in specific classrooms</li>
-<li>Audio/Video Adapters for connecting devices to installed equipment in classrooms</li>
-<li>Windows Laptops</li>
-<li>Apple Laptops</li>
-<li>Digital Projectors</li>
-<li>Portable Speakers</li>
-<li>Camcorders
-<ul><li>Tripods</li>
-<li>SD Cards</li>
-</ul></li>
-<li>Digital Audio Recorders</li>
-<li>Multi-region DVD players (for playback of international DVDs)</li>
-<li>DVD/VHS players</li>
-<li>USB Microphones</li>
-<li>USB Webcams</li>
-<li>Handheld wired microphones with speakers</li>
-</ul><p><strong>Multiple-Day Use:</strong></p>
-<p>Faculty/Instructors are able to check out multimedia equipment for the purpose of multimedia development, from the ACCC-LTS Multimedia Lab, located in the Daley Library room 1-030 (formerly the Instructional Technology Lab East).  Checkouts are for three business days.  The following equipment is available at this location:</p>
-<ul><li>Windows Laptops</li>
-<li>Apple Laptops</li>
-<li>iPads</li>
-<li>Digital Projectors</li>
-<li>Camcorders
-<ul><li>Tripods</li>
-<li>SD Card</li>
-</ul></li>
-<li>Digital Audio Recorders</li>
-<li>USB Headsets</li>
-<li>and more!</li>
-</ul></div></div><h2 class="field-label">Applicability&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>In order to check out equipment from the ACCC, you must be a current student, faculty, or staff member.  All lending of equipment is subject to the <a href="/policy/equipment-loan" target="_parent">Equipment Lending Policy</a>.</p>
-</div></div><h2 class="field-label">Cost&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>There are no up-front costs associated with checkout of equipment to students or faculty.  However, fines may be incurred per the <a href="/policy/equipment-loan" target="_parent">Equipment Lending Policy</a>.</p>
-<p>There are rental fees associated with checkout of equipment for scheduled events.  These costs are detailed at the <a href="/service/event-support-av">Event Support (Audio/Visual) service page</a>.</p>
-</div></div><h2 class="field-label">Support&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><thead><tr><th scope="col" style="width:35%">Session</th>
-<th scope="col">Daley Library Equipment Lending Hours</th>
-</tr></thead><tbody><tr><td>Fall and Spring</td>
-<td>Weekdays 9:00 am - 5:00 pm</td>
-</tr><tr><td>Summer 1 (4 week)</td>
-<td>Weekdays 9:00 am - 5:00 pm</td>
-</tr><tr><td>Summer 2 (8 week)</td>
-<td>Weekdays 9:00 am - 5:00 pm</td>
-</tr><tr><td>Between sessions</td>
-<td>Closed</td>
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item odd"><img typeof="foaf:Image" src="https://accc.uic.edu/sites/default/files/styles/medium/public/google-logo.png?itok=gqxXBT-f" width="220" height="85" alt="" /></div></div></div><div id="node-service-catalog-entry-full-group-borderwrap" class=" group-borderwrap field-group-div"><div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Category:&nbsp;</strong><span class="field-items"><a href="/category/accounts-and-passwords" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Accounts and Passwords</a>, <a href="/category/email-calendar-and-communications" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Email, Calendar and Communications</a></span></div><div class="field field-name-field-audience field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Audience:&nbsp;</strong><span class="field-items"><a href="/audience/faculty" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Faculty</a>, <a href="/audience/staff" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Staff</a>, <a href="/audience/students" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Students</a></span></div><div class="field field-name-field-launch field-type-link-field field-label-hidden"><div class="field-item odd first"><a href="http://gmail.uic.edu" target="_blank">Log in to GoogleApps@UIC</a></div><div class="field-item even last"><a href="http://accountportal.accc.uic.edu" target="_blank">Create a GoogleApps@UIC account</a></div></div></div><h2 class="field-label">Overview&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p><a href="http://gmail.uic.edu">GoogleApps@UIC</a> is a suite of tools used for communication and collaboration. It includes Gmail, Google Drive, Google Sites, Google Groups and Google Calendar.</p>
+</div></div><h2 class="field-label">Features&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><thead><tr><th scope="col" style="width:30%">GoogleApp</th>
+<th scope="col">Description</th>
+</tr></thead><tbody><tr><td><a href="http://gmail.uic.edu">Log into Gmail</a></td>
+<td>Get storage, protect against spam and viruses, stay connected with built-in IM, voice, and video chat, IMAP and POP message access, and more. <a href="/gmail">Learn more about Gmail</a>.</td>
+</tr><tr><td><a href="http://gcal.uic.edu">Log into Google Calendar</a></td>
+<td>Share calendars and schedule people, groups, rooms and resources easily, even from your mobile device. <a href="/service/googleaps/calendar">Learn more about Google Calendar</a>. </td>
+</tr><tr><td><a href="https://hangouts.google.com/">Log into Google Hangouts</a></td>
+<td>Instant messaging, telephone (VOIP), voicemail, and file transfer make staying in touch a breeze. <a href="https://support.google.com/hangouts/answer/2944865?hl=en">Learn more about Google Hangouts</a>.</td>
+</tr><tr><td><a href="http://gdocs.uic.edu">Log into Google Drive</a> (formerly Google Docs)</td>
+<td>Create and share a variety of online documents, from word processing and spreadsheets to forms and presentations -- all with mobile access. <a href="http://support.google.com/drive/?hl=en" target="_blank">Learn more about Google Drive</a>.</td>
+</tr><tr><td><a href="http://gsites.uic.edu">Log into Google Sites</a></td>
+<td>Effortlessly build shared websites that include videos, images, gadgets, and documents. <a href="/service/googleapps/sites">Learn more about Google Sites</a>.</td>
+</tr><tr><td><a href="http://ggroups.uic.edu">Log into Google Groups</a></td>
+<td>Create your own moderated forums and mailing lists. <a href="/service/googleapps/groups">Learn more about Google Groups</a>.</td>
+</tr><tr><td><a href="http://inbox.google.com" target="_blank">Log into Google Inbox</a></td>
+<td>Improve email organization and productivity with email bundles, reminders, "snooze" and more. <a href="https://www.google.com/inbox/">Learn more about Google Inbox</a>.</td>
 </tr></tbody></table><p> </p>
-<table border="1" cellpadding="1" cellspacing="1" style="width:100%"><thead><tr><th scope="col" style="width:35%">Session</th>
-<th scope="col">BSB Learning Center Equipment Lending Hours</th>
-</tr></thead><tbody><tr><td>Fall and Spring</td>
-<td>Weekdays 8:00 am - 7:00 pm</td>
-</tr><tr><td>Summer 1 (4 week)</td>
-<td>Weekdays 8:00 am - 7:00 pm</td>
-</tr><tr><td>Summer 2 (8 week)</td>
-<td>Weekdays 8:00 am - 7:00 pm</td>
-</tr><tr><td>Between sessions</td>
-<td>Closed</td>
-</tr></tbody></table><p> </p>
-<table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row" style="width:30%">Email</th>
-<td><a href="mailto:LTS@uic.edu">LTS@uic.edu</a></td>
+</div></div><h2 class="field-label">Requirements&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>A valid UIC NetID and common password are required to authenticate to GoogleApps@UIC. You must <a href="http://accountportal.accc.uic.edu">create your GoogleApps@UIC account</a> before you can use GoogleApps@UIC. Creation of a GoogleApps@UIC account requires accepting the <a href="/policy/googleapps">GoogleApps@UIC Terms of Use</a>. </p>
+<p>Before you can access GoogleApps@UIC features from a desktop or mobile email or calendar application, you must <a href="http://passwords.accc.uic.edu">change your common password</a> in order to propagate it to Google.</p>
+</div></div><h2 class="field-label">Applicability&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>If you are an instructor or UIC service provider, please note you are legally prohibited from requiring use of non-accessible services. Refer to <a href="/service/googleapps/accessibility">GoogleApps@UIC and Accessibility</a> for more information.</p>
+</div></div><h2 class="field-label">Cost&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>There is no charge for this service.</p>
+</div></div><h2 class="field-label">Support&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Email</th>
+<td><a href="mailto:consult@uic.edu">consult@uic.edu</a></td>
 </tr><tr><th scope="row">Phone</th>
-<td>312-413-0003 Option 1</td>
-</tr></tbody></table></div></div><h2 class="field-label">Further Information&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><h3>ACCC Service Level Agreement (SLA)</h3>
+<td>312-413-0003</td>
+</tr></tbody></table><p> </p>
+</div></div><h2 class="field-label">Further Information&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><h3>ACCC Service Level Agreement (SLA)</h3>
 <table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Service Request Fulfillment Time</th>
 <td>
-<p>Immediate checkout at equipment lending locations. Reservations for faculty require 2 business days notice.</p>
+<p>2 business days.</p>
 </td>
 </tr><tr><th scope="row">Incident Resolution Time</th>
 <td>
-<p>Under 2 business days.</p>
+<p>2 business days unless escalated to vendor (Google).</p>
 </td>
 </tr><tr><th scope="row">Service Availability</th>
-<td>
-<p>Based on hours of operation at lending locations (between 8:00am - 7:00pm in some locations and 9:00am - 5:00pm in others). Not available during Academic Calendar break periods.</p>
-</td>
+<td>24x7</td>
 </tr><tr><th scope="row">Maintenance Window(s)</th>
-<td>Academic calendar break periods.</td>
+<td>N/A</td>
 </tr><tr><th scope="row">Service Notification Channel(s)</th>
 <td>ACCC News and Alerts: <a href="/news/all">accc.uic.edu/news/all</a><br />
-			Direct emails to clients.</td>
+			REACH distribution email list.</td>
 </tr><tr><th scope="row">Reviewed to Ensure SLA Meets Business Requirements</th>
 <td>
 <p>Provisional SLA - Currently under IT Governance review.</p>
@@ -266,7 +259,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <td>
 <p>Provisional SLA - Currently under IT Governance review.</p>
 </td>
-</tr></tbody></table></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tag:&nbsp;</div><div class="field-items"><div class="field-item odd"><a href="/tag/classroom" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">classroom</a></div><div class="field-item even"><a href="/tag/multimedia" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">multimedia</a></div><div class="field-item odd"><a href="/tag/equipment" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">equipment</a></div><div class="field-item even"><a href="/tag/audio-visual" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">audio-visual</a></div></div></div></div>
+</tr></tbody></table></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tag:&nbsp;</div><div class="field-items"><div class="field-item odd"><a href="/tag/googleapps" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">googleapps</a></div><div class="field-item even"><a href="/tag/gmail" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">gmail</a></div><div class="field-item odd"><a href="/tag/email" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">email</a></div></div></div></div>
 
   </div>
       
@@ -279,12 +272,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/service/all" class="block-title-link">Service Catalog</a></h2>
   
   <div class="content">
-    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-31bb3c1d6f2668792d47d9e4d4935ad0">
+    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-1d0078ee65ad537e8e57c08f7170b50a">
         
   
   
       <div class="view-content">
-      <form action="/service/equipment-lending" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+      <form action="/service/g-suite" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
  <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump" name="jump"><option value="">Choose service</option><option value="f1c0fd1eb440653d41d9b934c81f2e1d::/service/acccell">  
           ACCC Extended Laptop Loan (ACCCELL)  </option><option value="9fdd844bb8a1c40b07e178fc3338f2d5::/service/servicedesk">  
           ACCC Service Desk  </option><option value="ecc409c51f10b0b63be5a6571ce81b96::/service/acccess-helpdesk">  
@@ -309,13 +302,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           Directory Services  </option><option value="54acba8c9baec915b09cb1b277e86bbf::/service/email-and-calendaring">  
           Email and Calendaring  </option><option value="7a1a6698d0be8e706b08fdca9856113f::/service/encryption">  
           Encryption  </option><option value="d85b23f87c8b939a2de49f757a885404::/service/endpoint-management">  
-          Endpoint Management  </option><option value="1c4c420556b8f4964ec821fbe1c91443::/service/equipment-lending" selected="selected">  
+          Endpoint Management  </option><option value="1c4c420556b8f4964ec821fbe1c91443::/service/equipment-lending">  
           Equipment Lending  </option><option value="83b5c96a64686618a1c924de844cd427::/service/event-logging">  
           Event Logging  </option><option value="05ba4c880395d2e8c112a88383097df8::/service/event-support-av">  
           Event Support (Audio/Visual)  </option><option value="ec50ae47546b551fe93f9c6766d417e5::/service/events-calendar">  
           Events Calendar  </option><option value="3aca9ee863caaca38338d91d2b67c153::/service/exchange">  
           Exchange  </option><option value="497b750a7695989ec1caf7d829a1230a::/service/fact">  
-          Faculty Computer Trade-In (FaCT)  </option><option value="92d5cf8a0a3a88fe65d11d9731373ce3::/service/g-suite">  
+          Faculty Computer Trade-In (FaCT)  </option><option value="92d5cf8a0a3a88fe65d11d9731373ce3::/service/g-suite" selected="selected">  
           G Suite (formerly Google Apps)  </option><option value="29fc87540c271b8863beac609c29b42e::/service/helpdesk">  
           Helpdesk Services  </option><option value="592c5cb5e681f4ee30b09d7482663b5e::/service/high-performance-computing">  
           High Performance Computing  </option><option value="915b2b821e2fe4e47ac34ed061a0d007::/service/identity-and-access-management">  
@@ -370,7 +363,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           Wired Network  </option><option value="7b8b5252a137d17387b07d7470d684d6::/service/wireless">  
           Wireless Network  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-CfBsSbU2gXW89ZXvcHzz1sSQSMOYmbTqBlm7poMf-LM" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-_TrL-AjsueDVzTsj6tS0BBAETEvhhanWRfaY1UsQD-s" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -386,12 +379,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2>Service Categories</h2>
   
   <div class="content">
-    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-9bfe4f69df2de18757771feaa6b00502">
+    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-63e97e67a72146f04ef7e2ad3d10fae6">
         
   
   
       <div class="view-content">
-      <form action="/service/equipment-lending" method="post" id="ctools-jump-menu--2" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+      <form action="/service/g-suite" method="post" id="ctools-jump-menu--2" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
  <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump--2" name="jump"><option value="" selected="selected">Choose category</option><option value="0d6b0768f9fe01f93fc2f5863e2e1e1d::/category/accounts-and-passwords">  
           Accounts and Passwords  </option><option value="cefded44a726cebc33c154a1ce92a03d::/category/business-tools">  
           Business Tools  </option><option value="3352f6a597d71c0803f0598a0ec1fdf3::/category/email-calendar-and-communications">  
@@ -403,7 +396,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           Research  </option><option value="af03098223978b67697bc3c4992ec42b::/category/security">  
           Security  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-lq3R7dM82HiOSCCMUtAyKa2XXZF9Qa59YJiTBGxuIfs" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-xWqg4EZJ0VcTmTNSrQ1OZ1zSyFfk8F_x8RtXiB8F5ag" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -419,7 +412,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/popular/all" class="block-title-link">Popular Services</a></h2>
   
   <div class="content">
-    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-309bb007eaca65b64ec656cb11ee167e">
+    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-4465fde913b892ec7d1a574cd23c25d6">
         
   
   
@@ -439,7 +432,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <li class="views-row views-row-7 views-row-odd">  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/service/servicedesk">ACCC Service Desk</a></span>  </span></li>
           <li class="views-row views-row-8 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless">Wireless Network</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless" class="active">Wireless Network</a></span>  </span></li>
           <li class="views-row views-row-9 views-row-odd">  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/LTS">Learning Technology Solutions</a></span>  </span></li>
           <li class="views-row views-row-10 views-row-even views-row-last">  
@@ -536,7 +529,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     
   <div class="content">
     <div id="shib_login_url">
-  <a href="https://accc.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Faccc.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F450">Log in</a>
+  <a href="https://accc.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Faccc.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F417">Log in</a>
 </div>
   </div>
 </div>

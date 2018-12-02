@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News Release &#8211; UIC Today</title>
+	<atom:link href="https://today.uic.edu/news-release/news-release/feed" rel="self" type="application/rss+xml" />
+	<link>https://today.uic.edu</link>
+	<description></description>
+	<lastBuildDate>Wed, 21 Nov 2018 17:28:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>NSF grant supports center to develop microfluidics-based solutions</title>
+		<link>https://today.uic.edu/nsf-grant-supports-center-to-develop-microfluidics-based-solutions</link>
+		<pubDate>Mon, 19 Nov 2018 18:28:02 +0000</pubDate>
+		<dc:creator><![CDATA[Sharon Parmet]]></dc:creator>
+				<category><![CDATA[Research]]></category>
+		<category><![CDATA[microfluidic device]]></category>
+
+		<guid isPermaLink="false">https://today.uic.edu/?p=71188</guid>
+		<description><![CDATA[Academic-industry partnerships lead to faster, cheaper analytical devices]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><p>The University of Illinois at Chicago has received a $500,000, five-year grant from the National Science Foundation to support the Center for Advanced Design and Manufacturing of Integrated Microfluidics.</p>
+<p>The center, also known by its initials CADMIM, has two sites — one at UIC and another at the University of California, Irvine — and focuses on developing miniature devices that can perform biochemical analytical functions quickly and cheaply. These devices can be used to do things like rapidly detect dangerous toxins in the blood, quickly screen hundreds of potential drugs, isolate cells for in cancer diagnostics and treatment, or provide information on plant health that can be used to improve crop outputs.</p>
+<div id="attachment_71153" style="width: 397px" class="wp-caption alignright"><a href="https://today.uic.edu/files/2018/11/CADMIMleads.jpg"><img class="wp-image-71153 size-medium" src="https://today.uic.edu/files/2018/11/CADMIMleads-387x258.jpg" alt="CADMIM leads" width="387" height="258" srcset="https://today.uic.edu/files/2018/11/CADMIMleads-387x258.jpg 387w, https://today.uic.edu/files/2018/11/CADMIMleads-768x512.jpg 768w, https://today.uic.edu/files/2018/11/CADMIMleads-590x393.jpg 590w, https://today.uic.edu/files/2018/11/CADMIMleads-1000x667.jpg 1000w, https://today.uic.edu/files/2018/11/CADMIMleads-500x333.jpg 500w, https://today.uic.edu/files/2018/11/CADMIMleads-300x200.jpg 300w, https://today.uic.edu/files/2018/11/CADMIMleads-1320x880.jpg 1320w" sizes="(max-width: 387px) 100vw, 387px" /></a><p class="wp-caption-text">The core CADMIM team: Gisela Lin and Abe Lee of UC Irvine and Ian Papautsky (right) of UIC.</p></div>
+<p>The UIC site has expertise in microfluidics, cell separations, 3D printing and point-of-care sensors, as well as in creating tiny living model &#8220;organ-on-a-chip&#8221; systems.</p>
+<p>The total funding for the two-site center is $1.25 million, and is a second phase of investment in the CADMIM, which launched five years ago with a $836,000 grant from the NSF.</p>
+<p>“In the last five years, CADMIM researchers have worked with industry leaders to provide customized solutions using advanced microfluidics technology,” said Ian Papautsky, the Richard and Loan Hill Professor of Bioengineering in the UIC College of Engineering and leader of the UIC CADMIM site. “We look forward to bringing more industry partners on board, working with them to advance microfluidics technology and develop solutions to their needs, and also to providing unique internship opportunities to our grad students through these partnerships.”</p>
+<p>“It is gratifying to know that the National Science Foundation is recognizing and rewarding the many accomplishments of CADMIM in the first five years, in research, in technology transfer, and most importantly, in building a community of students, faculty and industrial members that bridges advanced research with real-world applications,” said Abe Lee, the William J. Link Professor and chair of biomedical engineering at UC Irvine and its CADMIM director.</p>
+<p>CADMIM is funded through the NSF’s Industry-University Cooperative Research Centers program, which fosters long-term partnerships among academia, industry and government in various technology sectors. The center has worked with several industry leaders over the last five years, including Procter &amp; Gamble, Beckman Coulter, KWS, Monsanto, QIAGEN,  ThermoFisher Scientific, Canon U.S. Life Sciences, GSK, Genomics Institute of the Novartis Research Foundation, Douglas Scientific, Amgen Inc., Genentech Inc., Corning Inc., Los Alamos National Laboratories and Air Force Research Labs.</p>
+<p>CADMIM industry partners provide funding for university researchers to develop solutions for specific needs or problems.</p>
+<p>UIC and UC Irvine CADMIM researchers working with GSK, are developing a human liver culture platform using induced pluripotent stem cell technology that can be used to screen thousands of compounds in early drug discovery using a sustainable and genetically-diverse source of patient-specific cells.</p>
+<p>“Ultimately, this platform can be used to mitigate the risk of drug toxicity to patients in the clinic, as well as develop novel therapeutics against global human liver diseases such as hepatitis B viral infection, non-alcoholic fatty liver disease and hepatocellular carcinoma,” said Salman Khetani, associate professor of bioengineering at UIC and a lead researcher on the liver project.</p>
+<p>In another project, working with KWS, a German company focused on plant breeding, UIC CADMIM researchers are creating sensors that would be &#8220;worn&#8221; by plants to provide information on plant hydration and fertilization.</p>
+<p>“This sensor was created so that growers could get a better handle on the health of their plants so they could make informed adjustments to watering or nutrition for better crop yield,” Papautsky said. Other UIC projects have produced point-of-care sensors that can help health care providers quickly determine blood lead and manganese levels in the field and &#8220;micro livers&#8221; that can be used to test drug toxicity before clinical trials in humans.</p>
+<p>David Eddington and Jie Xu from the University of Illinois at Chicago and Elliot Hui, Jered Haun, Michelle Khine and Michelle Digman from UC Irvine, are other key researchers in CADMIM.</p>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Credit Union 1 and UIC Poised to Strengthen Partnership with Naming Rights Agreement</title>
+		<link>https://today.uic.edu/credit-union-1-and-uic-poised-to-strengthen-partnership-with-naming-rights-agreement</link>
+		<pubDate>Thu, 15 Nov 2018 15:00:57 +0000</pubDate>
+		<dc:creator><![CDATA[Sherri McGinnis González]]></dc:creator>
+				<category><![CDATA[Campus]]></category>
+		<category><![CDATA[Top Faculty Staff News]]></category>
+		<category><![CDATA[Top Student News]]></category>
+		<category><![CDATA[athletics]]></category>
+		<category><![CDATA[Flames]]></category>
+		<category><![CDATA[UIC Pavilion]]></category>
+
+		<guid isPermaLink="false">https://today.uic.edu/?p=71211</guid>
+		<description><![CDATA[University’s multi-use facility to be named Credit Union 1 Arena, subject to approval of Board of Trustees]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><p><strong><em>University’s multi-use facility to be named Credit Union 1 Arena subject to approval of The Board of Trustees of the University of Illinois</em></strong></p>
+<p><strong> </strong>The University of Illinois at Chicago and Credit Union 1 have reached an agreement in principle that would grant naming rights to the UIC Pavilion. Under the terms of the agreement, which remains subject to review and approval by The Board of Trustees of the University of Illinois, the facility will be renamed Credit Union 1 Arena.</p>
+<p>Key terms of the agreement in principle will provide for Credit Union 1, an Illinois state-chartered credit union, to enter into a 15-year agreement with the University valued at $9.3 million. Additionally, Credit Union 1 will make a significant contribution of $750,000 toward supporting scholarships at UIC. The agreement is expected to be formally reviewed by The Board of Trustees at its meeting in January 2019.</p>
+<p>“We are grateful for the generosity of Credit Union 1 and look forward to providing more scholarship opportunities to our students through this partnership,” said UIC Chancellor Michael Amiridis. “Credit Union 1 has served the UIC community for many years and we are proud to have the Credit Union 1 Arena on our university campus as a visible symbol of our shared commitment.”</p>
+<p>“Our partnership of Credit Union 1 and the University of Illinois at Chicago aligns Chicago’s premier college with Chicagoland’s premier credit union,” said Credit Union 1 President/CEO Paul Simons. “Both organizations have a diverse background representing and supporting the city of Chicago, and we both remain dedicated to the growth and development of our great Chicagoland area.”</p>
+<p>“We are proud to contribute almost $10 million through our Credit Union 1 Arena naming rights partnership with the University of Illinois at Chicago, helping them to continue as one of the nation’s top universities,” said Credit Union 1 Executive Vice President/Chief Operating Officer Todd Gunderson. “In addition to supporting the university, we are also dedicated to supporting the individual students. That’s why Credit Union 1 is committing $750,000 in scholarship money to help students realize their dream of achieving their full potential while at the same time deepening our roots serving the Chicago community.”<a href="https://today.uic.edu/cu1-arena-fb-ad"><img class="alignright size-medium wp-image-71202" src="https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-387x258.jpg" alt="Credit Union 1 Arena" width="387" height="258" srcset="https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-387x258.jpg 387w, https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-768x512.jpg 768w, https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-590x393.jpg 590w, https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-1000x667.jpg 1000w, https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-500x333.jpg 500w, https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-300x200.jpg 300w, https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-1320x880.jpg 1320w" sizes="(max-width: 387px) 100vw, 387px" /></a></p>
+<p>“Our students and the many visitors to the Credit Union 1 Arena will benefit from a new financial facility located within the building in the heart of campus,” said Rex Tolliver, UIC Vice Chancellor for Student Affairs. “We will be able to continue our effort to improve and enhance the shared space to make it a premier destination for students, faculty, staff and everyone in and around Chicago.”</p>
+<p>“This is an exciting time in the history of UIC,” said UIC Director of Athletics Garrett Klassy. “The momentum and energy on this campus is undeniable and our great partners at Credit Union 1 recognize that to the fullest. We in athletics are fortunate to partner with an organization that shares our values and realizes our commitment to excellence in everything that we do. I am proud that Credit Union 1 will remain such dedicated members of our Flames family in such a visible and impactful way for many years to come. Our student-athletes are honored to compete in a facility that now bears the name of Credit Union 1.”</p>
+<p>Currently, the UIC Pavilion is a 9,500-seat multi-purpose arena in the heart of UIC’s thriving campus. It is where UIC students both begin and conclude their time on campus as the site of Convocation and Commencement. The building also hosts athletic events, including boxing, UIC men’s and women’s basketball games, concerts, special events and more.</p>
+<p>The UIC men’s basketball team will host William &amp; Mary on Thursday, Nov. 15, in the first event to recognize the reinforced partnership between Credit Union 1 and UIC. The partnership will be celebrated, again, on Saturday, Dec. 1, when the Flames host the Loyola Ramblers at 3:12 p.m. CST.</p>
+<p><strong>About Credit Union 1</strong></p>
+<p>Credit Union 1 is a member-owned, not-for-profit financial cooperative dedicated to exceeding the expectations in our delivery of innovative financial solutions to help people achieve their maximum economic potential. Established in 1958, Credit Union 1’s vision is to be THE financial institution that drives family and community success. Credit Union 1 has over 300 employees and 23 branches concentrated in Illinois, as well as in Indiana, and Nevada serving over 90,000 members. Credit Union 1 focuses on giving back to our members with the belief that a healthy financial community benefits everyone by offering up to 100% LTV Mortgage programs, and promotions featuring cash incentive for auto loans, credit card and home equity products to help our members not only save money but put money in their pocket.</p>
+<p><strong>About UIC</strong></p>
+<p>The University of Illinois at Chicago is Chicago’s largest and only public research university located in the heart of one of the world’s greatest cities. With more than 31,000 students and 12,000 employees, the university is an integral part of the educational, technological and cultural fabric of Chicago. UIC is recognized as one of the most ethnically rich and culturally diverse universities in America. With 15 academic colleges in all, including seven health science colleges, UIC prepares professionals in all areas of study and contributes to the economic development of Chicago and the state of Illinois.</p>
+<p>Media Contacts:</p>
+<p>Sherri McGinnis Gonzalez<br />
+UIC Public Affairs<br />
+312-996-2398<br />
+<a href="mailto:smcginn@uic.edu">smcginn@uic.edu</a></p>
+<p>Dan Yopchick<br />
+UIC Athletics<br />
+312-413-9340<br />
+<a href="mailto:yopchick@uic.edu">yopchick@uic.edu</a></p>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Kids with cancer will celebrate an early Thanksgiving together</title>
+		<link>https://today.uic.edu/kids-with-cancer-will-celebrate-an-early-thanksgiving-together</link>
+		<pubDate>Thu, 15 Nov 2018 15:00:21 +0000</pubDate>
+		<dc:creator><![CDATA[Jacqueline Carey]]></dc:creator>
+				<category><![CDATA[Health Sciences Colleges]]></category>
+		<category><![CDATA[Patient Care]]></category>
+		<category><![CDATA[UI Hospital]]></category>
+		<category><![CDATA[Children's Hospital University of Illinois]]></category>
+		<category><![CDATA[pediatric cancer]]></category>
+		<category><![CDATA[sickle cell]]></category>
+		<category><![CDATA[Thanksgiving]]></category>
+		<category><![CDATA[UI Health]]></category>
+
+		<guid isPermaLink="false">https://today.uic.edu/?p=70964</guid>
+		<description><![CDATA[Hospital gives thanks with patients]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><div id="attachment_44010" style="width: 397px" class="wp-caption alignright"><a href="https://today.uic.edu/childrens-hospital-to-host-thanksgiving-party-for-patients-and-families/dg15_11_22_024-jpg" rel="attachment wp-att-44010"><img class="wp-image-44010 size-medium" src="https://today.uic.edu/files/2015/11/DG15_11_22_024-387x258.jpg" alt="UI Health Pediatric Oncology Thanksgiving Celebration" width="387" height="258" srcset="https://today.uic.edu/files/2015/11/DG15_11_22_024-387x258.jpg 387w, https://today.uic.edu/files/2015/11/DG15_11_22_024-590x393.jpg 590w, https://today.uic.edu/files/2015/11/DG15_11_22_024-150x100.jpg 150w, https://today.uic.edu/files/2015/11/DG15_11_22_024-200x133.jpg 200w, https://today.uic.edu/files/2015/11/DG15_11_22_024-250x166.jpg 250w, https://today.uic.edu/files/2015/11/DG15_11_22_024-600x400.jpg 600w, https://today.uic.edu/files/2015/11/DG15_11_22_024-500x333.jpg 500w, https://today.uic.edu/files/2015/11/DG15_11_22_024-300x200.jpg 300w" sizes="(max-width: 387px) 100vw, 387px" /></a><p class="wp-caption-text"></p>
+<p></p></div>
+<p>The Children’s Hospital University of Illinois will host a pre-holiday Thanksgiving meal and celebration for pediatric cancer and sickle cell patients and their families Nov. 17.</p>
+<h2>WHEN:</h2>
+<p>Saturday, Nov. 17<br />
+11 a.m.-2 p.m.</p>
+<h2>WHERE:</h2>
+<p>UIC Student Center West – 2nd floor<br />
+828 S. Wolcott Ave.</p>
+<h2>DETAILS:</h2>
+<p>Joined by community and cancer support organizations from around Chicago, the hospital invites its current and former pediatric cancer and sickle cell patients and their families to celebrate the Thanksgiving holiday with a special party, including a traditional lunch of turkey, stuffing and cranberry sauce, games, gifts, crafts and an interactive performance by the Joffrey Ballet&#8217;s Exelon Strobel Dancers. More than 200 patients and family members are expected to attend.</p>
+<p>Organizations involved in the activities include Bear Necessities, Dunkin&#8217; Donuts, Flashes of Hope, Gilda&#8217;s Club, Girl Scouts, Holiday Heroes, Ladies Philoptochos Society, Make-A-Wish, North Star Reach and the UIC College of Dentistry.</p>
+<p>Media are welcome and should contact Jackie Carey at jmcarey@uic.edu or 312-996-8277 to attend.</p>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Parents, kids actually agree about confidential medical care</title>
+		<link>https://today.uic.edu/parents-kids-actually-agree-about-confidential-medical-care</link>
+		<pubDate>Wed, 14 Nov 2018 20:01:17 +0000</pubDate>
+		<dc:creator><![CDATA[Jacqueline Carey]]></dc:creator>
+				<category><![CDATA[Health Sciences Colleges]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[College of Medicine]]></category>
+		<category><![CDATA[parents]]></category>
+		<category><![CDATA[pediatrics]]></category>
+		<category><![CDATA[primary care]]></category>
+		<category><![CDATA[teens]]></category>
+
+		<guid isPermaLink="false">https://today.uic.edu/?p=70772</guid>
+		<description><![CDATA[But attitudes do not line up with care guidelines]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><div id="attachment_71092" style="width: 397px" class="wp-caption alignright"><a href="https://today.uic.edu/parents-kids-actually-agree-about-confidential-medical-care/2018-klein-jonathan14"><img class="wp-image-71092 size-medium" src="https://today.uic.edu/files/2018/11/2018.Klein_.Jonathan14-387x258.jpg" alt="Jonathan Klein (Photo: Jenny Fontaine)" width="387" height="258" srcset="https://today.uic.edu/files/2018/11/2018.Klein_.Jonathan14-387x258.jpg 387w, https://today.uic.edu/files/2018/11/2018.Klein_.Jonathan14-768x512.jpg 768w, https://today.uic.edu/files/2018/11/2018.Klein_.Jonathan14-590x393.jpg 590w, https://today.uic.edu/files/2018/11/2018.Klein_.Jonathan14-1000x667.jpg 1000w, https://today.uic.edu/files/2018/11/2018.Klein_.Jonathan14-500x333.jpg 500w, https://today.uic.edu/files/2018/11/2018.Klein_.Jonathan14-300x200.jpg 300w, https://today.uic.edu/files/2018/11/2018.Klein_.Jonathan14.jpg 1200w" sizes="(max-width: 387px) 100vw, 387px" /></a><p class="wp-caption-text">Jonathan Klein (Photo: Jenny Fontaine)</p></div>
+<p>When it comes to preventive care and confidential medical services, parents and their adolescent children actually agree with each other. They both believe that preventive care is important, that adolescents should be provided with opportunities to speak with their doctor one-on-one, and that some services should be confidential.</p>
+<p>Parents and their children even agree, roughly, on the age at which kids should start having private conversations with a doctor — around 16 years old, or even 18 years old, many said. Doctors, however, have a different opinion. Clinical care guidelines suggest adolescents should have access to confidential screening and counseling about a variety of potentially sensitive issues much earlier in life, around age 13.</p>
+<p>These findings are <a href="https://www.jahonline.org/article/S1054-139X(18)30398-7/fulltext" target="_blank" rel="noopener">reported</a> by University of Illinois at Chicago researchers and their colleagues in the Journal of Adolescent Health.</p>
+<p>UIC&#8217;s Dr. Jonathan Klein led the study, which analyzed survey response data from more than 1,200 adolescents, ages 13 to 18, and their parents.</p>
+<p>&#8220;It is encouraging to see that adolescents and their parents are, for the most part, aligned when it comes to their attitudes about preventive care, particularly on the appropriate use of confidentiality during health care visits,&#8221; said Klein, professor of pediatrics at the UIC College of Medicine. &#8220;However, this study perhaps more importantly tells us that pediatricians and family physicians need to do a better job helping parents recognize the benefits of providing adolescents with an opportunity to speak privately with their care provider long before they reach adulthood.&#8221;</p>
+<p>The benefits most significantly include better health outcomes, Klein said, because many screening programs, especially those for reproductive health and STDs, have been proven to be more effective when adolescents are provided one-on-one time with providers.</p>
+<p>&#8220;By encouraging young patients to speak privately with their doctors, parents help their children learn by small, incremental steps how to take ownership of their own health and they signal to their children that sensitive health-related questions are not an indicator of poor behavior or an avenue for health professionals to pass judgment,&#8221; Klein said. &#8220;They are simply and only about health.&#8221;</p>
+<p>While the study reveals that parents and adolescents are generally in agreement, the analysis also sheds light on the issues most likely to cause disagreement.</p>
+<p>&#8220;The largest disagreements were about what specific services should be available confidentially,&#8221; Klein said.</p>
+<p>The survey asked adolescents and parents about 10 services and whether they should be offered to individuals under the age of 18 without parental permissions. The services were: regular health care provider appointments, STD clinic appointments, treatment for injury or assault, vaccinations, STD testing, starting a regular medication, obtaining emergency contraception, having an abortion, receiving drug or alcohol abuse counseling, and receiving inpatient treatment for drug and alcohol use.</p>
+<p>&#8220;Not surprisingly, the services that cause the largest disagreements are those that are most debated or stigmatized in society — substance abuse counseling and reproductive care, with confidentiality about abortion services causing the most significant disagreement,&#8221; he said.</p>
+<p>The findings showed that adolescents were almost twice as likely as their parents to think abortion services should be confidential.</p>
+<p>&#8220;This study also showed that while most parents and adolescents agree about expectations for confidentiality, an important minority of young people who endorse confidential care have parents who do not,&#8221; Klein said.</p>
+<p>&#8220;Therefore, health care providers should be prepared to discuss confidentiality with both their patients and adolescents&#8217; parents, and should also advise adolescents about their legal rights to confidential care, when needed.&#8221;</p>
+<p>Klein and his colleagues write, &#8220;For most teens, a shared understanding and better communication with parents and adolescents may be as relevant as laws, policies and clinician guidelines&#8221; when it comes to health.</p>
+<p>Co-authors on the study, which was supported by a grant from the Merck Foundation to the American Academy of Pediatrics, are Xiaoyu Song of Mount Sinai; Hanying Yan, Dr. Marina Catallozzi, Xianling Wang, Jenifer Heitel and Dr. John Santelli of Columbia University, and Kristen Kaseeska and Julie Gorzkowski of the American Academy of Pediatrics.</p>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>A checklist for employee training</title>
+		<link>https://today.uic.edu/a-checklist-for-employee-training</link>
+		<pubDate>Wed, 14 Nov 2018 15:30:06 +0000</pubDate>
+		<dc:creator><![CDATA[Jacqueline Carey]]></dc:creator>
+				<category><![CDATA[Health Sciences Colleges]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[College of Applied Health Sciences]]></category>
+		<category><![CDATA[employee training]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">https://today.uic.edu/?p=71148</guid>
+		<description><![CDATA[UIC research provides guidance on effective training transfer]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><p><a href="https://today.uic.edu/share-your-thoughts-on-uic-news/readers-survey1" rel="attachment wp-att-26850"><img class="alignright wp-image-26850 size-medium" src="https://today.uic.edu/files/2014/08/readers-survey1-387x258.jpg" alt="checking &quot;yes&quot; on a survey" width="387" height="258" srcset="https://today.uic.edu/files/2014/08/readers-survey1-387x258.jpg 387w, https://today.uic.edu/files/2014/08/readers-survey1-590x393.jpg 590w, https://today.uic.edu/files/2014/08/readers-survey1-150x100.jpg 150w, https://today.uic.edu/files/2014/08/readers-survey1-200x133.jpg 200w, https://today.uic.edu/files/2014/08/readers-survey1-250x166.jpg 250w, https://today.uic.edu/files/2014/08/readers-survey1-600x400.jpg 600w, https://today.uic.edu/files/2014/08/readers-survey1-1000x667.jpg 1000w, https://today.uic.edu/files/2014/08/readers-survey1-500x333.jpg 500w, https://today.uic.edu/files/2014/08/readers-survey1-300x200.jpg 300w, https://today.uic.edu/files/2014/08/readers-survey1.jpg 1200w" sizes="(max-width: 387px) 100vw, 387px" /></a>Researchers at the University of Illinois at Chicago have created a checklist organizations can use when developing, implementing and evaluating training programs for their employees.</p>
+<p>The checklist, which has been peer-reviewed and <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ijtd.12141" target="_blank" rel="noopener">published</a> in the International Journal of Training and Development, provides actionable guidance for practitioners at all stages of training program implementation.</p>
+<p>Ashley Hughes, lead author of the paper, said she hopes the checklist will help ensure that the knowledge, skills and attitudes learned in training are transferred to the work environment and job performance.</p>
+<p>Hughes, who is an assistant professor of biomedical and health information sciences in the UIC College of Applied Health Sciences, worked with her colleagues to develop the checklist by surveying existing scientific research on learning and organizational training. After analyzing the research, the researchers identified key factors associated with maximizing &#8220;training transfer,&#8221; or the translation of knowledge to skills for better performance.</p>
+<p>&#8220;Training transfer is vital across all industries, but among health care organizations the stakes are arguably higher,&#8221; Hughes said. &#8220;Staff training — which includes continuous incorporation of new care guidelines, proficiency with new or updated equipment, and an understanding of evolving safety protocols — relates directly to patient care and health outcomes.&#8221;</p>
+<p>The checklist is divided into three distinct sections that correlate to the times it should be used. For each of the items on the checklist, users are asked to answer questions with a &#8220;yes&#8221; or a &#8220;no.&#8221;</p>
+<p>The &#8220;before&#8221; section is meant to be used to determine if the intended training program will meet the needs of the organization. Example questions include, &#8220;Has the facility identified which employees will attend the training?&#8221; and &#8220;Are there policies and procedures in place to support training?&#8221; Hughes said this section is designed to help align training with organizational objectives and ready the organization for training.</p>
+<p>The &#8220;during&#8221; section addresses the content of the training. Hughes said this section should be completed during trial runs of the program&#8217;s implementation, in addition to during the actual training. Example questions include, &#8220;Are trainees provided opportunities to actively participate during training?&#8221; and &#8220;Was the training developed using a valid training strategy and design?&#8221;</p>
+<p>The &#8220;after&#8221; section can be administered multiple times following implementation of training, in part to test for retention and inform the need for additional or ongoing training. Example items include, &#8220;Are managers provided with tools and advice to support the use of learned knowledge and skills on the job?&#8221; and &#8220;Does the evaluation reveal that the training should be adapted?&#8221;</p>
+<p>Hughes said she hopes that for organizations and educators who use the checklist as a guide, it will &#8220;eliminate unnecessary training; enable more motivated, engaged and effective staff; and, perhaps, serve as a gateway for cultural change within an organization.&#8221;</p>
+<p>Co-authors on the paper are Stephanie Zajac of the Methodist Institute for Technology, Innovation and Education; Jacqueline Spencer of CSRA; and Eduardo Salas of Rice University.</p>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Study investigates factors behind Chicago school closure decisions</title>
+		<link>https://today.uic.edu/study-investigates-factors-behind-chicago-school-closure-decisions</link>
+		<pubDate>Mon, 12 Nov 2018 15:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Flood]]></dc:creator>
+				<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Chicago Public Schools]]></category>
+		<category><![CDATA[College of Urban Planning and Public Affairs]]></category>
+		<category><![CDATA[education policy]]></category>
+		<category><![CDATA[facilities planning]]></category>
+		<category><![CDATA[infrastructure]]></category>
+		<category><![CDATA[school closings]]></category>
+		<category><![CDATA[urban development]]></category>
+
+		<guid isPermaLink="false">https://today.uic.edu/?p=70710</guid>
+		<description><![CDATA[Analysis covers closure decisions from 2003 to 2013]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><div id="attachment_2216" style="width: 280px" class="wp-caption alignright"><a href="https://today.uic.edu/experts/rachel-weber/img_8851" rel="attachment wp-att-2216"><img class="wp-image-2216 size-large" src="https://today.uic.edu/files/2012/10/IMG_8851-270x406.jpg" alt="Rachel Weber" width="270" height="406" srcset="https://today.uic.edu/files/2012/10/IMG_8851-270x406.jpg 270w, https://today.uic.edu/files/2012/10/IMG_8851-172x258.jpg 172w, https://today.uic.edu/files/2012/10/IMG_8851-500x750.jpg 500w, https://today.uic.edu/files/2012/10/IMG_8851.jpg 800w" sizes="(max-width: 270px) 100vw, 270px" /></a><p class="wp-caption-text">Rachel Weber, UIC professor of urban planning and policy. Photo: Jenny Fontaine/UIC Public Affairs.</p></div>
+<p>Building utilization and student performance were predictors of Chicago Public Schools closures, but so was the race of students in each school, according to a new article published in the journal Urban Affairs Review.</p>
+<p>Led by Rachel Weber, professor of urban planning and policy at the University of Illinois at Chicago, the researchers examined school closure decisions in Chicago from 2003 to 2013 under former Mayor Richard M. Daley and current Mayor Rahm Emanuel.</p>
+<p>Poor academic performance was cited by the Daley administration as the main reason for closures and &#8220;turnarounds,&#8221; which replace the majority of teachers and administrators from a school. Facility underutilization was the leading factor cited for closures under Emanuel.</p>
+<p>An analysis of the potential predictors of school closings validates the justifications stated by the two administrations, but schools with larger shares of black students that were located near both the Central Business District and charter schools also had a higher probability of closure.</p>
+<p>&#8220;Our findings shed light on the multiple, conflicting interests that school districts must balance to serve the needs of school-age populations and taxpayers,&#8221; said Weber, who studies urban politics, real estate and public finance. &#8220;They also reveal some distance between the &#8216;official&#8217; rationale for closures and the realities of capital budgeting under austerity.&#8221;</p>
+<p>Breaking the data into two separate waves (2003-2010 and 2011-2013), the researchers used statistical methods to estimate the probability that schools that were open as of 2003 and 2011 were subsequently closed or turned around as a function of physical, student, geographic, political and neighborhood demographic factors.</p>
+<p>Of the 470 schools in the study&#8217;s sample, 114, or 24 percent, could be considered closures and turnarounds occurring between 2003 and 2013.</p>
+<p>The share of black students and the distances to charter schools and the central business district lost their significance in the second wave, which suggests that closures under the Emanuel administration hewed closer to its intended objective than the previous administration.</p>
+<p>&#8220;Whether administrators explicitly considered the race of a school&#8217;s students in decisions to close schools, or whether variables measuring black students in our study were substitutes for other unmeasured characteristics, the cumulative effect of these decisions combined with racially differentiated education environments forced African American students and their families to bear the burden of the closures,&#8221; the researchers write.</p>
+<p>According to the researchers, Latino-serving schools were generally not closed, likely due to several factors, including those academic facilities were better utilized or Latino communities were targeted less by school reformers and charter school operators.</p>
+<p>Weber, a faculty fellow in UIC&#8217;s Great Cities Institute and visiting expert in the Institute of Government and Public Affairs, recognizes the difficulties administrators face when authorizing these types of changes.</p>
+<p>&#8220;It&#8217;s a balancing act for school districts that are caught between a desire to maintain older school buildings that serve as community anchors, but to also be flexible enough to accommodate changes in educational policies, enrollments and student needs,&#8221; she said.</p>
+<p>As other large, urban school districts across the country undertake similar school closing plans, Weber believes the findings can help inform current and future debates around these issues.</p>
+<p>&#8220;In particular, questioning whether policymakers and administrators have the most accurate data at the most granular level of detail necessary to make life-altering decisions like closing neighborhood schools,&#8221; she said.</p>
+<p>Co-authors on the study are Stephanie Farmer of Roosevelt University and UIC alumna Mary Donoghue, who works in affordable housing development.</p>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>UIC to host event exploring Chicago&#8217;s native communities</title>
+		<link>https://today.uic.edu/uic-to-host-event-exploring-chicagos-native-communities</link>
+		<pubDate>Wed, 07 Nov 2018 15:00:59 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Flood]]></dc:creator>
+				<category><![CDATA[Campus]]></category>
+		<category><![CDATA[Chicago]]></category>
+		<category><![CDATA[Great Cities Institute]]></category>
+		<category><![CDATA[Native American]]></category>
+
+		<guid isPermaLink="false">https://today.uic.edu/?p=70869</guid>
+		<description><![CDATA[Features first-hand perspectives on today's urban native communities]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><div id="attachment_70892" style="width: 397px" class="wp-caption alignright"><a href="https://today.uic.edu/american-indian-center-chicago-powwow-15-1000x667"><img class="size-medium wp-image-70892" src="https://today.uic.edu/files/2018/11/American-Indian-Center-Chicago-Powwow-15-1000x667-387x258.jpg" alt="64th annual Powwow" width="387" height="258" srcset="https://today.uic.edu/files/2018/11/American-Indian-Center-Chicago-Powwow-15-1000x667-387x258.jpg 387w, https://today.uic.edu/files/2018/11/American-Indian-Center-Chicago-Powwow-15-1000x667-768x512.jpg 768w, https://today.uic.edu/files/2018/11/American-Indian-Center-Chicago-Powwow-15-1000x667-590x393.jpg 590w, https://today.uic.edu/files/2018/11/American-Indian-Center-Chicago-Powwow-15-1000x667-1000x667.jpg 1000w, https://today.uic.edu/files/2018/11/American-Indian-Center-Chicago-Powwow-15-1000x667-500x333.jpg 500w, https://today.uic.edu/files/2018/11/American-Indian-Center-Chicago-Powwow-15-1000x667-300x200.jpg 300w, https://today.uic.edu/files/2018/11/American-Indian-Center-Chicago-Powwow-15-1000x667-1320x880.jpg 1320w" sizes="(max-width: 387px) 100vw, 387px" /></a><p class="wp-caption-text">64th annual Powwow (Photo: American Indian Center of Chicago)</p></div>
+<p>The University of Illinois at Chicago&#8217;s Great Cities Institute and Native American Support Program will present Natives in Chicago, a discussion on the impact of policies and the work of community organizations to provide services and programs that contribute to the city&#8217;s thriving native communities.</p>
+<h2>WHEN:</h2>
+<p>Nov. 14<br />
+3 to 5 p.m.</p>
+<h2>WHERE:</h2>
+<p>UIC Student Center East<br />
+Cardinal Room<br />
+750 S. Halsted St.</p>
+<h2>DETAILS:</h2>
+<p>Chicago has always been home to indigenous peoples, and many native people continue to live, work and raise families here despite challenges.</p>
+<p>Natives in Chicago will explore how national, local and tribal policies impact urban native people and the ways in which institutions can positively engage and contribute to urban native communities.</p>
+<p>Scheduled to deliver first-hand accounts of growing up, working and living in Chicago are:</p>
+<p><strong>Janeen Comenote</strong>, executive director of the National Urban Indian Family Coalition</p>
+<p><strong>Jasmine Gurneau</strong>, senior program coordinator for Native American and Indigenous Initiatives at Northwestern University</p>
+<p><strong>Heather Miller</strong>, executive director of the American Indian Center of Chicago</p>
+<p><strong>Kenneth Scott</strong>, executive director of American Indian Health Services, Inc.</p>
+<p><strong>Cynthia Soto</strong>, director of the UIC Native American Support Program</p>
+<p><strong>Anthony Tamez</strong>, national youth representative for the Center for Native American Youth</p>
+<p>Admission is free and open to the public. RSVP <a href="https://greatcities.uic.edu/event/natives-in-chicago/">online</a>. For more information, call (312) 996-8700.</p>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>UIC scholar honored for work serving the &#8216;public good&#8217;</title>
+		<link>https://today.uic.edu/uic-scholar-honored-for-work-serving-the-public-good</link>
+		<pubDate>Wed, 07 Nov 2018 14:30:41 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Flood]]></dc:creator>
+				<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Top Faculty Staff News]]></category>
+		<category><![CDATA[civil rights]]></category>
+		<category><![CDATA[College of Liberal Arts and Sciences]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[social justice]]></category>
+
+		<guid isPermaLink="false">https://today.uic.edu/?p=70706</guid>
+		<description><![CDATA[Ransby receives American Studies Association's 2018 Angela Y. Davis Prize]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><div id="attachment_11104" style="width: 308px" class="wp-caption alignright"><a href="https://today.uic.edu/documenting-large-unconventional-life/barbara-ransby-4" rel="attachment wp-att-11104"><img class="wp-image-11104 size-large" src="https://today.uic.edu/files/2013/04/ransby02-copy-e1366755598612-298x406.jpg" alt="Barbara Ransby" width="298" height="406" srcset="https://today.uic.edu/files/2013/04/ransby02-copy-e1366755598612-298x406.jpg 298w, https://today.uic.edu/files/2013/04/ransby02-copy-e1366755598612-189x258.jpg 189w, https://today.uic.edu/files/2013/04/ransby02-copy-e1366755598612.jpg 705w" sizes="(max-width: 298px) 100vw, 298px" /></a><p class="wp-caption-text">Barbara Ransby<br />Photo: Jenny Fontaine</p></div>
+<p>Barbara Ransby, a University of Illinois at Chicago historian, writer and activist, is the recipient of the American Studies Association&#8217;s 2018 Angela Y. Davis Prize for Public Scholarship, which recognizes scholars who have applied or used their scholarship for the betterment of society.</p>
+<p>The selective award acknowledges high-level work that &#8220;explicitly aims to educate the lay public, influence policies, or in other ways seeks to address inequalities in imaginative, practical, and applicable forms.&#8221;</p>
+<p>Ransby, who has faculty appointments in African American studies, gender and women&#8217;s studies, and history, will be honored Nov. 9 at an awards ceremony during the association&#8217;s annual meeting in Atlanta.</p>
+<p>In an announcement, the award committee noted that “while we were all familiar with Dr. Ransby’s important contributions, it was both impressive and inspiring to read such glowing testimonials from so many colleagues. What emerges is a compelling picture of a brilliant and courageous career devoted to social justice.&#8221;</p>
+<p>Ransby, a distinguished professor in the College of Liberal Arts and Sciences, is a widely published scholar, frequent speaker at international events, and popular media contributor on civil rights, social justice and African American history.</p>
+<p>In her latest book, &#8220;Making All Black Lives Matter: Reimagining Freedom in the 21st Century,&#8221; Ransby provides an overview of the movement’s origins and growth, explores challenges and opportunities for its future, profiles some of its young leaders and examines its impact on efforts to end police violence and bring about racial justice, gender justice and systemic change.</p>
+<p>Her other books include an award-winning biography of civil rights activist Ella Baker, titled “Ella Baker and the Black Freedom Movement: A Radical Democratic Vision,&#8221; and &#8220;Eslanda: The Large and Unconventional Life of Mrs. Paul Robeson.&#8221;</p>
+<p>Last year she was named among the top 25 women in higher education by Diverse: Issues in Higher Education magazine.</p>
+<p>At UIC, Ransby also serves as director of the Social Justice Initiative, a campus program that aims to build on socially conscious research and interests across different disciplines, improve connections with community partners, and serve students interested in social justice work.</p>
+<p>In 2016, Ransby was elected to a two-year term as president of the National Women&#8217;s Studies Association, which supports the production and dissemination of knowledge about women and gender through teaching, learning, research and service in academic and other settings.</p>
+<p>She serves on the editorial boards of several academic journals and is the editor-in-chief of SOULS, a critical journal of black politics, culture and society.</p>
+<p>Founded in 1951, the American Studies Association is the oldest and largest academic association dedicated to the interdisciplinary study of U.S. culture and history in a global context.</p>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Adolescent cannabis use alters development of planning, self-control brain areas</title>
+		<link>https://today.uic.edu/adolescent-cannabis-use-alters-development-of-planning-self-control-brain-areas</link>
+		<pubDate>Tue, 06 Nov 2018 19:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Flood]]></dc:creator>
+				<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[adolescent]]></category>
+		<category><![CDATA[brain development]]></category>
+		<category><![CDATA[cannabis]]></category>
+		<category><![CDATA[marijuana]]></category>
+		<category><![CDATA[psychology]]></category>
+
+		<guid isPermaLink="false">https://today.uic.edu/?p=70797</guid>
+		<description><![CDATA[Drug disrupts prefrontal cortex activity]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><p>Adolescent marijuana use may alter how neurons function in brain areas engaged in decision-making, planning and self-control, according to researchers at the University of Illinois at Chicago.</p>
+<div id="attachment_70890" style="width: 182px" class="wp-caption alignright"><a href="https://today.uic.edu/eliza-jacobs-brichford_h"><img class="size-medium wp-image-70890" src="https://today.uic.edu/files/2018/11/Eliza-Jacobs-Brichford_h-172x258.jpg" alt="Eliza Jacobs-Brichford" width="172" height="258" srcset="https://today.uic.edu/files/2018/11/Eliza-Jacobs-Brichford_h-172x258.jpg 172w, https://today.uic.edu/files/2018/11/Eliza-Jacobs-Brichford_h-768x1152.jpg 768w, https://today.uic.edu/files/2018/11/Eliza-Jacobs-Brichford_h-271x406.jpg 271w, https://today.uic.edu/files/2018/11/Eliza-Jacobs-Brichford_h-500x750.jpg 500w, https://today.uic.edu/files/2018/11/Eliza-Jacobs-Brichford_h-1000x1500.jpg 1000w, https://today.uic.edu/files/2018/11/Eliza-Jacobs-Brichford_h.jpg 1200w" sizes="(max-width: 172px) 100vw, 172px" /></a><p class="wp-caption-text">Eliza Jacobs-Brichford</p></div>
+<p>The findings, which were presented at Neuroscience 2018, the annual meeting of the Society for Neuroscience, are the result of an animal model study focused on the structural development of the prefrontal cortex, or PFC, which controls high-level cognitive functions.</p>
+<p>Within the PFC, a support structure called the perineuronal net forms a lattice of proteins around inhibitory cells, helping to secure their connections with excitatory neurons and regulate PFC activity. Perineuronal net formation is sensitive to drug use, but the effects of marijuana are not known.</p>
+<p>To investigate how adolescent marijuana use affects perineuronal nets in the PFC, the UIC researchers gave adolescent rats a synthetic cannabinoid which was similar to THC, the main psychoactive compound in marijuana, for one day, 10 days, or 10 days followed by a period of abstinence. They then compared perineuronal net structure in these rats to those in drug-free animals.</p>
+<p>Animals exposed to the cannabinoid showed a reduction in net development around inhibitory cells during adolescence, and this reduction was more common in male animals.</p>
+<p>&#8220;Our evidence suggests that exposure to cannabinoids during adolescence alters brain maturation in the prefrontal cortex,&#8221; said Eliza Jacobs-Brichford, study lead author and UIC Ph.D. candidate in psychology. &#8220;These results may offer a mechanistic explanation for functional and behavioral changes caused by adolescent cannabinoid exposure.&#8221;</p>
+<div id="attachment_66026" style="width: 182px" class="wp-caption alignright"><a href="https://today.uic.edu/silver-circles-jamie-roitman/2018-roitman-jamie01" rel="attachment wp-att-66026"><img class="wp-image-66026 size-medium" src="https://today.uic.edu/files/2018/04/2018.Roitman.Jamie01-172x258.jpg" alt="Jamie Roitman; Silver Circle Award Winner" width="172" height="258" srcset="https://today.uic.edu/files/2018/04/2018.Roitman.Jamie01-172x258.jpg 172w, https://today.uic.edu/files/2018/04/2018.Roitman.Jamie01-768x1152.jpg 768w, https://today.uic.edu/files/2018/04/2018.Roitman.Jamie01-271x406.jpg 271w, https://today.uic.edu/files/2018/04/2018.Roitman.Jamie01-500x750.jpg 500w, https://today.uic.edu/files/2018/04/2018.Roitman.Jamie01-1000x1500.jpg 1000w, https://today.uic.edu/files/2018/04/2018.Roitman.Jamie01.jpg 1200w" sizes="(max-width: 172px) 100vw, 172px" /></a><p class="wp-caption-text">Jamie Roitman (Photo: Jenny Fontaine)</p></div>
+<p>Recreational use of marijuana is among the risky choices often made by adolescents, and likely to become more prevalent with greater availability due to its shifting legal status in some states and Canada.</p>
+<p>These impulsive choices are taking place during a key period of brain development and could have costs later in life, according to the researchers.</p>
+<p>&#8220;Adolescence is a crucial time for fine-tuning the balance of excitatory and inhibitory neurons in the brain, which combine to control precise patterns of brain activity,&#8221; said Jamie Roitman, UIC associate professor of psychology and study co-author. &#8220;Substance use as a teenager thus has the potential to disrupt the normal developmental trajectory of the PFC, with potentially long-term consequences for decision-making.&#8221;</p>
+<p>Hu Chen, UIC research assistant professor of psychiatry, and Amy Lasek, UIC associate professor of psychiatry, are co-authors on the paper.</p>
+<p>The study was supported with funds from the National Institute on Drug Abuse, one of the National Institutes of Health, and a UIC Provost Award for Graduate Research.</p>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>New imprint at UIC looks to the past to share future artistic ideas</title>
+		<link>https://today.uic.edu/new-imprint-at-uic-looks-to-the-past-to-share-future-artistic-ideas</link>
+		<pubDate>Mon, 05 Nov 2018 17:13:18 +0000</pubDate>
+		<dc:creator><![CDATA[Carlos Sadovi]]></dc:creator>
+				<category><![CDATA[Campus]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[art]]></category>
+
+		<guid isPermaLink="false">https://today.uic.edu/?p=70750</guid>
+		<description><![CDATA["Something Else Press” was based in New York City between 1964 and 1974]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><div id="attachment_70736" style="width: 600px" class="wp-caption aligncenter"><a href="https://today.uic.edu/somethingotherpress_01"><img class="size-large wp-image-70736" src="https://today.uic.edu/files/2018/10/SomethingOtherPress_01-590x393.jpg" alt="Something Other Press" width="590" height="393" srcset="https://today.uic.edu/files/2018/10/SomethingOtherPress_01-590x393.jpg 590w, https://today.uic.edu/files/2018/10/SomethingOtherPress_01-387x258.jpg 387w, https://today.uic.edu/files/2018/10/SomethingOtherPress_01-768x512.jpg 768w, https://today.uic.edu/files/2018/10/SomethingOtherPress_01-1000x667.jpg 1000w, https://today.uic.edu/files/2018/10/SomethingOtherPress_01-500x333.jpg 500w, https://today.uic.edu/files/2018/10/SomethingOtherPress_01-300x200.jpg 300w, https://today.uic.edu/files/2018/10/SomethingOtherPress_01-1320x880.jpg 1320w" sizes="(max-width: 590px) 100vw, 590px" /></a><p class="wp-caption-text">Hannah Higgins and Chris Reeves&#8217; contributions to the launch of &#8220;Something Other Press.&#8221; Photo: Ricardo Garcia</p></div>
+<p>The School of Art and Art History at the University of Illinois at Chicago will begin publishing a &#8220;micro-imprint&#8221; committed to encouraging students and faculty to share their writings on art, poetry and other creative endeavors in a free-form style that encourages &#8220;re-publication&#8221; of ideas.</p>
+<p>UIC&#8217;s &#8220;Something Other Press,&#8221; is inspired by the independent spirit of Dick Higgins whose small imprint, “Something Else Press,” was based in New York City between 1964 and 1974. During that time, the imprint published newsletters and early books by many artistic leaders including John Cage, Merce Cunningham, Ray Johnson, Claes Oldenburg and Alison Knowles.</p>
+<div id="attachment_47491" style="width: 182px" class="wp-caption alignright"><a href="https://today.uic.edu/experts/hannah-higgins/higgins-hannah14" rel="attachment wp-att-47491"><img class="size-medium wp-image-47491" src="https://today.uic.edu/files/2016/04/Higgins.Hannah14-172x258.jpg" alt="Hannah Higgins" width="172" height="258" srcset="https://today.uic.edu/files/2016/04/Higgins.Hannah14-172x258.jpg 172w, https://today.uic.edu/files/2016/04/Higgins.Hannah14-768x1152.jpg 768w, https://today.uic.edu/files/2016/04/Higgins.Hannah14-271x406.jpg 271w, https://today.uic.edu/files/2016/04/Higgins.Hannah14-600x900.jpg 600w, https://today.uic.edu/files/2016/04/Higgins.Hannah14-500x750.jpg 500w, https://today.uic.edu/files/2016/04/Higgins.Hannah14.jpg 1200w" sizes="(max-width: 172px) 100vw, 172px" /></a><p class="wp-caption-text">Hannah Higgins has studied the Fluxus movement.<br />(Photo: Jenny Fontaine)</p></div>
+<p>The original imprint brought important unavailable texts by Gertrude Stein, Hans Richter and Marcel Duchamp back into print. In the first newsletter, Higgins coined the term, &#8220;Intermedia,&#8221; to describe emerging art forms between existing media and art/life media, according to Hannah Higgins, UIC professor of art history and daughter of Higgins and Knowles.</p>
+<p>Both Dick Higgins, who died in 1998, and Knowles, his wife, are considered pillars of the Fluxus movement, according to Hannah Higgins, who has authored several books on the art movement. The movement prized the unequivocal dissemination of art to the masses and believed that everyone – both trained and untrained&#8211; should produce art.</p>
+<p>Hannah Higgins, who has been at UIC since 1994, said &#8220;Something Other Press&#8221; will serve to encourage students and faculty at UIC to publish in the same fashion that her father used his press, to both share one&#8217;s own ideas and circulate the work of others.</p>
+<p>UIC&#8217;s imprint, which will be student managed with faculty guidance and mentorship, will openly encourage re-publication by anyone in an effort to air ideas and spark dialogue through small-scale independent publishing.</p>
+<p>The aim is to annually release publications representing the depth of its community, with works authored by current students, faculty, and alumni. The Dick Higgins Fund at UIC exists to carry forth these ideas and approaches by supporting projects, events, and initiatives that promote interdisciplinary approaches, art accessibility, and extending the dialogue around contemporary art making and understanding in a way that connects to public life.</p>
+<p>This year&#8217;s contributions will feature work of Hannah Higgins as well as from Chris Reeves, a current doctoral candidate, and Tamara Valdez, a current MFA student.</p>
+<p>The first publication will be released on Nov. 8, coinciding with an open house that evening from 5 to 10 p.m. at the Art and Exhibition Hall, 400 S. Peoria St. &#8220;Something Other Press&#8221; will be at the <a href="http://cabf.no-coast.org/">Chicago Art Book Fair</a> from Nov. 16-18, at the Chicago Athletic Association building, 12 S. Michigan Ave.</p>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Online program helps prevent teen depression</title>
+		<link>https://today.uic.edu/online-program-helps-prevent-teen-depression</link>
+		<pubDate>Fri, 02 Nov 2018 20:04:30 +0000</pubDate>
+		<dc:creator><![CDATA[Jacqueline Carey]]></dc:creator>
+				<category><![CDATA[Health Sciences Colleges]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[College of Medicine]]></category>
+		<category><![CDATA[depression]]></category>
+		<category><![CDATA[pediatrics]]></category>
+		<category><![CDATA[primary care]]></category>
+		<category><![CDATA[teens]]></category>
+
+		<guid isPermaLink="false">https://today.uic.edu/?p=70762</guid>
+		<description><![CDATA[UIC study shows potential of web-based intervention]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><div id="attachment_70796" style="width: 397px" class="wp-caption alignright"><a href="https://today.uic.edu/online-program-helps-prevent-teen-depression/new-screenshot" rel="attachment wp-att-70796"><img class="wp-image-70796 size-medium" src="https://today.uic.edu/files/2018/11/new-screenshot-387x258.jpg" alt="How do you act" width="387" height="258" srcset="https://today.uic.edu/files/2018/11/new-screenshot-387x258.jpg 387w, https://today.uic.edu/files/2018/11/new-screenshot-768x512.jpg 768w, https://today.uic.edu/files/2018/11/new-screenshot-590x393.jpg 590w, https://today.uic.edu/files/2018/11/new-screenshot-1000x667.jpg 1000w, https://today.uic.edu/files/2018/11/new-screenshot-500x333.jpg 500w, https://today.uic.edu/files/2018/11/new-screenshot-300x200.jpg 300w, https://today.uic.edu/files/2018/11/new-screenshot-1320x880.jpg 1320w" sizes="(max-width: 387px) 100vw, 387px" /></a><p class="wp-caption-text">Screengrab example of the web-based CATCH-IT depression prevention intervention. Click to enlarge. (Image: UIC/Monika Marko-Holguin and TJ Crawford)</p></div>
+<p>Although up to 20 percent of adolescents experience a depressive episode each year, the medical community has struggled to implement programs that effectively prevent depression.</p>
+<p>Researchers at the University of Illinois at Chicago have worked to fill this gap in pediatric primary care by conducting clinical trials to evaluate and compare interventions. A new study <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2712184?resultClick=3" target="_blank" rel="noopener">published</a> in JAMA Network Open highlights the positive effect of one web-based intervention, called CATCH-IT, on preventing depressive episodes among adolescents most at risk.</p>
+<p>The multicenter, randomized clinical trial compared the CATCH-IT intervention – which consisted of depression-specific online learning modules, motivational interviews and coaching – with a control intervention. The control intervention consisted of general health education and was similarly delivered through online learning modules.</p>
+<p>More than 350 adolescents ages 13 to 18 from a mix of rural and urban areas were enrolled in the trial. Participants had either a history of depression or depressive symptoms, which were measured and assigned a score during screening. The researchers followed the participants for two years and tracked depressive episodes.</p>
+<p>While depressive symptoms were reduced across all participants, they found no difference between the groups, except for among higher-risk adolescents whose depressive symptoms scored high on baseline screening. Among this group, individuals who participated in the CATCH-IT intervention demonstrated greater benefit, achieving as much as 80 percent risk reduction for experiencing a depressive episode.</p>
+<p>&#8220;This study tells us that the online intervention works best for teens who are experiencing worse symptoms,&#8221; said Dr. Benjamin Van Voorhees, the principal investigator. &#8220;We hypothesized that there would be a benefit across all participants, but it is perhaps even more telling to see such a significant risk reduction among a smaller group of high-risk adolescents.&#8221;</p>
+<p>Van Voorhees, professor and head of pediatrics at the UIC College of Medicine, said that the results indicate to physicians and researchers that &#8220;when it comes to first-line programs for depression prevention, scalable solutions may need to be targeted to patients based on symptom severity, not prior history alone.</p>
+<p>&#8220;We need to move depression care away from reactive treatments to widespread prevention, but to be successful we need more research on which interventions work, and for what patients, in primary care settings,&#8221; Van Voorhees said. &#8220;This is the first study to test a depression prevention intervention in a primary care setting — primary care providers are likely to be the first people parents ask for help and they are also often among the first to identify worrisome trends towards depression.&#8221;</p>
+<p>&#8220;Often primary care physicians recognize sub-threshold depressive symptoms in their adolescent patients but do not have an appropriate way to respond,&#8221; said Tracy Gladstone, co-principal investigator and associate director and senior research scientist at the Wellesley Centers for Women at Wellesley College. &#8220;Our hope is that this intervention can serve as a first-line, evidence-based response to support symptomatic teens before they develop a full-blown depressive illness.&#8221;</p>
+<p>For parents, Van Voorhees said the results should reinforce the need for action if teens display early signs of depression.</p>
+<p>&#8220;If their teen&#8217;s behavior is changing, parents should not wait to seek help,&#8221; he said. &#8220;While this study showed that high-risk teens benefited most from the online intervention, it also showed that participation in the study, regardless of which group, helped reduce depression symptoms. We know that simply engaging in physical activity, practicing intentional positivity and engaging with family, friends and activities can help teens ward off major depressive episodes.&#8221;</p>
+<p>CATCH-IT is an acronym for Competent Adulthood Transition with Cognitive behavioral Humanistic and Interpersonal Training and was designed to teach coping skills to teenagers and young adults. The intervention included 20 modules, 15 of which were for adolescents. The remaining five were for parents. The information in the modules was based primarily on previously validated educational materials on coping with depression and behavioral and interpersonal psychotherapy methods. Example modules included lessons on ways to escape negative thoughts, identifying triggers and habitual responses, and how to solve problems in stressful situations.</p>
+<p>The control group intervention consisted of 14 modules for adolescents and four modules for parents that provided instruction on general health topics, such as good nutrition, sleep, exercise and safety habits.</p>
+<p>Trial sites included Wellesley College, NorthShore University HealthSystem, Harvard Vanguard, Advocate Children&#8217;s Hospital, Access, Franciscan Alliance, and UI Health Mile Square Health Centers.</p>
+<p>Co-authors on the study from UIC are Daniela Terrizzi, Jennifer Nidetz, Joshua Fogel, Megan Bolotin, Marian Fitzgibbon, Dr. Carl Bell, Linda Schiffer and Monkia Marko-Holguin. Additional co-authors are Lauren Thomann of Wellesley College; Allison Stinson of the University of Chicago; Dr. Jason Canel and Dr. Nina Liu of NorthShore University HealthSystem; Dr. Eumene Ching of Harvard Vanguard; Anita Berry of Advocate Children&#8217;s Hospital; Dr. James Cantorna of Franciscan Medical Specialists; Milton Eder of the University of Minnesota; Kathy Griffith of the Australian National University; Dr. Patrick Ip of the University of Hong Kong; David Aaby and Hendricks Brown of Northwestern University; Dr. William Beardslee of Harvard Medical School, and Theodore Crawford of Chicago State University.</p>
+<p>The authors noted disclosures relevant to the study, which was supported by the National Institute of Mental Health (R01MH090035), one of the National Institutes of Health.</p>
+</div>]]></content:encoded>
+			</item>
+	</channel>
+</rss>

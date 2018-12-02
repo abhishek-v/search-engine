@@ -7,22 +7,21 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <meta name="theme-color" content="#F7323F" />
 <meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
-<link rel="canonical" href="https://admissions.uic.edu/book-visit/individual-visits" />
-<link rel="shortlink" href="https://admissions.uic.edu/node/3009" />
+<link rel="canonical" href="https://admissions.uic.edu/book-visit/self-guided-tours" />
+<link rel="shortlink" href="https://admissions.uic.edu/node/111" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:url" content="https://admissions.uic.edu/book-visit/individual-visits" />
-<meta name="twitter:title" content="Individual Visits" />
-<meta name="dcterms.title" content="Individual Visits" />
-<meta name="dcterms.creator" content="dpaz@uic.edu" />
-<meta name="dcterms.date" content="2018-11-06T14:36-06:00" />
+<meta name="twitter:url" content="https://admissions.uic.edu/book-visit/self-guided-tours" />
+<meta name="twitter:title" content="Self-Guided Tours" />
+<meta name="dcterms.title" content="Self-Guided Tours" />
+<meta name="dcterms.creator" content="dpaz" />
+<meta name="dcterms.date" content="2015-05-04T10:16-05:00" />
 <meta name="dcterms.type" content="Text" />
 <meta name="dcterms.format" content="text/html" />
-<meta name="dcterms.identifier" content="https://admissions.uic.edu/book-visit/individual-visits" />
-<meta name="dcterms.language" content="en" />
-    <title>Individual Visits | UIC Admissions</title>
+<meta name="dcterms.identifier" content="https://admissions.uic.edu/book-visit/self-guided-tours" />
+    <title>Self-Guided Tours | UIC Admissions</title>
     <link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_UWmE0zv-RfBP9_dKBB2kiIWly7wMK94M8SQ7sk5d1Tk.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_IxhQCRYcQUE-vVES5uvOYfoAxM9i-nAZzcTndjMijjY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css__nu4qi9zHHEXiUCm91f0CDlR4-ABEq4K4SPF2aWU7os.css" media="all" />
 <link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_0JCygjbcd1F9VkPhe5DjWb1DLjTmJaXJWOXzBkTAPN8.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,700,900,italic,regular&amp;subset=latin" media="all" />
@@ -38,17 +37,18 @@
 <script src="https://admissions.uic.edu/sites/default/files/js/js_Tik8PIaz_eQ5I4FMzmjkWoPEs9jKBgTSauo1jgsNa6g.js"></script>
 <script src="https://admissions.uic.edu/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-10917588-4", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", location.pathname + location.search + location.hash);ga("send", "pageview");</script>
+<script src="https://admissions.uic.edu/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
 <script src="https://admissions.uic.edu/sites/default/files/js/js_mFtrAu1JtEOtR_lPJRdT5eNbGDGm7agB_Wg7au7G2tI.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"uicrec","theme_token":"wO105I-WD8-6zNJxrxU4anUz6SF56MixPXJTZ0-U0X0","js":{"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/libraries\/modernizr\/modernizr.custom.74163.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/custom\/uicrec\/js\/plugins.js":1,"sites\/all\/themes\/custom\/uicrec\/js\/scripts.js":1,"sites\/all\/themes\/custom\/uicrec\/js\/additional.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/uic_footer\/css\/uic_footer.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/shib_auth\/shib_auth.css":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/contrib\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/custom\/uicrec\/css\/style.css":1,"https:\/\/fonts.googleapis.com\/css?family=Source+Sans+Pro:300,300italic,600,700,900,italic,regular\u0026subset=latin":1}},"extlink":{"extTarget":0,"extClass":0,"extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"urlIsAjaxTrusted":{"\/search-page":true},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"popoverEnabled":0,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"uicrec","theme_token":"xyzjqHcxC0oD32X2ajIPJEc8pmWXrJf1mwK_AjK3ay8","js":{"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/libraries\/modernizr\/modernizr.custom.74163.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/custom\/uicrec\/js\/plugins.js":1,"sites\/all\/themes\/custom\/uicrec\/js\/scripts.js":1,"sites\/all\/themes\/custom\/uicrec\/js\/additional.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/uic_footer\/css\/uic_footer.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/contrib\/ds\/layouts\/ds_2col\/ds_2col.css":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/contrib\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/custom\/uicrec\/css\/style.css":1,"https:\/\/fonts.googleapis.com\/css?family=Source+Sans+Pro:300,300italic,600,700,900,italic,regular\u0026subset=latin":1}},"extlink":{"extTarget":0,"extClass":0,"extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"urlIsAjaxTrusted":{"\/search-page":true},"field_group":{"html-element":"full"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"popoverEnabled":0,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3009 node-type-on-campus-visits site-section-0" >
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-111 node-type-basic-page site-section-0" >
 <!--<div id="skip-link">
     <a href="#main_content" class="element-invisible element-focusable"></a>
   </div>-->
 <!-- Template file: sites/all/themes/custom/uicrec/templates/page/page.tpl.php -->
 <div role="banner">
     <!-- #hero_area -->
-    <div id="hero_area" class="" style="background-image: url(https://admissions.uic.edu/sites/default/files/hero_area/img12.jpg);background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/hero_area/img12.jpg);background-image: -o-linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/hero_area/img12.jpg);background-image: linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/hero_area/img12.jpg);">
+    <div id="hero_area" class="" style="background-image: url(https://admissions.uic.edu/sites/default/files/hero_area/Img16.jpg);background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/hero_area/Img16.jpg);background-image: -o-linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/hero_area/Img16.jpg);background-image: linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/hero_area/Img16.jpg);">
         <!-- Primary Navigation will go here: regions[navigation] -->
         <div class="nav primarynavigation-wrapper">
             <div class="primarynavigation clearfix">
@@ -85,7 +85,7 @@
         </div>
                 <div class="hero-content ">
             <div class="container">
-                <h1 class="page-header">Individual Visits</h1>
+                <h1 class="page-header">Self-Guided Tours</h1>
                             </div>
         </div>
         <div class="breadcrumbs">
@@ -94,18 +94,38 @@
                     <div class="col-sm-12 col desktop">
                         <ul class="menu nav breadcrumbs-list desktop"><li class="home first odd first"><a href="/">Home</a></li>
 <li class="even"><a href="/book-visit">Book a Visit</a></li>
-<li class="last odd last"><a href="/book-visit/individual-visits">You are here</a></li>
+<li class="last odd last"><a href="/book-visit/self-guided-tours">You are here</a></li>
 </ul>                    </div>
                     <div class="col-sm-12 col mobile">
                         <ul class="menu nav breadcrumbs-list mobile"><li class="home first odd first"><a href="/">Home</a></li>
 <li class="even"><a href="/book-visit">Book a Visit</a></li>
-<li class="last odd last"><a href="/book-visit/individual-visits">You are here</a></li>
+<li class="last odd last"><a href="/book-visit/self-guided-tours">You are here</a></li>
 </ul>                    </div>
                 </div>
             </div>
         </div>
             </div>
     <!-- /#hero_area -->
+            <div class="clickable-factoid-wrapper" data-tid="1">
+            <div class="clickable-factoid target closed">
+                <div class="container">
+                    <div class="row">
+                        <div class="col col-sm-4">
+                            <h2>Did you know?</h2>
+                        </div>
+                        <div class="col col-sm-8 factoid-content">
+                            <img class="factoid-icon field_fact_icon_graphic" src="/sites/all/themes/custom/uicrec/images/uic-logo-192.png" width="30" alt="Icon Image">
+                            <h3 class="factoid-title">DEPTH</h3>
+                            <div class="factoid-body">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clickable-factoid trigger">
+                <span class="trigger">i</span>
+            </div>
+        </div>
     </div>
 <!-- role=main -->
 <div role="main">
@@ -122,222 +142,56 @@
 <div id="block-system-main" class="block block-system clearfix">
 
       
-  <!-- Template file: sites/all/themes/custom/uicrec/templates/node/on_campus_visits/ds-reset- -node-on-campus-visits-full.tpl.php -->
+  <!-- Template file: sites/all/themes/custom/uicrec/templates/node/basic_page/ds-reset- -node-basic-page-full.tpl.php -->
 <div class="container">
-    <div class="row">
-        <div class="col col-sm-12">
-            <div id="content">
-                <div class="field field-name-field-visit-type field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-full.tpl.php -->
-<div class="row checklist-section-wrap">
-    <div class="col col-sm-12 visit-type-section">
-        <div class="col col-sm-4">
-            <h2>Visit Programs</h2>
-        </div>
-        <div class="col col-sm-8">
-            <p class="intro">Get to know UIC with these visit options.</p>
-            <!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>UIC Preview</h3>
-            <h4>Details</h4>
-        <ul class="visit-details">
-                            <li class="visit-detail visit-offered">Offered: <span class="value">Select days, during the fall and spring semesters</span></li>
-                                        <li class="visit-detail visit-length">Program Length: <span class="value">4 hours</span></li>
-                    </ul>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="campus_tour">Campus tour</li><li class="visit-tag" data-tag-machine-name="housing_tour">Housing tour</li><li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li><li class="visit-tag" data-tag-machine-name="scheduled_activities">Scheduled activities</li><li class="visit-tag" data-tag-machine-name="admissions_information">Admissions information</li>        </ul>
-        <div class="visit-body">
-        <p>UIC Preview is an opportunity to visit and hear from financial aid, housing and undergraduate colleges. This is a half-day program with campus and residence hall tours.</p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/portal/uic-preview" target="_blank" title="Register">Register</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>First Year Visit</h3>
-            <h4>Details</h4>
-        <ul class="visit-details">
-                            <li class="visit-detail visit-offered">Offered: <span class="value">Weekdays and select weekends</span></li>
-                                        <li class="visit-detail visit-length">Program Length: <span class="value">2.5 hours</span></li>
-                    </ul>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="campus_tour">Campus tour</li><li class="visit-tag" data-tag-machine-name="housing_tour">Housing tour</li><li class="visit-tag" data-tag-machine-name="admissions_information">Admissions information</li>        </ul>
-        <div class="visit-body">
-        <p>Admissions counselors provide an overview of UIC, admission requirements and financial planning for first-year students. The presentation is followed by a student-led campus tour.</p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/portal/first-year-visit" target="_blank" title="Register">Register</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>Transfer Visit</h3>
-            <h4>Details</h4>
-        <ul class="visit-details">
-                            <li class="visit-detail visit-offered">Offered: <span class="value">Weekdays and weeknights</span></li>
-                                        <li class="visit-detail visit-length">Program Length: <span class="value">2.5 hours</span></li>
-                    </ul>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="campus_tour">Campus tour</li><li class="visit-tag" data-tag-machine-name="housing_tour">Housing tour</li><li class="visit-tag" data-tag-machine-name="admissions_information">Admissions information</li>        </ul>
-        <div class="visit-body">
-        <p>Admissions counselors provide an overview of UIC during the transfer visit program.Their presentation covers requirements, resources and helpful information about paying for college. Student-led campus tours take place after.</p>
-<p>To schedule an individual appointment with an admissions counselor please call (312) 996-4350.</p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/portal/transfer-visit" target="_blank" title="Register">Register</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-        </div>
-    </div>
+     <div class="row">
+    <div class="col col-sm-12">
+      <div id="content">
+      <!-- Template file: sites/all/themes/custom/uicrec/templates/node/basic_page/ds-2col- -field-collection-item.tpl.php -->
+<div  about="/field-collection/field-mult-content/129" typeof="" class="ds-2col row entity entity-field-collection-item field-collection-item-field-mult-content view-mode-full clearfix">
+
+  <div class="col-sm-4 ">
+    <h2 >Explore UIC on your own</h2>  </div>
+  
+  <div class="col-sm-8 ">
+	  <div class="content field field-name-field-section-body field-type-text-long field-label-hidden"><h3>Self-Guided Publications</h3>
+<p>Sometimes our existing programs don't meet the needs of your schedule.  If that's the case, we encourage you to take advantage of the following resources.</p>
+<ul><li><a href="/sites/default/files/pdf/UIC_Walking_Tour_Flier_6-2018.pdf" target="_blank" title="UIC East campus self-guided tour">Self-guided tour East Campus</a></li>
+<li><a href="/sites/default/files/pdf/westcampusselftour_final.pdf" target="_blank">Self-guided tour West Campus</a></li>
+</ul><h3>Online Maps and Tours</h3>
+<ul><li><a href="http://maps.uic.edu/" target="_blank">Interactive campus map</a></li>
+<li><a href="https://sustainability.uic.edu/campus-resources/greencampustour/">Green campus tour</a></li>
+</ul></div>  </div>
+
 </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-full.tpl.php -->
-</div><div class="field-item odd"><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-full.tpl.php -->
-<div class="row checklist-section-wrap">
-    <div class="col col-sm-12 visit-type-section">
-        <div class="col col-sm-4">
-            <h2>Departmental Visits</h2>
-        </div>
-        <div class="col col-sm-8">
-            <p class="intro">Customize your visit by joining specific colleges and departments—either alongside an Admissions tour, or as a standalone appointment.</p>
-            <!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>Kinesiology and Nutrition</h3>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li>        </ul>
-        <div class="visit-body">
-        <p>The Department of Kinesiology and Nutrition in the College of Applied Health Sciences offers several information sessions for prospective students throughout the year. To view dates of upcoming sessions, visit the <a href="https://ahs.uic.edu/kinesiology-nutrition/events">kinesiology and nutrition events calendar</a>. For more information call (312) 996-4600.</p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://ahs.uic.edu/kinesiology-nutrition/events" target="_blank" title="Review Information Sessions">Review Information Sessions</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>College of Architecture, Design, & the Arts</h3>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li>        </ul>
-        <div class="visit-body">
-        <p>The UIC College of Architecture, Design, and the Arts (CADA) provides small group tours for students specifically interested in CADA programs on select Fridays. CADA Conversations (information session/tour) highlights the unique attributes of the college and offers an opportunity to see the relevant academic buildings, view student work, and ask any questions about the programs.</p>
-<p>Individual and group visits may be coordinated before or after a UIC campus visit or Admissions program. If you have any specific questions about UIC's College of Architecture, Design, and the Arts, please email <a href="mailto:cadainfo@uic.edu?subject=CADA%20Visit&amp;body=Please%20include%20your%20name%2C%20major%2C%20and%20a%20range%20of%20dates%20and%20times.">cadainfo@uic.edu</a>.</p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/portal/department-cada" target="_blank" title="Review Information Sessions">Review Information Sessions</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>College of Business Administration</h3>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li>        </ul>
-        <div class="visit-body">
-        <p>Visit UIC's College of Business Administration to learn how we blend curriculum from six degree programs and eight minors with real-world experience in Chicago. Guests can request a <a href="http://applynow.uic.edu/register/?id=8b80df09-58ef-4e91-811b-7ac66d62a1de">one-on-one appointment</a> or schedule a <a href="http://applynow.uic.edu/portal/department-business">group information session</a>.</p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/portal/department-business" target="_blank" title="Review Information Sessions">Review Information Sessions</a></li><li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/register/?id=8b80df09-58ef-4e91-811b-7ac66d62a1de" target="_blank" title="Request appointment">Request appointment</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>College of Education</h3>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li>        </ul>
-        <div class="visit-body">
-        <p>The best way to learn about our programs in the College of Education is by visiting our campus. Meetings for individual and group visits are best when coordinated with an existing admissions program. </p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/register/?id=813cc9ac-6e07-4fca-a562-df359f34c58e" target="_blank" title="Request appointment">Request appointment</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>College of Engineering</h3>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li>        </ul>
-        <div class="visit-body">
-        <p>Engineering's Undergraduate Student Affairs Office can be reached at (312) 996-3463 weekdays between the hours of 9 a.m.–4:30 p.m. Engineering recommends scheduling the visit before or after an Admissions program. Visits to specific departments in the College can be made by contacting one of the contacts listed on the <a href="http://engineering.uic.edu/visit-us/" target="_blank">College of Engineering Department Visits page</a>.</p>
-    </div>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>College of Liberal Arts and Sciences</h3>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li>        </ul>
-        <div class="visit-body">
-        <p>UIC’s College of Liberal Arts and Sciences (LAS) has more than 40 majors and minors spanning the sciences, humanities, and social sciences. We also offer advising and support for 10 pre-health tracks. You can visit LAS in person by requesting a <a href="https://applynow.uic.edu/register/?id=f5745fbb-d31d-422a-bd50-1a7a1663b629">one-on-one appointment</a>, or as part of a <a href="http://applynow.uic.edu/portal/department-las">scheduled group information session</a>.</p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/portal/department-las" target="_blank" title="Review Information Sessions">Review Information Sessions</a></li><li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/register/?id=f5745fbb-d31d-422a-bd50-1a7a1663b629" target="_blank" title="Request appointment">Request appointment</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>College of Pharmacy</h3>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li>        </ul>
-        <div class="visit-body">
-        <p><span style="color: rgb(102, 102, 102); font-size: 17px; background-color: rgb(255, 255, 255);">The College of Pharmacy Office of Student Affairs offers group and virtual information sessions for those interested in applying to the College of Pharmacy in the future. Individual advising appointments are also available. Topics include but aren't limited to admission requirements, application procedures, career opportunities and the interview process. If you have any questions about the College of Pharmacy, contact us at </span><a href="mailto:pharmosa@uic.edu" style="box-sizing: border-box; background: rgb(255, 255, 255); color: rgb(39, 92, 138); border-color: rgb(247, 50, 63); font-size: 17px;">pharmosa@uic.edu</a> .</p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://pharmacy.uic.edu/programs/pharmd-professional-program/events-for-prospective-students/information-sessions-and-advising" target="_blank" title="Review Information Sessions">Review Information Sessions</a></li><li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://pharmacy.uic.edu/programs/pharmd-professional-program/events-for-prospective-students/pre-pharmacy-admissions-advising-appointments" target="_blank" title="Request appointment">Request appointment</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>College of Nursing</h3>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li>        </ul>
-        <div class="visit-body">
-        <p>Nursing offers information sessions for their BSN, graduate entry, and other programs on select dates throughout the year. Additionally, nursing provides over-the-phone admissions counseling at (312) 996-7800.</p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="http://www.nursing.uic.edu/academics-admissions/prospective-students#information-sessions" target="_blank" title="Review Information Sessions">Review Information Sessions</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>School of Public Health</h3>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li>        </ul>
-        <div class="visit-body">
-        <p>Public Health offers regular information sessions regarding their Bachelor’s program in Public Health. Students are also able to schedule individual appointments by contacting Melissa Tag at (312) 355-2536 or <a href="mailto:mtag@uic.edu">mtag@uic.edu</a>.</p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="http://publichealth.uic.edu/admissions/information-sessions" target="_blank" title="Review Information Sessions">Review Information Sessions</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>College of Urban Planning and Public Affairs</h3>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li>        </ul>
-        <div class="visit-body">
-        <p>CUPPA currently offers information sessions by appointment. Individual or group visits can be coordinated by contacting CUPPA's Assistant Dean for Undergraduate Affairs, Jaime Holland,  <a href="mailto:jaime43@uic.edu" target="_blank">jaime43@uic.edu</a> or <a href="mailto:cuppa_students@uic.edu" target="_blank">cuppa_students@uic.edu</a>.</p>
-    </div>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-<div class="col col-sm-12 visit-item">
-    <h3>Honors College / GPPA Sessions</h3>
-                <ul class="visit-tags">
-            <li class="visit-tag" data-tag-machine-name="academic_program_information">Academic program information</li>        </ul>
-        <div class="visit-body">
-        <p>The UIC Honors College fosters a community of academic excellence, connects students with premier faculty, and promotes civic engagement and leadership opportunities. Guaranteed Professional Program Admissions (GPPA) allows a limited number of first year students per year to be admitted to UIC with guaranteed admission to one of several professional degree programs. Students follow a specific curriculum and meet established performance criteria to maintain guaranteed admission. Join representatives from these selective programs to learn more about the benefits and requirements for admission to each.</p>
-<p>This event is designed to follow the general UIC 101 Admissions Session and campus tour. It is recommended to register for both sessions.</p>
-    </div>
-            <ul class="visit-links">
-            <li class="visit-link"><a class="button arrowbutton blue smaller-padding static-arrow" href="https://applynow.uic.edu/portal/department-honors" target="_blank" title="Review Information Sessions">Review Information Sessions</a></li>        </ul>
-    </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-items-full.tpl.php -->
-        </div>
-    </div>
+
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/node/basic_page/ds-2col- -field-collection-item.tpl.php -->
+<!-- Template file: sites/all/themes/custom/uicrec/templates/node/basic_page/ds-2col- -field-collection-item.tpl.php -->
+<div  about="/field-collection/field-mult-content/358" typeof="" class="ds-2col row entity entity-field-collection-item field-collection-item-field-mult-content view-mode-full clearfix">
+
+  <div class="col-sm-4 ">
+    <h2 >Galleries / Museum Tours</h2>  </div>
+  
+  <div class="col-sm-8 ">
+	  <div class="content field field-name-field-section-body field-type-text-long field-label-hidden"><h3>View some of UIC’s own collections and exhibits within our art galleries, museums and community centers.</h3>
+<h4>Tours of Gallery 400</h4>
+<p>Founded in 1983, UIC’s Gallery 400 is one of the nation’s most vibrant university galleries, showcasing work at the leading edge of contemporary art, architecture, and design. Schedule your <a href="http://gallery400.uic.edu/visit/tours" target="_blank">tour</a>.</p>
+<h4>Tours of the Jane Addams Hull House</h4>
+<p>The Jane Addams Hull-House Museum serves as a dynamic memorial to social reformer Jane Addams, the first American woman to receive the Nobel Peace Prize, and her colleagues whose work changed the lives of their immigrant neighbors as well as national and international public policy. The Museum preserves and develops the original <a href="http://www.hullhousemuseum.org">Hull-House</a> site for the interpretation and continuation of the historic settlement house vision, linking research, education, and social engagement. Schedule your <a href="http://www.hullhousemuseum.org/group-tours/" target="_blank">tour</a>.</p>
+<h4>Midwest Nursing History Resource Center</h4>
+<p>The <a href="http://www.nursing.uic.edu/about-us/midwest-nursing-history-research-center" target="_blank">Midwest Nursing History Resource Center</a> developed out of an historical methodology research interest group that was part of the federally funded Nurse Faculty Research Development in the Midwest Project (1978). Its original promoters were doctorally prepared nurses who wished to establish a repository for significant documents relating to nursing history in the Midwest.</p>
+<h4>Centers for Culture and Social Change</h4>
+<p>Our Centers for Cultural Understanding and Social Change are dedicated to fostering greater acceptance and understanding, ensuring that students make the most of their experiences at UIC while also serving as a "second home" for students and a resource for educational materials, music, and art. Visit the <a href="https://diversity.uic.edu/who-we-are/centers-for-cultural-understanding-and-social-change/">cultral centers’ websites</a> for contact information and hours of operation.</p>
+</div>  </div>
+
 </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-visit-type-full.tpl.php -->
-</div></div></div>            </div>
-        </div>
+
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/node/basic_page/ds-2col- -field-collection-item.tpl.php -->
+      </div>
     </div>
+  </div>
 </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/node/on_campus_visits/ds-reset- -node-on-campus-visits-full.tpl.php -->
+<!-- /Template file: sites/all/themes/custom/uicrec/templates/node/basic_page/ds-reset- -node-basic-page-full.tpl.php -->
 
 </div>
 <!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
@@ -348,8 +202,31 @@
 <!-- /role=main -->
 <!-- role=complementary -->
 <div role="complementary">
-                
+                        <!-- #announcements -->
+        <div id="announcements" class="clearfix" >
+            <div class="field field-name-field-announcement-bar field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="announcementtext">Live view from the top of University Hall</div><a href="https://media.uic.edu/app/plugin/embed.aspx?ID=hsklhahjq0C-JuTbbe63JQ&amp;displayTitle=false&amp;startTime=0&amp;autoPlay=true&amp;hideControls=false&amp;showCaptions=false&amp;width=848&amp;height=636" class="button arrowbutton">View Now</a></div></div></div>        </div>
+        <!-- /#announcements -->
     
+    
+            <!-- #content_footer -->
+        <div id="content_footer" class="clearfix" >
+            <!-- Content Footer content will go here: regions[content_footer] -->
+            <div class='field field-name-field-related-resources-links field-type-link-field field-label-inline clearfix'>
+<div class='container'>
+<div class='row'>
+<div class='col col-sm-4'>
+<h2 class='block-title'>Related Resources</h2>
+</div>
+<div class='col col-sm-8'>
+<div class="item-list"><ul class="menu nav"><li class="odd first first"><a href="https://admissions.uic.edu/book-visit" class="textlinkarrow">Visit Campus</a></li>
+<li class="even"><a href="https://admissions.uic.edu/explore-uic" class="textlinkarrow">Explore UIC</a></li>
+<li class="odd last last"><a href="https://admissions.uic.edu/contact-admissions" class="textlinkarrow">Contact Admissions</a></li>
+</ul></div></div>
+</div>
+</div>
+</div>
+        </div>
+        <!-- /#content_footer -->
         </div>
 <!-- /role=complementary -->
 <footer>

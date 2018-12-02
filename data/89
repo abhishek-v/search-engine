@@ -1239,8 +1239,8 @@ article
 
 		</div>
 	</div>
-<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8efe5912a1:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8efe5912a1{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline" >
-	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-right vc_btn-gradient-btn-5bf8efe5912a1" href="http://admissions.uic.edu/apply-now" title="" target="_blank">Apply Now <i class="vc_btn3-icon fa fa-external-link"></i></a></div>
+<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf9d8ed7a256:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf9d8ed7a256{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline" >
+	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-right vc_btn-gradient-btn-5bf9d8ed7a256" href="http://admissions.uic.edu/apply-now" title="" target="_blank">Apply Now <i class="vc_btn3-icon fa fa-external-link"></i></a></div>
 </div></div><div class="vc_tta-panel" id="1470930966290-ebf38cf5-3d85" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1470930966290-ebf38cf5-3d85" data-vc-accordion data-vc-container=".vc_tta-container"><i class="vc_tta-icon fa fa-calendar-check-o"></i><span class="vc_tta-title-text">Deadlines</span></a></h4></div><div class="vc_tta-panel-body">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
@@ -1543,7 +1543,7 @@ Chicago, IL 60607</a></p><span class="fa fa-phone"> </span> <span style="padding
 <li id="menu-item-2062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2062"><a href="http://engineering.uic.edu/scholarships/">Scholarships</a></li>
 <li id="menu-item-3772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3772"><a href="http://engineeringalumni.uic.edu">Alumni</a></li>
 <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"><a href="http://engineering.uic.edu/contact/">Contact</a></li>
-</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="yprziICKoA" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
+</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="cfaSstijuE" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
 		</aside></div><div class="col-3"><aside id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widget-title"><span>Resources</span></h4><div class="menu-footer-secondary-menu-container"><ul id="menu-footer-secondary-menu" class="menu"><li id="menu-item-2067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2067"><a href="http://vcsa.uic.edu/">Student Affairs</a></li>
 <li id="menu-item-2201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2201"><a href="http://www.uic.edu/apps/departments-az/search">Directory</a></li>
 <li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1694"><a href="http://engineering.uic.edu/offices/">Offices</a></li>
@@ -1659,7 +1659,7 @@ var mainParams = {"sticky_menu":"","smart_sticky":"0"};
 
 <script type='text/javascript'>
 /* <![CDATA[ */
-var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"276d87e536","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"ee093dbe34","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
 /* ]]> */
 </script>
 
@@ -1687,7 +1687,7 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
 Minified using disk
-Database Caching 41/76 queries in 0.257 seconds using disk
+Database Caching 24/76 queries in 0.126 seconds using disk
 
-Served from: engineering.uic.edu @ 2018-11-24 06:29:57 by W3 Total Cache
+Served from: engineering.uic.edu @ 2018-11-24 23:04:13 by W3 Total Cache
 -->

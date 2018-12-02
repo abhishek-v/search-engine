@@ -121,7 +121,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//slce.uic.edu/?wordfence_lh=1&hid=D9AC6ED1AF5DA2A0CE527445D0350E73');
+})('//slce.uic.edu/?wordfence_lh=1&hid=F07D2486AF29824297D2868A1763B417');
 </script>
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>

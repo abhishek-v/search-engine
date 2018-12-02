@@ -44,7 +44,7 @@
 <script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"JEFfL1_mHbWS4VWWK6-Tf6Tr3960PFkM8ve8RqFs0_4","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/service\/uicalendar":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"jwLs2EQEULjbh7kVcErQof2IS-7P3FzmbcYtCAOuFkk","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/service\/uicalendar":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
 //--><!]]>
 </script>
 </head>
@@ -83,7 +83,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-hDbAyCPQN20Q3wdef6n8WLGuhQRSoeE1kduuyEbYPUw" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-RweigUW3FL7xf2weZbVvKKfccvmay_lm_D99W3hNEC4" />
 <input type="hidden" name="form_id" value="search_block_form" />
 </div>
 </div></form>  </div>
@@ -140,7 +140,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/answer/UICalendar" class="block-title-link">Answers related to UICalendar</a></h2>
   
   <div class="content">
-    <div class="view view-answers view-id-answers view-display-id-block_4 nocontent view-dom-id-39c3ca3279767e1267391ba132f5c9fe">
+    <div class="view view-answers view-id-answers view-display-id-block_4 nocontent view-dom-id-fbec653aa824424bfb3c5647e64d7d4f">
             <div class="view-header">
       Displaying 8 of 8 answers    </div>
   
@@ -224,7 +224,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/service/all" class="block-title-link">Service Catalog</a></h2>
   
   <div class="content">
-    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-f8462e11e64daf32d28880eb9d649d35">
+    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-a60bb7dbb0bc06a21857c14c596fe3cf">
         
   
   
@@ -315,7 +315,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           Wired Network  </option><option value="7b8b5252a137d17387b07d7470d684d6::/service/wireless">  
           Wireless Network  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-zRKr-CX-eEObJLJtvWh0OqAp1E1q--P9e20rlBLt_20" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-nhk4AQjLauxKWtcaaMeuNBEkvG5X8u09KEMBGQ3icms" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -331,7 +331,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2>Service Categories</h2>
   
   <div class="content">
-    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-6ef66ae47f34ee84b78c06dd41b31adc">
+    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-c6d8e60aef1b7f615bdfcb3390b78ef9">
         
   
   
@@ -348,7 +348,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           Research  </option><option value="af03098223978b67697bc3c4992ec42b::/category/security">  
           Security  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-xdyIS5-5SQUe31P2Dfay12cGuEURuE6vnIS8vJP4fLY" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-wVstbvrNk3TQsAy87T1vwnLRfU2i9RSUdgrXqdlL1GM" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -364,7 +364,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/popular/all" class="block-title-link">Popular Services</a></h2>
   
   <div class="content">
-    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-309bb007eaca65b64ec656cb11ee167e">
+    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-4465fde913b892ec7d1a574cd23c25d6">
         
   
   
@@ -384,7 +384,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <li class="views-row views-row-7 views-row-odd">  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/service/servicedesk">ACCC Service Desk</a></span>  </span></li>
           <li class="views-row views-row-8 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless">Wireless Network</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless" class="active">Wireless Network</a></span>  </span></li>
           <li class="views-row views-row-9 views-row-odd">  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/LTS">Learning Technology Solutions</a></span>  </span></li>
           <li class="views-row views-row-10 views-row-even views-row-last">  

@@ -44,7 +44,7 @@
 <script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"hBWymVQKZXQSjkzy-z1a5dg9kdsbi2qUb-0wfa3Zsjc","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/service\/g-suite":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"2JFrqG1kF_GY1oCY_tXQh7OXBhzmcufmwQ2NeB2ihZ8","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/service\/g-suite":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
 //--><!]]>
 </script>
 </head>
@@ -83,7 +83,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-2fWm9K8p1gYFnm0kgc-9jj3BAP1K6N7B0QGunq8rXi4" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-xqMFpY7ctf0YIbLjvrdH9gdc3bNTzyWroiUv75Wdykc" />
 <input type="hidden" name="form_id" value="search_block_form" />
 </div>
 </div></form>  </div>
@@ -144,7 +144,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/answer/G%20Suite%20%28formerly%20Google%20Apps%29" class="block-title-link">Answers related to G Suite (formerly Google Apps)</a></h2>
   
   <div class="content">
-    <div class="view view-answers view-id-answers view-display-id-block_4 nocontent view-dom-id-5abd94dc84ef58813896642668cf60e2">
+    <div class="view view-answers view-id-answers view-display-id-block_4 nocontent view-dom-id-bbc29381e34a7f106e526ea6aeb10f30">
             <div class="view-header">
       Displaying 15 of 22 answers    </div>
   
@@ -272,7 +272,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/service/all" class="block-title-link">Service Catalog</a></h2>
   
   <div class="content">
-    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-4dccb693d074914434c5b7e8c4d254b4">
+    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-515edd2dfab960486d024c3a6ad632b0">
         
   
   
@@ -363,7 +363,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           Wired Network  </option><option value="7b8b5252a137d17387b07d7470d684d6::/service/wireless">  
           Wireless Network  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-Yp0fuybr9QbBInAegldhQRng8PreBVtAEa6wBxfa9v0" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-dwp4OIDdiLJk9jHTqfx7tUy5eSUtBRI0CqMHwHRC_AU" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -379,7 +379,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2>Service Categories</h2>
   
   <div class="content">
-    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-effa372640c04b249955ce148790b3e5">
+    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-3e812905e9c8e1fd4974b4ee841fdfbe">
         
   
   
@@ -396,7 +396,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           Research  </option><option value="af03098223978b67697bc3c4992ec42b::/category/security">  
           Security  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-Jvj3yOughkRiYBIl5P7wBs3Ai-9xYEiyrzoxltlbUyA" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-mXpnUd-W71zHn1ntfGkikr8Bdjcazw01RCwAbGz_Qdc" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -412,7 +412,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/popular/all" class="block-title-link">Popular Services</a></h2>
   
   <div class="content">
-    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-309bb007eaca65b64ec656cb11ee167e">
+    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-4465fde913b892ec7d1a574cd23c25d6">
         
   
   
@@ -432,7 +432,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <li class="views-row views-row-7 views-row-odd">  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/service/servicedesk">ACCC Service Desk</a></span>  </span></li>
           <li class="views-row views-row-8 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless">Wireless Network</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless" class="active">Wireless Network</a></span>  </span></li>
           <li class="views-row views-row-9 views-row-odd">  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/LTS">Learning Technology Solutions</a></span>  </span></li>
           <li class="views-row views-row-10 views-row-even views-row-last">  

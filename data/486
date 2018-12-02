@@ -1,540 +1,794 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-    <title>Office of the Dean of Students</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=9" />
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="css/bootstrap.css" media="screen">
-    <link rel="stylesheet" href="css/site.css" media="screen">
-    <link rel="stylesheet" href="css/font-awesome.min.css"> 
-    
-    <!--royalslider CSS-->
-    <link href="assets/royalslider/royalslider.css" rel="stylesheet">
- 	<link href="assets/royalslider/skins/default/rs-default.css" rel="stylesheet">
-   <link href="assets/royalslider/skins/minimal-white/rs-minimal-white.css" rel="stylesheet">
-     <!-- slider JS files -->    
-	<script  src="royalslider/jquery-1.8.3.min.js"></script>
-	<script src="royalslider/jquery.royalslider.min.js"></script>
-    <script src="assets/royalslider/jquery.easing-1.3.js"> </script>
-   
-<style>
-.error{
-border: 1px solid #F00000;
-}
-.navbar-fixed {
-    top: 0;
-    z-index: 100;
-  position: fixed;
-    width: 100%;
-}
-
-<!-- slider css -->
-
-  #video-gallery {
-width: 100%;
-color: #FFF;
-}
-
-.videoGallery .rsCloseVideoBtn {
-  display: none;
-} 
-/* Styling thumbnails */
-.videoGallery h5 {
-  margin: 0;
-}
-.videoGallery p {
-  color: #ddd;
-  font-size: 13px;
-}
-.videoGallery .rsTmb {
-  padding: 20px;
-}
-
-.videoGallery .rsThumbs .rsThumb {
-  width: 940px;
-  height: 80px;
-  border-bottom: 1px solid #2E2E2E;
-}
-.videoGallery .rsThumbs.rsThumbsVer {
-  width: 220px;
-  padding: 0;
-}
-.videoGallery .rsThumb:hover {
-  background: #000;
-}
-.videoGallery .rsThumb.rsNavSelected {
-  background-color: #18bc9c;
-  border-bottom: 1px solid #009E56;
-}
-.rsDefault .rsOverflow,
-.rsDefault .rsSlide,
-.rsDefault .rsVideoFrameHolder,
-.rsDefault .rsThumbs {
-  background: #202020;
-}
-.sampleBlock {
-  left: 3%; 
-  top: 1%; 
-  width: 100%;
-  max-width: 400px;
-  color: #FFF;
-  font-weight:bold;
-   background: #000;
-  background: rgba(0,0,0,0.75);
-  padding:7px 10px 10px 10px;
-}
-@media screen and (min-width: 0px) and (max-width: 500px) {
-  .videoGallery .rsTmb {
-    padding: 6px 8px;
-  }
-  .videoGallery h5 {
-    font-size: 13px;
-    line-height: 17px;
-  }
-  .videoGallery .rsThumbs.rsThumbsVer {
-    width: 100px;
-    padding: 0;
-  }
-  .videoGallery .rsThumbs .rsThumb {
-    width: 100px;
-    height: 47px;
-  }
-  .videoGallery .rsTmb p {
-    display: none;
-  }
-  .videoGallery .rsOverflow,
-  .royalSlider.videoGallery {
-    height: 300px !important;
-  }
-  .sampleBlock {
-    font-size: 14px;
-  }
-}
-<!-- Block Text Slider -->
-#slider-with-blocks-1 {
-  width: 100%;
-  height: 100%;
-}
-.rsContent {
-  color: #FFF;
-  font-size: 24px;
-  line-height: 32px;
-  float: left;
-}
-
-.bContainer {
-  position: relative;
-}
-.rsABlock {
-  left: 30px;
-	top: 280px;
-	position: absolute;
-	z-index: 15;
+				<!DOCTYPE html>
+<html lang="en-US"><head>
 	
-}
+	<!-- Google Site Verification -->
+	<meta name="google-site-verification" content="U4nFQYZb1ra0Xr2hHgXzJpSS_43bwtAiSTl2fXQbhRQ" />
 
-.rsBBlock {
-  position: relative;
-  display: block;
-  left: auto;
-  top: auto;
-}
-.blockHeadline {
-  font-size: 42px;
-  line-height: 50px;
-}
-.blockSubHeadline {
-  font-size: 32px;
-  line-height: 40px
-}
-.txtCent {
-  text-align: center; 
-  width: 100%; 
-}
-.slide1 {
-  background: #f06b50;
-}
-.slide1 .bContainer {
-	top: 30px;
-}
-.slide2 {
-    background: #ffbc11;
-    color:#000;
-}
-.slide2 .bContainer {
-  top: 20px;
-}
-.slide2 .txtCent {
-  line-height: 44px;
-}
-.slide2 .blockHeadline {
-   line-height: 66px;
-}
-.slide3 {
-    background: #45aab8;
-    color:#FFF;
-}
-.slide3 .bContainer {
-   top: 24px;
-}
-.slide3 span {
-  line-height: 44px;
-}
-.slide4 .bContainer {
-  position: absolute;
-  left: 0;
-  width: 100%;
-  height: auto;
-  top: 24px;
-}
-.photoCopy {
-  position: absolute;
-  line-height: 24px;
-  font-size: 12px;
-  background: black;
-  color: white;
-  background-color: rgba(0, 0, 0, 0.75);
-  padding: 0px 10px;
-  position: absolute;
-  left: 12px;
-  bottom: 12px;
-  top: auto;
-  border-radius: 2px;
-  z-index: 25;
-}
-.photoCopy a {
-  color: #FFF;
-}
-.palmImg {
-  left: 0;
-  top: auto;
-  bottom: -60px;
-  position: absolute;
-}
-@media screen and (min-width: 0px) and (max-width: 960px) { 
-  .rsContent {
-    font-size: 22px;
-    line-height: 28px;
-  }
-  .blockHeadline {
-    font-size: 32px;
-    line-height: 32px;
-  }
-  .blockSubHeadline {
-    font-size: 26px;
-    line-height: 32px
-  }
-}
-@media screen and (min-width: 0px) and (max-width: 500px) { 
-  .royalSlider,
-  .rsOverflow {
-    height: 200px !important;
-  }
-  .rsContent {
-    font-size: 18px;
-    line-height: 26px;
-  }
-  .blockHeadline {
-    font-size: 24px;
-    line-height: 32px;
-  }
-  .blockSubHeadline {
-    font-size: 22px;
-    line-height: 32px
-  }
-}
-
-.label {
-  margin-right: 5px;
-}
-</style>
-
-</head>
-<body>
-  
-<div id="skip"><a href="#content">Skip to Main Content</a></div> 
-<div class="container header_container">
-<div id="header">
-<div id="header_logo">
-<div id="header_logo_left"><a href="http://www.uic.edu" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('uic_logo','','img/banner-UIC.png',1)"><img src="img/banner-UIC.png" alt="link to UIC home page" id="uic_logo"/></a><a href="http://vcsa.uic.edu" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ovcsa_logo','','img/banner-OVCSA2.png',1)"><img src="img/banner-OVCSA2.png" alt="link to OVCSA home page" id="ovcsa_logo" width="200" height="40"/></a></div>
-<div id="header_logo_right"><a href="http://www.uic.edu" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('uofi_logo','','img/banner-UniversityofIlli2.png',1)"><img src="img/banner-UniversityofIlli2.png" alt="link to UIC" id="uofi_logo"/></a></div>
-</div>
-<div class="clearfloat"></div>
-</div>
-<div class="triangle_left"></div>
-<div class="triangle_right"></div>
-</div>
-<!-- title -->   
-<div class="container">
-      <div class="page-header" id="banner">
-        <div class="row">
-          <div class="col-lg-12">
-            <h1 style="padding-left:12px"><strong>OFFICE OF THE DEAN OF STUDENTS</strong></h1>
-          </div>         
-        </div>
-      </div>
-</div>
-<div class="container" id="navbar_container">
-      <!-- Navbar
-      ================================================== -->
-      <div class="bs-docs-section clearfix">
-        <div class="row">
-          <div class="col-lg-12">    
-            <div class="bs-example">
-              <div class="navbar navbar-default" id="nav_bar">
-                   <div class="container">
-                      <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-                          <span class="icon-bar"></span>
-                          <span class="icon-bar"></span>
-                          <span class="icon-bar"></span>
-                        </button>
-                         <a class="navbar-brand" href="index.shtml">Home</a>
-                      </div>
-                      <div class="navbar-collapse collapse navbar-responsive-collapse">
-                         <ul class="nav navbar-nav">
-                          <li><a href="about.shtml">About Us</a></li>    
-                          <li><a href="services.shtml">Students</a></li>     
-                          <li><a href="units.shtml">Faculty & Staff</a></li>
-                          <li><a href="contact.shtml">Contact Us</a></li>            
-						  <li><a href="needhelp.shtml">Need Help?</a></li> 
-                        </ul>
-                        <form class="navbar-form navbar-right" id="cse-search-box" action="search.shtml">
-                        <input type="hidden" value="003292673167871140938:_ftumhdite0" name="cx" />
-                        <input type="hidden" value="FORID:11" name="cof" />
-                        <input type="hidden" value="UTF-8" name="ie" />                        
-                        <input type="text"  id="search"  name="q" class="form-control col-lg-8" placeholder="Search">     
-                        </form>   
-	</div><!-- /.nav-collapse -->
-                  </div><!-- /.container -->
-                  </div><!-- /.navbar -->
-             
-            </div><!-- /example -->
-          </div>
-        </div>
-      </div>
-    <!-- end of Navbar-->
-</div>
+        <meta charset="utf-8">
+        <title>Campus Recreation</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Official Website of UIC Campus Recreation" />  
+        <meta name="keywords" content="Campus Recreation" />
+        
+                
+                <!-- Le styles -->
+        <!-- Le fav and touch icons -->
+        <link rel="shortcut icon" href="http://recreation.uic.edu/wp-content/uploads/2013/02/favicon1.png">
+        <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <!--[if lte IE 8]>
+    	<link rel="stylesheet" type="text/css" href="http://recreation.uic.edu/wp-content/themes/builder/assets/css/ie.css" />
+		<![endif]-->
+                <link rel="alternate" type="application/rss+xml" title="Campus Recreation &raquo; Feed" href="http://recreation.uic.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Campus Recreation &raquo; Comments Feed" href="http://recreation.uic.edu/comments/feed/" />
+<link rel='stylesheet' id='stylesheet-css'  href='http://recreation.uic.edu/wp-content/themes/builder/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wide_layout-css'  href='http://recreation.uic.edu/wp-content/themes/builder/assets/css/wide_layout.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gsc_style-css'  href='http://recreation.uic.edu/wp-content/plugins/google-custom-search/css/smoothness/jquery-ui-1.7.3.custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gsc_style_search_bar-css'  href='http://www.google.com/cse/style/look/minimalist.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gsc_style_search_bar_more-css'  href='http://recreation.uic.edu/wp-content/plugins/google-custom-search/css/gsc.css' type='text/css' media='all' />
+<link rel='stylesheet' id='css3_grid_font_yanone-css'  href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&#038;ver=6958' type='text/css' media='all' />
+<link rel='stylesheet' id='css3_grid_table1_style-css'  href='http://recreation.uic.edu/wp-content/plugins/css3_web_pricing_tables_grids/table1/css3_grid_style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='css3_grid_table2_style-css'  href='http://recreation.uic.edu/wp-content/plugins/css3_web_pricing_tables_grids/table2/css3_grid_style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='css3_grid_responsive-css'  href='http://recreation.uic.edu/wp-content/plugins/css3_web_pricing_tables_grids/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-settings-css'  href='http://recreation.uic.edu/wp-content/plugins/revslider/rs-plugin/css/settings.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-captions-css'  href='http://recreation.uic.edu/wp-content/plugins/revslider/rs-plugin/css/captions.css' type='text/css' media='all' />
+<link rel='stylesheet' id='super-rss-reader-css-css'  href='http://recreation.uic.edu/wp-content/plugins/super-rss-reader/public/srr-css.css' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://recreation.uic.edu/wp-content/plugins/js_composer/assets/css/js_composer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css'  href='http://recreation.uic.edu/wp-content/uploads/js_composer/custom.css' type='text/css' media='screen' />
+<script type='text/javascript' src='http://recreation.uic.edu/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.hoverIntent.minified.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.cookie.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.dcjqaccordion.2.9.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/plugins/google-custom-search/js/gsc.js'></script>
+<script type='text/javascript' src='http://www.google.com/jsapi'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/plugins/super-rss-reader/public/srr-js.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://recreation.uic.edu/xmlrpc.php?rsd" />
+<link rel='canonical' href='http://recreation.uic.edu/' />
+<link rel='shortlink' href='http://recreation.uic.edu/' />
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+        
+        <!-- Added by vishakha -->
+	<style type="text/css" media="screen">
+    #skip a, #skip a:hover, #skip a:visited 
+    { 
+    position:absolute; 
+    left:0px; 
+    top:-500px; 
+    width:1px; 
+    height:1px; 
+    overflow:hidden;
+    } 
     
-                           
-<!--main container-->
-<div class="container">
-<div class="Flexible-container">         
-<img src="img/dos_sls.jpg" alt="About Dean Of Students" class="img-responsive">
-</div>
-<br />
-<div class="row">
-<a tabindex="-1" name="content"></a>
-<div class="col-lg-9">
-
-<div class="panel panel-default">
-<div class="panel-heading">
-<h3 class="h3">LATEST DEVELOPMENT ON DACA</h3>
-</div>
-<div class="panel-body">
-  <b style="color: #002060;">
-  <p>AS OF (1/10/18)</p>
-
-  <p>On January 9, 2018, a federal judge in California temporarily blocked the current White House administration’s decision last September to rescind the Deferred Action for Childhood Arrivals (DACA) program.  DACA was started by the Obama administration in 2012 to give young undocumented immigrants protection from deportation and the ability to work legally in the U.S.  This most recent order by the Ninth Circuit judge states that the administration must resume accepting DACA renewal applications, although it does not need to accept new ones from first-time applicants.  The latest ruling gives DACA recipients a new window, albeit a temporary one, to renew their status.  </p>
-
-  <p>
-    UIC Student Legal Services (SLS) is committed to helping ALL current UIC students with legal issues, including those who are personally affected by the ongoing DACA developments.  Since last November, SLS has hired two immigration attorneys to help students with such matters.  Any current student who wants to discuss the ramifications of this latest development should contact SLS to schedule an appointment.
-  </p>
-
-  <p>To make an appointment with a SLS attorney, please call 312-996-9214 or email akowal@uic.edu.  For more information on SLS, visit <a href="https://dos.uic.edu/studentlegalservices.shtml">https://dos.uic.edu/studentlegalservices.shtml.</a></p>
-  </b>
-
-</div>
-</div>
-
-<div class="panel panel-default">
-<div class="panel-heading">
-<h3 class="h3">STUDENT LEGAL SERVICES</h3>
-</div>
-<div class="panel-body">
-<p>
-<p>
-UIC’s Student Legal Services (SLS) is a full-service law office dedicated to providing legal solutions for currently enrolled students.  SLS offers advice and representation on a wide variety of legal matters, including:
-<ul>
-<li>Landlord-Tenant Matters</li>
-<li>Expungement of Records</li>
-<li>Family Law</li>
-<li>Some Criminal Matters</li>
-<li>Traffic Issues</li>
-<li>Orders of Protection</li>
-<li>Employment Agreements</li>
-</ul>
-
-Our service is free for currently-registered students, because it is paid for with Student Fees.
-If you have a legal concern, make an appointment to come speak with us.  We assure you that your communication with us will be completely confidential.  
-</p><br>
-<h4><u>SCHEDULE AN APPOINTMENT</u></h4>
-<p>To make an appointment to visit Student Legal Services, please call 312-996-9214 and speak with a representative.  If you get voicemail, please leave a clear message, making sure to leave your full name, student ID number, best number to reach you, your UIC email address, and a brief description of your legal issue.  We will do our best to call you back with minimal delay, usually within 24-48 hours.  
-Before you visit, please download the Agreement for Legal Services, carefully read, sign, and date it.  Please fill out the Student Intake Form and bring it with you.  You will also need to bring in your current Student ID card.<br>
-
-<h5>WHAT YOU NEED TO BRING</h5>
-<ol>
-<li>Signed Agreement for Legal Services </li>
-<li>Completed Student Intake Form </li>
-<li>Your Student ID card </li>
-<li>Documents relevant to your legal issue </li>
-</ol>
-Our time is valuable, just like yours.  If you miss an appointment without informing us in advance, you may be suspended from using our services for a semester.  If you are more than 15 minutes late to a scheduled appointment without informing us in advance, you will have to reschedule your appointment.
-</p>
-<p><strong><h3><font color="blue">For information regarding the UIC Student Legal Services Undergraduate Legal Internship program, please click on the links below:</font></h3></strong></p>
-<p><strong><font color="red">The deadline for the internship is Wednesday, November 21st, 2018 at 5:00 pm</font></strong></p>
-<ul>
-<li><a href="docs/information sheet SLS Internship 2019.pdf" target="_blank">Information Sheet</a></li>
-<li><a href="docs/SLS Undergraduate Internship Application 2018.pdf" target="_blank">SLS Internship Application</a></li>
-<!-- <li><a href="docs/SLS Internship Application revised.pdf">Internship Application</a></li> -->
-</ul>
-</div>
-</div>
-
-</div>
-<div class="col-lg-3">
-<div class="list-group" style="box-shadow: 0 8px 6px -6px #000000;">
-<a class="list-group-item active" href="studentlegalservices.shtml">Student Legal Services</a>
-<a class="list-group-item" href="docs/Driving in Illinois.pdf">Information for International Students</a>
-<a class="list-group-item" href="slstopics.shtml">Hot Topics</a>
-<a class="list-group-item" href="slsresources.shtml">SLS Resources</a>
-<a class="list-group-item" href="slsfaq.shtml">SLS FAQ</a>
-<a class="list-group-item" href="contactsls.shtml">Contact SLS</a>
-</div>
+    #skip a:active {
+    width: auto;
+    position: static;
+    height: auto;
+    }
+    
+    #skip a:focus 
+    { 
+    position:static; 
+    width:auto; 
+    height:auto; 
+    } 
+    
+    .hidden
+    {position:absolute;
+    left:0px;
+    top:-500px;
+    width:1px;
+    height:1px;
+    overflow:hidden;}
+    </style>
+    
+    <script type="text/javascript"> 
+    <!--added by Vishakha
+    function MM_swapImgRestore() { //v3.0
+      var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+    }
+    
+    function MM_findObj(n, d) { //v4.01
+      var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+        d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+      if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+      for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+      if(!x && d.getElementById) x=d.getElementById(n); return x;
+    }
      
-<div class="list-group" style="box-shadow: 0 8px 6px -6px #000000;">
-<a class="list-group-item active" href="about.shtml">Other Services</a>
-<a class="list-group-item " href="studentconductprocess.shtml">Student Conduct Process</a>
-<a class="list-group-item" href="studentadvocacyservices.shtml">Student Advocacy Services</a>
-<a class="list-group-item" href="studentombudsservices.shtml">Student Ombuds Services</a>
-<a class="list-group-item" href="studentlegalservices.shtml">Student Legal Services</a>
-<a class="list-group-item" href="studentveteranaffairs.shtml">Student Veteran Affairs</a>
-<a class="list-group-item" href="studentgovernanceadvising.shtml">Student Governance Advising</a>
-<a class="list-group-item" href="religiousworkersassociation.shtml">Religious Workers Association</a>
-<a class="list-group-item" href="policiesandprocedures.shtml">Policies & Procedures</a>
-</div> 
-     	
-</div>  
-</div>
-</div><!-- end of main container-->
-<!--footer-->
-<div class="row">
-<div class="content-wrap-spacer">
-</div>
-</div>
-<div class="row">
-<div class="content-wrap-spacer">
-</div>
-</div>
-<div class="container footer_container">  
-<div class="triangle_left_footer"></div>
-<div class="triangle_right_footer"></div> 
-<div id="footer-wrap">
-<div class="content-wrap-spacer"></div>
-<div class="row">
-<div class="col-lg-4" style="color:#00000; padding-top: 10px; padding-bottom:10px;text-align:center;" > 
-Student Services Building (SSB)<br>
-1200 West Harrison St,<br>
-3030 SSB (MC 318)<br>
-Chicago, IL 60607<br><br>
+    function MM_swapImage() { //v3.0
+      var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+       if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+    }
+    //-->
+    </script>
 
-<small><i class="fa fa-phone"></i> Phone: 312-996-4857 <br>
-<i class="fa fa-print"></i> Fax: 312-413-3716 
-</small>
-</div>
-   		
-<div class="col-lg-4" style="padding-top: 10px; padding-bottom:10px; text-align: center;" >
-      
-<a href="http://vcsa.uic.edu">OVCSA</a>
-|
-<a href="http://www.uic.edu">UIC</a>
-|
-<a href="sitemap.shtml">Site Map</a>
-|
-<a href="needhelp.shtml">Need Help?</a>
- <p style="color:#3498DB; font-size:11px; line-height:1;"><br>Copyright © 2018 The Board of Trustees of the University of Illinois | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy" target="_blank">Privacy Statement</a> </p>
-</p> 
-        
-        </div>        
-        <div class="col-lg-4" style="padding-top: 10px; padding-bottom:10px;">   
-         
-             <a href="http://vcsa.uic.edu"><img src="img/banner-OVCSA-white3.png" class="img-responsive" alt="OVCSA"></a> 
-            
-        </div>
-        
+<!-- added by Vishakha for Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-42322888-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+    </head>
+
+	<body  class="home page page-id-1086 page-template-default wpb-js-composer js-comp-ver-4.3.3 vc_responsive">
+    
+	<!--added skip to main content link by Vishakha -->
+    <div id="skip"><a href="#content">Skip to Main Content</a></div> 
+    <h1 class="hidden">UIC Campus Recreation</h1>
+
+    <div class="wide_cont" style="background-image:url(http://recreation.uic.edu/wp-content/uploads/2013/04/bkgrnd2.png); background-position:center;">
+    
+     <!--banner added by Vishakha -->
+    <div class="banner" style="background-color:#dedede">
+    <div class="container">
+        	<div class="row">
+            	<div class="span6">   
+                <a href="http://www.uic.edu" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('uic_logo','','http://recreation.uic.edu/wp-content/uploads/2013/04/banner-UIC.png',1)"><img src=		"http://recreation.uic.edu/wp-content/uploads/2013/04/banner-UIC-white.png" alt="University of Illinois at Chicago" id="uic_logo"> </a>
+                <a href="http://www.vcsa.uic.edu" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ovcsa_logo','','http://recreation.uic.edu/wp-content/uploads/2013/04/banner-OVCSA.png',1)"><img src="http://recreation.uic.edu/wp-content/uploads/2013/04/banner-OVCSA-white.png" alt="Office of the Vice Chancellor for Student Affairs" id="ovcsa_logo"></a>
+ 				</div>
+                <div class="span6" style="text-align:right">
+                <a href="http://www.uic.edu" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('uofi_logo','','http://recreation.uic.edu/wp-content/uploads/2013/03/banner-UniversityofIlli.png',1)"><img src="http://recreation.uic.edu/wp-content/uploads/2013/03/banner-UniversityofIlli-white.png" alt="University of Illinois at Chicago" id="uofi_logo"></a>
+                </div>
+    		</div>
     </div>
+    </div>
+    
+    <!--TOP-->
+      	<div class="top_line">
+    	<div class="container">
+        	<div class="row">
+            	<div class="span10">
+                
+                <!--twitter feed added by Vishakha, the twitter account name should be populated the admin panel footer settings-->                     
+                  <!--  <div class="tweet" style="color:#ffffff; padding-bottom:0px; padding-top:5px; padding-left:4px;"></div>   -->
+
+		 <p>Happy Thanksgiving from the Campus Recreation Family!  
+
+Reminder that we close early tonight and all facilities wi… <a href="https://t.co/2xg03SeO4E">https://t.co/2xg03SeO4E</a> - <span class="0_tweet_date"></span></p>
+
+		<script type="text/javascript">
+			jQuery(document).ready(function() { 
+									moment.lang('en');
+												var date_val_0 = 1542829977;
+								var date_0 = moment.unix(date_val_0).fromNow();
+								jQuery(".0_tweet_date").html(date_0);
+							});
+		</script>
+
+
+                    
+					<!--commented by Vishakha<p class="feed"></p>-->
+    			</div>
+                <div class="span2 soc_icons">
+                																                    	<a href="http://recreation.uic.edu/search/" target="_blank"><div class="icon_google"></div></a>
+                    					                    	<a href="https://www.facebook.com/UICCampusRec" target="_blank"><div class="icon_facebook"></div></a>
+                                                            	<a href="https://www.instagram.com/uic_campusrec/" target="_blank"><div class="icon_in"></div></a>
+                                                                                	<a href="https://twitter.com/uiccampusrec" target="_blank"><div class="icon_t"></div></a>
+                                    </div>
+    		</div>
+    	</div>
+    </div>
+    <!--/TOP-->
+        
+    
+    <!--PAGE HEAD-->
+    <div class="page_head" >
+    	<div class="container">
+        	<div class="row">
+            	<div class="span3">
+                	<div class="logo">
+                    	<a href="http://recreation.uic.edu"> <img src="http://recreation.uic.edu/wp-content/uploads/2013/05/CampRecLogo6.png" alt="Campus Recreation" /></a>
+                    </div>
+                </div>
+                <div class="span9">
+                	<nav>
+                    	<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-7012" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1086 current_page_item menu-item-has-children menu-item-7012"><a title="Home" href="http://recreation.uic.edu/" >About</a>
+<ul class="sub-menu">
+	<li id="menu-item-5694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5694"><a href="http://recreation.uic.edu/mission-vision-and-values/" >Mission, Vision and Values</a></li>
+	<li id="menu-item-5693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5693"><a href="http://recreation.uic.edu/sustainability/" >Sustainability</a></li>
+	<li id="menu-item-13876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13876"><a href="http://recreation.uic.edu/inclusive-recreation/" >Inclusive Recreation</a></li>
+	<li id="menu-item-5692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5692"><a href="http://recreation.uic.edu/history/" >History</a></li>
+	<li id="menu-item-5691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5691"><a href="http://recreation.uic.edu/photo-gallery/" >Photo Gallery</a></li>
+</ul>
+</li>
+<li id="menu-item-6348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6348"><a title="Facilities &amp; Hours" href="http://recreation.uic.edu/facilities/" >Facilities</a>
+<ul class="sub-menu">
+	<li id="menu-item-12710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12710"><a href="http://recreation.uic.edu/rentals/" >Facility Rentals</a></li>
+	<li id="menu-item-5295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5295"><a title="Student Recreation Facility" href="http://recreation.uic.edu/facilities/facility_srf/" >Student Recreation Facility</a></li>
+	<li id="menu-item-5455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5455"><a href="http://recreation.uic.edu/facilities/facility_sfc/" >Sport &#038; Fitness Center</a></li>
+	<li id="menu-item-7077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7077"><a href="http://recreation.uic.edu/facilities/ofc/" >Outdoor Field Complex</a></li>
+	<li id="menu-item-5294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5294"><a title="Outdoor Recreation Courts" href="http://recreation.uic.edu/facilities/facility_courts/" >Outdoor Recreation Courts</a></li>
+	<li id="menu-item-9171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9171"><a href="http://recreation.uic.edu/facilities/facility_srf/" >SRF Hours</a></li>
+	<li id="menu-item-9172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9172"><a href="http://recreation.uic.edu/facilities/facility_sfc/" >SFC Hours</a></li>
+	<li id="menu-item-10400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10400"><a href="https://www.uic.edu/apps/security/guestwireless/signup.pl" >Guest Wifi</a></li>
+</ul>
+</li>
+<li id="menu-item-12709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12709"><a href="http://recreation.uic.edu/rentals/" >Rentals</a></li>
+<li id="menu-item-2047" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2047"><a title="Programs" href="#">Programs</a>
+<ul class="sub-menu">
+	<li id="menu-item-13733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13733"><a href="http://recreation.uic.edu/aquatics-2/" >Aquatics</a></li>
+	<li id="menu-item-5401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5401"><a href="http://recreation.uic.edu/intramural/" >Intramural Sports</a></li>
+	<li id="menu-item-12206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12206"><a href="http://recreation.uic.edu/sport_club/" >Sport Clubs</a></li>
+	<li id="menu-item-5632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5632"><a href="http://recreation.uic.edu/climbing-wall/" >Climbing Wall</a></li>
+	<li id="menu-item-9384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9384"><a href="http://recreation.uic.edu/adventure/" >Outdoor Adventure</a></li>
+	<li id="menu-item-6190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6190"><a href="http://recreation.uic.edu/team-challenge/" >Team Challenge</a></li>
+	<li id="menu-item-12961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12961"><a href="http://recreation.uic.edu/youth-program/" >Youth Program</a></li>
+</ul>
+</li>
+<li id="menu-item-12914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12914"><a title="Fitness and Wellness" href="http://recreation.uic.edu/fitness-wellness/" >Fitness &#038; Wellness</a>
+<ul class="sub-menu">
+	<li id="menu-item-12915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12915"><a href="http://recreation.uic.edu/drop-in-fitness/" >Drop-In Fitness</a></li>
+	<li id="menu-item-5649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5649"><a href="http://recreation.uic.edu/personal-training/" >Personal Training</a></li>
+	<li id="menu-item-5641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5641"><a href="http://recreation.uic.edu/human-performance-lab/" >Fitness Testing</a></li>
+	<li id="menu-item-10695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10695"><a href="http://recreation.uic.edu/massage-therapy/" >Massage Therapy</a></li>
+	<li id="menu-item-12916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12916"><a href="http://recreation.uic.edu/group-fitness-session/" >Group Fitness Session &#038; Instructional Programs</a></li>
+	<li id="menu-item-12917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12917"><a href="http://recreation.uic.edu/walkingrunning-routes-at-uic/" >Walking/Running Routes at UIC</a></li>
+	<li id="menu-item-10696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10696"><a href="http://recreation.uic.edu/food-for-thought/" >Nutrition</a></li>
+</ul>
+</li>
+<li id="menu-item-7350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7350"><a href="http://recreation.uic.edu/memberships/" >Memberships</a>
+<ul class="sub-menu">
+	<li id="menu-item-7375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7375"><a href="http://recreation.uic.edu/memberships/" >Membership Types</a></li>
+	<li id="menu-item-6922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6922"><a href="http://recreation.uic.edu/memberships/electronic-fund-transfer/" >Electronic Fund Transfer</a></li>
+	<li id="menu-item-6920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6920"><a href="http://recreation.uic.edu/guest-information/" >Guest Information</a></li>
+	<li id="menu-item-6921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6921"><a href="http://recreation.uic.edu/cancellations/" >Cancellations</a></li>
+</ul>
+</li>
+<li id="menu-item-5450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5450"><a title="Contact Us" href="http://recreation.uic.edu/contacts/" >Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-6270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6270"><a href="http://recreation.uic.edu/employment/" >Employment</a></li>
+	<li id="menu-item-5665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5665"><a href="http://recreation.uic.edu/comments-and-suggestions/" >Comments and Suggestions</a></li>
+	<li id="menu-item-5664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5664"><a href="http://recreation.uic.edu/professional-staff/" >Professional Staff</a></li>
+	<li id="menu-item-11765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11765"><a href="http://recreation.uic.edu/additional-resources/" >Additional Resources</a></li>
+	<li id="menu-item-9173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9173"><a title="SRF Hours" href="http://recreation.uic.edu/facilities/facility_srf/" >SRF Hours</a></li>
+	<li id="menu-item-9174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9174"><a title="SFC Hours" href="http://recreation.uic.edu/facilities/facility_sfc/" >SFC Hours</a></li>
+</ul>
+</li>
+</ul></div>                    </nav>
+                </div>
+    		</div>
+    	</div>
+    </div>
+    <!--/PAGE HEAD-->
+    
+    <!-- check if front page Vishakha -->
+        
+	    
+    						
+				<!-- START REVOLUTION SLIDER 2.2.3 -->
+				
+								
+								<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#f6f6f6;padding:0px;margin-top:0px;margin-bottom:0px;max-height:450px;">
+					<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;max-height:450px;height:450;">						
+										<ul>
+								<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="http://recreation.uic.edu/aquatics/"  >
+						<img src="http://recreation.uic.edu/wp-content/uploads/2013/05/Aqua3_cropped.jpg" alt="Aqua3_cropped" data-fullwidthcentering="true">
+														
+				<div class="tp-caption big_red lft"  
+					 data-x="621" 
+					 data-y="237" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >AQUATICS</div>
+								
+				<div class="tp-caption medium_blue lfb"  
+					 data-x="622" 
+					 data-y="273" 
+					 data-speed="300" 
+					 data-start="800" 
+					 data-easing="easeOutExpo"  >The leisure pool features: lap lanes, an aqua vortex, <br/>bubble benches, spa, and lazy river as well as a <br/>sauna and steam room on the pool deck.</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" >
+						<img src="http://recreation.uic.edu/wp-content/uploads/2013/05/biketred.jpg" alt="biketred" data-fullwidthcentering="true">
+														
+				<div class="tp-caption big_red fade"  
+					 data-x="22" 
+					 data-y="304" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >FITNESS FLOOR</div>
+								
+				<div class="tp-caption medium_blue fade"  
+					 data-x="22" 
+					 data-y="340" 
+					 data-speed="300" 
+					 data-start="800" 
+					 data-easing="easeOutExpo"  >The fitness floor features a wide variety of intuitive cardio <br/>equipment and strength machines to meet your fitness needs.</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="http://131.193.121.21/camprec/fitness/"  >
+						<img src="http://recreation.uic.edu/wp-content/uploads/2013/03/GroupFit2.jpg" alt="GroupFit2" data-fullwidthcentering="true">
+														
+				<div class="tp-caption big_red fade"  
+					 data-x="57" 
+					 data-y="332" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >GROUP FITNESS</div>
+								
+				<div class="tp-caption medium_blue fade"  
+					 data-x="57" 
+					 data-y="368" 
+					 data-speed="300" 
+					 data-start="800" 
+					 data-easing="easeOutExpo"  >We offer a wide variety of classes to provide you with a 
+fun way to get fit in a relaxed, social environment.</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="https://www.youtube.com/watch?v=1aAU-Tz10Rg"  data-target="_blank" >
+						<img src="http://recreation.uic.edu/wp-content/uploads/2015/03/COD_BILT_cropped.jpg" alt="COD_BILT_cropped" data-fullwidthcentering="true">
+														
+				<div class="tp-caption big_red lft"  
+					 data-x="50" 
+					 data-y="267" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >EQUIPMENT HIGHLIGHT</div>
+								
+				<div class="tp-caption medium_blue lfb"  
+					 data-x="50" 
+					 data-y="303" 
+					 data-speed="300" 
+					 data-start="800" 
+					 data-easing="easeOutExpo"  >Check out the SRF Fitness Floor for the new <a href="https://www.youtube.com/watch?v=1aAU-Tz10Rg" target="_blank">BILT Change of Direction</a> a unique combination <br> of weight resistance and movement</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="http://news.uic.edu/fitness-machine-a-jungle-gym-for-adults"  >
+						<img src="http://recreation.uic.edu/wp-content/uploads/2013/10/Synergy360_cropped.jpg" alt="Synergy360_cropped" data-fullwidthcentering="true">
+														
+				<div class="tp-caption big_red lft"  
+					 data-x="50" 
+					 data-y="267" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >SYNRGY 360</div>
+								
+				<div class="tp-caption medium_blue lfb"  
+					 data-x="50" 
+					 data-y="303" 
+					 data-speed="300" 
+					 data-start="800" 
+					 data-easing="easeOutExpo"  >Check out our small group classes on the Synrgy piece  located downstairs at the SFC!</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" >
+						<img src="http://recreation.uic.edu/wp-content/uploads/2013/05/Track_cropped.jpg" alt="Track_cropped" data-fullwidthcentering="true">
+														
+				<div class="tp-caption big_red fade"  
+					 data-x="44" 
+					 data-y="240" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >INDOOR TRACK</div>
+								
+				<div class="tp-caption medium_blue fade"  
+					 data-x="44" 
+					 data-y="276" 
+					 data-speed="300" 
+					 data-start="800" 
+					 data-easing="easeOutExpo"  >The SRF indoor track is 1/8 of a mile and has three lanes <br/>for running and walking, enjoy a great view of the <br/>Chicago skyline while you work out.</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="rec.uic.edu/rentals"  >
+						<img src="http://recreation.uic.edu/wp-content/uploads/2013/05/MACGYM_cropped.jpg" alt="MACGYM_cropped" data-fullwidthcentering="true">
+														
+				<div class="tp-caption big_red fade"  
+					 data-x="143" 
+					 data-y="71" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >MAC GYM</div>
+								
+				<div class="tp-caption medium_blue fade"  
+					 data-x="143" 
+					 data-y="107" 
+					 data-speed="300" 
+					 data-start="800" 
+					 data-easing="easeOutExpo"  >Visit our Multi-Activity Court to participate in a variety of activities <br/>ranging from badminton to indoor soccer.</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="http://recreation.uic.edu/intramural/"  >
+						<img src="http://recreation.uic.edu/wp-content/uploads/2013/06/OutDoorCourt_cropped.jpg" alt="OutDoorCourt_cropped" data-fullwidthcentering="true">
+														
+				<div class="tp-caption big_red fade"  
+					 data-x="5" 
+					 data-y="330" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >INTRAMURAL SPORTS</div>
+								
+				<div class="tp-caption medium_blue fade"  
+					 data-x="6" 
+					 data-y="366" 
+					 data-speed="300" 
+					 data-start="800" 
+					 data-easing="easeOutExpo"  >Get in the game!</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" >
+						<img src="http://recreation.uic.edu/wp-content/uploads/2013/06/SFCSlide_cropped.jpg" alt="SFCSlide_cropped" >
+											</li>
+								</ul>
+									<div class="tp-bannertimer"></div>					</div>
+				</div>				
+							
+			<script type="text/javascript">
+
+				var tpj=jQuery;
+				
+									tpj.noConflict();
+								
+				var revapi1;
+				
+				tpj(document).ready(function() {
+				
+				if (tpj.fn.cssOriginal != undefined)
+					tpj.fn.css = tpj.fn.cssOriginal;
+				
+				if(tpj('#rev_slider_1_1').revolution == undefined)
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				else
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{
+						delay:7500,
+						startwidth:1170,
+						startheight:450,
+						hideThumbs:200,
+						
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:5,
+						
+						navigationType:"none",
+						navigationArrows:"nexttobullets",
+						navigationStyle:"round",
+						
+						touchenabled:"on",
+						onHoverStop:"on",
+						
+						navOffsetHorizontal:0,
+						navOffsetVertical:20,
+						
+						shadow:0,
+						fullWidth:"on",
+
+						stopLoop:"on",
+						stopAfterLoops:0,
+						stopAtSlide:10,
+
+						shuffle:"off",
+						
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0					});
+				
+				});	//ready
+				
+			</script>
+			
+							<!-- END REVOLUTION SLIDER -->
+				    
+	    
+    				
+				
+                                
+                
+                <div class="main_content_area">
+                    <div class="container">
+                        <div class="row">
+                            <div class="span12">
+                                   
+                                                                <div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			<div class="vc_separator wpb_content_element vc_el_width_100">
+	<span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span>
+		<span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
 </div>
-  
+
+
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center; border: none;">UIC Campus Recreation offers state-of-the-art facilities focused on providing our university community a complete recreational experience.</h3>
+
+		</div> 
+	</div> <div class="vc_separator wpb_content_element vc_el_width_100">
+	<span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span>
+		<span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
 </div>
-<div class="row">
-          <div class="col-lg-12">
-         </div>
+
+
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-3 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div style="background-image: url('http://recreation.uic.edu/wp-content/uploads/2013/04/boximage_memberservice2.jpg'); background-position: center; background-size: cover; padding: 55px; padding-top: 75px;"></div>
+<div style="-webkit-box-shadow: 0 8px 6px -6px black; -moz-box-shadow: 0 8px 6px -6px black; box-shadow: 0 8px 6px -6px black; background: #3d9ccc; padding: 7px;">
+<h4 style="color: #ffffff; text-align: center; border: none; display: block;"><a title="Memberships" href="http://recreation.uic.edu/memberships/" ><strong><span style="color: #ffffff;">Memberships</span></strong></a></h4>
+</div>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div style="background-image: url('http://recreation.uic.edu/wp-content/uploads/2012/09/boximage_burpee.jpg'); background-position: center; background-size: cover; padding: 55px; padding-top: 75px;"></div>
+<div style="-webkit-box-shadow: 0 8px 6px -6px black; -moz-box-shadow: 0 8px 6px -6px black; box-shadow: 0 8px 6px -6px black; background: #3d9ccc; padding: 7px;">
+<h4 style="color: #ffffff; text-align: center; border: none; display: block;"><a title="EVENTS" href="http://recreation.uic.edu/events/" ><strong><span style="color: #ffffff;">Programs &amp; Events</span></strong></a></h4>
+</div>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div style="background-image: url('http://recreation.uic.edu/wp-content/uploads/2013/04/boximage_today2.jpg'); background-position: center; background-size: cover; padding: 55px; padding-top: 75px;"></div>
+<div style="-webkit-box-shadow: 0 8px 6px -6px black; -moz-box-shadow: 0 8px 6px -6px black; box-shadow: 0 8px 6px -6px black; background: #3d9ccc; padding: 7px;">
+<h4 style="color: #ffffff; text-align: center; border: none; display: block;"><strong><span style="color: #ffffff;"><a title="Events in Campus Recreation" href="http://www.emsenterprise.uic.edu/vrecems/BrowseEvents.aspx" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.emsenterprise.uic.edu']);" target="new"><span style="color: #ffffff;">Today in Recreation</span></a></span></strong></h4>
+</div>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+
+	<div class="vc_col-sm-3 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div style="background-image: url('http://recreation.uic.edu/wp-content/uploads/2013/04/boximage_registra2.jpg'); background-position: center; background-size: cover; padding: 55px; padding-top: 75px;"></div>
+<div style="-webkit-box-shadow: 0 8px 6px -6px black; -moz-box-shadow: 0 8px 6px -6px black; box-shadow: 0 8px 6px -6px black; background: #3d9ccc; padding: 7px;">
+<h4 style="color: #ffffff; text-align: center; border: none; display: block;"><strong><a title="Register for programs" href="https://north-a-60ols.csi-cloudapp.net/UIC/Login.aspx?ReturnUrl=%2fUIC%2f" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://north-a-60ols.csi-cloudapp.net']);" target="new"><span style="color: #ffffff;">Registration</span></a></strong></h4>
+<p style="color: #ffffff; text-align: center;"><a title="Registration Instructions" href="http://recreation.uic.edu/wp-content/uploads/2018/02/32611-REC-registration_instructions.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','http://recreation.uic.edu/wp-content/uploads/2018/02/32611-REC-registration_instructions.pdf']);" target="_blank"><span style="color: #ffffff;">Registration Instructions</span></a></p>
+</div>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			<div class="vc_separator wpb_content_element vc_el_width_100">
+	<span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span>
+		<span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+</div>
+
+
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-4 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_video_widget wpb_content_element">
+		<div class="wpb_wrapper"><div class="wpb_video_wrapper"><iframe width="980" height="551" src="https://www.youtube.com/embed/8_MHBfIoyCA?feature=oembed" frameborder="0" allowfullscreen></iframe></div>
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div style="padding: 10px 10px 10px 15px; background-color: rgba(255,255,255,0.5); border-top: 10px; border-top-style: solid; border-top-color: rgba(242, 241, 236, 0.6);">
+<h4 style="text-align: left; border: none;"><strong>Services &amp; Programs</strong></h4>
+</div>
+<div style="-webkit-box-shadow: 0 8px 6px -6px black; -moz-box-shadow: 0 8px 6px -6px black; box-shadow: 0 8px 6px -6px black; padding: 15px 10px 10px 15px; background-color: rgba(242,241,236,0.6);">
+<div class="row-fluid">
+<div class="span6">
+<ul class="unstyled" style="margin-top: 0px;">
+<li style="line-height: 35px;"><img src="http://recreation.uic.edu/wp-content/themes/builder/assets/img/icon_aqua.png" alt="" /> <a title="Aquatics" href="http://recreation.uic.edu/aquatics/" >Aquatics</a></li>
+<li style="line-height: 35px;"><a href="http://recreation.uic.edu/wp-content/themes/builder/assets/img/icon_fit.png" ><img src="http://recreation.uic.edu/wp-content/themes/builder/assets/img/icon_fit.png" alt="" /></a> <a title="Fitness" href="http://recreation.uic.edu/fitness/" >Fitness</a></li>
+<li style="line-height: 35px;"><img src="http://recreation.uic.edu/wp-content/themes/builder/assets/img/icon_lab.png" alt="" /> <a title="Human Performance Lab" href="http://recreation.uic.edu/human-performance-lab/" >HP Lab</a></li>
+<li style="line-height: 35px;"><img src="http://recreation.uic.edu/wp-content/themes/builder/assets/img/icon_climb.png" alt="" /><a title="Climbing Wall" href="http://recreation.uic.edu/climbing-wall/" > Climbing Wall</a></li>
+</ul>
+</div>
+<div class="span6">
+<ul class="unstyled" style="margin-bottom: 3px; line-height: 35px;">
+<li style="line-height: 35px;"><img src="http://recreation.uic.edu/wp-content/themes/builder/assets/img/icon_intramurals.png" alt="" /> <a title="Intramural Sports" href="http://recreation.uic.edu/intramural/" >Intramurals</a></li>
+<li style="line-height: 35px;"><img src="http://recreation.uic.edu/wp-content/themes/builder/assets/img/icon_sportsclub.png" alt="" /> <a title="Sport Clubs" href="http://recreation.uic.edu/sport_club/" >Sports Club</a></li>
+<li style="line-height: 35px;"><img src="http://recreation.uic.edu/wp-content/themes/builder/assets/img/icon_adventure.png" alt="" /> <a title="Team Challenge" href="http://recreation.uic.edu/team-challenge/" >Adventure</a></li>
+<li style="line-height: 35px;"><img src="http://recreation.uic.edu/wp-content/themes/builder/assets/img/icon_massage.png" alt="" /> <a title="Massage Therapy" href="http://recreation.uic.edu/massage-therapy/" >Massage Therapy</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+
+	<div class="vc_col-sm-4 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<div class="announce_content">		<!-- BEGIN WIDGET -->
+		<div class="announce_header"><h4 style="border:none;"><strong>Announcements</strong></h4></div>		
+			
+		<ul class="recent-post-widget unstyled">
+						<li>
+                <a href="http://recreation.uic.edu/thanksgiving-holiday-hours/"  title='Thanksgiving Holiday Hours' class="bg-link">Thanksgiving Holiday Hours</a>
+                <div class="small-meta">
+                    Nov 21, 2018 <!--Commented by Vishakha / <span>Comments Off</span>-->
+                </div> <!-- /small-meta -->
+                <div class="clear"></div>	
+            </li>	
+						<li>
+                <a href="http://recreation.uic.edu/october-is-exercise-is-medicine-month-on-campus/"  title='October is Exercise is Medicine Month on Campus' class="bg-link">October is Exercise is Medicine Month on Campus</a>
+                <div class="small-meta">
+                    Oct 1, 2018 <!--Commented by Vishakha / <span>Comments Off</span>-->
+                </div> <!-- /small-meta -->
+                <div class="clear"></div>	
+            </li>	
+						<li>
+                <a href="http://recreation.uic.edu/rec-fest/"  title='REC FEST' class="bg-link">REC FEST</a>
+                <div class="small-meta">
+                    Aug 27, 2018 <!--Commented by Vishakha / <span>Comments Off</span>-->
+                </div> <!-- /small-meta -->
+                <div class="clear"></div>	
+            </li>	
+					</ul>					
+		
+		<!-- END WIDGET -->
+		</div>
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			<div class="vc_separator wpb_content_element vc_el_width_100">
+	<span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span>
+		<span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+</div>
+
+
+		</div> 
+	</div> 
+</div>
+                                 
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+				        <!--FOOTER-->
+                        <div class="footer">
+            <div class="container">
+                <div class="row">
+                	<div class="span3"><!-- removed soc_icons and created separate div for media icons by Vishakha --><strong></strong>
+                    <div style="">
+                    	<!-- linked the logo Vishakha-->
+                    	<a href="http://recreation.uic.edu"><img src="http://recreation.uic.edu/wp-content/uploads/2013/02/CampRecLogo6_white.png" alt="Campus Recreation" /></a><br><!--  break added for padding purposes, vishakha--> <br>
+                        <a href="http://www.nirsa.org"><img src="http://recreation.uic.edu/wp-content/uploads/2013/04/NIRSALogoWhite.png" alt="NIRSA Logo" /></a><br><br> <!-- added by Vishakha -->
+                        <div class="soc_icons"><!-- added by Vishakha -->
+						                                                    <a href="http://recreation.uic.edu/search/" target="_blank"><div class="icon_google"></div></a>
+                                                                            <a href="https://www.facebook.com/UICCampusRec" target="_blank"><div class="icon_facebook"></div></a>
+                                                                                                    <a href="https://twitter.com/uiccampusrec" target="_blank"><div class="icon_t"></div></a>
+                                                                                                
+                        
+						                                                                            <a href="https://www.instagram.com/uic_campusrec/" target="_blank"><div class="icon_icq"></div></a>
+                                                                                                                                            </div>
+                    </div><!-- added by Vishakha -->
+                    <br class="visiblephone"><br class="visiblephone"><br class="visiblephone"><br class="visiblephone">
+                    </div>
+                    <div class="span3"><h6 style="text-transform: uppercase !important; font-weight:600; !important">Facility Hours</h6><hr>			<div class="textwidget"><p><a href="http://recreation.uic.edu/facilities/facility_srf/" >SRF Hours</a></p>
+<p><a href="http://recreation.uic.edu/facilities/facility_sfc/" >SFC Hours</a></p>
+</div>
+		</div><div class="span3"><h6 style="text-transform: uppercase !important; font-weight:600; !important">Quick Links</h6><hr>			<div class="textwidget"><p><a href="https://north-a-60ols.csi-cloudapp.net/UIC/Login.aspx?ReturnUrl=%2fUIC%2f" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://north-a-60ols.csi-cloudapp.net']);" style="text-underline:none;">Register for Swim Lessons</a></p>
+<p><a href="https://north-a-60ols.csi-cloudapp.net/UIC/Login.aspx?ReturnUrl=%2fUIC%2f" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://north-a-60ols.csi-cloudapp.net']);" style="text-underline:none;">Register for Fitness Sessions</a></p>
+<p><a href="https://illinois.edu/fb/sec/3878143" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://illinois.edu']);" style="text-underline:none;">Facility Rental Reservations</a></p>
+<p><a href="https://www.imleagues.com/Login.aspx?SchId=LgpPaUngq4bOddLOoMrcYg==" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.imleagues.com']);"  style="text-underline:none;">Login to IM Leagues</a></p>
+</div>
+		</div><div class="span3"><h6 style="text-transform: uppercase !important; font-weight:600; !important">CONTACT INFORMATION</h6><hr>			<div class="textwidget"><ul class="unstyled">
+<li>
+<img src="http://recreation.uic.edu/wp-content/uploads/2013/04/icon_phone.png" alt="phone" />
+SRF Phone: 312-413-5150<br>
+<img src="http://recreation.uic.edu/wp-content/uploads/2013/04/icon_phone.png" alt="phone" />
+SFC Phone: 312-413-5260 
+</li>
+<li>
+<i class="icon-envelope icon-white"></i>
+rec@uic.edu
+</li>
+<li>
+<i class="icon-map-marker icon-white"></i>
+SRF: 737 S. Halsted St. Chicago, IL 60607<br>
+<i class="icon-map-marker icon-white"></i>
+SFC: 828 S. Wolcott Chicago, IL 60612
+</li>
+
+</ul></div>
+		</div> 
+                </div>
+            </div>
         </div>
+                <div class="bottom_line" style="border-top:1px solid #444444;">
+            <div class="container">
+            	<div class="row">
+                    <div class="span6">
+                        <span style="font-size:11px;">Copyright 2012 UIC University of Illinois at Chicago | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a></span>
+                    </div>
+                    <div class="span6">
+                        <span style="font-size:11px;" class="pull-right visible-desktop"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="unstyled footer_menu"><li id="menu-item-5352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5352"><a href="http://recreation.uic.edu/contacts/" >Contacts</a></li>
+<li id="menu-item-5460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5460"><a href="http://www.uic.edu/depts/studentcenters" >Student Centers</a></li>
+<li id="menu-item-5461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5461"><a href="http://www.vcsa.uic.edu" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.vcsa.uic.edu']);">Student Affairs</a></li>
+<li id="menu-item-6317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6317"><a href="http://recreation.uic.edu/employment/" >Employment</a></li>
+</ul></div></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <!--/FOOTER-->
+        </div>
+	</body>
+    <link rel='stylesheet' id='bodyfont-css'  href='http://fonts.googleapis.com/css?family=open+sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=6958' type='text/css' media='all' />
+<link rel='stylesheet' id='onefont-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=6958' type='text/css' media='all' />
+<link rel='stylesheet' id='twofont-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=6958' type='text/css' media='all' />
+<link rel='stylesheet' id='threefont-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=6958' type='text/css' media='all' />
+<link rel='stylesheet' id='fourfont-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=6958' type='text/css' media='all' />
+<link rel='stylesheet' id='fivefont-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=6958' type='text/css' media='all' />
+<link rel='stylesheet' id='sixfont-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=6958' type='text/css' media='all' />
+<script type='text/javascript' src='http://recreation.uic.edu/wp-includes/js/jquery/ui/jquery.ui.core.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-includes/js/jquery/ui/jquery.ui.widget.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-includes/js/jquery/ui/jquery.ui.button.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-includes/js/jquery/ui/jquery.ui.position.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/jquery.tweet.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/jflickrfeed.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/jquery.easing.1.3.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/superfish-menu/superfish.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/jquery.nivo.slider.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/jquery.prettyPhoto.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/jquery.waitforimages.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/jquery.isotope.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/testimonialrotator.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/custom.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/themes/builder/assets/js/tweet.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/plugins/twitget/js/moment.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/plugins/twitget/js/langs.min.js'></script>
+<script type='text/javascript' src='http://recreation.uic.edu/wp-content/plugins/js_composer/assets/js/js_composer_front.js'></script>
 
-<script>
-//vravic2 added this script for valdiation of message textarea
-   $( "#submitbutton" ).click(function(event) {
-	  if($("#textarea").val()=='')
-	  {
-		$("#textarea").addClass("error");
-		event.preventDefault();
-	  }
-	});
-	
-   </script>
 
-<!--Google Analytics-->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-54652433-1', 'auto');
-  ga('send', 'pageview');
 
-</script>
-    
-<!--footer-->
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap.min.js"></script>  
-    
-    
-    <!-- script and styling for sticky nav bar-->
-<script>
-$(document).ready(function() {
-  
-  $(window).scroll(function () {
-     // console.log($(window).scrollTop())
-    if ($(window).scrollTop() > 180) {
-      $('#nav_bar').addClass('navbar-fixed');
-	  $('#navbar_container').removeClass('container');
-    }
-    if ($(window).scrollTop() < 181) {
-      $('#nav_bar').removeClass('navbar-fixed');
-	  $('#navbar_container').addClass('container');
-    }
-  });
-});
-</script>
-<!--switch images-->
-<script type="text/javascript"> 
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-} 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-  </body>
+
 </html>

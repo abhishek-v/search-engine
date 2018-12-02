@@ -221,15 +221,15 @@
 
 <div id="portalTip">
     <div class="portal-tip-inner">
-        <p id="tip-p">Tip #12:  The reset layout feature is located on the Help tab.</p>
+        <p id="tip-p">Tip #9:  This portal has a mobile interface for iPhones and Droids (you can use myUIC from your phone).</p>
         <a id="tip-nextTip" href="#" alt="Next tip"><span>Next Tip</span></a>
     </div>
 </div>
 
 <script type="text/javascript">
     window.addEventListener('load', function() {
-        var displayedTipIndex = parseInt("11");
-        var displayedTip = "12:  The reset layout feature is located on the Help tab.";
+        var displayedTipIndex = parseInt("8");
+        var displayedTip = "9:  This portal has a mobile interface for iPhones and Droids (you can use myUIC from your phone).";
 
         var allTips = [];
         
@@ -791,6 +791,6 @@
     </script><script type="text/javascript">
                 up.analytics = up.analytics || {};
                 up.analytics.host = 'my.uic.edu';
-                up.analytics.portletData = {"17_u25l1n510_11":{"fname":"legal-footer","executionTimeNano":860156},"83_u25l1n620_11":{"fname":"google-analytics-config","executionTimeNano":174588089},"24_u18l1n110_11":{"fname":"dynamic-respondr-skin","executionTimeNano":15087375},"397_u20l1n1232_11":{"fname":"instructions-login","executionTimeNano":862549},"84_u25l1n410_11":{"fname":"tips","executionTimeNano":8300667},"19_u25l1n110_11":{"fname":"search-launcher","executionTimeNano":54753173},"38_u25l1n610_11":{"fname":"attachments","executionTimeNano":6393545},"2504_u20l1n1305_11":{"fname":"campus-image","executionTimeNano":2401813},"350_u20l1n1249_11":{"fname":"my-uic-edu-resources","executionTimeNano":880939},"7_u20l1n8_11":{"fname":"login-launcher","executionTimeNano":4100478},"82_u20l1n1269_11":{"fname":"announcements","executionTimeNano":10825639},"1_u18l1n210_11":{"fname":"portal-logo","executionTimeNano":4247916},"349_u20l1n1254_11":{"fname":"university-links","executionTimeNano":891362},"396_u20l1n1236_11":{"fname":"my-uic-edu-features","executionTimeNano":956763}};
-                up.analytics.pageData = {"urlState":"NORMAL","executionTimeNano":328693567,"tab":{"id":1,"fragmentName":"guest-lo","tabName":"Welcome","displayString":"Welcome (guest-lo)"}};
+                up.analytics.portletData = {"17_u25l1n510_11":{"fname":"legal-footer","executionTimeNano":1050414},"83_u25l1n620_11":{"fname":"google-analytics-config","executionTimeNano":203615957},"397_u20l1n1232_11":{"fname":"instructions-login","executionTimeNano":2951304},"24_u18l1n110_11":{"fname":"dynamic-respondr-skin","executionTimeNano":9635689},"84_u25l1n410_11":{"fname":"tips","executionTimeNano":11992196},"19_u25l1n110_11":{"fname":"search-launcher","executionTimeNano":25426427},"38_u25l1n610_11":{"fname":"attachments","executionTimeNano":18268483},"2504_u20l1n1305_11":{"fname":"campus-image","executionTimeNano":1718845},"350_u20l1n1249_11":{"fname":"my-uic-edu-resources","executionTimeNano":880242},"7_u20l1n8_11":{"fname":"login-launcher","executionTimeNano":6825959},"1_u18l1n210_11":{"fname":"portal-logo","executionTimeNano":3611854},"82_u20l1n1269_11":{"fname":"announcements","executionTimeNano":13116695},"349_u20l1n1254_11":{"fname":"university-links","executionTimeNano":1118440},"396_u20l1n1236_11":{"fname":"my-uic-edu-features","executionTimeNano":885275}};
+                up.analytics.pageData = {"urlState":"NORMAL","executionTimeNano":288701993,"tab":{"id":1,"fragmentName":"guest-lo","tabName":"Welcome","displayString":"Welcome (guest-lo)"}};
             </script></div></body></html>

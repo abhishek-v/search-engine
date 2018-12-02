@@ -14,7 +14,7 @@
     <!-- End Google Tag Manager -->
 
         <title>
-                            Networking | Engineering Career Center | University of Illinois at Chicago
+                            Schedule an Appointment | Engineering Career Center | University of Illinois at Chicago
                     </title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,14 +53,14 @@
 </script>
 <!-- End Google Tag Manager for WordPress by DuracellTomi -->
 <!-- This site is optimized with the Yoast SEO plugin v7.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://ecc.uic.edu/networking/" />
+<link rel="canonical" href="http://ecc.uic.edu/meet/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Networking - Engineering Career Center" />
-<meta property="og:url" content="http://ecc.uic.edu/networking/" />
+<meta property="og:title" content="Schedule an Appointment - Engineering Career Center" />
+<meta property="og:url" content="http://ecc.uic.edu/meet/" />
 <meta property="og:site_name" content="Engineering Career Center" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Networking - Engineering Career Center" />
+<meta name="twitter:title" content="Schedule an Appointment - Engineering Career Center" />
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//s.w.org' />
@@ -89,9 +89,9 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ecc.uic.edu/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ecc.uic.edu/wp-includes/wlwmanifest.xml" /> 
 
-<link rel='shortlink' href='http://ecc.uic.edu/?p=59' />
-<link rel="alternate" type="application/json+oembed" href="http://ecc.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecc.uic.edu%2Fnetworking%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://ecc.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecc.uic.edu%2Fnetworking%2F&#038;format=xml" />
+<link rel='shortlink' href='http://ecc.uic.edu/?p=157' />
+<link rel="alternate" type="application/json+oembed" href="http://ecc.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecc.uic.edu%2Fmeet%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://ecc.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecc.uic.edu%2Fmeet%2F&#038;format=xml" />
 <script type="text/javascript">
 (function(url){
 	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
@@ -123,7 +123,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//ecc.uic.edu/?wordfence_lh=1&hid=15B130EB37D8DDAB96ED791B1A02392B');
+})('//ecc.uic.edu/?wordfence_lh=1&hid=E2E9DE9C9D54AA363CE391E590FB5D67');
 </script>
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>
@@ -144,17 +144,8 @@ img.emoji {
   
   
 
-  
-  
 
-  
-  
-
-  
-  
-
-
-  <div class="l-page page-template-default page page-id-59 page-parent post-type--page  site-type-b theme--navy is-sidebar  ">
+  <div class="l-page page-template-default page page-id-157 page-parent post-type--page  site-type-b theme--navy is-sidebar  ">
 
 
     <!--[if lte IE 9]>
@@ -430,7 +421,7 @@ img.emoji {
                   Searching
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-59 current_page_item menu-item-133">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-133">
                 <a
                   class="menu-main__second-link"
                   href="/networking/"
@@ -475,7 +466,7 @@ img.emoji {
                   Offers &amp; Salary
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-3571">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-157 current_page_item menu-item-3571">
                 <a
                   class="menu-main__second-link"
                   href="/meet/"
@@ -742,7 +733,7 @@ img.emoji {
                       </div>
         </div>
           </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-160 menu-item-has-children">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-160 menu-item-has-children">
       <a
         class="menu-main__first-link"
         href="/contact/"
@@ -781,7 +772,7 @@ img.emoji {
                   ECC Info
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1325">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-157 current_page_item menu-item-1325">
                 <a
                   class="menu-main__second-link"
                   href="/meet/"
@@ -869,12 +860,25 @@ img.emoji {
             
     <div class="intro-text">
 
-              <h1 class="_title post-title">Networking</h1>
+              <h1 class="_title post-title">Schedule an Appointment</h1>
         
       
   
   
-  <p>Networking is part of a successful job search strategy. Building a strong network of professional contacts now will help you throughout your career!</p>
+  <p>If you are looking for assistance with your internship or job search, including interview prep, salary negotiations, how to manage multiple offers, or have other career-related questions, schedule an appointment with the ECC and we will assist you with your career development needs. P<strong>lease explore <a href="http://www.ecc.uic.edu">www.ecc.uic.edu</a> for all applicable resources related to your job search BEFORE scheduling an appointment. </strong></p>
+<p>To schedule an appointment, login to your <a href="http://ecc.uic.edu/search-uiccareers/">UICcareers.com</a> account. In addition to scheduling career advising appointments through UICcareers.com, you can also search and apply for internships, full-time jobs, and on-campus jobs.</p>
+<ol>
+<li>If it is your first time logging into UICcareers.com, please select "forgot password" to create your password.</li>
+<li>If this is your first time logging into UICcareers.com, you will need to create a basic student profile before the system will allow you to schedule an appointment.</li>
+<li>Select “Calendar and Appointments” on the left sidebar.</li>
+<li>Click “Counseling Appt” on the top of the page.<strong> If you do not see this option, please email Eliana Riley at <a href="mailto:eliana@uic.edu">eliana@uic.edu</a></strong></li>
+<li>Click “Request New Appointment.”</li>
+<li>Select the type of appointment from the list provided.</li>
+<li>Select the 30-minute time range, coach(es), and day of the week you’d like to schedule your appointment. 60-minute appointments are not available, but you can always schedule a follow-up appointment if you were not able to cover all of your questions during your 30-minute appointment.</li>
+<li>Selecting all of the career coaches assigned to you will help you find the best time that works for your schedule.</li>
+<li>Your coach will approve your appointment through UICcareers.com, or request to reschedule before the requested appointment time.</li>
+<li><b>Canceling your appointment, please do so through </b><b>UICcareers.com</b><b> 24 hours before your scheduled appointment. </b></li>
+</ol>
 
 
 </div>
@@ -886,568 +890,9 @@ img.emoji {
 <section class="component  ">
 
   
-  <div class="component-accordion js-component-accordion">
-
-      <h2 class="component-accordion__title visible">Networking Tips</h2>
-    
-    <div class="component-description">
-            </div>
-
-  <dl class="component-accordion__accordion"
-      role="presentation">
-    <dt class="component-accordion__title"
-          role="heading"
-          aria-level="1">
-        <button
-          class="component-accordion__button js-toggle-acc"
-          aria-expanded="false"
-          aria-controls="panel-sectionID-1-1"
-          id="tab-sectionID-1-1"
-          type="button">
-            What is networking?
-        </button>
-      </dt>
-      <dd class="component-accordion__content component-accordion__content--collapsed"
-          aria-labelledby="tab-sectionID-1-1"
-          id="panel-sectionID-1-1"
-          role="region">
-          <div class="component-accordion__content-wrapper">
-            <div class="components">
-      
-      
-
-<section class="component  ">
-
-  
-  <div class="component-text-block">
-    <h2 class="invisible">What is networking?</h2>
-  
-  
-  <p>Networking is simply a word to describe connecting with people in your chosen professional field. It&#8217;s a process of developing professional relationships that will help you grow your career.</p>
-<p>You probably network regularly without realizing it (e.g. speaking with professors about your career goals, meeting a recruiter at a career fair and following up with a LinkedIn connection request, or asking a friend&#8217;s parent who&#8217;s also an engineer about how they got into engineering).</p>
-
-
-
-  
-</div>
-
-  
-</section>
-
-    
-
-</div>
-          </div>
-      </dd>
-    <dt class="component-accordion__title"
-          role="heading"
-          aria-level="2">
-        <button
-          class="component-accordion__button js-toggle-acc"
-          aria-expanded="false"
-          aria-controls="panel-sectionID-1-2"
-          id="tab-sectionID-1-2"
-          type="button">
-            Why is networking important?
-        </button>
-      </dt>
-      <dd class="component-accordion__content component-accordion__content--collapsed"
-          aria-labelledby="tab-sectionID-1-2"
-          id="panel-sectionID-1-2"
-          role="region">
-          <div class="component-accordion__content-wrapper">
-            <div class="components">
-      
-      
-
-<section class="component  ">
-
-  
-  <div class="component-text-block">
-    <h2 class="invisible">Why is networking important?</h2>
-  
-  
-  <p>Believe it or not, <a href="https://www.payscale.com/career-news/2017/04/many-jobs-found-networking" target="_blank" rel="noopener">as many as 80% of new jobs are never posted online</a>; they&#8217;re obtained through networking. That means that a majority of your job searching time should be spent networking.</p>
-
-
-
-  
-</div>
-
-  
-</section>
-
-    
-
-</div>
-          </div>
-      </dd>
-    <dt class="component-accordion__title"
-          role="heading"
-          aria-level="3">
-        <button
-          class="component-accordion__button js-toggle-acc"
-          aria-expanded="false"
-          aria-controls="panel-sectionID-1-3"
-          id="tab-sectionID-1-3"
-          type="button">
-            Is it weird or inappropriate to approach strangers to ask for help?
-        </button>
-      </dt>
-      <dd class="component-accordion__content component-accordion__content--collapsed"
-          aria-labelledby="tab-sectionID-1-3"
-          id="panel-sectionID-1-3"
-          role="region">
-          <div class="component-accordion__content-wrapper">
-            <div class="components">
-      
-      
-
-<section class="component  ">
-
-  
-  <div class="component-text-block">
-    <h2 class="invisible">Is it weird or inappropriate to approach strangers to ask for help?</h2>
-  
-  
-  <p>Not at all! Most working professionals have obtained at least one job or internship through networking. Engineers and other professionals have been in your shoes before, and some will be happy to help you. Not everyone will be receptive or have time to give you advice, so, if one person can&#8217;t provide the information you want, move on to someone else.</p>
-
-
-
-  
-</div>
-
-  
-</section>
-
-    
-
-</div>
-          </div>
-      </dd>
-    <dt class="component-accordion__title"
-          role="heading"
-          aria-level="4">
-        <button
-          class="component-accordion__button js-toggle-acc"
-          aria-expanded="false"
-          aria-controls="panel-sectionID-1-4"
-          id="tab-sectionID-1-4"
-          type="button">
-            Where and with whom can I network?
-        </button>
-      </dt>
-      <dd class="component-accordion__content component-accordion__content--collapsed"
-          aria-labelledby="tab-sectionID-1-4"
-          id="panel-sectionID-1-4"
-          role="region">
-          <div class="component-accordion__content-wrapper">
-            <div class="components">
-      
-      
-
-<section class="component  ">
-
-  
-  <div class="component-text-block">
-    <h2 class="invisible">Where and with whom can I network?</h2>
-  
-  
-  <p>Your network is a lot bigger than you think. Anybody you have ever met is part of your network.  Family, friends, neighbors, co-workers, professors, and classmates. People who interview you are part of your network. Even some people you have never met are part of your network, including <a href="https://www.linkedin.com/school/2649/alumni/">UIC alumni</a>. The amount of networking opportunities available to you are only limited by your willingness and ability to simply talk to people.</p>
-<p>You can network at real-time events (including career fairs, trade shows, networking-focused happy hour events, student org meetings, Career Center employer events) or virtually over email and LinkedIn. Check out events both on- and off-campus to talk to people who are working in your desired field(s).</p>
-
-
-
-  
-</div>
-
-  
-</section>
-
-    
-
-</div>
-          </div>
-      </dd>
-    <dt class="component-accordion__title"
-          role="heading"
-          aria-level="5">
-        <button
-          class="component-accordion__button js-toggle-acc"
-          aria-expanded="false"
-          aria-controls="panel-sectionID-1-5"
-          id="tab-sectionID-1-5"
-          type="button">
-            How can I successfully network at a live event?
-        </button>
-      </dt>
-      <dd class="component-accordion__content component-accordion__content--collapsed"
-          aria-labelledby="tab-sectionID-1-5"
-          id="panel-sectionID-1-5"
-          role="region">
-          <div class="component-accordion__content-wrapper">
-            <div class="components">
-      
-      
-
-<section class="component  ">
-
-  
-  <div class="component-text-block">
-    <h2 class="invisible">How can I be a successful networker?</h2>
-  
-  
-  <ul>
-<li>Identify networking events to attend.</li>
-<li>Find a friend to go with.</li>
-<li>Set a realistic goal to collect 3-5 business cards at a networking event.</li>
-<li>Get to an event early to get comfortable with the environment.</li>
-<li>Focus on asking questions to help ease into conversation. (e.g. How did you hear about this event? What does a typical day look like for you? What&#8217;s most rewarding/challenging about your job?)</li>
-<li>DON&#8217;T ask them for a job or to refer you for an open position at their company! This comes across as pushy.</li>
-<li>Practice talking to people at smaller networking events to boost your confidence to talk to people at larger events such as career fairs and trade shows.</li>
-<li>Follow up with the people you meet by sending a personalized connection request on LinkedIn. But don&#8217;t bombard them with messages! If they don&#8217;t reply to your message, let them be.</li>
-</ul>
-
-
-
-  
-</div>
-
-  
-</section>
-
-    
-
-</div>
-          </div>
-      </dd>
-    <dt class="component-accordion__title"
-          role="heading"
-          aria-level="6">
-        <button
-          class="component-accordion__button js-toggle-acc"
-          aria-expanded="false"
-          aria-controls="panel-sectionID-1-6"
-          id="tab-sectionID-1-6"
-          type="button">
-            How can I network virtually?
-        </button>
-      </dt>
-      <dd class="component-accordion__content component-accordion__content--collapsed"
-          aria-labelledby="tab-sectionID-1-6"
-          id="panel-sectionID-1-6"
-          role="region">
-          <div class="component-accordion__content-wrapper">
-            <div class="components">
-      
-      
-
-<section class="component  ">
-
-  
-  <div class="component-text-block">
-    <h2 class="invisible">How can I network virtually?</h2>
-  
-  
-  <p>For networking virtually through email or LinkedIn:</p>
-<ul>
-<li>Identify a person who works at a company that you want to work for or learn more about.</li>
-<li>Send them a personalized note mentioning something you have in common (UIC alum, they had the same major as you in college, from the same geographic area, both interested in a specific field or industry, etc.).</li>
-<li>Ask if they have a moment to speak with you about their company or field.</li>
-<li>DON&#8217;T ask them for a job or to refer you for an open position at their company! This comes across as pushy.</li>
-<li>If they agree to meet or speak with you on the phone, come prepared with questions and use their time wisely &#8212; don&#8217;t ask for more than 30 minutes of their time. You reached out to them, so they will expect you to lead the conversation.</li>
-<li>Once you&#8217;ve connected, congrats! This person is now in your network. Make sure to stay in touch with them periodically so you don&#8217;t lose touch!</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Sample Message sent through a LinkedIn connection request:</strong></p>
-<p>Hi {NAME},</p>
-<p>I&#8217;m an engineering student at UIC thinking about my overall career path. I&#8217;m interested in {INDUSTRY} and want to network with professionals in your field. I saw that you went to UIC for engineering as well! Would you be open to a conversation with me about what you do at {COMPANY NAME} and how you&#8217;ve gotten there?</p>
-<p>Thanks!</p>
-<p>{YOUR NAME}</p>
-
-
-
-  
-</div>
-
-  
-</section>
-
-    
-
-</div>
-          </div>
-      </dd>
-      </dl>
-</div>
-
-  
-</section>
-
-    
-    
-      
-
-<section class="component  ">
-
-  
-  
-      <h2 class="visible">Opportunities to Connect</h2>
-  
-  <ul class="component-link-tile ">
-      <li class="component-link-tile__item component-link-tile__item--image">
-
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="http://ecc.uic.edu/events/"
-       target="_self">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2017/06/eventspage-noline-600x397.jpg"
-                alt="events">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--internal
-        tile-item__content-container--image">
-        <div class="
-            tile-item__title
-            tile-item__title--image">
-            On-campus and local events
-        </div>
-
-        
-            </div>
-    </a>
-</div>
-
-    </li>
-      <li class="component-link-tile__item component-link-tile__item--image">
-
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="https://www.meetup.com/"
-       target="_blank">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2017/06/meetup-button-600x397.jpg"
-                alt="meetup">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--external
-        tile-item__content-container--image">
-        <div class="
-            tile-item__title
-            tile-item__title--image">
-            Join a group or start a group
-        </div>
-
-        
-            </div>
-    </a>
-</div>
-
-    </li>
-      <li class="component-link-tile__item component-link-tile__item--image">
-
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="https://www.eventbrite.com/d/il--chicago/events/"
-       target="_blank">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2017/06/eventbrite-button-600x397.jpg"
-                alt="eventbrite">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--external
-        tile-item__content-container--image">
-        <div class="
-            tile-item__title
-            tile-item__title--image">
-            Search local events
-        </div>
-
-        
-            </div>
-    </a>
-</div>
-
-    </li>
-      <li class="component-link-tile__item component-link-tile__item--image">
-
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="http://www.builtinchicago.org/events#/events"
-       target="_blank">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2017/10/built-in-chicago-events-600x397.jpg"
-                alt="builtinchicago">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--external
-        tile-item__content-container--image">
-        <div class="
-            tile-item__title
-            tile-item__title--image">
-            Search Built In Chicago events
-        </div>
-
-        
-            </div>
-    </a>
-</div>
-
-    </li>
-      <li class="component-link-tile__item component-link-tile__item--image">
-
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="https://www.illinoistech.org/upcoming"
-       target="_blank">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2017/10/ita-events-600x397.jpg"
-                alt="ita">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--external
-        tile-item__content-container--image">
-        <div class="
-            tile-item__title
-            tile-item__title--image">
-            Search ITA events
-        </div>
-
-        
-            </div>
-    </a>
-</div>
-
-    </li>
-      <li class="component-link-tile__item component-link-tile__item--image">
-
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="http://chicagotechevents.com/"
-       target="_blank">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2018/04/chi-tech-events-tile-600x397.png"
-                alt="techevents">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--external
-        tile-item__content-container--image">
-        <div class="
-            tile-item__title
-            tile-item__title--image">
-            Search local tech events
-        </div>
-
-        
-            </div>
-    </a>
-</div>
-
-    </li>
-    </ul>
-
-  
-</section>
-
-    
-    
-      
-
-<section class="component  ">
-
-  
-  
-  <div class="component-category-link-list">
-
-    <h2 class="_title invisible">groups</h2>
-
-    <ul class="_list">
-          <li class="_item u-rich-text">
-
-        <h3 class="_title">Suggested Meetup Groups to Attend</h3>
-        <ul class="_list">
-                      <li class="_item">
-                                         <a href="https://www.meetup.com/Chicago-WomenTech/">
-                                  Chicago WomenTech - 3K+
-              </a>
-            </li>
-                      <li class="_item">
-                                         <a href="https://www.meetup.com/Built-in-Chicago/">
-                                  Built in Chicago - 6K+
-              </a>
-            </li>
-                      <li class="_item">
-                                         <a href="https://www.meetup.com/NetworkingAfterWorkChicago/">
-                                  Network After Work-Chicago - 9K+
-              </a>
-            </li>
-                  </ul>
-      </li>
-
-          <li class="_item u-rich-text">
-
-        <h3 class="_title">Career-Focused Companies to Follow</h3>
-        <ul class="_list">
-                      <li class="_item">
-                                         <a href="https://www.linkedin.com/company/2370031/">
-                                  Work it Daily
-              </a>
-            </li>
-                      <li class="_item">
-                                         <a href="https://www.linkedin.com/company/2787403/">
-                                  Human Workplace
-              </a>
-            </li>
-                      <li class="_item">
-                                         <a href="https://www.linkedin.com/company/2336259/">
-                                  The Muse
-              </a>
-            </li>
-                  </ul>
-      </li>
-
-        </ul>
-  </div>
-
-
-  
-</section>
-
-    
-    
-      
-
-<section class="component  ">
-
-  
-  <h2><a class="jumbo-link" href="http://ecc.uic.edu/meet/" target="_blank">
-  <span class="_prefix">Need help networking?</span>
-  <span class="_text">Schedule an appointment</span>
+  <h2><a class="jumbo-link" href="https://uic-csm.symplicity.com/students/?signin_tab=0&signin_tab=0" target="_blank">
+  <span class="_prefix">Schedule Appointment</span>
+  <span class="_text">Log into UICcareers.com</span>
 </a></h2>
 
   
@@ -1886,40 +1331,7 @@ img.emoji {
     </main>
 
     
-    <div class="sub-footer" role="complementary" aria-label="Related Content">
-  <div class="l-full">
-
-    <ul class="billboard-list u-dark-region">
-  <li class="_item">
-    <a href="http://ecc.uic.edu/following-up/" target="_self">
-      <h2 class="_text">Following Up With Contacts & Employers</h2>
-      <div class="_description">
-        Follow up on your job search and networking efforts to ensure more favorable outcomes.
-      </div>
-    </a>
-  </li>
-  <li class="_item">
-    <a href="http://ecc.uic.edu/go-search/" target="_self">
-      <h2 class="_text">Conducting your Search</h2>
-      <div class="_description">
-        Utilize these resources to identify potential opportunities and take a more proactive approach to your search.
-      </div>
-    </a>
-  </li>
-  <li class="_item">
-    <a href="http://ecc.uic.edu/interviewing/" target="_self">
-      <h2 class="_text">Navigating the Interview Process</h2>
-      <div class="_description">
-        Prepare for all phases of the interview process.  Build your confidence with additional preparation.
-      </div>
-    </a>
-  </li>
-</ul>
-    
-
-  </div>
-</div>
-    <footer id="footer" class="footer u-dark-region" role="contentinfo">
+        <footer id="footer" class="footer u-dark-region" role="contentinfo">
 
   <div class="footer-contact">
     <div class="l-full">

@@ -1,428 +1,904 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr" class="">
+      <!doctype html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<meta name="theme-color" content="#C117A2" />
-<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
-<link rel="canonical" href="https://admissions.uic.edu/undergraduate" />
-<link rel="shortlink" href="https://admissions.uic.edu/node/6" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:url" content="https://admissions.uic.edu/undergraduate" />
-<meta name="twitter:title" content="Undergraduate" />
-<meta name="dcterms.title" content="Undergraduate" />
-<meta name="dcterms.creator" content="admin_lr56" />
-<meta name="dcterms.date" content="2014-11-12T11:17-06:00" />
-<meta name="dcterms.type" content="Text" />
-<meta name="dcterms.format" content="text/html" />
-<meta name="dcterms.identifier" content="https://admissions.uic.edu/undergraduate" />
-    <title>Undergraduate | UIC Admissions</title>
-    <link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_UWmE0zv-RfBP9_dKBB2kiIWly7wMK94M8SQ7sk5d1Tk.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_u1N82XFtAmheC3YjgBkQbRmtMzNkXji7qevKoRs5HA4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://admissions.uic.edu/sites/default/files/css/css_0JCygjbcd1F9VkPhe5DjWb1DLjTmJaXJWOXzBkTAPN8.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,700,900,italic,regular&amp;subset=latin" media="all" />
-    <!-- HTML5 element support for IE6-8 -->
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <script src="https://admissions.uic.edu/sites/all/libraries/modernizr/modernizr.custom.74163.js?pi5g2b"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js"></script>
-<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.js'>\x3C/script>")</script>
-<script src="https://admissions.uic.edu/sites/default/files/js/js_vSmhpx_T-AShyt_WMW5_TcwwxJP1imoVOa8jvwL_mxE.js"></script>
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
-<script src="https://admissions.uic.edu/sites/default/files/js/js_Tik8PIaz_eQ5I4FMzmjkWoPEs9jKBgTSauo1jgsNa6g.js"></script>
-<script src="https://admissions.uic.edu/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
-<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-10917588-4", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", location.pathname + location.search + location.hash);ga("send", "pageview");</script>
-<script src="https://admissions.uic.edu/sites/default/files/js/js_2XN_rpI1EbcZw75FyuE3SAl2L_jb6W8xhcRErSjUBQ8.js"></script>
-<script src="https://admissions.uic.edu/sites/default/files/js/js_mFtrAu1JtEOtR_lPJRdT5eNbGDGm7agB_Wg7au7G2tI.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"uicrec","theme_token":"zNh-OW0Nk4M2W-nEL5dwvuO-5gTY8TcBiN6TvXpPRcQ","js":{"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/libraries\/modernizr\/modernizr.custom.74163.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/custom\/uic_chat\/js\/uic_chat.js":1,"sites\/all\/modules\/custom\/uic_countdown\/js\/uic_countdown.js":1,"sites\/all\/modules\/custom\/uic_cta_countdown\/js\/uic_cta_countdown.js":1,"sites\/all\/modules\/custom\/uic_docked_widget_undergrad_newly_admitted\/js\/uic_docked_widget_undergrad_newly_admitted.js":1,"sites\/all\/modules\/custom\/uic_notification_overlay\/js\/uic_notification_overlay.js":1,"sites\/all\/themes\/custom\/uicrec\/js\/plugins.js":1,"sites\/all\/themes\/custom\/uicrec\/js\/scripts.js":1,"sites\/all\/themes\/custom\/uicrec\/js\/additional.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/uic_footer\/css\/uic_footer.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/custom\/uic_chat\/css\/uic_chat.css":1,"sites\/all\/modules\/custom\/uic_countdown\/font\/aes-icon-set\/css\/aes-icon-set.css":1,"sites\/all\/modules\/custom\/uic_countdown\/css\/uic_countdown.css":1,"sites\/all\/modules\/custom\/uic_cta_countdown\/css\/uic_cta_countdown.css":1,"sites\/all\/modules\/custom\/uic_docked_widget_undergrad_newly_admitted\/css\/uic_docked_widget_undergrad_newly_admitted.css":1,"sites\/all\/modules\/custom\/uic_notification_overlay\/css\/uic_notification_overlay.css":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/contrib\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/custom\/uicrec\/css\/style.css":1,"https:\/\/fonts.googleapis.com\/css?family=Source+Sans+Pro:300,300italic,600,700,900,italic,regular\u0026subset=latin":1}},"better_exposed_filters":{"views":{"fact_view":{"displays":{"graphic_block":{"filters":[]}}}}},"extlink":{"extTarget":0,"extClass":0,"extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"urlIsAjaxTrusted":{"\/search-page":true},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"popoverEnabled":0,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
-</head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-6 node-type-landing-page-default site-section-10" >
-<!--<div id="skip-link">
-    <a href="#main_content" class="element-invisible element-focusable"></a>
-  </div>-->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/page/page.tpl.php -->
-<div role="banner">
-    <!-- #hero_area -->
-    <div id="hero_area" class="" style="background-image: url(https://admissions.uic.edu/sites/default/files/hero_area/Undergrad2.jpg);background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/hero_area/Undergrad2.jpg);background-image: -o-linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/hero_area/Undergrad2.jpg);background-image: linear-gradient(rgba(255, 255, 255, 0) 47%, rgba(0, 25, 112, 0.6)), url(https://admissions.uic.edu/sites/default/files/hero_area/Undergrad2.jpg);">
-        <!-- Primary Navigation will go here: regions[navigation] -->
-        <div class="nav primarynavigation-wrapper">
-            <div class="primarynavigation clearfix">
-                <div class="logo">
-                    <a href="/" title="UIC Admissions">
-                                                    <img typeof="foaf:Image" src="https://admissions.uic.edu/sites/default/files/theme/logos/UIC-Admissions-LogoWhite.png" width="275" alt="University of Illinois at Chicago Admissions" />                                            </a>
-                </div>
-                <nav class="nav-menu navbar">
-                    <div class="position-wrapper">
-                        <div class="nav-items">
-                            <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/explore-uic">Explore UIC</a></li>
-<li class="leaf"><a href="/book-visit">Book a Visit</a></li>
-<li class="leaf"><a href="/events">Events</a></li>
-<li class="last leaf" id="apply-now-btn"><a href="/apply-now">Apply</a></li>
-</ul>                        </div>
-                        <div class="searchglass" role="button">S</div>
-                        <div class="search-form-area">
-                            <div class="search-form-wrapper">
-                                <form action="/search-page" method="get" id="views-exposed-form-search-page-page" accept-charset="UTF-8" class="search-form clearfix"><div><div class='form-wrapper form-group'>
-<div class="form-item form-type-textfield form-item-search-api-views-fulltext">
- <label class='search-label' for='edit-search-api-views-fulltext'>Search Input</label>
- <input placeholder="type then hit enter" class="form-control form-control form-text" type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="30" maxlength="128" />
-</div>
-</div>
-<button class="btn-primary btn btn-primary button form-submit" id="edit-submit-search-page" value="Submit" type="submit">Submit</button>
-</div></form>                            </div>
-                        </div>
-                    </div>
-                </nav>
-                <div class="nav-button navicondiv">
-                    <div class="icon-nav-menu navicon">M</div>
-                </div>
-            </div>
-        </div>
-                <div class="hero-content ">
-            <div class="container">
-                <h1 class="page-header">Undergraduate</h1>
-                                    <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
-  <div class="region region-hero">
-    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
-<div id="block-menu-menu-undergraduate-hero-menu" class="block block-menu clearfix">
 
-      
-  <ul class="menu nav"><li class="first leaf"><a href="/program-finder">Academic Programs</a></li>
-<li class="leaf"><a href="/undergraduate/tuition-financial-aid">Tuition and Financial Aid</a></li>
-<li class="leaf"><a href="/undergraduate/requirements-deadlines">Requirements &amp; Deadlines</a></li>
-<li class="leaf"><a href="/undergraduate/application-process">Application Process</a></li>
-<li class="leaf"><a href="/apply-now">Apply Now</a></li>
-<li class="last leaf"><a href="/undergraduate/faq">FAQs</a></li>
-</ul>
-</div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
-  </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->                            </div>
-        </div>
-        <div class="breadcrumbs">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 col desktop">
-                        <ul class="menu nav breadcrumbs-list desktop"><li class="home first odd first"><a href="/">Home</a></li>
-<li class="last even last"><a href="/undergraduate">You are here</a></li>
-</ul>                    </div>
-                    <div class="col-sm-12 col mobile">
-                        <ul class="menu nav breadcrumbs-list mobile"><li class="home first odd first"><a href="/">Home</a></li>
-<li class="last even last"><a href="/undergraduate">You are here</a></li>
-</ul>                    </div>
-                </div>
-            </div>
-        </div>
-            </div>
-    <!-- /#hero_area -->
-    </div>
-<!-- role=main -->
-<div role="main">
-    <div class="container">
-                                    <div class="primary-tabs-wrapper row">
-                            </div>
-                    </div>
-    <!-- #main_content -->
-    <div id="main_content" class="main-container container">
-        <!-- Main Content will go here: regions[content] -->
-        <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
-  <div class="region region-content ">
-    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
-<div id="block-system-main" class="block block-system clearfix">
-
-      
-  <div class="container countdown" style=""position: relative;">
-		  					<div id="clockdiv" class="center" style="z-index: 10000;">
-								<h2><span id="header">Countdown to Commit</span><br/>
-								<small id="sub-header">UIC Class of 2022</small></h2>
-								<div>
-								  <span class="days"></span>
-								  <div class="smalltext">Days</div>
-								</div>
-								<div>
-								  <span class="hours"></span>
-								  <div class="smalltext">Hours</div>
-								</div>
-								<div>
-								  <span class="minutes"></span>
-								  <div class="smalltext">Minutes</div>
-								</div>
-								<div>
-								  <span class="seconds"></span>
-								  <div class="smalltext">Seconds</div>
-								</div>
-								<br/>
-								<a id="countdown-cta-link" href="/undergraduate/intent-enroll" title="Complete your Intent to Enroll to UIC" id="link" class="textlinkarrow">Complete your Intent to Enroll</a>
-							</div>
-						</div><!-- Template file: sites/all/themes/custom/uicrec/templates/node/landing_page_-_default/ds-reset- -node-landing-page-default-full.tpl.php -->
-<div class="container"><div class="triple-item multi-content-wrapper stacked row"><div class="field-item even triple-item col-md-4 first" ><h2>Newly Admitted Students</h2><p>Get ready to be part of a diverse and academically talented community in one of the world's great cities. Review your next steps to enrollment. </p>
-<a href="https://admissions.uic.edu/undergraduate/application-process/newly-admitted-students" class="textlinkarrow">Visit the admitted student pages</a></div><div class="field-item odd triple-item col-md-4" ><h2>Request Information</h2><p>Want to know more? Take a minute to complete the prospective student form. We'll keep in touch with important dates and programs that may interest you.</p>
-<a href="https://admissions.uic.edu/undergraduate/request-information" class="textlinkarrow">Request Information Page</a></div><div class="field-item even triple-item col-md-4 last" ><h2>Counselors</h2><p>Helping applicants navigate the admissions process? We have answers to the questions that stumped your student.</p>
-<a href="https://admissions.uic.edu/explore-uic/information-guidance-counselors" class="textlinkarrow">Counselor Information</a></div></div></div><div class="container">
-      <div id="translation" class="row translations non-basic">
-    <div class="col-sm-4">
-        <h2>Translations</h2>
-    </div>
-    <div class="col-sm-8">
-        <ul>
-            <!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php -->
-<li>
-	<a href="https://www.hotcourses.ae/study/secure-pocs-institution-profile/us-usa/university-of-illinois-chicago/overview/74190/65365/info.html" target="_blank" title="Arabic translated page">Arabic</a>
-</li>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php --><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php -->
-<li>
-	<a href="https://www.hotcourses.cn/study/secure-pocs-institution-profile/us-usa/university-of-illinois-chicago/overview/74190/65358/info.html" target="_blank" title="Chinese translated page">Chinese</a>
-</li>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php --><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php -->
-<li>
-	<a href="https://www.hotcourses.co.id/study/secure-pocs-institution-profile/us-usa/university-of-illinois-chicago/overview/74190/65364/info.html" target="_blank" title="Indonesian translated page">Indonesian</a>
-</li>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php --><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php -->
-<li>
-	<a href="https://www.hotcourses.kr/study/secure-pocs-institution-profile/us-usa/university-of-illinois-chicago/overview/74190/65357/info.html" target="_blank" title="Korean translated page">Korean</a>
-</li>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php --><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php -->
-<li>
-	<a href="https://www.hotcourses.com.br/study/secure-pocs-institution-profile/us-usa/university-of-illinois-chicago/overview/74190/65366/info.html" target="_blank" title="Portuguese translated page">Portuguese</a>
-</li>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php --><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php -->
-<li>
-	<a href="https://www.hotcourses.ru/study/secure-pocs-institution-profile/us-usa/university-of-illinois-chicago/overview/74190/65361/info.html" target="_blank" title="Russian translated page">Russian</a>
-</li>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php --><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php -->
-<li>
-	<a href="https://www.hotcourseslatinoamerica.com/study/secure-pocs-institution-profile/us-usa/university-of-illinois-chicago/overview/74190/65363/info.html" target="_blank" title="Spanish translated page">Spanish</a>
-</li>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php --><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php -->
-<li>
-	<a href="https://www.hotcourses.in.th/study/secure-pocs-institution-profile/us-usa/university-of-illinois-chicago/overview/74190/65360/info.html" target="_blank" title="Thai translated page">Thai</a>
-</li>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php --><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php -->
-<li>
-	<a href="https://www.hotcourses-turkey.com/study/secure-pocs-institution-profile/us-usa/university-of-illinois-chicago/overview/74190/65359/info.html" target="_blank" title="Turkish translated page">Turkish</a>
-</li>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php --><!-- Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php -->
-<li>
-	<a href="https://www.hotcourses.vn/study/secure-pocs-institution-profile/us-usa/university-of-illinois-chicago/overview/74190/65362/info.html" target="_blank" title="Vietnamese translated page">Vietnamese</a>
-</li>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/field-collection/ds-reset- -field-collection-item-field-available-translations-full.tpl.php -->        </ul>
-    </div>
-  </div>
-  </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/node/landing_page_-_default/ds-reset- -node-landing-page-default-full.tpl.php -->
-
-</div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
-  </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->    </div>
-    <!-- /#main_content -->
-</div>
-<!-- /role=main -->
-<!-- role=complementary -->
-<div role="complementary">
-                
-    
-            <!-- #content_footer -->
-        <div id="content_footer" class="clearfix" >
-            <!-- Content Footer content will go here: regions[content_footer] -->
-            <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
-  <div class="region region-content-footer">
-    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
-<div id="block-views-fact-view-graphic-block" class="block block-views clearfix">
-
-      
-  <!-- Template file: sites/all/themes/custom/uicrec/templates/views/views-view.tpl.php -->
-<div class="view view-fact-view view-id-fact_view view-display-id-graphic_block view-dom-id-b07e11739995d75ac2370756b492527f">
         
-  
-  
-      <div class="view-content">
-      <!-- Template file: sites/all/themes/custom/uicrec/templates/views/fact_view/views-view-unformatted- -fact-view- -graphic-block.tpl.php -->
-<div class="row row-violator">
-  <div class="views-row views-row-1 views-row-odd views-row-first col-sm-6 col">
-    <!-- Template file: sites/all/themes/custom/uicrec/templates/node/fact_default/ds-reset- -node-fact-default-graphic-block.tpl.php -->
-<div class="node node-fact-default view-mode-graphic_block fact-background"  about="/diverse-welcoming" typeof="sioc:Item foaf:Document" style="background-image: url(https://admissions.uic.edu/sites/default/files/facts/bg/Diverse%26Welcoming.jpg)" >  
-  <div class="overlay">
-    <div class="factoidcontainer">
-            <span property="dc:title" content="Diverse &amp; Welcoming" class="rdf-meta element-hidden"></span>      <div class="field field-name-field-fact-icon-graphic field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://admissions.uic.edu/sites/default/files/facts/icons/DiverseandWelcoming_icon.png" width="100" height="100" alt="Award Ribbon" title="Award Ribbon" /></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2 class="title">Diverse &amp; Welcoming</h2></div></div></div><div class="field field-name-field-fact-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>U.S. News &amp; World Report named UIC one of the most diverse campuses in the United States, and Campus Pride ranks UIC among the nation’s top LGBT-friendly campuses.</p>
-</div></div></div>    </div>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+                (window,document,'script','dataLayer','GTM-W2Q8D2K');
+    </script>
+    <!-- End Google Tag Manager -->
+
+        <title>
+                            Nondiscrimination Policy Statement | UIC Policy on Policies | University of Illinois at Chicago
+                    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="http://policies.uic.edu/xmlrpc.php" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+    <link rel="stylesheet" href="http://policies.uic.edu/wp-content/themes/uic-red/main.css?v=1540906708" type="text/css" media="all" />
+    <link rel="stylesheet" href="http://policies.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1540906708" type="text/css" media="all">
+
+    
+<!-- Google Tag Manager for WordPress by DuracellTomi -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];//]]>	
+</script>
+<!-- End Google Tag Manager for WordPress by DuracellTomi -->
+<!-- This site is optimized with the Yoast SEO plugin v7.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://policies.uic.edu/uic-policy-library/access-and-equity/nondiscrimination-policy-statement/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Nondiscrimination Policy Statement - UIC Policy on Policies" />
+<meta property="og:url" content="http://policies.uic.edu/uic-policy-library/access-and-equity/nondiscrimination-policy-statement/" />
+<meta property="og:site_name" content="UIC Policy on Policies" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Nondiscrimination Policy Statement - UIC Policy on Policies" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/policies.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=cc9894277b2a1c716141ab25511c2b33"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='tablepress-default-css'  href='http://policies.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js'></script>
+<script type='text/javascript' src='http://policies.uic.edu/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.8.1'></script>
+<link rel='https://api.w.org/' href='http://policies.uic.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://policies.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://policies.uic.edu/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://policies.uic.edu/?p=132' />
+<link rel="alternate" type="application/json+oembed" href="http://policies.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpolicies.uic.edu%2Fuic-policy-library%2Faccess-and-equity%2Fnondiscrimination-policy-statement%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://policies.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpolicies.uic.edu%2Fuic-policy-library%2Faccess-and-equity%2Fnondiscrimination-policy-statement%2F&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//policies.uic.edu/?wordfence_lh=1&hid=45439080B2FD742F52119E64547D2C7F');
+</script>
+<!-- Google Tag Manager for WordPress by DuracellTomi -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by DuracellTomi -->
+</head>
+      
+  <body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2Q8D2K" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+  <div class="l-page page-template-default page page-id-132 page-parent page-child parent-pageid-26 post-type--page  site-type-b theme--navy is-sidebar  ">
+
+
+    <!--[if lte IE 9]>
+<div class="browser-stripe u-dark-region">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
   </div>
 </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/node/fact_default/ds-reset- -node-fact-default-graphic-block.tpl.php -->  </div>
-  <div class="views-row views-row-2 views-row-even views-row-last col-sm-6 col">
-    <!-- Template file: sites/all/themes/custom/uicrec/templates/node/fact_default/ds-reset- -node-fact-default-graphic-block.tpl.php -->
-<div class="node node-fact-default view-mode-graphic_block fact-background"  about="/amenities-included" typeof="sioc:Item foaf:Document" style="background-image: url(https://admissions.uic.edu/sites/default/files/facts/bg/AmenitiesIncluded.jpg)" >  
-  <div class="overlay">
-    <div class="factoidcontainer">
-            <span property="dc:title" content="Amenities Included" class="rdf-meta element-hidden"></span>      <div class="field field-name-field-fact-icon-graphic field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://admissions.uic.edu/sites/default/files/facts/icons/AmenitiesIncluded.png" width="100" height="100" alt="Comfy Chair" title="Comfy Chair" /></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2 class="title">Amenities Included</h2></div></div></div><div class="field field-name-field-fact-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>All rooms come fully furnished and include all basic utilities, free laundry and 24-hour security measures.</p>
-</div></div></div>    </div>
+<![endif]-->
+<div class="browser-stripe u-dark-region ie10">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
   </div>
 </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/node/fact_default/ds-reset- -node-fact-default-graphic-block.tpl.php -->  </div>
+    
+<header class="l-header" role="banner">
+
+  
+  <div class="header-navigation">
+
+  <div id="skip" class="skip-menu assistive-text">
+  <p>
+    Skip to
+    <span class="_main">
+    <a href="#article">the content of this page</a>,
+    </span>
+    <a class="_primary-menu" href="#menu-main">the main menu</a>,
+        <a class="_secondary-menu" href="#menu-secondary">the secondary menu</a>,
+        <a class="_search" href="#google_translate_element">Google Translate</a>,
+    <a class="_search" href="#search">the site search form</a>
+    or go to the
+    <a class="_home" href="http://policies.uic.edu">the site home page</a>.
+  </p>
 </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/views/fact_view/views-view-unformatted- -fact-view- -graphic-block.tpl.php -->    </div>
-  
-  
-  
-  
-  
-  
-</div><!-- /Template file: sites/all/themes/custom/uicrec/templates/views/views-view.tpl.php -->
-</div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
+
+  <div class="eyebrow-mobile-wrapper js-eyebrow-mobile">
+  <div class="eyebrow-mobile">
+    <a href="http://uic.edu" class="uic-logo-icon eyebrow-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+ <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF" fill-rule="evenodd"/>
+</svg>
+</a>
+    <div class="site-title-eyebrow-mobile">
+      <a href="http://policies.uic.edu">UIC Policy on Policies</a>
+    </div>
+    <button aria-label="Search the site" class="search-toggle-mobile js-search-toggle-mobile">
+      <span class="icon-search">
+        <span class="assistive-text">Search the site</span>
+      </span>
+    </button>
+    <button class="nav-header-toggle js-nav-header-toggle">
+      <span class="icon-menu">
+      Toggle Menu
+      </span>
+    </button>
   </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->        </div>
-        <!-- /#content_footer -->
-                <!-- #clery -->
-        <div id="clery" class="row nopadding">
-            <div class="col col-md-2"></div>
-            <div class="col col-md-8">
-                <h2><strong><em>NOTICE OF AVAILABILITY OF THE UIC ANNUAL SECURITY AND FIRE SAFETY REPORT</em></strong></h2>
-                <p>The University of Illinois at Chicago is pleased to share the <a href="https://go.uic.edu/CleryReport" title="2017-2018 Annual Security and Fire Safety report" target="_blank">Annual Security &amp; Fire Safety Report</a> with all prospective students. The report contains information regarding campus security and personal safety including topics such as: crime prevention, public safety authority, crime reporting policies, fire safety, disciplinary procedures, and fire statistics in UIC residential facilities and crime statistics for the three previous calendar years.  The full text of this report is available online on the UIC Clery Website at <a href="https://clery.uic.edu" title="Clery Compliance Information Site" target="_blank">clery.uic.edu</a>. If you would like to receive a copy on paper, visit the Office of Preparedness & Response, located at 1140 South Paulina Street, Suite 109, Chicago, IL 60612.</p>
+  <div class="search-input-container-mobile">
+    <div class="search-input-container-mobile__content">
+      <div class="search-title">
+        Search
+        <a class="search-close search-toggle-mobile">
+          <svg aria-label="Close search box" width="100%" height="100%" viewBox="0 0 22 22">
+            <use xlink:href="http://policies.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
+          </svg>
+        </a>
+      </div>
+      <form method="get" action="/search" role="search" aria-label="Search this site on your mobile device">
+        <input type="text" name="q" class="search-input-mobile" placeholder="Search..." tabindex="-1" aria-label="Search this site on your mobile device" disabled="">
+        <input type="submit" class="submit-button" name="search" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+  <a href="http://uic.edu" class="uic-logo-icon header-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+ <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF" fill-rule="evenodd"/>
+</svg>
+</a>
+
+    <div class="l-full">
+      <div class="site-title-main -large">
+        <a href="http://policies.uic.edu">UIC Policy on Policies</a>
+      </div>
+      <nav class="header-menus js-header-menus " aria-label="Primary Navigation" role="navigation">
+
+  <div class="site-title-mobile-menu">
+    <a href="http://policies.uic.edu">UIC Policy on Policies</a>
+  </div>
+
+  <h2 class="assistive-text">Google Translate</h2>
+  
+
+
+  <h2 class="assistive-text">Main Menu</h2>
+  <ul id="menu-main" class="menu menu-main" aria-label="Main Menu">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-8 menu-item-has-children">
+      <a
+        class="menu-main__first-link"
+        href="/uic-policy-library/"
+        target="_self">
+
+        UIC Policy Library
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand UIC Policy Library menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand UIC Policy Library menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-694">
+                <a
+                  class="menu-main__second-link"
+                  href="/uic-policy-library/academic-and-enrollment-services/"
+                  target="_self">
+
+                  Academic and Enrollment Services
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-28">
+                <a
+                  class="menu-main__second-link"
+                  href="/uic-policy-library/access-and-equity/"
+                  target="_self">
+
+                  Access and Equity
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-56">
+                <a
+                  class="menu-main__second-link"
+                  href="/uic-policy-library/communication-and-branding/"
+                  target="_self">
+
+                  Communication and Branding
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-55">
+                <a
+                  class="menu-main__second-link"
+                  href="/uic-policy-library/facilities-and-safety/"
+                  target="_self">
+
+                  Facilities and Safety
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-589">
+                <a
+                  class="menu-main__second-link"
+                  href="/uic-policy-library/global/"
+                  target="_self">
+
+                  Global Engagement
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-54">
+                <a
+                  class="menu-main__second-link"
+                  href="/uic-policy-library/human-resources/"
+                  target="_self">
+
+                  Human Resources
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-53">
+                <a
+                  class="menu-main__second-link"
+                  href="/uic-policy-library/research/"
+                  target="_self">
+
+                  Research
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-340">
+                <a
+                  class="menu-main__second-link"
+                  href="/uic-policy-library/student-affairs/"
+                  target="_self">
+
+                  Student Affairs
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-11">
+      <a
+        class="menu-main__first-link"
+        href="/educational-policy/"
+        target="_self">
+
+        Educational Policy
+      </a>
+
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-19">
+      <a
+        class="menu-main__first-link"
+        href="/non-uic-policy-resources/"
+        target="_self">
+
+        Related Resources
+      </a>
+
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-20 menu-item-has-children">
+      <a
+        class="menu-main__first-link"
+        href="/policy-development/"
+        target="_self">
+
+        Policy Development
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Policy Development menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Policy Development menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-63">
+                <a
+                  class="menu-main__second-link"
+                  href="/policy-development/policy-on-policies/"
+                  target="_self">
+
+                  Policy on Policies
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-64">
+                <a
+                  class="menu-main__second-link"
+                  href="/policy-development/procedures/"
+                  target="_self">
+
+                  Procedures
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-65">
+                <a
+                  class="menu-main__second-link"
+                  href="/policy-development/forms/"
+                  target="_self">
+
+                  Forms
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-66">
+                <a
+                  class="menu-main__second-link"
+                  href="/policy-development/faqs/"
+                  target="_self">
+
+                  FAQs
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+  </ul>
+
+  <div class="l-eyebrow">
+
+    <h2 class="assistive-text">Eyebrow menu</h2>
+    <ul id="menu-eyebrow" class="menu menu-eyebrow" aria-label="Eyebrow menu">
+            <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
+            <a href="/about-us/" target="_self">Committee on Policy</a>
+        </li>
+    </ul>
+
+    <h2 class="assistive-text">UIC menu</h2>
+    <ul class="menu-uic">
+  <li class="_item">
+    <a href="http://uic.edu">UIC.edu</a>
+  </li>
+  <li class="_item">
+    <a href="http://maps.uic.edu/">Campus Map</a>
+  </li>
+</ul>
+
+    <button aria-label="Search the site" id="search" class="search-toggle">
+      <span class="icon-search">
+        <span class="assistive-text">Search the site</span>
+      </span>
+    </button>
+
+    <div class="search-input-container">
+      <div class="search-input-container__form">
+        <form method="get" action="/search" role="search" aria-label="Search this site">
+          <input type="text" name="q" class="search-input" placeholder="Search..." tabindex="-1" aria-label="Search" disabled="">
+          <input type="submit" class="submit-button" name="search" value="Submit">
+        </form>
+      </div>
+    </div>
+
+  </div>
+
+
+</nav>
+    </div>
+
+  </div>
+
+    
+        <a href="#menu-secondary" class="menu-secondary-anchor">
+      View Menu
+      <svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation">
+        <title>Down arrow icon</title>
+        <g fill="none" fill-rule="evenodd">
+          <circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"/>
+          <path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"/>
+        </g>
+      </svg>
+    </a>
+    
+</header>
+
+    <main id="main" class="l-content-wrapper" role="main">
+
+
+      <div class="l-full">
+
+
+        <div class="l-content ">
+            <nav class="breadcrumbs" aria-label="Breadcrumbs">
+  <h2 class="assistive-text">Breadcrumbs</h2>
+  <ol class="menu">
+            <li><a href="http://policies.uic.edu">UIC Policy on Policies</a></li>
+                <li><a href="http://policies.uic.edu/uic-policy-library/">UIC Policy Library</a></li>
+                <li><a href="http://policies.uic.edu/uic-policy-library/access-and-equity/">Access and Equity</a></li>
+                <li>Nondiscrimination Policy Statement</li>
+        </ol>
+</nav>
+
+          <article class="post-type-page" id="article">
+            
+    <div class="intro-text">
+
+              <h1 class="_title post-title">Nondiscrimination Policy Statement</h1>
+        
+      
+  
+  
+  <p><strong>Policy Number:</strong> OAE-1100-004</p>
+<p><strong>Policy Title: </strong> Nondiscrimination Policy Statement</p>
+<p><strong>Vice Chancellor/Associate Chancellor: </strong>Office of the Chancellor</p>
+<p><strong>Unit Responsible for Policy: </strong>Office for Access and Equity</p>
+<p><strong>Effective Date:</strong> March 9, 2017</p>
+<p><strong>Contacts: </strong>Associate Chancellor, Office for Access and Equity</p>
+<p><strong>Policy Statement: </strong>The commitment of the University of Illinois at Chicago (UIC) to the most fundamental principles of academic freedom, equality of opportunity, and human dignity requires that decisions involving students and employees be based on individual merit and be free from invidious discrimination in all its forms.</p>
+<p>UIC will not engage in discrimination or harassment against any person because of race, color, religion, sex, national origin, ancestry, age, order of protection status, genetic information, marital status, disability, sexual orientation including gender identity, unfavorable discharge from the military or status as a protected veteran and will comply with all federal and state nondiscrimination, equal opportunity and affirmative action laws, orders and regulations. This nondiscrimination policy applies to admissions, employment, access to and treatment in the University’s programs and activities.</p>
+<p>University complaint and grievance procedures provide employees and students with the means for the resolution of complaints that allege a violation of this statement. UIC’s Office for Access and Equity is the office charged with reviewing and addressing complaints of harassment and/or discrimination.</p>
+<p><strong>Reason for Policy:</strong> To ensure that UIC is compliant with federal and state laws related to discrimination and harassment.</p>
+<p><strong>Minority Impact Statement: </strong>The policy does not have any disproportionate or unique impact on UIC’s minority students, staff, or faculty.</p>
+<p><strong>Who Should Read the Policy: </strong> All students, faculty, and staff at UIC.</p>
+<p><strong>Definitions:</strong></p>
+<ul>
+<li><strong><em>University</em></strong>: Refers to UIC.</li>
+</ul>
+<p><strong> </strong><strong>Procedures:</strong></p>
+<ul>
+<li>Learn more about <a href="http://oae.uic.edu/discriminationharassment/reporting/" target="_blank" rel="noopener noreferrer"><strong><span style="color: #000080;">reporting discrimination and harassment</span></strong></a>.</li>
+</ul>
+<ul>
+<li>View the <a href="http://oae.uic.edu/resources/grievance-procedures/" target="_blank" rel="noopener noreferrer"><strong><span style="color: #000080;">UIC Campus Grievance Procedures</span></strong></a>.</li>
+</ul>
+<p><strong>Forms:</strong></p>
+<ul>
+<li>View the <a href="http://oae.uic.edu/disability-accomodations/accommodation-request-form/" target="_blank" rel="noopener noreferrer"><strong><span style="color: #000080;">Accommodation Request Form</span></strong></a></li>
+</ul>
+<p><strong>Related Laws, Regulations, Statutes, and Policies:</strong></p>
+<ul>
+<li>Illinois Human Rights Act (775 ILCS 5/ et seq.);</li>
+<li>Title VII of the Civil Rights Act of 1964, as amended;</li>
+<li>The Age Discrimination in Employment Act of 1967 (ADEA);</li>
+<li>Title II of the American with Disabilities Act of 1990, and the American with Disabilities Amendments Act of 2008 (ADA);</li>
+<li>Genetic Information Nondiscrimination Act of 2008 (GINA);</li>
+<li>Title IX of the Education Amendments Act of 1972<strong>.</strong></li>
+<li>Chancellor’s Reaffirmation of Equal Employment Opportunity</li>
+<li>Statement of Sex Discrimination, Sexual Harassment, and Sexual Misconduct November, 2012</li>
+<li><a href="http://policies.uic.edu/uic-policy-library/access-and-equity/americans-disabilities-act-employee-accommodation-policy/" target="_blank" rel="noopener noreferrer"><span style="color: #000080;"><strong>UIC Employment Accommodation Policy</strong></span></a></li>
+<li><a href="https://dos.uic.edu/conductforstudents.shtml" target="_blank" rel="noopener noreferrer"><strong><span style="color: #000080;">UIC Student Disciplinary Policy</span></strong></a></li>
+</ul>
+<p><strong>Document History:</strong></p>
+<p>Approved by: Committee on Policy<br />
+Approval date: March 9, 2017<br />
+Approved as: Updated policy (Updates University of Illinois Nondiscrimination Statement, Revised June 10 2010)</p>
+
+
+</div>
+    
+    <div class="components">
+  
+</div>
+
+          </article>
+        </div>
+          
+
+
+      
+                                 
+              
+
+                      <div class="l-sidebar">
+             <nav role="navigation" id="menu-secondary" aria-label="Secondary Navigation for UIC Policy Library section" class="menu-secondary">
+               <div class="_title">
+                 <h2><a href="http://policies.uic.edu/uic-policy-library/">UIC Policy Library</a></h2>
+                 <a class="_back-to-content" href="#main">
+                   <svg aria-label="Back to main content" width="32" height="32" viewBox="0 0 32 32">
+                     <title>Back to main content</title>
+                     <g fill="none" fill-rule="evenodd">
+                       <circle class="_circle" fill="#fff" stroke="#007FA5" stroke-width="1" cx="16" cy="16" r="15"/>
+                       <path class="_arrow" d="M16 21v-9M12 15l4-4 4 4" stroke="#001E62" stroke-width="2" stroke-linecap="round"/>
+                     </g>
+                   </svg>
+                 </a>
+               </div>
+
+                <ul  class="menu ">
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-694">
+                    <a href="/uic-policy-library/academic-and-enrollment-services/" target="_self">Academic and Enrollment Services</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-28">
+                    <a href="/uic-policy-library/access-and-equity/" target="_self">Access and Equity</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-56">
+                    <a href="/uic-policy-library/communication-and-branding/" target="_self">Communication and Branding</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-55">
+                    <a href="/uic-policy-library/facilities-and-safety/" target="_self">Facilities and Safety</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-589">
+                    <a href="/uic-policy-library/global/" target="_self">Global Engagement</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-54">
+                    <a href="/uic-policy-library/human-resources/" target="_self">Human Resources</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-53">
+                    <a href="/uic-policy-library/research/" target="_self">Research</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-340">
+                    <a href="/uic-policy-library/student-affairs/" target="_self">Student Affairs</a>
+                                      </li>
+                                  </ul>
+
+              </nav>
             </div>
-            <div class="col col-md-2"></div>
-        </div>
-        <!-- /#clery_disclosure -->
-    </div>
-<!-- /role=complementary -->
-<footer>
-    <!-- #primary_footer -->
-    <div id="primary_footer" class="container">
-        <!-- #primary_footer > header -->
-        <div class="row header">
-            <!-- regions[footer_head] -->
-                            <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
-  <div class="region region-footer-head">
-    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
-<div id="block-bean-undergraduate-arrow-button" class="block block-bean clearfix">
-
+       
+                      
       
-  <div class="field field-name-field-arrow-button-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://admissions.uic.edu/undergraduate" class="button arrowbutton">UnderGraduate</a></div></div></div>
-</div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
-<!-- Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
-<div id="block-bean-graduate-professional" class="block block-bean clearfix">
-
+                                 
+              
+                      
       
-  <div class="field field-name-field-arrow-button-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://admissions.uic.edu/graduate-professional" class="button arrowbutton">Graduate &amp; Professional </a></div></div></div>
-</div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
-  </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->                    </div>
-        <!-- /#primary_footer > header -->
-        <!-- #footer_content -->
-        <div id="footer_content" class="row">
-            <!-- .footer-item-first -->
-            <div class="col footer-item footer-item-first col-sm-3">
-                                    <!-- regions[footer_first] -->
-                    <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
-  <div class="region region-footer-first">
-    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block- -footer-first.tpl.php -->
-<section id="block-block-1" class="block block-block clearfix">
 
-        <h2 class="block-title block-title">Office of Admissions</h2>
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+                                 
+              
+                      
+      
+                                 
+              
+                      
+      
+
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+                                 
+              
+                      
+      
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+
+                          </div>
+    </main>
+
     
-  <p>1200 West Harrison Street<br />
-Chicago, IL 60607-7161<br />
-Phone: (312) 996-4350<br /><a href="/contact-admissions">Contact UIC Admissions</a></p>
+        <footer id="footer" class="footer u-dark-region" role="contentinfo">
 
-</section> <!-- /.block -->
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block- -footer-first.tpl.php -->
+  <div class="footer-contact">
+    <div class="l-full">
+
+          <div class="footer-contact__simple _grid-container">
+  <div class="_wordmark">
+    <div class="uic-wordmark -large uic-wordmark--footer">
+  <div class="_mark">
+    <a href="http://uic.edu" class="uic-logo-icon ">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+ <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF" fill-rule="evenodd"/>
+</svg>
+</a>
   </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->                    <!-- /regions[footer_first] -->
-                            </div>
-            <!-- /.footer-item-first -->
-            <!-- .footer-item-middle -->
-            <div class="col footer-item footer-item-middle col-sm-5">
-                                    <!-- regions[footer_middle] -->
-                    <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
-  <div class="region region-footer-middle">
-    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block- -footer-middle.tpl.php -->
-<section id="block-block-2" class="block block-block clearfix">
-
-        <h2 class="block-title block-title">Mailing Address</h2>
-    
-  <h3>Undergraduate</h3>
-<p>Office of Undergraduate Admissions (MC 018) <br />
-University of Illinois at Chicago <br />
-1200 West Harrison Street, Suite 1100<br />
-Chicago, IL 60607-7161 <br /><a href="/undergraduate/contact-undergraduate-admissions">Contact Undergraduate Admissions</a> </p>
-<p> </p>
-<h3>Graduate &amp; Professional</h3>
-<p>The graduate and professional application process is paperless. Please do not mail materials unless expressly requested.<br /><a href="/graduate-professional/contact-graduate-and-professional-admissions">Contact Graduate and Professional Admissions</a></p>
-
-</section> <!-- /.block -->
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block- -footer-middle.tpl.php -->
+  <div class="_text">
+    <a href="http://policies.uic.edu">
+                  <span class="_line">Office of</span>
+              <span class="_line">the Provost</span>
+              <span class="_line">and Vice</span>
+              <span class="_line">Chancellor</span>
+              <span class="_line">for Academic</span>
+              <span class="_line">Affairs</span>
+              </a>
   </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->                    <!-- /regions[footer_middle] -->
-                            </div>
-            <!-- /.footer-item-first -->
-            <div class="col col-sm-1"><!-- Spacer column --></div>
-            <!-- .footer-item-last -->
-            <div class="col footer-item footer-item-last col-sm-3">
-                                    <!-- Default content for this region -->
-                                            <a href="http://www.uic.edu"><img typeof="foaf:Image" src="https://admissions.uic.edu/sites/default/files/theme/logos/UICFullSideways-textonly_black.jpg" width="386" alt="University of Illinois at Chicago" /></a>                                                </div>
-            <!-- /.footer-item-last -->
-        </div>
-        <!-- /#footer_content -->
-    </div>
-    <!-- /#primary_footer -->
-    <!-- #primary_footer > footer -->
-    <div id="footer_footer">
-        <!-- regions[footer_footer'] -->
-                    <!-- Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->
-  <div class="region region-footer-footer">
-    <!-- Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
-<div id="block-uic-footer-uic-footer" class="block block-uic-footer clearfix">
+</div>
+  </div>
 
-      
-  <div class="uic_footer clearfix" id="uic_footer">
-<div class="logo"><a href="http://uic.edu" class="uic_footer_logo"><img typeof="foaf:Image" src="/sites/all/modules/custom/uic_footer/images/uic_logo.png" alt="University of Illinois - Chicago Logo" /></a></div><div class="menu_wrapper"><ul class="menu clearfix"><li class="first"><a href="https://www.vpaa.uillinois.edu/resources/web_privacy" target="_blank">Privacy Statement</a></li>
-<li><a href="https://policies.uic.edu/uic-policy-library/access-and-equity/nondiscrimination-policy-statement/" target="_blank">Nondiscrimination Statement</a></li>
-<li><a href="/sitemap">Site Map</a></li>
-<li><a href="https://disabilityresources.uic.edu/" target="_blank">Accessibility</a></li>
-<li><a href="/">Site Home</a></li>
-<li><a href="http://uic.edu" target="_blank">UIC Home</a></li>
-<li><a href="https://admissions.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Fadmissions.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F5" class="shibb-login">Login</a></li>
-<li class="last"><a href="mailto:aes_webmaster@helpdesk.uic.edu?subject=UIC%20Admissions">Webmaster</a></li>
-</ul><p class="disclaimer">Copyright &copy; 2018 The Board of Trustees of the University of Illinois</p></div><div class="menu_wrapper social_links"><ul class="menu clearfix"><li class="first"><a href="https://www.facebook.com/gouic" class="facebook" target="_blank">Facebook</a></li>
-<li><a href="https://www.twitter.com/apply2uic" class="twitter" target="_blank">Twitter</a></li>
-<li><a href="https://www.youtube.com/channel/UCJcrEfHfl1MZp1kvh_vElIA" class="youtube" target="_blank">YouTube</a></li>
-<li class="last"><a href="http://disabilityresources.uic.edu/" class="accessibility" target="_blank">Accessibility</a></li>
-</ul></div></div>
+
+  <div class="_contact">
+    <h2>Contact</h2>
+    <div class="site-contact-container">          <div class="site-email"><a href="mailto:policies@uic.edu">policies@uic.edu</a></div>
+</div>
+    <div class="site-contact-container">        </div>
+  </div>
+
+
+   <div aria-label="Social Media Accounts" class="_social">
+  <h2 class="assistive-text">Social Media Accounts</h2>
+  <ul class="site-social-links">
+                          </ul>
+</div>
 
 </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/block/block.tpl.php -->
-  </div>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/region/region.tpl.php -->            </div>
-    <div id="auto-scroll" class="go-up-wrapper" role="button" aria-label="Autoscroll to Top of Page">
-        <span class="arrow" aria-labelledby="auto-scroll">T</span>
+    
     </div>
-    <!-- /#primary_footer > footer -->
-    <!--OneTrust Cookies Settings button start -->
-    <a class="optanon-show-settings">CookieSettings</a>
-    <!--OneTrust Cookies Settings button end -->
+  </div>
+
+  
+  <div class="footer-uic-menu">
+    <div class="l-full">
+
+      <div aria-label="UIC.edu Links">
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><strong><a href="https://uic.edu/">UIC.edu</a></strong></li>
+    <li><a href="https://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="https://uicflames.com/">Athletics</a></li>
+    <li><a href="https://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="https://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="https://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="http://www.uic.edu/htbin/eventcal/eventcal.fcgi">Event Calendar</a></li>
+    <li><a href="https://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="https://library.uic.edu/">Library</a></li>
+    <li><a href="https://maps.uic.edu/">Maps</a></li>
+    <li><a href="https://today.uic.edu/">UIC Today</a></li>
+    <li><a href="https://hospital.uillinois.edu/">UI Health</a></li>
+    <li><a href="https://dos.uic.edu/studentveteranaffairs.shtml">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="site-copyright">
+  &copy; 2018 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a>
+</div>
+
+<div class="campuses" aria-label="Campuses">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://www.uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://www.uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+
+  
 </footer>
-<!-- /Template file: sites/all/themes/custom/uicrec/templates/page/page.tpl.php -->
 
-				<div class="overlay-wrapper">
-					<div class="overlay-content">
-						<div class="area message">
-							<h2>Default</h2>
-							<p>Default</p>
-						</div>
-						<div class="area actions">
-						</div>
-						<div class="area overlay-close">
-							<button id="closebtn">Close</button>
-						</div>
-					</div>
-				</div>
-			<script src="https://admissions.uic.edu/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
-</body>
+	    </div>
+  <script type="text/javascript">
+  document.write(unescape("%3Cscript src='//www.uic.edu/inc/emergency/.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<!-- Google Tag Manager (noscript) --><script type='text/javascript' src='http://policies.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://policies.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://policies.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1'></script>
+<script type='text/javascript' src='http://policies.uic.edu/wp-includes/js/wp-embed.min.js?ver=cc9894277b2a1c716141ab25511c2b33'></script>
+
+
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-20665772-1', 'auto');
+    
+    
+        ga('send', 'pageview');
+    
+      </script>
+
+
+  
+    </body>
 </html>

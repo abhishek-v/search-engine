@@ -1300,7 +1300,7 @@ Chicago, IL 60607</a></p><span class="fa fa-phone"> </span> <span style="padding
 <li id="menu-item-2062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2062"><a href="http://engineering.uic.edu/scholarships/">Scholarships</a></li>
 <li id="menu-item-3772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3772"><a href="http://engineeringalumni.uic.edu">Alumni</a></li>
 <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"><a href="http://engineering.uic.edu/contact/">Contact</a></li>
-</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="jpMAJDkYuo" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
+</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="NcISHUCGOn" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
 		</aside></div><div class="col-3"><aside id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widget-title"><span>Resources</span></h4><div class="menu-footer-secondary-menu-container"><ul id="menu-footer-secondary-menu" class="menu"><li id="menu-item-2067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2067"><a href="http://vcsa.uic.edu/">Student Affairs</a></li>
 <li id="menu-item-2201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2201"><a href="http://www.uic.edu/apps/departments-az/search">Directory</a></li>
 <li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1694"><a href="http://engineering.uic.edu/offices/">Offices</a></li>
@@ -1414,7 +1414,7 @@ var mainParams = {"sticky_menu":"","smart_sticky":"0"};
 
 <script type='text/javascript'>
 /* <![CDATA[ */
-var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"276d87e536","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"ee093dbe34","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
 /* ]]> */
 </script>
 
@@ -1440,7 +1440,7 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
 Minified using disk
-Database Caching 39/78 queries in 0.576 seconds using disk
+Database Caching 39/78 queries in 0.094 seconds using disk
 
-Served from: engineering.uic.edu @ 2018-11-24 06:30:28 by W3 Total Cache
+Served from: engineering.uic.edu @ 2018-11-24 23:05:10 by W3 Total Cache
 -->

@@ -8,7 +8,7 @@
 <link rel="pingback" href="http://engineering.uic.edu/xmlrpc.php">
 <meta name="format-detection" content="telephone=no">
 
-<title>Offices &#8211; UIC College of Engineering</title>
+<title>Staff &#8211; UIC College of Engineering</title>
 <link sizes="16x16" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-01.png" rel="icon" /><link rel="icon" sizes="57x57" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-iphone-01.png" /><link rel="icon" sizes="114x114" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-iphone-retina-01.png" /><link rel="icon" sizes="72x72" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-ipad-01.png" /><link rel="icon" sizes="144x144" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-ipad-retina-01.png" /><link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="UIC College of Engineering &raquo; Feed" href="http://engineering.uic.edu/feed/" />
@@ -83,10 +83,10 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://engineering.uic.edu/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://engineering.uic.edu/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.9.8" />
-<link rel="canonical" href="http://engineering.uic.edu/offices/" />
-<link rel='shortlink' href='http://engineering.uic.edu/?p=64' />
-<link rel="alternate" type="application/json+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Foffices%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Foffices%2F&#038;format=xml" />
+<link rel="canonical" href="http://engineering.uic.edu/staff/" />
+<link rel='shortlink' href='http://engineering.uic.edu/?p=393' />
+<link rel="alternate" type="application/json+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fstaff%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fstaff%2F&#038;format=xml" />
 <script>        jQuery(document).ready(function(){
             var retina = window.devicePixelRatio > 1 ? true : false;
                         if(retina) {
@@ -974,9 +974,9 @@ article
 							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
 						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
 					};</script>
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1515612226585{margin-top: -20px !important;}.vc_custom_1471443676217{margin-top: -20px !important;}.vc_custom_1476122979041{margin-top: -20px !important;}.vc_custom_1471443772896{margin-top: -20px !important;}.vc_custom_1485884626760{margin-top: -20px !important;}.vc_custom_1471443810180{margin-top: -20px !important;}.vc_custom_1471443837164{margin-top: -20px !important;}.vc_custom_1471443867579{margin-top: -20px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 
-<body class="page-template-default page page-id-64 offcanvas-type-default  offcanvas-right wpb-js-composer js-comp-ver-5.4.5 vc_responsive" id="">
+<body class="page-template-default page page-id-393 offcanvas-type-default  offcanvas-right wpb-js-composer js-comp-ver-5.4.5 vc_responsive" id="">
 
 	
 <div class="k2t-container">
@@ -1041,7 +1041,7 @@ article
 	<li id="menu-item-77" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77 k2t-dropdown-submenu"><a    href="http://engineering.webhost.uic.edu/Techservices/" class="btn-ripple"><span class="k2t-title-menu">Industry Tech Services</span></a></li>
 </ul>
 </li>
-<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-22 children "><a     class="btn-ripple"><span class="k2t-title-menu">ABOUT US</span> <span class="caret"></span></a>
+<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-22 children "><a     class="btn-ripple"><span class="k2t-title-menu">ABOUT US</span> <span class="caret"></span></a>
 <ul class="sub-menu">
 	<li id="menu-item-1446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1446 k2t-dropdown-submenu"><a    href="http://engineering.uic.edu/mission-statement/" class="btn-ripple"><span class="k2t-title-menu">Mission Statement</span></a></li>
 	<li id="menu-item-1447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1447 k2t-dropdown-submenu"><a    href="http://engineering.uic.edu/abet-accreditation/" class="btn-ripple"><span class="k2t-title-menu">ABET Accreditation</span></a></li>
@@ -1052,14 +1052,14 @@ article
 		<li id="menu-item-1465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1465"><a    href="http://engineering.uic.edu/student-news/" class="btn-ripple"><span class="k2t-title-menu">Student News</span></a></li>
 	</ul>
 </li>
-	<li id="menu-item-1963" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1963 children k2t-dropdown-submenu"><a     class="btn-ripple"><span class="k2t-title-menu">People</span></a>
+	<li id="menu-item-1963" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1963 children k2t-dropdown-submenu"><a     class="btn-ripple"><span class="k2t-title-menu">People</span></a>
 	<ul class="sub-menu">
 		<li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a    href="http://engineering.uic.edu/faculty/" class="btn-ripple"><span class="k2t-title-menu">Faculty</span></a></li>
-		<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-400"><a    href="http://engineering.uic.edu/staff/" class="btn-ripple"><span class="k2t-title-menu">Staff</span></a></li>
+		<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-393 current_page_item menu-item-400 active"><a    href="http://engineering.uic.edu/staff/" class="btn-ripple"><span class="k2t-title-menu">Staff</span></a></li>
 		<li id="menu-item-1835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1835"><a    href="http://www.uic.edu/apps/departments-az/search" class="btn-ripple"><span class="k2t-title-menu">Directory</span></a></li>
 	</ul>
 </li>
-	<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-64 current_page_item menu-item-68 active k2t-dropdown-submenu"><a    href="http://engineering.uic.edu/offices/" class="btn-ripple"><span class="k2t-title-menu">Offices</span></a></li>
+	<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68 k2t-dropdown-submenu"><a    href="http://engineering.uic.edu/offices/" class="btn-ripple"><span class="k2t-title-menu">Offices</span></a></li>
 	<li id="menu-item-3771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3771 k2t-dropdown-submenu"><a    href="http://engineeringalumni.uic.edu" class="btn-ripple"><span class="k2t-title-menu">Alumni</span></a></li>
 	<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75 k2t-dropdown-submenu"><a    href="http://engineering.uic.edu/contact/" class="btn-ripple"><span class="k2t-title-menu">Contact</span></a></li>
 </ul>
@@ -1153,7 +1153,7 @@ article
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77"><div class="wrap-link-item"><a href="http://engineering.webhost.uic.edu/Techservices/">Industry Tech Services</a><span class="open-sub-menu"></span></div></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-22 children"><div class="wrap-link-item"><a>ABOUT US</a><span class="open-sub-menu"></span></div>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-22 children"><div class="wrap-link-item"><a>ABOUT US</a><span class="open-sub-menu"></span></div>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1446"><div class="wrap-link-item"><a href="http://engineering.uic.edu/mission-statement/">Mission Statement</a><span class="open-sub-menu"></span></div></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1447"><div class="wrap-link-item"><a href="http://engineering.uic.edu/abet-accreditation/">ABET Accreditation</a><span class="open-sub-menu"></span></div></li>
@@ -1164,14 +1164,14 @@ article
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1465"><div class="wrap-link-item"><a href="http://engineering.uic.edu/student-news/">Student News</a><span class="open-sub-menu"></span></div></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1963 children"><div class="wrap-link-item"><a>People</a><span class="open-sub-menu"></span></div>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1963 children"><div class="wrap-link-item"><a>People</a><span class="open-sub-menu"></span></div>
 	<ul class="sub-menu">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><div class="wrap-link-item"><a href="http://engineering.uic.edu/faculty/">Faculty</a><span class="open-sub-menu"></span></div></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-400"><div class="wrap-link-item"><a href="http://engineering.uic.edu/staff/">Staff</a><span class="open-sub-menu"></span></div></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-393 current_page_item menu-item-400 active"><div class="wrap-link-item"><a href="http://engineering.uic.edu/staff/">Staff</a><span class="open-sub-menu"></span></div></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1835"><div class="wrap-link-item"><a href="http://www.uic.edu/apps/departments-az/search">Directory</a><span class="open-sub-menu"></span></div></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-64 current_page_item menu-item-68 active"><div class="wrap-link-item"><a href="http://engineering.uic.edu/offices/">Offices</a><span class="open-sub-menu"></span></div></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><div class="wrap-link-item"><a href="http://engineering.uic.edu/offices/">Offices</a><span class="open-sub-menu"></span></div></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3771"><div class="wrap-link-item"><a href="http://engineeringalumni.uic.edu">Alumni</a><span class="open-sub-menu"></span></div></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><div class="wrap-link-item"><a href="http://engineering.uic.edu/contact/">Contact</a><span class="open-sub-menu"></span></div></li>
 </ul>
@@ -1202,13 +1202,43 @@ article
 				<div>
 			<div class="container k2t-wrap">
 				<h1 class="main-title" style="">
-					Offices				</h1>
+					Staff				</h1>
 				<div class="main-excerpt">
-									</div><!-- .main-excerpt -->
+					<p>﻿<div class="k2t-wrapper-teacher-filter">
+    <ul class="k2t-teacher-filter">
+            <li class="active" data-id="all"><span>All</span></li>
+                            <li data-id="A"><span>A</span></li>
+                            <li data-id="B"><span>B</span></li>
+                            <li data-id="C"><span>C</span></li>
+                            <li data-id="D"><span>D</span></li>
+                            <li data-id="E"><span>E</span></li>
+                            <li data-id="F"><span>F</span></li>
+                            <li data-id="G"><span>G</span></li>
+                            <li data-id="H"><span>H</span></li>
+                            <li data-id="I"><span>I</span></li>
+                            <li data-id="J"><span>J</span></li>
+                            <li data-id="K"><span>K</span></li>
+                            <li data-id="L"><span>L</span></li>
+                            <li data-id="M"><span>M</span></li>
+                            <li data-id="N"><span>N</span></li>
+                            <li data-id="O"><span>O</span></li>
+                            <li data-id="P"><span>P</span></li>
+                            <li data-id="Q"><span>Q</span></li>
+                            <li data-id="R"><span>R</span></li>
+                            <li data-id="S"><span>S</span></li>
+                            <li data-id="T"><span>T</span></li>
+                            <li data-id="U"><span>U</span></li>
+                            <li data-id="V"><span>V</span></li>
+                            <li data-id="W"><span>W</span></li>
+                            <li data-id="X"><span>X</span></li>
+                            <li data-id="Y"><span>Y</span></li>
+                            <li data-id="Z"><span>Z</span></li>
+                </ul>
+</div></p>				</div><!-- .main-excerpt -->
 			</div>
 		</div>
 		
-		<div><div class="container k2t-wrap breadcrumb"><ul class="k2t-breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://engineering.uic.edu">Home</a></li><li class="current">Offices</li></ul></div><!-- k2t-wrap --></div>			
+		<div><div class="container k2t-wrap breadcrumb"><ul class="k2t-breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://engineering.uic.edu">Home</a></li><li class="current">Staff</li></ul></div><!-- k2t-wrap --></div>			
 	</div><!-- .k2t-title-bar -->
 
 
@@ -1220,159 +1250,581 @@ article
 			<main class="k2t-main page" role="main">
 					
 					
-<article id="post-64" class="post-64 page type-page status-publish hentry">
+<article id="post-393" class="post-393 page type-page status-publish hentry">
 
 	<div class="page-entry">
 		<div id="ld_courses_listing">
-			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf9d955f0a54:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf9d955f0a54{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline" >
+	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-left vc_btn-gradient-btn-5bf9d955f0a54" href="#admin" title=""><i class="vc_btn3-icon fa fa-user"></i> Administration</a></div>
+<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf9d955f1031:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf9d955f1031{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline" >
+	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-left vc_btn-gradient-btn-5bf9d955f1031" href="#academic_affairs" title=""><i class="vc_btn3-icon fa fa-user"></i> Undergraduate Academic Affairs</a></div>
+<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf9d955f15bd:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf9d955f15bd{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline" >
+	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-left vc_btn-gradient-btn-5bf9d955f15bd" href="#arc" title=""><i class="vc_btn3-icon fa fa-user"></i> Academic Resource Center</a></div>
+<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf9d955f1b54:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf9d955f1b54{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline" >
+	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-left vc_btn-gradient-btn-5bf9d955f1b54" href="#merp" title=""><i class="vc_btn3-icon fa fa-user"></i> Minority Engineering Recruitment and Retention Program</a></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<p><a href="/staff/#arc">ACADEMIC RESOURCE CENTER
-</a><br>
- 851 South Morgan Street, 107 SEO<br />
- Chicago, IL 60607<br />
-<span class="fa fa-phone" ></span><a style="padding-left: 10px;" href="tel: (312) 355-5899"> (312) 355-5899</a><br />
- <span class="fa fa-envelope" ></span><a style="padding-left: 10px;" href="mailto:ddiaz2@uic.edu">ddiaz2@uic.edu</a> <br /></p>
+			<h3 id="admin">ADMINISTRATION</h3>
 
 		</div>
 	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+﻿  
+    <div class="teacher-listing classic columns-4">
+        				
+                <article class="teacher-classic-item filter-char-B ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/daniel-p-bailey/" title="Daniel P. Bailey"><img width="400" height="391" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Bailey.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Daniel P. Bailey" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Bailey.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Bailey-300x293.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Bailey-55x55.jpg 55w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/daniel-p-bailey/" title="Daniel P. Bailey">
+                                    Daniel P. Bailey                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Manager of Research Planning		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:dbailey1@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-B ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/jovita-banks/" title="Jovita Banks"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/banks_blue.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Jovita Banks" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/banks_blue.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/banks_blue-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/banks_blue-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/banks_blue-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/banks_blue-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/banks_blue-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/banks_blue-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/jovita-banks/" title="Jovita Banks">
+                                    Jovita Banks                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Assistant Dean for Human Resources and Administrative Operations		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:jovibank@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-B ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/jerry-f-barry/" title="Jerry F. Barry"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Barry.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Jerry F. Barry" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Barry.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Barry-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Barry-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Barry-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Barry-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Barry-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Barry-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/jerry-f-barry/" title="Jerry F. Barry">
+                                    Jerry F. Barry                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Assistant to the Dean		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:jfbarry@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-C ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/tom-cicero/" title="Tom Cicero"><img width="400" height="388" src="http://engineering.uic.edu/wp-content/uploads/2016/08/cicero.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Tom Cicero" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/cicero.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/cicero-300x291.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/tom-cicero/" title="Tom Cicero">
+                                    Tom Cicero                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Communications		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:tcicero@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-C ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/rosemarie-coppola-conroy/" title="Rosemarie Coppola-Conroy"><img width="400" height="406" src="http://engineering.uic.edu/wp-content/uploads/2016/08/coppola-conroy.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Rosemarie Coppola-Conroy" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/coppola-conroy.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/coppola-conroy-296x300.jpg 296w, http://engineering.uic.edu/wp-content/uploads/2016/08/coppola-conroy-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/coppola-conroy-80x80.jpg 80w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/rosemarie-coppola-conroy/" title="Rosemarie Coppola-Conroy">
+                                    Rosemarie Coppola-Conroy                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Director of Engineering Career Center		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:rcconroy@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-C ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/jonna-cottrell/" title="Jonna Cottrell"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2017/11/cottrell.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Jonna Cottrell" srcset="http://engineering.uic.edu/wp-content/uploads/2017/11/cottrell.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2017/11/cottrell-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2017/11/cottrell-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2017/11/cottrell-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2017/11/cottrell-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2017/11/cottrell-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2017/11/cottrell-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/jonna-cottrell/" title="Jonna Cottrell">
+                                    Jonna Cottrell                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Assistant Director the Engineering Career Center		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:jonnac@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-C ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/gary-crawford/" title="Gary Crawford"><img width="400" height="401" src="http://engineering.uic.edu/wp-content/uploads/2016/08/crawford.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Gary Crawford" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/crawford.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/gary-crawford/" title="Gary Crawford">
+                                    Gary Crawford                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Laboratory Mechanic		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:garyc@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-D ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/patrick-r-devanney/" title="Patrick R. Devanney"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/10/devanney.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Patrick R. Devanney" srcset="http://engineering.uic.edu/wp-content/uploads/2016/10/devanney.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/10/devanney-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/10/devanney-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/10/devanney-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/10/devanney-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/10/devanney-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/10/devanney-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/patrick-r-devanney/" title="Patrick R. Devanney">
+                                    Patrick R. Devanney                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Associate Director the Engineering Career Center		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:prd@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-F ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/ronald-fernandez/" title="Ronald Fernandez"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Fernandez.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Ronald Fernandez" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Fernandez.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Fernandez-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Fernandez-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Fernandez-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Fernandez-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Fernandez-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Fernandez-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/ronald-fernandez/" title="Ronald Fernandez">
+                                    Ronald Fernandez                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Instructional Communications Specialist, Media Services		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:ronaldf@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-G ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/nicole-gesualdo/" title="Nicole Gesualdo"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2018/06/nicolegesualdo.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Nicole Gesualdo" srcset="http://engineering.uic.edu/wp-content/uploads/2018/06/nicolegesualdo.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2018/06/nicolegesualdo-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2018/06/nicolegesualdo-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2018/06/nicolegesualdo-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2018/06/nicolegesualdo-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2018/06/nicolegesualdo-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2018/06/nicolegesualdo-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/nicole-gesualdo/" title="Nicole Gesualdo">
+                                    Nicole Gesualdo                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Director of Communications and Marketing		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:gesualdo@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-H ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/yosselin-hernandez/" title="Yossi Hernandez"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2018/01/hernandez.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Yossi Hernandez" srcset="http://engineering.uic.edu/wp-content/uploads/2018/01/hernandez.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2018/01/hernandez-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2018/01/hernandez-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2018/01/hernandez-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2018/01/hernandez-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2018/01/hernandez-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2018/01/hernandez-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/yosselin-hernandez/" title="Yossi Hernandez">
+                                    Yossi Hernandez                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Assistant to the Associate Dean for Administration - Finance		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:yherna8@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-J ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/kirsten-gorton/" title="Kirsten Janson"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Kirsten Janson" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/kirsten-gorton/" title="Kirsten Janson">
+                                    Kirsten Janson                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Editorial Writer		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:kgorton@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-J ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/michelle-mittelman/" title="Michelle Mittelman"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/10/johnson.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Michelle Mittelman" srcset="http://engineering.uic.edu/wp-content/uploads/2016/10/johnson.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/10/johnson-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/10/johnson-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/10/johnson-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/10/johnson-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/10/johnson-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/10/johnson-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/michelle-mittelman/" title="Michelle Mittelman">
+                                    Michelle Mittelman                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Associate Director, Engineering Career Center		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:%20mittel@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                    <a target='_blank' href="http://www.linkedin.com/in/michelle-mittelman"><i class='fa fa-linkedin'></i></a>
+                                                                                                                                                                                                                                                                                    </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-K ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/janet-m-kashuba/" title="Janet M. Kashuba"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Kashuba.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Janet M. Kashuba" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Kashuba.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Kashuba-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Kashuba-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Kashuba-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Kashuba-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Kashuba-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Kashuba-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/janet-m-kashuba/" title="Janet M. Kashuba">
+                                    Janet M. Kashuba                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Director of Advancement		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:jkashuba@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-M ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/raymond-matthes/" title="Raymond Matthes"><img width="408" height="408" src="http://engineering.uic.edu/wp-content/uploads/2016/08/RayMatthes2.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Raymond Matthes" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/RayMatthes2.jpg 408w, http://engineering.uic.edu/wp-content/uploads/2016/08/RayMatthes2-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/RayMatthes2-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/RayMatthes2-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/RayMatthes2-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/RayMatthes2-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/RayMatthes2-100x100.jpg 100w" sizes="(max-width: 408px) 100vw, 408px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/raymond-matthes/" title="Raymond Matthes">
+                                    Raymond Matthes                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Director of Engineering Media Services		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:tmatthes@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-M ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/david-mecha/" title="David Mecha"><img width="487" height="493" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Mecha.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="David Mecha" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Mecha.jpg 487w, http://engineering.uic.edu/wp-content/uploads/2016/08/Mecha-296x300.jpg 296w, http://engineering.uic.edu/wp-content/uploads/2016/08/Mecha-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Mecha-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Mecha-100x100.jpg 100w" sizes="(max-width: 487px) 100vw, 487px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/david-mecha/" title="David Mecha">
+                                    David Mecha                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Senior Laboratory Mechanic		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:dmecha@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-M ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/james-muench/" title="James Muench"><img width="430" height="428" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Muench.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="James Muench" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Muench.jpg 430w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-100x100.jpg 100w" sizes="(max-width: 430px) 100vw, 430px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/james-muench/" title="James Muench">
+                                    James Muench                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Director of Engineering Admissions and Records		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:jmuench@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-N ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/venkatesan-natarajan-phd/" title="Venkatakrishnan Natarajan, PhD"><img width="500" height="500" src="http://engineering.uic.edu/wp-content/uploads/2018/07/Venkat-500x500.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Venkatakrishnan Natarajan, PhD" srcset="http://engineering.uic.edu/wp-content/uploads/2018/07/Venkat-500x500.jpg 500w, http://engineering.uic.edu/wp-content/uploads/2018/07/Venkat-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2018/07/Venkat-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2018/07/Venkat-414x414.jpg 414w, http://engineering.uic.edu/wp-content/uploads/2018/07/Venkat-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2018/07/Venkat-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2018/07/Venkat-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2018/07/Venkat-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2018/07/Venkat-435x435.jpg 435w, http://engineering.uic.edu/wp-content/uploads/2018/07/Venkat.jpg 512w" sizes="(max-width: 500px) 100vw, 500px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/venkatesan-natarajan-phd/" title="Venkatakrishnan Natarajan, PhD">
+                                    Venkatakrishnan Natarajan, PhD                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Associate Dean for Research and Graduate Studies		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:venkat@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-N ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/peter-nelson/" title="Peter Nelson"><img width="400" height="401" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Nelson.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Peter Nelson" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Nelson.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nelson-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nelson-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nelson-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nelson-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nelson-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nelson-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/peter-nelson/" title="Peter Nelson">
+                                    Peter Nelson                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Dean		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:nelson@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-N ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/ludwig-c-nitsche/" title="Ludwig C. Nitsche"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Ludwig C. Nitsche" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/ludwig-c-nitsche/" title="Ludwig C. Nitsche">
+                                    Ludwig C. Nitsche                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Associate Dean for Undergraduate Affairs		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:lcn@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-R ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/eliana-riley/" title="Eliana Riley"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2017/11/riley.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Eliana Riley" srcset="http://engineering.uic.edu/wp-content/uploads/2017/11/riley.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2017/11/riley-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2017/11/riley-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2017/11/riley-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2017/11/riley-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2017/11/riley-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2017/11/riley-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/eliana-riley/" title="Eliana Riley">
+                                    Eliana Riley                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Assistant Director of the Engineering Career Center		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:eliana@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                    <a target='_blank' href="http://www.linkedin.com/in/elianariley%20"><i class='fa fa-linkedin'></i></a>
+                                                                                                                                                                                                                                                                                    </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-S ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/eric-schmidt/" title="Eric Schmidt"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Schmidt.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Eric Schmidt" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Schmidt.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Schmidt-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Schmidt-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Schmidt-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Schmidt-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Schmidt-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Schmidt-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/eric-schmidt/" title="Eric Schmidt">
+                                    Eric Schmidt                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Director - Scientific Instrument Shop &amp; COE Machine Shop, Associate Director - MakerSpace		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:schmidte@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-S ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/gerald-a-smith/" title="Gerald A. Smith"><img width="400" height="399" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Smith.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Gerald A. Smith" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Smith.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/gerald-a-smith/" title="Gerald A. Smith">
+                                    Gerald A. Smith                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Director of Minority Affairs		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:gasmith@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-S ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/renata-szandra/" title="Renata Szandra"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Szandra.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Renata Szandra" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Szandra.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Szandra-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Szandra-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Szandra-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Szandra-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Szandra-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Szandra-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/renata-szandra/" title="Renata Szandra">
+                                    Renata Szandra                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Advancement Office		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:rszandra@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-T ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/lynn-thomas/" title="Lynn Thomas"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Thomas.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Lynn Thomas" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Thomas.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Thomas-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Thomas-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Thomas-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Thomas-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Thomas-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Thomas-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/lynn-thomas/" title="Lynn Thomas">
+                                    Lynn Thomas                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Program Coordinator, Master of Engineering and International Programs		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:lynnann@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-T ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/monica-tith/" title="Monica Tith"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Tith.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Monica Tith" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Tith.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Tith-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Tith-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Tith-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Tith-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Tith-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Tith-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/monica-tith/" title="Monica Tith">
+                                    Monica Tith                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Associate Dean for Administration		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:mocamp2@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-U ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/piergiorgio-l-e-uslenghi/" title="Piergiorgio L.E. Uslenghi"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Uslenghi.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Piergiorgio L.E. Uslenghi" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Uslenghi.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Uslenghi-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Uslenghi-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Uslenghi-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Uslenghi-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Uslenghi-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Uslenghi-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/piergiorgio-l-e-uslenghi/" title="Piergiorgio L.E. Uslenghi">
+                                    Piergiorgio L.E. Uslenghi                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Distinguished Professor Emeritus and Director of Online Education and International Programs		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:uslenghi@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-W ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/carolyn-williams/" title="Carolyn Williams"><img width="400" height="403" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Williams.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Carolyn Williams" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Williams.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Williams-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Williams-298x300.jpg 298w, http://engineering.uic.edu/wp-content/uploads/2016/08/Williams-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Williams-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Williams-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Williams-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/carolyn-williams/" title="Carolyn Williams">
+                                    Carolyn Williams                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Program Coordinator, Master of Engineering and International Programs		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:carolynw@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-W ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/maurice-willis/" title="Maurice Willis"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2017/05/Willis.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Maurice Willis" srcset="http://engineering.uic.edu/wp-content/uploads/2017/05/Willis.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2017/05/Willis-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2017/05/Willis-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2017/05/Willis-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2017/05/Willis-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2017/05/Willis-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2017/05/Willis-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/maurice-willis/" title="Maurice Willis">
+                                    Maurice Willis                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Associate Director of Participation and Engagement		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:mwilli60@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+                </div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<p><a href="http://engineeringalumni.uic.edu/">ENGINEERING ALUMNI ASSOCIATION
-</a>
-<br>
- 851 South Morgan Street, 811 SEO<br />
- Chicago, IL 60607<br />
-<span class="fa fa-phone" ></span><a style="padding-left: 10px;" href="tel: (312) 996-9422"> (312) 996-9422</a><br />
- <span class="fa fa-envelope" ></span><a style="padding-left: 10px;" href="mailto:mwilli60@uic.edu">mwilli60@uic.edu</a> <br /></p>
+			<h3 id="academic_affairs">ENGINEERING UNDERGRADUATE ACADEMIC AFFAIRS</h3>
 
 		</div>
 	</div>
-<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f027911b4:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f027911b4{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline vc_custom_1515612226585" >
-	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-right vc_btn-gradient-btn-5bf8f027911b4" href="http://engineeringalumni.uic.edu" title="" target="_blank">Visit Website <i class="vc_btn3-icon fa fa-external-link"></i></a></div>
-</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
-</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+﻿  
+    <div class="teacher-listing classic columns-4">
+        				
+                <article class="teacher-classic-item filter-char-M ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/karen-milla/" title="Karen Milla"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2018/03/che_Karen_Milla.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Karen Milla" srcset="http://engineering.uic.edu/wp-content/uploads/2018/03/che_Karen_Milla.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2018/03/che_Karen_Milla-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2018/03/che_Karen_Milla-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2018/03/che_Karen_Milla-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2018/03/che_Karen_Milla-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2018/03/che_Karen_Milla-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2018/03/che_Karen_Milla-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/karen-milla/" title="Karen Milla">
+                                    Karen Milla                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Assistant to the Associate Dean for Undergraduate Affairs		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:kmilla@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-M ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/james-muench/" title="James Muench"><img width="430" height="428" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Muench.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="James Muench" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Muench.jpg 430w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Muench-100x100.jpg 100w" sizes="(max-width: 430px) 100vw, 430px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/james-muench/" title="James Muench">
+                                    James Muench                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Director of Engineering Admissions and Records		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:jmuench@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-N ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/simona-narubin/" title="Simona Narubin"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2018/01/Narubin.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Simona Narubin" srcset="http://engineering.uic.edu/wp-content/uploads/2018/01/Narubin.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2018/01/Narubin-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2018/01/Narubin-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2018/01/Narubin-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2018/01/Narubin-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2018/01/Narubin-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2018/01/Narubin-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/simona-narubin/" title="Simona Narubin">
+                                    Simona Narubin                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Visiting Teaching Associate		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:snarub2@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                    <a target='_blank' href="http://www.linkedin.com/in/simonanarubin/"><i class='fa fa-linkedin'></i></a>
+                                                                                                                                                                                                                                                                                    </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-N ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/ludwig-c-nitsche/" title="Ludwig C. Nitsche"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Ludwig C. Nitsche" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Nitsche-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/ludwig-c-nitsche/" title="Ludwig C. Nitsche">
+                                    Ludwig C. Nitsche                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Associate Dean for Undergraduate Affairs		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:lcn@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+                </div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<p><a href="http://ecc.engr.uic.edu/" target="_blank">ENGINEERING CAREER CENTER</a><br />
-<a href="/k-teacher/rosemarie-coppola-conroy/"> Rose Coppola-Conroy</a>, Director<br />
-Room 820 – Science and Engineering Offices (SEO)</br>
-851 South Morgan Street (M/C 159)<br />
- Chicago, IL 60607-7050<br />
-<span class="fa fa-phone" ></span><a style="padding-left: 10px;" href="tel:(312) 355-5174">(312) 355-5174</a><br />
- <span class="fa fa-envelope" ></span><a style="padding-left: 10px;" href="mailto:rcconroy@uic.edu">rcconroy@uic.edu</a> <br /></p>
-
-
-		</div>
-	</div>
-<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f02793265:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f02793265{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline vc_custom_1471443676217" >
-	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-right vc_btn-gradient-btn-5bf8f02793265" href="http://ecc.engr.uic.edu/" title="" target="_blank">Visit Website <i class="vc_btn3-icon fa fa-external-link"></i></a></div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
-		<div class="wpb_wrapper">
-			<p><a href="http://engineering.webhost.uic.edu/MachineShop/" target="_blank">ENGINEERING MACHINE SHOP</a><br />
-<a href="/k-teacher/eric-schmidt/"> Eric Schmidt, </a>Director<br />
- 950 South Halsted Street, 1287 SEL<br />
- Chicago, IL 60607<br />
- <span class="fa fa-phone" ></span><a style="padding-left: 10px;" href="tel:(312) 996-4383">(312) 996-4383</a><br />
- <span class="fa fa-envelope" ></span><a style="padding-left: 10px;" href="mailto:schmidte@uic.edu">schmidte@uic.edu</a> <br />
-		</div>
-	</div>
-<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f02793efd:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f02793efd{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline vc_custom_1476122979041" >
-	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-right vc_btn-gradient-btn-5bf8f02793efd" href="http://engineering.webhost.uic.edu/MachineShop" title="" target="_blank">Visit Website <i class="vc_btn3-icon fa fa-external-link"></i></a></div>
-</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
-</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
-		<div class="wpb_wrapper">
-			<p>ENGINEERING MEDIA SERVICES
-<br>
-<a href="/k-teacher/raymond-matthes/">Raymond Matthes,</a> Director<br />
- 842 W. Taylor, 1075 ERF<br />
- Chicago, IL 60607<br />
-<span class="fa fa-phone" ></span><a style="padding-left: 10px;" href="tel: (312) 996-0672"> (312) 996-0672</a><br />
- <span class="fa fa-envelope" ></span><a style="padding-left: 10px;" href="mailto:tmatthes@uic.edu">tmatthes@uic.edu</a> <br /></p>
-
-		</div>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
-		<div class="wpb_wrapper">
-			<p><a href="http://innovationcenter.uic.edu/wordpress/" target="_blank">INNOVATION CENTER
-</a><br>
-<a href="http://design.uic.edu/people/peter-pfanner" target="_blank">Peter Pfanner, </a>Executive Director <br />
-1240 W Harrison St<br />
- Chicago, IL 60607<br />
-<span class="fa fa-phone" ></span><a style="padding-left: 10px;" href="tel:(312) 355–5567 "> (312) 355–5567</a><br />
-<span class="fa fa-fax" ></span><a style="padding-left: 10px;"><strong>(312) 996–3485</strong></a><br />
- <span class="fa fa-envelope" ></span><a style="padding-left: 10px;" href="mailto:graham3@uic.edu">graham3@uic.edu</a> <br /></p>
-
-		</div>
-	</div>
-<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f0279621c:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f0279621c{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline vc_custom_1471443772896" >
-	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-right vc_btn-gradient-btn-5bf8f0279621c" href="http://innovationcenter.uic.edu/wordpress/" title="" target="_blank">Visit Website <i class="vc_btn3-icon fa fa-external-link"></i></a></div>
-</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
-</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
-		<div class="wpb_wrapper">
-			<p><a href="/makerspace/" target="_blank">MAKERSPACE</a><br />
-<a href="/k-teacher/eric-schmidt/"> Eric Schmidt, </a>Director<br />
-  728 W. Roosevelt Road, Room 286 (M/C 259)<br />
- Chicago, IL 60607<br />
- <span class="fa fa-phone" ></span><a style="padding-left: 10px;" href="tel:(312) 413-8240">(312) 413-8240</a><br />
- <span class="fa fa-envelope" ></span><a style="padding-left: 10px;" href="mailto:schmidte@uic.edu">schmidte@uic.edu</a> <br />
-		</div>
-	</div>
-<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f02797e5b:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f02797e5b{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline vc_custom_1485884626760" >
-	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-right vc_btn-gradient-btn-5bf8f02797e5b" href="http://coemakerspace.uic.edu/" title="" target="_blank">Visit Website <i class="vc_btn3-icon fa fa-external-link"></i></a></div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
-		<div class="wpb_wrapper">
-			<p> <a href="http://merrp.engr.uic.edu/" target="_blank">Minority Engineering Recruitment and Retention Program (MERRP)</a><br />
-<a href="/k-teacher/gerald-a-smith/">Gerald A. Smith</a>, Director <br/>
-842 West Taylor St. Room 2065 (MC 159)<br />
-Chicago, IL 60607<br />
-<span class="fa fa-phone" ></span><a style="padding-left: 10px;" href="tel:(312) 996-2201">(312) 996-2201</a><br />
-<span class="fa fa-fax" ></span><a style="padding-left: 10px;"><strong>(312) 413-7577</strong></a><br />
- <span class="fa fa-envelope" ></span><a style="padding-left: 10px;" href="mailto:gasmith@uic.edu">gasmith@uic.edu</a> <br /></p>
+			<h3 id="arc">ACADEMIC RESOURCE CENTER (ARC)</h3>
 
 		</div>
 	</div>
-<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f02798af7:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f02798af7{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline vc_custom_1471443810180" >
-	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-right vc_btn-gradient-btn-5bf8f02798af7" href="http://merrp.engr.uic.edu/" title="" target="_blank">Visit Website <i class="vc_btn3-icon fa fa-external-link"></i></a></div>
-</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
-</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+﻿  
+    <div class="teacher-listing classic columns-4">
+        				
+                <article class="teacher-classic-item filter-char-D ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/elena-diaz/" title="Elena Diaz"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/diaz.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Elena Diaz" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/diaz.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/diaz-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/diaz-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/diaz-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/diaz-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/diaz-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/diaz-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/elena-diaz/" title="Elena Diaz">
+                                    Elena Diaz                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Assistant Director, Academic Resource Center		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:ddiaz2@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-E ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/evelyn-esquivel/" title="Evelyn Esquivel"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/esquivel.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Evelyn Esquivel" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/esquivel.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/esquivel-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/esquivel-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/esquivel-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/esquivel-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/esquivel-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/esquivel-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/evelyn-esquivel/" title="Evelyn Esquivel">
+                                    Evelyn Esquivel                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Administrative Assistant		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:esquivel@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-M ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/estherine-morgan-m-ed/" title="Estherine Morgan, M.Ed"><img width="409" height="409" src="http://engineering.uic.edu/wp-content/uploads/2018/05/Estherine-Morgan-1.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Estherine Morgan, M.Ed" srcset="http://engineering.uic.edu/wp-content/uploads/2018/05/Estherine-Morgan-1.jpg 409w, http://engineering.uic.edu/wp-content/uploads/2018/05/Estherine-Morgan-1-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2018/05/Estherine-Morgan-1-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2018/05/Estherine-Morgan-1-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2018/05/Estherine-Morgan-1-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2018/05/Estherine-Morgan-1-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2018/05/Estherine-Morgan-1-100x100.jpg 100w" sizes="(max-width: 409px) 100vw, 409px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/estherine-morgan-m-ed/" title="Estherine Morgan, M.Ed">
+                                    Estherine Morgan, M.Ed                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Assistant Director, Academic Resource Center		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:emorga3@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-O ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/letreurna-owens/" title="Letreurna Owens"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Owens.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Letreurna Owens" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Owens.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Owens-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Owens-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Owens-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Owens-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Owens-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Owens-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/letreurna-owens/" title="Letreurna Owens">
+                                    Letreurna Owens                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Assistant Director, Academic Resource Center		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:lowens2@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-S ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/elsa-soto/" title="Elsa Soto"><img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Soto.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Elsa Soto" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Soto.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Soto-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Soto-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Soto-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Soto-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Soto-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Soto-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/elsa-soto/" title="Elsa Soto">
+                                    Elsa Soto                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Associate Director, Women in Engineering Programs		                	</span>
+                                                                        <div class="social">
+                                                            <a target='_blank' href="https://www.facebook.com/uicwiep/"><i class='fa fa-facebook'></i></a>
+                                                                                        <a target='_blank' href="https://www.instagram.com/uicwiep/"><i class='fa fa-instagram'></i></a>
+                                                                                        <a target='_blank' href="mailto:esoto3@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                        <a target='_blank' href="https://twitter.com/uic_wiep/"><i class='fa fa-twitter'></i></a>
+                                                                                                                                                                                                                                                                                                                </div>
+                                        </article>
+                </div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<p><a href="http://wiep.engr.uic.edu/" target="_blank">Women in Engineering Programs (WIEP)</a><br>
-<a href="/k-teacher/elsa-soto/">Elsa M. Soto,</a> Associate Director<br />
-Room 120-A Science and Engineering Offices<br/> 
-851 South Morgan Street <br />
- Chicago, IL 60607<br />
-
- <span class="fa fa-phone" ></span><a style="padding-left: 10px;" href="tel: (312) 996-2403"> (312) 996-2403</a><br />
- <span class="fa fa-envelope" ></span><a style="padding-left: 10px;" href="mailto:esoto3@uic.edu">esoto3@uic.edu</a> </p>
+			<h3 id="merp">MINORITY ENGINEERING RECRUITMENT &amp; RETENTION PROGRAM (MERRP)</h3>
 
 		</div>
 	</div>
-<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f0279a74e:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f0279a74e{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline vc_custom_1471443837164" >
-	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-right vc_btn-gradient-btn-5bf8f0279a74e" href="http://wiep.engr.uic.edu/" title="" target="_blank">Visit Website <i class="vc_btn3-icon fa fa-external-link"></i></a></div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
-		<div class="wpb_wrapper">
-			<p><a href="http://wisest.uic.edu/" target="_blank">Women in Science and Engineering System Transformation (WISEST)</a><br />
-<a href="https://phys.uic.edu/physics/people/faculty-and-instructors/anjum-ansari" target="_blank">Anjum Ansari,</a> Lead WISEST Facilitator<br />
-845 West Taylor Street, 2616 SES
-<br />
- Chicago, IL 60607<br />
-<span class="fa fa-phone" ></span><a style="padding-left: 10px;" href="tel:(312) 996-8735">(312) 996-8735</a><br />
- <span class="fa fa-envelope" ></span><a style="padding-left: 10px;" href="mailto:ansari@uic.edu">ansari@uic.edu</a> <br /></p>
-
-		</div>
-	</div>
-<style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f0279b3d7:hover{color: #ffffff;background-color: #635891;border: none;background-position: 100% 0;}</style><style type="text/css">.vc_btn3-style-gradient-custom.vc_btn-gradient-btn-5bf8f0279b3d7{color: #ffffff;border: none;background-color: #252645;background-image: -webkit-linear-gradient(left, #252645 0%, #635891 50%,#252645 100%);background-image: linear-gradient(to right, #252645 0%, #635891 50%,#252645 100%);-webkit-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-size: 200% 100%;}</style><div class="vc_btn3-container vc_btn3-inline vc_custom_1471443867579" >
-	<a data-vc-gradient-1="#252645" data-vc-gradient-2="#635891" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-gradient-custom vc_btn3-icon-right vc_btn-gradient-btn-5bf8f0279b3d7" href="http://wisest.uic.edu/" title="" target="_blank">Visit Website <i class="vc_btn3-icon fa fa-external-link"></i></a></div>
-</div></div></div></div><p></p>		</div>
+﻿  
+    <div class="teacher-listing classic columns-4">
+        				
+                <article class="teacher-classic-item filter-char-H ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/rochelle-d-harris/" title="Rochelle D Harris"><img width="500" height="500" src="http://engineering.uic.edu/wp-content/uploads/2018/06/greylogo-500x500.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Rochelle D Harris" srcset="http://engineering.uic.edu/wp-content/uploads/2018/06/greylogo-500x500.jpg 500w, http://engineering.uic.edu/wp-content/uploads/2018/06/greylogo-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2018/06/greylogo-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2018/06/greylogo-600x600.jpg 600w, http://engineering.uic.edu/wp-content/uploads/2018/06/greylogo-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2018/06/greylogo-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2018/06/greylogo-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2018/06/greylogo-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2018/06/greylogo-435x435.jpg 435w, http://engineering.uic.edu/wp-content/uploads/2018/06/greylogo.jpg 648w" sizes="(max-width: 500px) 100vw, 500px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/rochelle-d-harris/" title="Rochelle D Harris">
+                                    Rochelle D Harris                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Office Manager		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:rharris@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+            				
+                <article class="teacher-classic-item filter-char-S ">
+                                            <a href="http://engineering.uic.edu/k-Teacher/gerald-a-smith/" title="Gerald A. Smith"><img width="400" height="399" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Smith.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Gerald A. Smith" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Smith.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Smith-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" /></a>                                                    <h4 class="title">
+                                <a href="http://engineering.uic.edu/k-Teacher/gerald-a-smith/" title="Gerald A. Smith">
+                                    Gerald A. Smith                                </a>
+                            </h4>
+                        
+                                                    <span class="position">
+		                		Director of Minority Affairs		                	</span>
+                                                                        <div class="social">
+                                                                                                                    <a target='_blank' href="mailto:gasmith@uic.edu"><i class="fa fa-envelope"></i></a>
+                                                                                                                                                                                                                                                                                                                                            </div>
+                                        </article>
+                </div></div></div></div></div><p></p>		</div>
 	</div><!-- .page-entry -->
 	
 </article><!-- #post-## -->
@@ -1409,10 +1861,10 @@ Chicago, IL 60607</a></p><span class="fa fa-phone"> </span> <span style="padding
 <li id="menu-item-2062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2062"><a href="http://engineering.uic.edu/scholarships/">Scholarships</a></li>
 <li id="menu-item-3772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3772"><a href="http://engineeringalumni.uic.edu">Alumni</a></li>
 <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"><a href="http://engineering.uic.edu/contact/">Contact</a></li>
-</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="uNGMIFYziD" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
+</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="QuAlvzDqwn" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
 		</aside></div><div class="col-3"><aside id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widget-title"><span>Resources</span></h4><div class="menu-footer-secondary-menu-container"><ul id="menu-footer-secondary-menu" class="menu"><li id="menu-item-2067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2067"><a href="http://vcsa.uic.edu/">Student Affairs</a></li>
 <li id="menu-item-2201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2201"><a href="http://www.uic.edu/apps/departments-az/search">Directory</a></li>
-<li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-64 current_page_item menu-item-1694 active"><a href="http://engineering.uic.edu/offices/">Offices</a></li>
+<li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1694"><a href="http://engineering.uic.edu/offices/">Offices</a></li>
 <li id="menu-item-4001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4001"><a href="http://makerspace.uic.edu/">Makerspace</a></li>
 <li id="menu-item-2066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2066"><a href="http://ecc.engr.uic.edu/">Career Center</a></li>
 <li id="menu-item-2068" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2068"><a href="https://drc.uic.edu/">Disability Resource Center</a></li>
@@ -1524,7 +1976,7 @@ var mainParams = {"sticky_menu":"","smart_sticky":"0"};
 
 <script type='text/javascript'>
 /* <![CDATA[ */
-var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"276d87e536","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"ee093dbe34","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
 /* ]]> */
 </script>
 
@@ -1541,7 +1993,10 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 
 
 
-<script type="text/javascript" src="http://engineering.uic.edu/wp-content/cache/minify/1/298d1.js"></script>
+
+
+
+<script type="text/javascript" src="http://engineering.uic.edu/wp-content/cache/minify/1/4c162.js"></script>
 
 </body>
 </html>
@@ -1550,7 +2005,7 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
 Minified using disk
-Database Caching 41/76 queries in 0.055 seconds using disk
+Database Caching 76/198 queries in 0.200 seconds using disk
 
-Served from: engineering.uic.edu @ 2018-11-24 06:31:03 by W3 Total Cache
+Served from: engineering.uic.edu @ 2018-11-24 23:05:58 by W3 Total Cache
 -->

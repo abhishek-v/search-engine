@@ -121,7 +121,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//sa.uic.edu/?wordfence_lh=1&hid=9BA28A09F0912F510F6EE71AA3A14F20');
+})('//sa.uic.edu/?wordfence_lh=1&hid=B3142DF2BC5B238318FF722AF56D666F');
 </script>
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>
@@ -1263,7 +1263,7 @@ img.emoji {
     <ol class="slideshow__slides">
                     <li id="slide-1" class="slideshow__slide slideshow__slide--active" data-slide-index="1">
                 
-<article class="slideshow-slide" id="748443899-1">
+<article class="slideshow-slide" id="1384812938-1">
 
     <div class="slideshow-slide__image-and-buttons">
         <div class="slideshow-slide__image">
@@ -1271,10 +1271,10 @@ img.emoji {
         </div>
         <div class="slideshow-slide__buttons">
             <ul>
-                <li class="slideshow-slide__button slideshow-slide__button--next" id="748443899-1-next" data-slide-index="2">
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1384812938-1-next" data-slide-index="2">
                     <a href="#slide-2"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
                 </li>
-                <li class="slideshow-slide__button slideshow-slide__button--previous" id="748443899-1-prev" data-slide-index="4">
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1384812938-1-prev" data-slide-index="4">
                     <a href="#slide-4"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
                 </li>
             </ul>
@@ -1291,7 +1291,7 @@ img.emoji {
             </li>
                     <li id="slide-2" class="slideshow__slide " data-slide-index="2">
                 
-<article class="slideshow-slide" id="546733189-2">
+<article class="slideshow-slide" id="408248778-2">
 
     <div class="slideshow-slide__image-and-buttons">
         <div class="slideshow-slide__image">
@@ -1299,10 +1299,10 @@ img.emoji {
         </div>
         <div class="slideshow-slide__buttons">
             <ul>
-                <li class="slideshow-slide__button slideshow-slide__button--next" id="546733189-2-next" data-slide-index="3">
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="408248778-2-next" data-slide-index="3">
                     <a href="#slide-3"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
                 </li>
-                <li class="slideshow-slide__button slideshow-slide__button--previous" id="546733189-2-prev" data-slide-index="1">
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="408248778-2-prev" data-slide-index="1">
                     <a href="#slide-1"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
                 </li>
             </ul>
@@ -1318,7 +1318,7 @@ img.emoji {
             </li>
                     <li id="slide-3" class="slideshow__slide " data-slide-index="3">
                 
-<article class="slideshow-slide" id="1033620735-3">
+<article class="slideshow-slide" id="842155361-3">
 
     <div class="slideshow-slide__image-and-buttons">
         <div class="slideshow-slide__image">
@@ -1326,10 +1326,10 @@ img.emoji {
         </div>
         <div class="slideshow-slide__buttons">
             <ul>
-                <li class="slideshow-slide__button slideshow-slide__button--next" id="1033620735-3-next" data-slide-index="4">
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="842155361-3-next" data-slide-index="4">
                     <a href="#slide-4"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
                 </li>
-                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1033620735-3-prev" data-slide-index="2">
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="842155361-3-prev" data-slide-index="2">
                     <a href="#slide-2"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
                 </li>
             </ul>
@@ -1346,7 +1346,7 @@ img.emoji {
             </li>
                     <li id="slide-4" class="slideshow__slide " data-slide-index="4">
                 
-<article class="slideshow-slide" id="203312327-4">
+<article class="slideshow-slide" id="1379073111-4">
 
     <div class="slideshow-slide__image-and-buttons">
         <div class="slideshow-slide__image">
@@ -1354,10 +1354,10 @@ img.emoji {
         </div>
         <div class="slideshow-slide__buttons">
             <ul>
-                <li class="slideshow-slide__button slideshow-slide__button--next" id="203312327-4-next" data-slide-index="1">
+                <li class="slideshow-slide__button slideshow-slide__button--next" id="1379073111-4-next" data-slide-index="1">
                     <a href="#slide-1"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
                 </li>
-                <li class="slideshow-slide__button slideshow-slide__button--previous" id="203312327-4-prev" data-slide-index="3">
+                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1379073111-4-prev" data-slide-index="3">
                     <a href="#slide-3"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
                 </li>
             </ul>

@@ -13,12 +13,14 @@
 
 <head profile="http://www.w3.org/1999/xhtml/vocab">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="next" href="/service/g-suite" />
+<link rel="shortlink" href="/node/411" />
+<link rel="canonical" href="/service/email-and-calendaring" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-  <title>Academic Computing and Communications Center  </title>
+  <title>Email and Calendaring | Academic Computing and Communications Center  </title>
   <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_C97MNtte-L48LG9bh-ZvFzSRgqR9x1gIfrvIDp9o6Y4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_uc-4vWq6iVZzAE6OSfqTPjCk1DZkfDkXWDUL0wWbtoA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_OsO2r3O_I2E-8-khV3NulWZIRJOw7aXphEVlJbgm2xI.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_Gi2KQBa4KQP-viS3Xs9utbwGTmqh2ceGxVSM10J8c9c.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_2THG1eGiBIizsWFeexsNe1iDifJ00QRS9uSd03rY9co.css" media="print" />
 
@@ -30,21 +32,21 @@
 <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/all/themes/acccbartik/css/ie6.css?pi5mp1" media="all" />
 <![endif]-->
   <script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
-<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_lboD8mxHbiFYKzdGkJi9JvFQWJGyCslzWjcNjvVR3X0.js"></script>
 <script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_f_6-OzlFXjayKlsU5sJKLwjz7LFQvdIZDm-Mt6jKwyM.js"></script>
-<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_LerATHQEmp0E1UdzCb2tAR_1bhUv6-8Niu13xaetO-4.js"></script>
+<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_9G1HmFpiIIAASGUsStD4Bs7yInEexthhfZpuiB7qGwQ.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://accc.uic.edu/sites/default/files/googleanalytics/analytics.js?pi5mp1","ga");ga("create", "UA-27751174-1", {"cookieDomain":"auto"});ga("send", "pageview");
 //--><!]]>
 </script>
+<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"gBWlQzVAQeQFQLwlnm4jos8L4YUqWqJxkwUSv5gRiXo","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/libraries\/json2\/json2.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/ds\/layouts\/ds_2col_stacked_fluid\/ds_2col_stacked_fluid.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"viewsSlideshow":{"slideshow-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_slideshow-block_1":{"num_divs":1,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"slideshow-block_1","effect":"fade","transition_advanced":1,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":1,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":1,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":1,"cleartypenobg":0,"advanced_options":"{\u0022height\u0022:\u0022200\u0022}","advanced_options_choices":0,"advanced_options_entry":""}},"urlIsAjaxTrusted":{"\/":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"v5vw0IbuuLw0-YQj4HYj7fFHZSA-IwX4wMt9bYkcQfg","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/service\/email-and-calendaring":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
 //--><!]]>
 </script>
 </head>
-<body class="html front not-logged-in one-sidebar sidebar-second page-frontpage footer-columns" >
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-411 node-type-service-catalog-entry footer-columns" >
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
     <a href="/service/learning-environments/accessibility" class="element-invisible element-focusable">Accessibility Resources</a>
@@ -59,9 +61,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     
           <div id="name-and-slogan" class="element-invisible">
 
-                              <h1 id="site-name" class="element-invisible">
-              <a href="/" title="Home" rel="home"><span>Academic Computing and Communications Center  </span></a>
-            </h1>
+                              <div id="site-name" class="element-invisible">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>Academic Computing and Communications Center  </span></a>
+              </strong>
+            </div>
                   
         
       </div> <!-- /#name-and-slogan -->
@@ -71,13 +75,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     
   <div class="content">
-    <form class="google-cse" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <form class="google-cse" action="/service/email-and-calendaring" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
       <h2 class="element-invisible">Search form</h2>
     <div class="form-item form-type-textfield form-item-search-block-form">
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-o5baO5nO8fNE6NXAfT8qUiLSFz8GMKHYt_orHJ3gnvQ" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-uSaQX0O-H5BFS6Utv9JIPDgh7i053C1DUYsN1OdT1P8" />
 <input type="hidden" name="form_id" value="search_block_form" />
 </div>
 </div></form>  </div>
@@ -91,11 +95,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </div>
 
           <div id="main-menu" class="navigation">
-        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-227 first active"><a href="/" class="active">Home</a></li>
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-227 first"><a href="/">Home</a></li>
 <li class="menu-4868"><a href="/news/all" title="">News</a></li>
 <li class="menu-9690"><a href="http://one.uic.edu" title="">ONE.UIC</a></li>
 <li class="menu-568"><a href="/service-status">Service Status</a></li>
-<li class="menu-2965"><a href="/service/all">Service Catalog</a></li>
+<li class="menu-2965 active-trail"><a href="/service/all" class="active-trail">Service Catalog</a></li>
 <li class="menu-4784"><a href="/answer/all" title="">Answers</a></li>
 <li class="menu-9670"><a href="http://accc.uic.edu/about" title="">About</a></li>
 <li class="menu-4776 last"><a href="/contact">Contact</a></li>
@@ -108,488 +112,151 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
   <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
 
+          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » <a href="/service/all">Service Catalog</a></div></div>
     
-    
-    <div id="content" class="column"><div class="section">
-            <a id="main-content"></a>
-                                <div class="tabs">
-                  </div>
-                          <div class="region region-content">
-    <div class="view view-frontpage view-id-frontpage view-display-id-page view-dom-id-f7b64f2ce372ff1c8df17b1439cde8eb">
-        
-  
-  
-  
-  
-  
-  
-  
-  
-</div><div id="block-views-slideshow-block" class="block block-views">
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-book-navigation" class="block block-book">
 
-    
+    <h2><a href="/policies" class="block-title-link"><a href="/service/email-and-calendaring" class="book-title active">Email and Calendaring</a></a></h2>
+  
   <div class="content">
-    <div class="view view-slideshow view-id-slideshow view-display-id-block view-dom-id-e43ae167aabfd811bad0753d15d0d69b">
-        
+    <ul class="menu clearfix"><li class="first collapsed"><a href="/service/g-suite">G Suite (formerly Google Apps)</a></li>
+<li class="collapsed"><a href="/service/exchange">Exchange</a></li>
+<li class="collapsed"><a href="/service/uicalendar">UICalendar</a></li>
+<li class="leaf"><a href="/service/email-and-calendaring/addressbook">Addressbook Conversion</a></li>
+<li class="leaf"><a href="/service/email-and-calendaring/phishing">Phishing</a></li>
+<li class="last leaf"><a href="/service/email-and-calendaring/directory">Campus Email Directory</a></li>
+</ul>  </div>
+</div>
+<div id="block-views-answers-block-4" class="block block-views">
+
+    <h2><a href="/answer/Email%20and%20Calendaring" class="block-title-link">Answers related to Email and Calendaring</a></h2>
+  
+  <div class="content">
+    <div class="view view-answers view-id-answers view-display-id-block_4 nocontent view-dom-id-c9360343e91a4c920508bf2f78494fc7">
+            <div class="view-header">
+      Displaying 15 of 25 answers    </div>
+  
   
   
       <div class="view-content">
-      
-  <div class="skin-default">
-    
-    <div id="views_slideshow_cycle_main_slideshow-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_slideshow-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
-  <div id="views_slideshow_cycle_div_slideshow-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" >
-  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
-    
-  <div class="views-field views-field-field-banner-image">        <div class="field-content"><img typeof="foaf:Image" src="https://accc.uic.edu/sites/default/files/slides/banner_cstop_open.jpg" width="690" height="200" alt="C-stop open" title="C-stop open" /></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="http://cstop.uic.edu"><span class="transparency"></span>
-<span class="slide_content">
-  <h2>C-Stop </h2>
-  <p><p>The C-Stop is a modern space to work, recharge, print and get help.</p>
-</p>
-</span></a></span>  </div></div>
-</div>
-</div>
-</div>
-      </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-</div>
-<div id="block-views-service-catalog-block-1" class="block block-views">
-
-    <h2>ACCC Services</h2>
-  
-  <div class="content">
-    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_1 view-dom-id-2c4ec267bb69ccfa03645f6f269d6eb5">
-        
-  
-  
-      <div class="view-content">
-      <table class="views-view-grid cols-3">
-  
-  <tbody>
-          <tr class="row-1 row-first">
-                  <td class="col-1 col-first">
-            <div class="ds-2col-stacked-fluid node node-service-catalog-entry view-mode-front_page clearfix">
-
-  
-  <div class="group-header">
-      </div>
-
-      <div class="group-left">
-      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item odd"><a href="/service/exchange"><img typeof="foaf:Image" src="https://accc.uic.edu/sites/default/files/styles/small_thumbnail/public/csm_microsoft_exchange_logo_a6e00686cf_1.png?itok=eT2Ezcf3" width="75" height="30" alt="Microsoft Exchange Logo" title="Microsoft Exchange logo" /></a></div></div></div>    </div>
-  
-      <div class="group-right">
-      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item odd" property="dc:title"><h3><a href="/service/exchange">Exchange</a></h3></div></div></div>    </div>
-  
-  <div class="group-footer">
-      </div>
-
-</div>
-
-          </td>
-                  <td class="col-2">
-            <div class="ds-2col-stacked-fluid node node-service-catalog-entry view-mode-front_page clearfix">
-
-  
-  <div class="group-header">
-      </div>
-
-      <div class="group-left">
-      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item odd"><a href="/service/media-conversion"><img typeof="foaf:Image" src="https://accc.uic.edu/sites/default/files/styles/small_thumbnail/public/vhs-casette.jpg?itok=KAShkmfU" width="75" height="42" alt="" /></a></div></div></div>    </div>
-  
-      <div class="group-right">
-      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item odd" property="dc:title"><h3><a href="/service/media-conversion">Media Conversion</a></h3></div></div></div>    </div>
-  
-  <div class="group-footer">
-      </div>
-
-</div>
-
-          </td>
-                  <td class="col-3 col-last">
-            <div class="ds-2col-stacked-fluid node node-service-catalog-entry view-mode-front_page clearfix">
-
-  
-  <div class="group-header">
-      </div>
-
-      <div class="group-left">
-      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item odd"><a href="/service/onsite"><img typeof="foaf:Image" src="https://accc.uic.edu/sites/default/files/styles/small_thumbnail/public/onsite.jpg?itok=P_mDPP0q" width="75" height="69" alt="" /></a></div></div></div>    </div>
-  
-      <div class="group-right">
-      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item odd" property="dc:title"><h3><a href="/service/onsite">On-Site Support</a></h3></div></div></div>    </div>
-  
-  <div class="group-footer">
-      </div>
-
-</div>
-
-          </td>
-              </tr>
-          <tr class="row-2 row-last">
-                  <td class="col-1 col-first">
-            <div class="ds-2col-stacked-fluid node node-service-catalog-entry view-mode-front_page clearfix">
-
-  
-  <div class="group-header">
-      </div>
-
-      <div class="group-left">
-      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item odd"><a href="/service/listserv"><img typeof="foaf:Image" src="https://accc.uic.edu/sites/default/files/styles/small_thumbnail/public/lsoft_300.gif?itok=2h5jEF1g" width="75" height="37" alt="L-Soft Logo" title="L-Soft Logo" /></a></div></div></div>    </div>
-  
-      <div class="group-right">
-      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item odd" property="dc:title"><h3><a href="/service/listserv">Listserv</a></h3></div></div></div>    </div>
-  
-  <div class="group-footer">
-      </div>
-
-</div>
-
-          </td>
-                  <td class="col-2">
-            <div class="ds-2col-stacked-fluid node node-service-catalog-entry view-mode-front_page clearfix">
-
-  
-  <div class="group-header">
-      </div>
-
-      <div class="group-left">
-      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item odd"><a href="/service/learning-management-system"><img typeof="foaf:Image" src="https://accc.uic.edu/sites/default/files/styles/small_thumbnail/public/blackboard_learn-whitecrop.png?itok=9GF-dEFD" width="75" height="23" alt="Blackboard Learn Logo" title="Blackboard Learn Logo" /></a></div></div></div>    </div>
-  
-      <div class="group-right">
-      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item odd" property="dc:title"><h3><a href="/service/learning-management-system">Learning Management System</a></h3></div></div></div>    </div>
-  
-  <div class="group-footer">
-      </div>
-
-</div>
-
-          </td>
-                  <td class="col-3 col-last">
-            <div class="ds-2col-stacked-fluid node node-service-catalog-entry view-mode-front_page clearfix">
-
-  
-  <div class="group-header">
-      </div>
-
-      <div class="group-left">
-      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item odd"><a href="/service/surveys"><img typeof="foaf:Image" src="https://accc.uic.edu/sites/default/files/styles/small_thumbnail/public/qualtrics_logo.fw__0.png?itok=VrKtrepW" width="75" height="65" alt="Qualtrics logo" title="Qualtrics logo" /></a></div></div></div>    </div>
-  
-      <div class="group-right">
-      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item odd" property="dc:title"><h3><a href="/service/surveys">Surveys</a></h3></div></div></div>    </div>
-  
-  <div class="group-footer">
-      </div>
-
-</div>
-
-          </td>
-              </tr>
-      </tbody>
-</table>
-    </div>
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-set-out-office-or-vacation-email-auto-reply">How do I set up an out-of-office or vacation email auto-reply?</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-check-my-uic-email">How do I check my UIC email?</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-change-my-password">How do I change my password?</a></span>  </span></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-update-my-uic-email-forwarding">How do I update my UIC email forwarding?</a></span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/can-i-keep-my-uic-email-address-after-i-leave-uic">Can I keep my UIC email address after I leave UIC?</a></span>  </span></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-can-i-set-non-personal-group-or-department-email-address">How can I set up a non-personal, group or department email address?</a></span>  </span></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-send-files-securely-others-university">How do I send files securely to others at the university?</a></span>  </span></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-use-uic-email-address-book-outlook">How do I use the UIC email address book with Outlook?</a></span>  </span></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-obtain-email-alias">How do I obtain an email alias?</a></span>  </span></li>
+          <li class="views-row views-row-10 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-use-uic-email-address-book-my-mac">How do I use the UIC email address book on my Mac?</a></span>  </span></li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-create-listserv">How do I create a listserv?</a></span>  </span></li>
+          <li class="views-row views-row-12 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-change-how-my-name-appears-email">How do I change how my name appears in email?</a></span>  </span></li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-use-uic-email-address-book-thunderbird">How do I use the UIC email address book with Thunderbird?</a></span>  </span></li>
+          <li class="views-row views-row-14 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/How-Do-I-Import-Google-Calendar-to-Outlook">How Do I Import Google Calendar to Outlook/Exchange Online</a></span>  </span></li>
+          <li class="views-row views-row-15 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/what-happens-my-netid-and-email-if-i-take-semester">What happens to my NetID and email if I take a semester off?</a></span>  </span></li>
+      </ul></div>    </div>
   
   
   
       
 <div class="more-link">
-  <a href="/service/all">
-    View all services  </a>
+  <a href="/answer/Email%20and%20Calendaring">
+    View more answers  </a>
 </div>
   
   
   
 </div>  </div>
 </div>
-<div id="block-views-lynda-block" class="block block-views">
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          Email and Calendaring        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
 
-    <h2>Training (from lynda.com)</h2>
-  
+    
   <div class="content">
-    <div class="view view-lynda view-id-lynda view-display-id-block nocontent view-dom-id-6f9f1358c903b3a3c08a1d654f5fcb40">
-        
+    <div class="ds-1col node node-service-catalog-entry node-full view-mode-full clearfix">
+
   
-  
-      <div class="view-content">
-      <table class="views-view-grid cols-3">
-  
-  <tbody>
-          <tr class="row-1 row-first row-last">
-                  <td class="col-1 col-first">
-              
-  <div class="views-field views-field-title">        <h3 class="field-content"><a href="http://feedproxy.google.com/~r/lyndacom-new-releases/~3/wVxZ0t18A7g/756280-2.html">Windows 10 October 2018 Update Essential Training</a></h3>  </div>  
-  <div class="views-field views-field-description">        <span class="field-content">Learn the essentials of the Windows operating system, including the features in the Windows 10 October 2018 Update. Instructor Nick Brazzi begins with operating system basics, such as managing files and folders. Next, Nick shows how to work with email, calendar, and contacts, browse the web, and...</span>  </div>          </td>
-                  <td class="col-2">
-              
-  <div class="views-field views-field-title">        <h3 class="field-content"><a href="http://feedproxy.google.com/~r/lyndacom-new-releases/~3/yDOR9mkUk8E/758618-2.html">Critical Roles Consultants Play (and the Skills You Need to Fill Them)</a></h3>  </div>  
-  <div class="views-field views-field-description">        <span class="field-content">New consultants are often surprised by how agile they need to be to fulfill client expectations. The role you play may vary from contract to contract, or even shift within the same engagement. This course helps prepare you for the many different roles a consultant must play and succeed in the...</span>  </div>          </td>
-                  <td class="col-3 col-last">
-              
-  <div class="views-field views-field-title">        <h3 class="field-content"><a href="http://feedproxy.google.com/~r/lyndacom-new-releases/~3/WjGeOX1RcJs/740352-2.html">Becoming Indistractable</a></h3>  </div>  
-  <div class="views-field views-field-description">        <span class="field-content">The world is filled with distractions. When our devices buzz and notifications start rolling in, it is harder to focus on what's really important. And yet staying focused is exactly what it takes to get things done and get ahead. In this course, Arianna Huffington and Nir Eyal, the author of Hooked...</span>  </div>          </td>
-              </tr>
-      </tbody>
-</table>
-    </div>
-  
-  
-  
-  
-      <div class="view-footer">
-      <p><a href="/service/training">Training</a> | <a href="http://go.uic.edu/lynda" style="font-weight: bold;">Log in to Lynda.com</a></p>
-    </div>
-  
-  
-</div>  </div>
-</div>
-<div id="block-tagclouds-1" class="block block-tagclouds">
+  <div id="node-service-catalog-entry-full-group-borderwrap" class=" group-borderwrap field-group-div"><div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Category:&nbsp;</strong><span class="field-items"><a href="/category/email-calendar-and-communications" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Email, Calendar and Communications</a></span></div><div class="field field-name-field-audience field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Audience:&nbsp;</strong><span class="field-items"><a href="/audience/faculty" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Faculty</a>, <a href="/audience/staff" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Staff</a>, <a href="/audience/students" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Students</a>, <a href="/audience/it" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">IT</a></span></div><div class="field field-name-field-launch field-type-link-field field-label-hidden"><div class="field-item odd first"><a href="http://emailforwarding.accc.uic.edu">Update UIC Email Forwarding</a></div><div class="field-item even last"><a href="http://mailfilter.accc.uic.edu">Update UIC Barracuda Whitelist</a></div></div></div><h2 class="field-label">Overview&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>The ACCC provides a personal University email address to all current students, staff and faculty. The email address is in the format <em>NetID@uic.edu</em> and can be used in conjunction with any of the email services provided by the ACCC (<a href="/service/g-suite">GoogleApps@UIC</a>, and <a href="/service/exchange">Exchange</a>), or <a href="/answer/how-do-i-update-my-uic-email-forwarding">forwarded</a> to an existing non-University email address.</p>
+</div></div><h2 class="field-label">Features&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>Three options are available:</p>
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%"><thead><tr><th scope="col">Service</th>
+<th scope="col">Cost</th>
+<th scope="col">Availability</th>
+</tr></thead><tbody><tr><td><a href="/service/g-suite">GoogleApps@UIC</a></td>
+<td>Free</td>
+<td>Students, staff, faculty</td>
+</tr><tr><td><a href="/service/exchange">Exchange</a></td>
+<td>Free</td>
+<td>Faculty and staff</td>
+</tr></tbody></table><h3>Non-personal email addresses</h3>
+<p>For departments and groups wishing to use a <a href="/answer/how-can-i-set-non-personal-group-or-department-email-address">non-personal contact address</a>, we provide several options, such as <a href="/answer/how-do-i-obtain-email-alias">email aliases</a>, <a href="/service/listserv">listservs</a>, official <a href="/service/googleapps/groups">Google Groups</a> and the <a href="/service/rt">Request Tracker (RT)</a>.</p>
+<h3>Calendar Options</h3>
+<p>With your <a href="/service/g-suite">GoogleApps@UIC</a> account, you gain access to <a href="/service/googleaps/calendar">Google Calendar</a> to use as your calendaring option.</p>
+</div></div><h2 class="field-label">Requirements&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>A valid <a href="/answer/how-do-i-activate-my-uic-netid">UIC NetID and common password</a> is needed to <a href="http://accountportal.accc.uic.edu">create an email account</a>, access email services or to <a href="/answer/how-do-i-update-my-uic-email-forwarding">change the forwarding</a> of <em>NetID@uic.edu</em> email address.</p>
+</div></div><h2 class="field-label">Applicability&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>Service is contingent upon current relationship with UIC through class registration, employment, or other valid affiliation. Upon leaving UIC, a <a href="/answer/can-i-keep-my-uic-email-address-after-i-leave-uic">grace period</a> is in effect for all services accessed with a UIC NetID and common password. At the end of the grace period access to services (including email accounts and email forwarding) is terminated. We recommend that students, faculty and staff leaving UIC download or migrate their email, calendars and documents prior to the end of the grace period.</p>
+</div></div><h2 class="field-label">Cost&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><thead><tr><th scope="col">Service</th>
+<th scope="col">Cost</th>
+</tr></thead><tbody><tr><td>GoogleApps@UIC</td>
+<td colspan="1" rowspan="2">Free. <a href="https://accountportal.uic.edu/token/manage?dispatch=acct_panel">Create an account</a>.</td>
+</tr><tr><td>Exchange</td>
+</tr></tbody></table></div></div><h2 class="field-label">Support&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Email</th>
+<td><a href="mailto:consult@uic.edu">consult@uic.edu</a></td>
+</tr><tr><th scope="row">Phone</th>
+<td>312-413-0003</td>
+</tr></tbody></table><p> </p>
+</div></div><h2 class="field-label">Further Information&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><ul><li><a href="/answer/how-can-i-set-non-personal-group-or-department-email-address">Non-personal, group or department email address setup</a></li>
+</ul><h3>ACCC Service Level Agreement (SLA)</h3>
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Service Request Fulfillment Time</th>
+<td>
+<p>Automatically provisioned or 1-2 business days.</p>
+</td>
+</tr><tr><th scope="row">Incident Resolution Time</th>
+<td>
+<p>2 business days.</p>
+</td>
+</tr><tr><th scope="row">Service Availability</th>
+<td>24x7</td>
+</tr><tr><th scope="row">Maintenance Window(s)</th>
+<td>Approved ACCC maintenance window(s): <a href="/service-status">accc.uic.edu/service-status</a></td>
+</tr><tr><th scope="row">Service Notification Channel(s)</th>
+<td>ACCC News and Alerts: <a href="/news/all">accc.uic.edu/news/all</a><br />
+			REACH distribution email list.</td>
+</tr><tr><th scope="row">Reviewed to Ensure SLA Meets Business Requirements</th>
+<td>
+<p>Provisional SLA - Currently under IT Governance review.</p>
+</td>
+</tr><tr><th scope="row">Date Reviewed</th>
+<td>
+<p>Provisional SLA - Currently under IT Governance review.</p>
+</td>
+</tr></tbody></table></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tag:&nbsp;</div><div class="field-items"><div class="field-item odd"><a href="/tag/email" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">email</a></div><div class="field-item even"><a href="/tag/webmail" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">webmail</a></div><div class="field-item odd"><a href="/tag/exchange" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">exchange</a></div></div></div></div>
 
-    <h2>Browse by tag</h2>
-  
-  <div class="nocontent">
-    <span class='tagclouds-term'><a href="/tag/360" class="tagclouds level2" title="">360</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/instructor-access" class="tagclouds level1" title="">access</a></span>
-<span class='tagclouds-term'><a href="/tag/accessibility" class="tagclouds level3" title="">accessibility</a></span>
-<span class='tagclouds-term'><a href="/tag/active-directory" class="tagclouds level2" title="">active directory</a></span>
-<span class='tagclouds-term'><a href="/service/classroom/tbc" class="tagclouds level1" title="">active learning</a></span>
-<span class='tagclouds-term'><a href="/tag/adda" class="tagclouds level3" title="">adda</a></span>
-<span class='tagclouds-term'><a href="/tag/adding" class="tagclouds level1" title="">adding</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-manage-users-my-webhost-site" class="tagclouds level1" title="">adding users</a></span>
-<span class='tagclouds-term'><a href="/tag/addressbook" class="tagclouds level3" title="">addressbook</a></span>
-<span class='tagclouds-term'><a href="/answer/who-has-administrator-access-my-fact-computer-ay14-15-deprecated" class="tagclouds level1" title="">administrator</a></span>
-<span class='tagclouds-term'><a href="/tag/adsm" class="tagclouds level5" title="">adsm</a></span>
-<span class='tagclouds-term'><a href="/tag/alp" class="tagclouds level1" title="">ALP</a></span>
-<span class='tagclouds-term'><a href="/tag/android" class="tagclouds level2" title="">android</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/questionable-test-answers" class="tagclouds level1" title="">answers</a></span>
-<span class='tagclouds-term'><a href="/tag/antivirus" class="tagclouds level2" title="">antivirus</a></span>
-<span class='tagclouds-term'><a href="/tag/apple" class="tagclouds level1" title="">apple</a></span>
-<span class='tagclouds-term'><a href="/tag/argo" class="tagclouds level4" title="">argo</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/creating-tests" class="tagclouds level1" title="">assesments</a></span>
-<span class='tagclouds-term'><a href="/tag/assessments" class="tagclouds level1" title="">assessments</a></span>
-<span class='tagclouds-term'><a href="/tag/audio-visual" class="tagclouds level2" title="">audio-visual</a></span>
-<span class='tagclouds-term'><a href="/answer/why-do-i-receive-an-allow-this-website-to-configure-server-settings-message" class="tagclouds level1" title="">Autodiscover</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/content-item-availability-adaptive-release" class="tagclouds level1" title="">availability</a></span>
-<span class='tagclouds-term'><a href="/tag/backup" class="tagclouds level5" title="">backup</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-install-and-configure-adsm-backup-client-windows" class="tagclouds level1" title="">backup adsm</a></span>
-<span class='tagclouds-term'><a href="/tag/backups" class="tagclouds level2" title="">Backups</a></span>
-<span class='tagclouds-term'><a href="/tag/blackboard" class="tagclouds level6" title="">blackboard</a></span>
-<span class='tagclouds-term'><a href="/tag/blackboard-collaborate" class="tagclouds level4" title="">blackboard collaborate</a></span>
-<span class='tagclouds-term'><a href="/answer/blackboard-interface-now-mobile-friendly-and-standardized" class="tagclouds level1" title="">blackboard learn</a></span>
-<span class='tagclouds-term'><a href="/tag/bluestem" class="tagclouds level3" title="">bluestem</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/browsers" class="tagclouds level1" title="">browser</a></span>
-<span class='tagclouds-term'><a href="/answer/box-supported-browsers" class="tagclouds level1" title="">browser IE Internet Explorer</a></span>
-<span class='tagclouds-term'><a href="/tag/calendar" class="tagclouds level3" title="">calendar</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-provision-my-sccm-client-workstation-authentication-certificates" class="tagclouds level1" title="">certificates</a></span>
-<span class='tagclouds-term'><a href="/tag/classroom" class="tagclouds level4" title="">classroom</a></span>
-<span class='tagclouds-term'><a href="/answer/are-files-stored-classroom-computers-backed" class="tagclouds level1" title="">classrooms</a></span>
-<span class='tagclouds-term'><a href="/tag/clicker" class="tagclouds level2" title="">clicker</a></span>
-<span class='tagclouds-term'><a href="/tag/collaboration" class="tagclouds level1" title="">collaboration</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/adding-weighted-columns" class="tagclouds level1" title="">column</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/viewinghiding-columns" class="tagclouds level1" title="">columns</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-print-discussion-board-content-blackboard" class="tagclouds level1" title="">communication</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/browsers" class="tagclouds level1" title="">compatibility</a></span>
-<span class='tagclouds-term'><a href="/tag/computer-lab" class="tagclouds level5" title="">computer lab</a></span>
-<span class='tagclouds-term'><a href="/answer/what-has-changed-starting-ay15-16-fact-program" class="tagclouds level1" title="">computer replacement program</a></span>
-<span class='tagclouds-term'><a href="/answer/are-files-stored-classroom-computers-backed" class="tagclouds level1" title="">computers</a></span>
-<span class='tagclouds-term'><a href="/tag/content" class="tagclouds level2" title="">content</a></span>
-<span class='tagclouds-term'><a href="/tag/content-editor" class="tagclouds level2" title="">content editor</a></span>
-<span class='tagclouds-term'><a href="/tag/course-availability" class="tagclouds level1" title="">course availability</a></span>
-<span class='tagclouds-term'><a href="/tag/course-content" class="tagclouds level1" title="">course content</a></span>
-<span class='tagclouds-term'><a href="/tag/crashplan" class="tagclouds level2" title="">Crashplan</a></span>
-<span class='tagclouds-term'><a href="/tag/database" class="tagclouds level3" title="">database</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-find-mac-address-my-specific-device" class="tagclouds level1" title="">device</a></span>
-<span class='tagclouds-term'><a href="/answer/what-size-content-should-i-create-template" class="tagclouds level1" title="">digital signage</a></span>
-<span class='tagclouds-term'><a href="/tag/directory" class="tagclouds level3" title="">directory</a></span>
-<span class='tagclouds-term'><a href="/tag/discussion-board" class="tagclouds level2" title="">discussion board</a></span>
-<span class='tagclouds-term'><a href="/tag/download" class="tagclouds level1" title="">download</a></span>
-<span class='tagclouds-term'><a href="/answer/how-can-i-print-wepa-my-own-device" class="tagclouds level1" title="">driver</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-configure-drupal-use-shibboleth" class="tagclouds level1" title="">drupal</a></span>
-<span class='tagclouds-term'><a href="/tag/echo" class="tagclouds level2" title="">echo</a></span>
-<span class='tagclouds-term'><a href="/tag/echo360" class="tagclouds level3" title="">echo360</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-get-my-network-access-unsuspended" class="tagclouds level1" title="">eduroam</a></span>
-<span class='tagclouds-term'><a href="/tag/email" class="tagclouds level6" title="">email</a></span>
-<span class='tagclouds-term'><a href="/tag/emergency" class="tagclouds level2" title="">emergency</a></span>
-<span class='tagclouds-term'><a href="/tag/encryption" class="tagclouds level3" title="">encryption</a></span>
-<span class='tagclouds-term'><a href="/tag/equipment" class="tagclouds level3" title="">equipment</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/browser-errors" class="tagclouds level1" title="">error</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/troubleshooting" class="tagclouds level1" title="">errors</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-sign-esri-online-classes" class="tagclouds level1" title="">esri</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-convert-eudora-thunderbird" class="tagclouds level1" title="">eudora</a></span>
-<span class='tagclouds-term'><a href="/tag/exchange" class="tagclouds level5" title="">exchange</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-setup-exchange-online-my-ios-mobile-device" class="tagclouds level1" title="">Exchange Office365 iOS</a></span>
-<span class='tagclouds-term'><a href="/answer/why-am-i-seeing-message-restart-outlook" class="tagclouds level1" title="">exchange outlook</a></span>
-<span class='tagclouds-term'><a href="/tag/export-grades" class="tagclouds level1" title="">export grades</a></span>
-<span class='tagclouds-term'><a href="/tag/fact" class="tagclouds level4" title="">fact</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/proper-file-name-conventions" class="tagclouds level1" title="">file name</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-connect-webhost-using-sftp" class="tagclouds level1" title="">ftp</a></span>
-<span class='tagclouds-term'><a href="/tag/gmail" class="tagclouds level4" title="">gmail</a></span>
-<span class='tagclouds-term'><a href="/tag/googleapps" class="tagclouds level5" title="">googleapps</a></span>
-<span class='tagclouds-term'><a href="/tag/google-apps" class="tagclouds level1" title="">Google Apps</a></span>
-<span class='tagclouds-term'><a href="/service/googleapps/configuration" class="tagclouds level1" title="">googleapps gsuite</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-create-calendar-google-group" class="tagclouds level1" title="">google groups</a></span>
-<span class='tagclouds-term'><a href="/tag/grade-center" class="tagclouds level4" title="">grade center</a></span>
-<span class='tagclouds-term'><a href="/tag/groups" class="tagclouds level1" title="">groups</a></span>
-<span class='tagclouds-term'><a href="/service/identity-and-access-management/accounts-for-affiliates" class="tagclouds level1" title="">Guest Accounts</a></span>
-<span class='tagclouds-term'><a href="/tag/i-card" class="tagclouds level1" title="">i-card</a></span>
-<span class='tagclouds-term'><a href="/tag/iam" class="tagclouds level4" title="">IAM</a></span>
-<span class='tagclouds-term'><a href="/tag/im" class="tagclouds level1" title="">IM</a></span>
-<span class='tagclouds-term'><a href="/tag/ink" class="tagclouds level1" title="">Ink</a></span>
-<span class='tagclouds-term'><a href="/tag/instant-messaging" class="tagclouds level3" title="">instant messaging</a></span>
-<span class='tagclouds-term'><a href="/tag/instant-messenger" class="tagclouds level2" title="">instant messenger</a></span>
-<span class='tagclouds-term'><a href="/tag/instructor" class="tagclouds level1" title="">instructor</a></span>
-<span class='tagclouds-term'><a href="/tag/ios" class="tagclouds level1" title="">ios</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-configure-and-use-openvpn-iphone-and-ipad" class="tagclouds level1" title="">ipad</a></span>
-<span class='tagclouds-term'><a href="/tag/iphone" class="tagclouds level3" title="">iphone</a></span>
-<span class='tagclouds-term'><a href="/tag/ldap" class="tagclouds level2" title="">ldap</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-request-software-be-installed-classroom-or-computer-lab" class="tagclouds level1" title="">learning environments</a></span>
-<span class='tagclouds-term'><a href="/tag/lecture-capture" class="tagclouds level2" title="">lecture capture</a></span>
-<span class='tagclouds-term'><a href="/tag/linux" class="tagclouds level3" title="">linux</a></span>
-<span class='tagclouds-term'><a href="/tag/listserv" class="tagclouds level4" title="">listserv</a></span>
-<span class='tagclouds-term'><a href="/tag/mac" class="tagclouds level5" title="">mac</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-find-mac-address-my-specific-device" class="tagclouds level1" title="">MAC address</a></span>
-<span class='tagclouds-term'><a href="/tag/mailbox" class="tagclouds level2" title="">mailbox</a></span>
-<span class='tagclouds-term'><a href="/tag/massmail" class="tagclouds level2" title="">massmail</a></span>
-<span class='tagclouds-term'><a href="/tag/migrate" class="tagclouds level1" title="">migrate</a></span>
-<span class='tagclouds-term'><a href="/tag/mobile" class="tagclouds level1" title="">mobile</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/adding-my-courses-module" class="tagclouds level1" title="">modules</a></span>
-<span class='tagclouds-term'><a href="/tag/multimedia" class="tagclouds level3" title="">multimedia</a></span>
-<span class='tagclouds-term'><a href="/tag/mydevices" class="tagclouds level1" title="">mydevices</a></span>
-<span class='tagclouds-term'><a href="/tag/netid" class="tagclouds level4" title="">NetID</a></span>
-<span class='tagclouds-term'><a href="/tag/network" class="tagclouds level3" title="">network</a></span>
-<span class='tagclouds-term'><a href="/tag/non-accc" class="tagclouds level3" title="">non-accc</a></span>
-<span class='tagclouds-term'><a href="/service/email-and-calendaring/addressbook" class="tagclouds level1" title="">o365</a></span>
-<span class='tagclouds-term'><a href="/tag/office365" class="tagclouds level4" title="">Office365</a></span>
-<span class='tagclouds-term'><a href="/tag/office365-android-ios" class="tagclouds level1" title="">Office365 Android iOS</a></span>
-<span class='tagclouds-term'><a href="/tag/office365-exchange" class="tagclouds level2" title="">Office365 Exchange</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-setup-exchange-online-use-outlook-mac" class="tagclouds level1" title="">Office365 Exchange Outlook</a></span>
-<span class='tagclouds-term'><a href="/tag/office365-onedrive" class="tagclouds level2" title="">Office365 Onedrive</a></span>
-<span class='tagclouds-term'><a href="/answer/what-is-microsoft-teams-and-how-do-i-use-it" class="tagclouds level1" title="">Office365 Teams</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/working-offline" class="tagclouds level1" title="">offline</a></span>
-<span class='tagclouds-term'><a href="/answer/my-fact-machine-is-not-working-how-do-i-request-support" class="tagclouds level1" title="">on-site</a></span>
-<span class='tagclouds-term'><a href="/tag/originality-report" class="tagclouds level1" title="">originality report</a></span>
-<span class='tagclouds-term'><a href="/tag/outlook" class="tagclouds level5" title="">outlook</a></span>
-<span class='tagclouds-term'><a href="/service/phone/pagers" class="tagclouds level1" title="">pagers</a></span>
-<span class='tagclouds-term'><a href="/tag/password" class="tagclouds level5" title="">password</a></span>
-<span class='tagclouds-term'><a href="/tag/passwords" class="tagclouds level2" title="">passwords</a></span>
-<span class='tagclouds-term'><a href="/tag/pgp" class="tagclouds level3" title="">pgp</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-use-mobile-printing" class="tagclouds level1" title="">pharos</a></span>
-<span class='tagclouds-term'><a href="/tag/phone" class="tagclouds level4" title="">phone</a></span>
-<span class='tagclouds-term'><a href="/tag/phonebook" class="tagclouds level2" title="">phonebook</a></span>
-<span class='tagclouds-term'><a href="/tag/pine" class="tagclouds level1" title="">pine</a></span>
-<span class='tagclouds-term'><a href="/tag/pinnacle" class="tagclouds level2" title="">pinnacle</a></span>
-<span class='tagclouds-term'><a href="/tag/printing" class="tagclouds level4" title="">printing</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/troubleshooting" class="tagclouds level1" title="">problems</a></span>
-<span class='tagclouds-term'><a href="/tag/qualtrics" class="tagclouds level1" title="">qualtrics</a></span>
-<span class='tagclouds-term'><a href="/tag/removing-users" class="tagclouds level1" title="">removing users</a></span>
-<span class='tagclouds-term'><a href="/tag/res-net" class="tagclouds level4" title="">res-net</a></span>
-<span class='tagclouds-term'><a href="/tag/resphone" class="tagclouds level2" title="">resphone</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/respondus" class="tagclouds level1" title="">respondus</a></span>
-<span class='tagclouds-term'><a href="/tag/rt" class="tagclouds level2" title="">rt</a></span>
-<span class='tagclouds-term'><a href="/tag/safeassign" class="tagclouds level3" title="">safeassign</a></span>
-<span class='tagclouds-term'><a href="/answer/booting-safe-mode" class="tagclouds level1" title="">safemode</a></span>
-<span class='tagclouds-term'><a href="/tag/sccm" class="tagclouds level1" title="">sccm</a></span>
-<span class='tagclouds-term'><a href="/tag/security" class="tagclouds level4" title="">security</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-shareaccept-calendar-o365" class="tagclouds level1" title="">share calendar</a></span>
-<span class='tagclouds-term'><a href="/tag/sharepoint" class="tagclouds level2" title="1) How do I request a SharePoint site?
-
-To request a SharePoint site, please fill out Request SharePoint Service. To access the form you need to enter a UIC netid and common password.
-
-2) Do you need to authenticate in order to use SharePoint?
-
-Yes, you need active UIC netid and common password.
-
-3) I have entered my username and password correctly, but I&amp;#39;m still unable to access SharePoint site?
-
-Adding &amp;ldquo;ad\netid&amp;rdquo; in the user field is usually the solution with your UIC common password. If you cannot login to SharePoint in IE or Firefox, it could be because the specific computer is not on the UIC domain.
-
-4) Do I need VPN to access SharePoint?
-
-No, it is not required.
-
-5) What is SharePoint SFTP limit?
-
-SharePoint SFTP limit is 100MB.
-
-6) What is a site collection?
-
-&amp;nbsp;A site collection contains&amp;nbsp;a top-level website and&amp;nbsp;can contain one or more sub-sites&amp;nbsp;web sites that have the same owner and share administration settings.
-
-7) Once a site is created, how to change who gets the email for site access request?
-
-Each site, that has its own permissions, by default has the person that created it is the contact for access request.
-
-This can be changed from the site following these steps:
-
-Site Actions &amp;ndash; Site Settings
-
-Site Permissions &amp;ndash; Manage Access Requests
-
-Then just change it to what you want or disable it.
-">SharePoint</a></span>
-<span class='tagclouds-term'><a href="/tag/shibboleth" class="tagclouds level3" title="">shibboleth</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/blackboard-is-running-slowly" class="tagclouds level1" title="">slow</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-deploy-score-center-softchalk-lesson-blackboard" class="tagclouds level1" title="">softchalk</a></span>
-<span class='tagclouds-term'><a href="/tag/software" class="tagclouds level4" title="">software</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-report-spam-or-account-abuse-googleappsuic-gmail" class="tagclouds level1" title="">spam</a></span>
-<span class='tagclouds-term'><a href="/tag/spss" class="tagclouds level2" title="">spss</a></span>
-<span class='tagclouds-term'><a href="/tag/ssh" class="tagclouds level3" title="">ssh</a></span>
-<span class='tagclouds-term'><a href="/tag/stata" class="tagclouds level3" title="">stata</a></span>
-<span class='tagclouds-term'><a href="/tag/statistical-software" class="tagclouds level3" title="">statistical software</a></span>
-<span class='tagclouds-term'><a href="/tag/storage" class="tagclouds level1" title="">storage</a></span>
-<span class='tagclouds-term'><a href="/service/blackboard/student-access" class="tagclouds level1" title="">student access</a></span>
-<span class='tagclouds-term'><a href="/tag/student-preview" class="tagclouds level1" title="">student preview</a></span>
-<span class='tagclouds-term'><a href="/answer/what-support-is-provided-fact-machines" class="tagclouds level1" title="">support</a></span>
-<span class='tagclouds-term'><a href="/tag/survey" class="tagclouds level2" title="">survey</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-manage-users-my-webhost-site" class="tagclouds level1" title="">suspension</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-uninstall-symantec-endpoint-protection-upgrade-windows-10" class="tagclouds level1" title="">Symantec Windows10</a></span>
-<span class='tagclouds-term'><a href="/tag/systat" class="tagclouds level1" title="">systat</a></span>
-<span class='tagclouds-term'><a href="/tag/telecom" class="tagclouds level4" title="">telecom</a></span>
-<span class='tagclouds-term'><a href="/tag/template" class="tagclouds level1" title="">template</a></span>
-<span class='tagclouds-term'><a href="/tag/tests" class="tagclouds level2" title="">tests</a></span>
-<span class='tagclouds-term'><a href="/answer/blackboard-interface-now-mobile-friendly-and-standardized" class="tagclouds level1" title="">theme</a></span>
-<span class='tagclouds-term'><a href="/tag/thunderbird" class="tagclouds level2" title="">thunderbird</a></span>
-<span class='tagclouds-term'><a href="/tag/tools" class="tagclouds level5" title="">tools</a></span>
-<span class='tagclouds-term'><a href="/service/training/lynda" class="tagclouds level1" title="">training</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/student-dropped-out-test" class="tagclouds level1" title="">troubleshooting</a></span>
-<span class='tagclouds-term'><a href="/tag/troublshooting" class="tagclouds level1" title="">troublshooting</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-connect-uic-wifi-apple-tv-3rd4th-gen" class="tagclouds level1" title="">tvOS</a></span>
-<span class='tagclouds-term'><a href="/tag/u-print" class="tagclouds level3" title="">u-print</a></span>
-<span class='tagclouds-term'><a href="/tag/uicalendar" class="tagclouds level4" title="">uicalendar</a></span>
-<span class='tagclouds-term'><a href="/tag/uic-alert" class="tagclouds level3" title="">UIC Alert</a></span>
-<span class='tagclouds-term'><a href="/tag/unix" class="tagclouds level3" title="">unix</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-use-mobile-printing" class="tagclouds level1" title="">UPrint</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-manage-users-my-webhost-site" class="tagclouds level1" title="">user</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-manage-users-my-webhost-site" class="tagclouds level1" title="">users</a></span>
-<span class='tagclouds-term'><a href="/tag/video-streaming" class="tagclouds level3" title="">video streaming</a></span>
-<span class='tagclouds-term'><a href="/tag/virtual-server" class="tagclouds level3" title="">virtual server</a></span>
-<span class='tagclouds-term'><a href="/answer/fixing-viscosity-error-about-unsafe-scripts" class="tagclouds level1" title="">Viscosity</a></span>
-<span class='tagclouds-term'><a href="/tag/voicemail" class="tagclouds level3" title="">voicemail</a></span>
-<span class='tagclouds-term'><a href="/tag/voip" class="tagclouds level4" title="">voip</a></span>
-<span class='tagclouds-term'><a href="/tag/vpn" class="tagclouds level3" title="">vpn</a></span>
-<span class='tagclouds-term'><a href="/tag/webdisk" class="tagclouds level3" title="">webdisk</a></span>
-<span class='tagclouds-term'><a href="/answer/where-do-i-find-webdrive-software-webdisks" class="tagclouds level1" title="">webdrive</a></span>
-<span class='tagclouds-term'><a href="/tag/webex-meetings" class="tagclouds level1" title="">WebEx Meetings</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-manage-users-my-webhost-site" class="tagclouds level1" title="">webhost</a></span>
-<span class='tagclouds-term'><a href="/tag/webmail" class="tagclouds level3" title="">webmail</a></span>
-<span class='tagclouds-term'><a href="/tag/web-publishing" class="tagclouds level5" title="">web publishing</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-restore-files-webhostuicedu" class="tagclouds level1" title="">webpublishing</a></span>
-<span class='tagclouds-term'><a href="/service/Blackboard/adding-weighted-columns" class="tagclouds level1" title="">weighted</a></span>
-<span class='tagclouds-term'><a href="/tag/wepa" class="tagclouds level3" title="">wepa</a></span>
-<span class='tagclouds-term'><a href="/tag/wifi" class="tagclouds level4" title="">wifi</a></span>
-<span class='tagclouds-term'><a href="/tag/wiki" class="tagclouds level1" title="">wiki</a></span>
-<span class='tagclouds-term'><a href="/blackboard/voice-tools" class="tagclouds level1" title="">wimba voice</a></span>
-<span class='tagclouds-term'><a href="/tag/windows" class="tagclouds level4" title="">windows</a></span>
-<span class='tagclouds-term'><a href="/tag/wireless" class="tagclouds level4" title="">wireless</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-install-bluestem-authentication-plugin-wordpress" class="tagclouds level1" title="">wordpress</a></span>
-<span class='tagclouds-term'><a href="/answer/how-do-i-sign-accc-workshops" class="tagclouds level1" title="">workshops</a></span>
-<div class="more-link"><a href="/tagclouds/chunk/1" title="more tags">More</a></div>  </div>
+  </div>
 </div>
   </div>
       
@@ -602,13 +269,13 @@ Then just change it to what you want or disable it.
     <h2><a href="/service/all" class="block-title-link">Service Catalog</a></h2>
   
   <div class="content">
-    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-6bc229ec837b22c89acf4037bcfc3c9e">
+    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-e2365ddab14a399e5b97fd07410a3250">
         
   
   
       <div class="view-content">
-      <form action="/" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
- <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump" name="jump"><option value="" selected="selected">Choose service</option><option value="f1c0fd1eb440653d41d9b934c81f2e1d::/service/acccell">  
+      <form action="/service/email-and-calendaring" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+ <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump" name="jump"><option value="">Choose service</option><option value="f1c0fd1eb440653d41d9b934c81f2e1d::/service/acccell">  
           ACCC Extended Laptop Loan (ACCCELL)  </option><option value="9fdd844bb8a1c40b07e178fc3338f2d5::/service/servicedesk">  
           ACCC Service Desk  </option><option value="ecc409c51f10b0b63be5a6571ce81b96::/service/acccess-helpdesk">  
           ACCCeSS Helpdesk  </option><option value="50ed3de763b430b8c1a48453b620db95::/service/active-directory">  
@@ -629,7 +296,7 @@ Then just change it to what you want or disable it.
           Data Usage Monitoring  </option><option value="0db9ba4d82994b1409130db6f35b35e9::/service/databases">  
           Database Services  </option><option value="56a4f6ec101c46829e0ed4b821fb389b::/service/digital-signage">  
           Digital Signage  </option><option value="bf219a4619b9e123df222a4a0b216309::/service/directory">  
-          Directory Services  </option><option value="54acba8c9baec915b09cb1b277e86bbf::/service/email-and-calendaring">  
+          Directory Services  </option><option value="54acba8c9baec915b09cb1b277e86bbf::/service/email-and-calendaring" selected="selected">  
           Email and Calendaring  </option><option value="7a1a6698d0be8e706b08fdca9856113f::/service/encryption">  
           Encryption  </option><option value="d85b23f87c8b939a2de49f757a885404::/service/endpoint-management">  
           Endpoint Management  </option><option value="1c4c420556b8f4964ec821fbe1c91443::/service/equipment-lending">  
@@ -693,7 +360,7 @@ Then just change it to what you want or disable it.
           Wired Network  </option><option value="7b8b5252a137d17387b07d7470d684d6::/service/wireless">  
           Wireless Network  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-JdxL_4eohzWUGRpc_OReSadiIju6plADiePfGIDALrs" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-p0X-x9rmCYmPjOpf9eIAjTyi2nO_BjZYMTs6aDad0i0" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -709,12 +376,12 @@ Then just change it to what you want or disable it.
     <h2>Service Categories</h2>
   
   <div class="content">
-    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-4284e7dadbdc1c298b812bd1a64e4b4e">
+    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-06ad6e0e297956abebc39ad0422b7549">
         
   
   
       <div class="view-content">
-      <form action="/" method="post" id="ctools-jump-menu--2" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+      <form action="/service/email-and-calendaring" method="post" id="ctools-jump-menu--2" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
  <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump--2" name="jump"><option value="" selected="selected">Choose category</option><option value="0d6b0768f9fe01f93fc2f5863e2e1e1d::/category/accounts-and-passwords">  
           Accounts and Passwords  </option><option value="cefded44a726cebc33c154a1ce92a03d::/category/business-tools">  
           Business Tools  </option><option value="3352f6a597d71c0803f0598a0ec1fdf3::/category/email-calendar-and-communications">  
@@ -726,7 +393,7 @@ Then just change it to what you want or disable it.
           Research  </option><option value="af03098223978b67697bc3c4992ec42b::/category/security">  
           Security  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-dROIYNShyKs7AC76UO74SMcVwGqgtuos4O7XMr5cd4s" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-TkbQJgIk8X8M-i4sam_-vJEU_o_TRHqFRTwIDwMjwXM" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -737,89 +404,36 @@ Then just change it to what you want or disable it.
   
 </div>  </div>
 </div>
-<div id="block-block-16" class="block block-block">
+<div id="block-views-popular-block" class="block block-views">
 
-    <h2><a href="/other-tools-resources" class="block-title-link">Other Tools &amp; Resources</a></h2>
+    <h2><a href="/popular/all" class="block-title-link">Popular Services</a></h2>
   
   <div class="content">
-    <p>Discover a range of tools and resources available for the UIC community.</p>
-  </div>
-</div>
-<div id="block-views-news-and-alerts-block-3" class="block block-views">
-
-    <h2><a href="/news/all" class="block-title-link">News and Alerts</a></h2>
-  
-  <div class="content">
-    <div class="view view-news-and-alerts view-id-news_and_alerts view-display-id-block_3 view-dom-id-f81b6fedd1d34a27d80a3615fb51b521">
+    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-4465fde913b892ec7d1a574cd23c25d6">
         
   
   
       <div class="view-content">
       <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/11/21/network-maintenance-1127-6am">Network Maintenance 11/27 6am</a></span>  </span>  
-  <span class="views-field views-field-field-last-updated">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-11-21T15:09:46+00:00">Wed, Nov 21</span></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/learning-management-system">Learning Management System</a></span>  </span></li>
           <li class="views-row views-row-2 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/11/16/wordpress-server-maintenance-1130">WordPress Server Maintenance 11/30</a></span>  </span>  
-  <span class="views-field views-field-field-last-updated">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-11-16T11:44:32+00:00">Fri, Nov 16</span></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/g-suite">G Suite (formerly Google Apps)</a></span>  </span></li>
           <li class="views-row views-row-3 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/11/16/red-multisite-maintenance-1127-1129-124-126-1211-1213">Red Multisite Maintenance 11/27, 11/29, 12/4, 12/6, 12/11, 12/13</a></span>  </span>  
-  <span class="views-field views-field-field-last-updated">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-11-16T11:32:08+00:00">Fri, Nov 16</span></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/exchange">Exchange</a></span>  </span></li>
           <li class="views-row views-row-4 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/11/09/lyndacom-maintenance-126">Lynda.com Maintenance 12/6</a></span>  </span>  
-  <span class="views-field views-field-field-last-updated">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-11-09T08:46:48+00:00">Fri, Nov 9</span></span>  </span></li>
-          <li class="views-row views-row-5 views-row-odd views-row-last">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/11/01/voip-maintenance">VoIP Maintenance</a></span>  </span>  
-  <span class="views-field views-field-field-last-updated">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-11-01T15:36:22+00:00">Thu, Nov 1</span></span>  </span></li>
-      </ul></div>    </div>
-  
-  
-  
-  
-      <div class="view-footer">
-      <p>Subscribe via <a href="/news/all/rss.xml">RSS</a> | <a href="/news/subscribe">Email</a></p>
-    </div>
-  
-  
-</div>  </div>
-</div>
-<div id="block-block-9" class="block block-block">
-
-    
-  <div class="content">
-    <h1><a href="https://outlook.office365.com/owa/calendar/rc.ACCCservicechange@uic.edu/calendar/calendar.html" target="_blank"><strong>View Maintenance Calendar</strong></a></h1>
-<h1><a href="/service-status"><strong>Maintenance Windows</strong></a></h1>
-  </div>
-</div>
-<div id="block-views-answers-block-1" class="block block-views">
-
-    <h2><a href="/answer/all" class="block-title-link">Top Ten Answers</a></h2>
-  
-  <div class="content">
-    <div class="view view-answers view-id-answers view-display-id-block_1 nocontent view-dom-id-9498190b05d1155d56993303be7fe40b">
-        
-  
-  
-      <div class="view-content">
-      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
-  <span>        <span><a href="/answer/how-do-i-use-global-address-list-gal-microsoft-outlook">How do I use the Global Address List (GAL) with Microsoft Outlook</a></span>  </span></li>
-          <li class="views-row views-row-2 views-row-even">  
-  <span>        <span><a href="/answer/How-do-I-Enable-and-Disable-focused-inbox">How do I Enable and Disable focused inbox</a></span>  </span></li>
-          <li class="views-row views-row-3 views-row-odd">  
-  <span>        <span><a href="/answer/what-my-ip-address-mac-address">What is my IP Address / MAC Address?</a></span>  </span></li>
-          <li class="views-row views-row-4 views-row-even">  
-  <span>        <span><a href="/answer/how-do-i-use-ssh-and-sftp-mac-os-x">How do I use SSH and SFTP on Mac OS X?</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/box">Box</a></span>  </span></li>
           <li class="views-row views-row-5 views-row-odd">  
-  <span>        <span><a href="/answer/how-create-auto-reply-message-shared-mailbox">How to create an auto reply message for a shared mailbox</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/lecture-capture">Lecture Capture</a></span>  </span></li>
           <li class="views-row views-row-6 views-row-even">  
-  <span>        <span><a href="/answer/how-do-i-set-microsoft-outlook-connect-exchange">How do I set up Microsoft Outlook to connect to Exchange?</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/classroom">Classrooms</a></span>  </span></li>
           <li class="views-row views-row-7 views-row-odd">  
-  <span>        <span><a href="/answer/how-do-i-set-out-office-or-vacation-email-auto-reply">How do I set up an out-of-office or vacation email auto-reply?</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/servicedesk">ACCC Service Desk</a></span>  </span></li>
           <li class="views-row views-row-8 views-row-even">  
-  <span>        <span><a href="/answer/how-do-i-addview-shared-calendar-outlook">How do I add/view a shared calendar to Outlook?</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless" class="active">Wireless Network</a></span>  </span></li>
           <li class="views-row views-row-9 views-row-odd">  
-  <span>        <span><a href="/answer/how-recover-deleted-items-outlook-exchange-users">How to recover deleted items in Outlook for Exchange users?</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/LTS">Learning Technology Solutions</a></span>  </span></li>
           <li class="views-row views-row-10 views-row-even views-row-last">  
-  <span>        <span><a href="/answer/how-do-i-block-users-viewing-my-freebusy-information-exchange">How do I block users from viewing my free/busy information in Exchange?</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/telecom">Telecommunications </a></span>  </span></li>
       </ul></div>    </div>
   
   
@@ -912,7 +526,7 @@ Then just change it to what you want or disable it.
     
   <div class="content">
     <div id="shib_login_url">
-  <a href="https://accc.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Faccc.uic.edu%2F%3Fq%3Dshib_login%2Ffrontpage">Log in</a>
+  <a href="https://accc.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Faccc.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F411">Log in</a>
 </div>
   </div>
 </div>

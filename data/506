@@ -13,10 +13,13 @@
 
 <head profile="http://www.w3.org/1999/xhtml/vocab">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortlink" href="/node/4258" />
+<link rel="up" href="/service/network" />
+<link rel="next" href="/service/wireless/locations" />
+<link rel="prev" href="/service/uic-net" />
+<link rel="shortlink" href="/node/444" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="/uicmobile" />
-  <title>UIC Mobile  | Academic Computing and Communications Center  </title>
+<link rel="canonical" href="/service/wireless" />
+  <title>Wireless Network | Academic Computing and Communications Center  </title>
   <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_C97MNtte-L48LG9bh-ZvFzSRgqR9x1gIfrvIDp9o6Y4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_OsO2r3O_I2E-8-khV3NulWZIRJOw7aXphEVlJbgm2xI.css" media="all" />
@@ -41,11 +44,11 @@
 <script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"e196lGHkdReHoIXpRfjSQdc-O2l8l4ZNw5H5Ss7ATvw","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/uicmobile":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"LK8oCE_vn4-ufFrjMqpPbAVDPhOJxhDynI7fDK-Vigc","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/service\/wireless":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
 //--><!]]>
 </script>
 </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-4258 node-type-service-catalog-entry footer-columns" >
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-444 node-type-service-catalog-entry footer-columns" >
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
     <a href="/service/learning-environments/accessibility" class="element-invisible element-focusable">Accessibility Resources</a>
@@ -74,13 +77,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     
   <div class="content">
-    <form class="google-cse" action="/uicmobile" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <form class="google-cse" action="/service/wireless" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
       <h2 class="element-invisible">Search form</h2>
     <div class="form-item form-type-textfield form-item-search-block-form">
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-MjR5UDqy0DZp-x3QSs-sUcFEaJf45nAQTVhLbRDd5fU" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-9BJe2Qh0lH_LVVXIf74chcKfV_BKOrZzemmvQfGrK-4" />
 <input type="hidden" name="form_id" value="search_block_form" />
 </div>
 </div></form>  </div>
@@ -113,92 +116,131 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
           <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » <a href="/service/all">Service Catalog</a></div></div>
     
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-book-navigation" class="block block-book">
+
+    <h2><a href="/policies" class="block-title-link"><a href="/service/network" class="book-title">Network</a></a></h2>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf"><a href="/service/network/rdg-configure">How to configure and use RDG for your machine</a></li>
+<li class="leaf"><a href="/service/resident-hall-network-res-net">Resident Hall Network (Res-Net)</a></li>
+<li class="leaf"><a href="/service/vpn">Virtual Private Network (VPN)</a></li>
+<li class="leaf"><a href="/service/uic-net">Wired Network</a></li>
+<li class="last expanded active-trail"><a href="/service/wireless" class="active-trail active">Wireless Network</a><ul class="menu clearfix"><li class="first leaf"><a href="/service/wireless/locations">UIC-WiFi Locations</a></li>
+<li class="leaf"><a href="/service/wireless/guest">Guest Wireless</a></li>
+<li class="leaf"><a href="/service/wireless/eduroam">eduroam</a></li>
+<li class="last leaf"><a href="/service/wireless/department">Wireless for Departments</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+<div id="block-views-answers-block-4" class="block block-views">
+
+    <h2><a href="/answer/Wireless%20Network" class="block-title-link">Answers related to Wireless Network</a></h2>
+  
+  <div class="content">
+    <div class="view view-answers view-id-answers view-display-id-block_4 nocontent view-dom-id-626428c247a9022e45719b8ec97f99f1">
+            <div class="view-header">
+      Displaying 15 of 15 answers    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-can-i-monitor-my-data-usage">How can I monitor my data usage?</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/what-my-ip-address-mac-address">What is my IP Address / MAC Address?</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-connect-uic-wifi-using-mac-os-x-105-or-106">How do I connect to UIC-WiFi using Mac OS X 10.5 or 10.6?</a></span>  </span></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-connect-uic-wifi-using-windows">How do I connect to UIC-WiFi using Windows?</a></span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-connect-uic-wifi-using-android">How do I connect to UIC-WiFi using Android?</a></span>  </span></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-can-i-secure-my-internet-connection">How can I secure my internet connection?</a></span>  </span></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-connect-uic-wifi-using-iphone-ipod-touch-or-ipad">How do I connect to UIC-WiFi using iPhone, iPod touch or iPad?</a></span>  </span></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-connect-uic-wifi-using-mac-os-x-107">How do I connect to UIC-WiFi using Mac OS X 10.7?</a></span>  </span></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-connect-uic-wifi-kindle-fire">How do I connect to UIC-WiFi with a Kindle Fire?</a></span>  </span></li>
+          <li class="views-row views-row-10 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-does-u-print-system-work">How does the U-Print system work?</a></span>  </span></li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-connect-uic-wifi-using-symbian">How do I connect to UIC-WiFi using Symbian?</a></span>  </span></li>
+          <li class="views-row views-row-12 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-connect-uic-wifi-using-linux">How do I connect to UIC-WiFi using Linux?</a></span>  </span></li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/can-i-connect-gaming-console-uic-wifi">Can I connect a gaming console to UIC-WiFi?</a></span>  </span></li>
+          <li class="views-row views-row-14 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-connect-uic-wifi-apple-tv-3rd4th-gen">How do I connect to UIC-WiFi with Apple TV (3rd/4th gen)?</a></span>  </span></li>
+          <li class="views-row views-row-15 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/which-campus-locations-support-wireless-network-access">Which campus locations support wireless network access?</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
     
     <div id="content" class="column"><div class="section">
             <a id="main-content"></a>
                     <h1 class="title" id="page-title">
-          UIC Mobile         </h1>
+          Wireless Network        </h1>
                           <div class="tabs">
                   </div>
                           <div class="region region-content">
     <div class="ds-1col node node-service-catalog-entry node-full view-mode-full clearfix">
 
   
-  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item odd"><img typeof="foaf:Image" src="https://accc.uic.edu/sites/default/files/styles/medium/public/uic_mobileweb.jpg?itok=lI9SfP97" width="220" height="149" alt="UIC Mobile iOS Graphic" /></div></div></div><div id="node-service-catalog-entry-full-group-borderwrap" class=" group-borderwrap field-group-div"><div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Category:&nbsp;</strong><span class="field-items"><a href="/category/business-tools" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Business Tools</a>, <a href="/category/email-calendar-and-communications" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Email, Calendar and Communications</a>, <a href="/category/facilities-and-equipment" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Facilities and Equipment</a>, <a href="/category/help" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Help</a>, <a href="/category/learning-tools" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Learning Tools</a>, <a href="/category/networking" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Networking</a>, <a href="/category/research" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Research</a></span></div><div class="field field-name-field-audience field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Audience:&nbsp;</strong><span class="field-items"><a href="/audience/faculty" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Faculty</a>, <a href="/audience/staff" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Staff</a>, <a href="/audience/students" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Students</a>, <a href="/audience/it" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">IT</a>, <a href="/audience/external" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">External</a>, <a href="/audience/accc" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">ACCC</a></span></div><div class="field field-name-field-launch field-type-link-field field-label-hidden"><div class="field-item odd first"><a href="https://itunes.apple.com/us/app/uic-mobile/id903164821?mt=8" target="_blank">iOS Download Link </a></div><div class="field-item even"><a href="https://play.google.com/store/apps/details?id=edu.uic.uicmobile" target="_blank">Android Download Link</a></div><div class="field-item odd last"><a href="http://m.uic.edu" target="_blank">Mobile App Link</a></div></div></div><h2 class="field-label">Overview&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>The UIC Mobile App is available as a <strong><em>free </em></strong>download from the Apple store for iOS or from Google Play for Android. There is also a mobile version of the app available at <a href="http://m.uic.edu" target="_blank">m.uic.edu</a>. Students, faculty, staff, alumni, prospective students, and anyone interested in learning more about UIC can use this app to stay connected while on the go.</p>
-</div></div><h2 class="field-label">Features&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><table border="1" cellpadding="1" cellspacing="1"><thead><tr><th scope="col">Feature</th>
-<th scope="col">Description</th>
-</tr></thead><tbody><tr><td><img alt="map" src="https://uofi.box.com/shared/static/0voc93hg2nny1op8ollv.png" style="height:60px; width:60px" /></td>
-<td><strong>Map</strong> provides a Google map of campus, the ability to search for destinations, and indicates what locations are nearby.</td>
-</tr><tr><td><img alt="Bus Tracker" src="https://uofi.box.com/shared/static/stqko9gc2gjzrwc23bjt.png" style="height:60px; width:60px" /></td>
-<td><strong>Bus Tracker </strong>provides real time tracking of the bus system around campus at UIC.</td>
-</tr><tr><td>
-			<img alt="Directory" src="https://uofi.box.com/shared/static/fnw43uniy74j4r37apfs.png" style="height:60px; width:60px" /></td>
-<td><strong>Directory </strong>provides contact information for individuals affiliated with UIC.</td>
-</tr><tr><td>
-			<img alt="Emergency" src="https://uofi.box.com/shared/static/nth22qdxt3cdgjbfuo4zo337vb2tljti.png" style="height:60px; width:60px" /></td>
-<td><strong>Emergency </strong>provides quick access to information, phone numbers, links and crime alerts.</td>
-</tr><tr><td>
-			<img alt="Emergency Information" src="https://uofi.box.com/shared/static/4f40ktrohajjmobcyh2stu84b3cqz4w4.png" style="height:60px; width:60px" /></td>
-<td><strong>Emergency Information </strong>provides quick access to emergency response guidelines.</td>
-</tr><tr><td><img alt="Courses" src="https://uofi.box.com/shared/static/hu2kfyn9o5u51d9gkva8.png" style="height:60px; width:60px" /></td>
-<td><strong>Courses </strong>provides students with access to their online Blackboard Learn content and information.</td>
-</tr><tr><td><img alt="Schedule and Grades" src="https://uofi.box.com/shared/static/dkeqz7tz43clhc3io894.png" style="height:60px; width:60px" /></td>
-<td><strong>Schedule &amp; Grades </strong>provides schedule and grades information from AITS and the Office of the Registrar.</td>
-</tr><tr><td><img alt="Calendar" src="https://uofi.box.com/shared/static/cmuvomqscwvp7g5qlahp.png" style="height:60px; width:60px" /></td>
-<td><strong>Calendar </strong>provides a feed of events created from the UIC events calendar.</td>
-</tr><tr><td>
-			<img alt="Libraries" src="https://uofi.box.com/shared/static/f9xne1h7nk6ztq1c0qob.png" style="height:60px; width:60px" /></td>
-<td><strong>Libraries </strong>provides a search feature for a catalog of publications and general information for libraries associated with UIC.</td>
-</tr><tr><td>
-			<img alt="News" src="https://uofi.box.com/shared/static/np2bsbjsoe9dszuoa8zu.png" style="height:60px; width:60px" /></td>
-<td><strong>News </strong>provides a news feed maintained by UIC Public Affairs.</td>
-</tr><tr><td>
-			<img alt="Athletics" src="https://uofi.box.com/shared/static/xryja7mfu0p7j8kl06x5.png" style="height:60px; width:60px" /></td>
-<td><strong>Athletics </strong>provides a listing of all sports at UIC along with news and schedules.</td>
-</tr><tr><td>
-			<img alt="Dining" src="https://uofi.box.com/shared/static/m48c5id60qzppkbk9iw6.png" style="height:60px; width:60px" /></td>
-<td><strong>Dining </strong>provides a list of available dining options on campus, hours of operation and an option to view within the map.</td>
-</tr><tr><td>
-			<img alt="Bookstore" src="https://uofi.box.com/shared/static/il9xqya7xgw9scbjzmj4cwz7jtko42vx.png" style="height:60px; width:60px" /></td>
-<td><strong>Bookstore </strong>provides direct access to the UIC bookstore.</td>
-</tr><tr><td>
-			<img alt="Links" src="https://uofi.box.com/shared/static/pw5lrjht6aqt4io6e6g8.png" style="height:60px; width:60px" /></td>
-<td><strong>Links </strong>provides important links to web based services at UIC.</td>
-</tr><tr><td><img alt="Social" src="https://uofi.box.com/shared/static/mwlsk3ow5iie0yom5u7d.png" style="height:60px; width:60px" /></td>
-<td><strong>Social </strong>provides Facebook and Twitter feeds maintained by UIC Public Affairs.</td>
-</tr><tr><td>
-			<img alt="Photos" src="https://uofi.box.com/shared/static/ylmjailrrhms22hasd7o.png" style="height:60px; width:60px" /></td>
-<td><strong>Photos </strong>provides a Fickr feed maintained by UIC Public Affairs.</td>
-</tr><tr><td><img alt="Video" src="https://uofi.box.com/shared/static/46u4szh9opy7f1hk3dt9.png" style="height:60px; width:60px" /></td>
-<td><strong>Video </strong>provides YouTube videos maintained by UIC Public Affairs.</td>
-</tr><tr><td><img alt="UIC Connection" src="https://uofi.box.com/shared/static/itsftms2fhdvex6m6987bcr0z5d8lnxe.png" style="height:60px; width:60px" /></td>
-<td><strong>UIC Connection </strong>provides access to the UIC Connection account to join groups on campus.</td>
-</tr><tr><td><img alt="Facilities" src="https://uofi.box.com/shared/static/nvd033fmyyjizi915m560afy8hlzp5ht.png" style="height:60px; width:60px" /></td>
-<td><strong>Facilities </strong>provides an opportunity to report facilities related problems on campus based on location.</td>
-</tr></tbody></table><p> </p>
-</div></div><h2 class="field-label">Cost&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>There is no charge for this service.</p>
-</div></div><h2 class="field-label">Support&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Support &amp; Technical Issues</th>
-<td><a href="/content/uic-mobile-support">Submit questions or technical support</a> associated with the UIC Mobile app.</td>
-</tr><tr><th scope="row">Feature Requests</th>
-<td><a href="/content/uic-mobile-feature-request">Request a feature</a> for the UIC Mobile app.  The UIC Mobile committee reviews all requests for new features.</td>
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item odd"><img typeof="foaf:Image" src="https://accc.uic.edu/sites/default/files/styles/medium/public/wifi.png?itok=kPIa7PeT" width="220" height="141" alt="" /></div></div></div><div id="node-service-catalog-entry-full-group-borderwrap" class=" group-borderwrap field-group-div"><div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Category:&nbsp;</strong><span class="field-items"><a href="/category/networking" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Networking</a></span></div><div class="field field-name-field-audience field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Audience:&nbsp;</strong><span class="field-items"><a href="/audience/faculty" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Faculty</a>, <a href="/audience/staff" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Staff</a>, <a href="/audience/students" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Students</a>, <a href="/audience/it" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">IT</a></span></div></div><h2 class="field-label">Overview&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>The UIC community wireless network identifies itself as UIC-WiFi. Visitors to UIC may be eligible to use UIC-Guest or eduroam. UIC-WiFi uses WPA2 Enterprise Security. WPA2 Enterprise implements the 802.11i security standard, which includes government-grade AES encryption and 802.1x authentication. The specific authentication method that we use with PEAP-MSCHAPv2.</p>
+<p>UIC-Guest is used by non-UIC visitors on our campus. To give users temporary Guest access please visit the <a href="/service/wireless/guest">Guest Wireless page</a>.</p>
+<p>eduroam is a World Wide wireless network. A user can connect to eduroam on UIC’s campus after first connecting at their home institution.</p>
+</div></div><h2 class="field-label">Features&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>UIC-WiFi uses <a href="http://www.webopedia.com/TERM/W/WPA2.html">WPA2 Enterprise Security</a>. WPA2 Enterprise implements the <a href="http://encyclopedia2.thefreedictionary.com/802.11i">802.11i security standard</a>, which includes <a href="http://www.webopedia.com/TERM/A/AES.html">government-grade AES encryption</a> and <a href="http://searchmobilecomputing.techtarget.com/definition/8021X">802.1x authentication</a>. The specific authentication method that we use with <a href="http://www.webopedia.com/TERM/P/PEAP.html">PEAP</a>-<a href="http://www.webopedia.com/TERM/C/CHAP.html">MSCHAPv2</a>.</p>
+</div></div><h2 class="field-label">Requirements&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><ul><li>Your valid <a href="http://activateNetID.accc.uic.edu">UIC NetID and password</a> for user authentication. </li>
+<li>The wireless network's certificate, which ensures that your device is actually connecting to UIC-WiFi. You should download and then install the certificate over a non UIC-Wifi connection prior to connecting:<br /><a href="http://accc.webhost.uic.edu/assets/files/serverchain-reverse.crt">Download Certificate for Microsoft computers and devices</a><br /><a href="http://accc.webhost.uic.edu/assets/files/serverchain.crt">Download Certificate for all other computers and devices</a><br />
+	The certificate should show as Issued to: <strong>InCommon RSA Server CA</strong> - if it doesn't then download and install the other certificate listed above.<br />
+	When installing you must Trust these certificates when prompted.</li>
+<li>To be close enough to an <a href="/service/wireless/locations">UIC-WiFi ACCC public wireless access point</a>. </li>
+</ul></div></div><h2 class="field-label">Applicability&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>There are many devices that can connect to UIC-WiFi. Here are the ones that we have documented:</p>
+<ul><li><a href="/answer/how-do-i-connect-uic-wifi-using-windows">Windows XP, Windows Vista, and Windows 7</a></li>
+<li><a href="/answer/how-do-i-connect-uic-wifi-using-mac-os-x-103-or-104">Mac OS 10.3 and 10.4</a>, <a href="/answer/how-do-i-connect-uic-wifi-using-mac-os-x-105-or-106">Mac OS 10.5 and 10.6</a>, and <a href="/answer/how-do-i-connect-uic-wifi-using-mac-os-x-107">Mac OS X 10.7 Lion</a>.</li>
+<li>iOS devices: <a href="/answer/how-do-i-connect-uic-wifi-using-iphone-ipod-touch-or-ipad">iPhone, iPod touch, and iPad</a>, and <a href="/answer/how-do-i-connect-uic-wifi-using-mac-os-x-107">Mac OS x 10.7 Lion</a>.</li>
+<li><a href="/answer/how-do-i-connect-uic-wifi-using-android">Android OS 1.6 and higher for Android</a> smart devices, including the <a href="/answer/how-do-i-connect-uic-wifi-kindle-fire">Kindle Fire</a>.</li>
+<li>Blackberries running OS 6.x -- including the Blackberry Playbook -- can connect to UIC-WiFi (and also <a href="/service/wireless/eduroam">eduroam</a>) because they support PEAP + EAP-MS-CHAP-v2 for inner link security.</li>
+<li>Various types of Linux with many types of wireless cards can be configured to connect to UIC-WiFi. But please understand that the ACCC does not support connecting to UIC-WiFi with Linux. The UIC Linux Users Group has documentation and will help. Visit the <a href="http://acm.cs.uic.edu">UIC ACM (Association for Computing Machinery</a>, particularly the <a href="http://acm.cs.uic.edu/uiclinux">UIC Linux Guides</a>.</li>
+<li>Currently, we know of no method for connecting Palm or Nokia devices that are not running Windows Mobile to the UIC-WiFi network. We apologize for the inconvenience.</li>
+</ul></div></div><h2 class="field-label">Cost&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>The UIC-WiFi <strong>public</strong> network may be used by members of the UIC community at no charge. Students who reside in UIC residence halls must pay the <a href="/service/resident-hall-network-res-net">Res-Net</a> charge; this part of the UIC-WiFi network is not public.</p>
+<p>Vistors to UIC may be eligible to use either <a href="/service/wireless/guest">UIC-Guest</a> or <a href="/service/wireless/eduroam">eduroam</a>.</p>
+</div></div><h2 class="field-label">Support&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Email</th>
+<td><a href="mailto:consult@uic.edu">consult@uic.edu</a></td>
 </tr><tr><th scope="row">Phone</th>
 <td>312-413-0003</td>
-</tr></tbody></table></div></div><h2 class="field-label">Further Information&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><h3>ACCC Service Level Agreement (SLA)</h3>
+</tr><tr><th scope="row">In person</th>
+<td><a href="/service/acccess-helpdesk">ACCCeSS Helpdesk</a></td>
+</tr></tbody></table><p> </p>
+</div></div><h2 class="field-label">Further Information&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><h3>Policies</h3>
+<p>Everyone using the UIC wireless networks must abide by the <a href="/policy/acceptable-use-policy">ACCC Acceptable Use Policy</a>. There are additional bandwidth and file-sharing limitations on the networks, described in the <a href="/policy/wireless">Acceptable Use Policy for Res-Net and the UIC Public Wireless Networks.</a></p>
+<h3>ACCC Service Level Agreement (SLA)</h3>
 <table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Service Request Fulfillment Time</th>
 <td>
-<p>Requests for further information are resolved in 1-2 business days. Feature requests can be submitted through the online form with a response time of 3-5 business days: <a href="/service/uic-mobile/feature-request">http://accc.uic.edu/service/uic-mobile/feature-request</a></p>
+<p>Standard connections are automatic with valid UIC credentials. Guest connections are activated within 24 hours after completion of the request form is submitted. Requesting a new access point is determined after an initial site survey with an ACCC Network Technician.</p>
 </td>
 </tr><tr><th scope="row">Incident Resolution Time</th>
 <td>
-<p>3-5 business days.</p>
+<p>3-5 business days unless blueprints are required from Facilities Management.</p>
 </td>
 </tr><tr><th scope="row">Service Availability</th>
 <td>24x7</td>
 </tr><tr><th scope="row">Maintenance Window(s)</th>
 <td>Approved ACCC maintenance window(s): <a href="/service-status">accc.uic.edu/service-status</a></td>
 </tr><tr><th scope="row">Service Notification Channel(s)</th>
-<td>ACCC News and Alerts: <a href="/news/all">accc.uic.edu/news/all</a><br />
-			REACH distribution email list.</td>
+<td>ACCC News and Alerts: <a href="/news/all">accc.uic.edu/news/all</a></td>
 </tr><tr><th scope="row">Reviewed to Ensure SLA Meets Business Requirements</th>
 <td>
 <p>Provisional SLA - Currently under IT Governance review.</p>
@@ -207,7 +249,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <td>
 <p>Provisional SLA - Currently under IT Governance review.</p>
 </td>
-</tr></tbody></table></div></div></div>
+</tr></tbody></table></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tag:&nbsp;</div><div class="field-items"><div class="field-item odd"><a href="/tag/wireless" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">wireless</a></div><div class="field-item even"><a href="/tag/wifi" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">wifi</a></div><div class="field-item odd"><a href="/tag/res-net" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">res-net</a></div><div class="field-item even"><a href="/tag/uic-wifi" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">uic-wifi</a></div><div class="field-item odd"><a href="/tag/uic-wireless" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">uic-wireless</a></div></div></div></div>
 
   </div>
       
@@ -220,12 +262,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/service/all" class="block-title-link">Service Catalog</a></h2>
   
   <div class="content">
-    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-515bd4477845dcd66df719b64869b66c">
+    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-95a21a84d4b8f501ef31fb2a70a4b005">
         
   
   
       <div class="view-content">
-      <form action="/uicmobile" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+      <form action="/service/wireless" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
  <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump" name="jump"><option value="">Choose service</option><option value="f1c0fd1eb440653d41d9b934c81f2e1d::/service/acccell">  
           ACCC Extended Laptop Loan (ACCCELL)  </option><option value="9fdd844bb8a1c40b07e178fc3338f2d5::/service/servicedesk">  
           ACCC Service Desk  </option><option value="ecc409c51f10b0b63be5a6571ce81b96::/service/acccess-helpdesk">  
@@ -299,7 +341,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           StarTel  </option><option value="f1d6a17201647bf956b356d9138d44a3::/service/surveys">  
           Surveys  </option><option value="f8eb511c09ac5ca794ff91c4150ca916::/service/telecom">  
           Telecommunications   </option><option value="19591106fe22e0d6f02541823194b5d3::/service/uic-alert">  
-          UIC Alert  </option><option value="b1ecd866ebb0bf9028921ca37161dc98::/uicmobile" selected="selected">  
+          UIC Alert  </option><option value="b1ecd866ebb0bf9028921ca37161dc98::/uicmobile">  
           UIC Mobile   </option><option value="dec0719df1440c3ce11f38032e82ed99::/service/uicalendar">  
           UICalendar  </option><option value="0fd8a02dd3a2acad6b6241ec8881d0f7::/service/vpn">  
           Virtual Private Network (VPN)  </option><option value="ba6ae6defd250193141979db057dc5bb::/service/virtual-servers">  
@@ -308,10 +350,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           VoIP  </option><option value="b4b33b22c32bfad584042a5866096f54::/service/web-services">  
           Web Services  </option><option value="555a2c0af67b49f8eedcbcac9c82062a::/service/wiki">  
           Wiki  </option><option value="d26ff2b332dda04f377761b3cc13e8a6::/service/uic-net">  
-          Wired Network  </option><option value="7b8b5252a137d17387b07d7470d684d6::/service/wireless">  
+          Wired Network  </option><option value="7b8b5252a137d17387b07d7470d684d6::/service/wireless" selected="selected">  
           Wireless Network  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-6ys_tYehKKGDmtTirv9qPh4sDmdLpXJ2BhdfOqmls0g" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-mgzeh7SgMYA8dbzhodblgE9IJvv96B-K5QmtNc_yJms" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -327,12 +369,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2>Service Categories</h2>
   
   <div class="content">
-    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-23078a076dcaaf60181d976c3fc8b324">
+    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-4439ce558558a7e3c6d9c8445531c66d">
         
   
   
       <div class="view-content">
-      <form action="/uicmobile" method="post" id="ctools-jump-menu--2" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+      <form action="/service/wireless" method="post" id="ctools-jump-menu--2" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
  <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump--2" name="jump"><option value="" selected="selected">Choose category</option><option value="0d6b0768f9fe01f93fc2f5863e2e1e1d::/category/accounts-and-passwords">  
           Accounts and Passwords  </option><option value="cefded44a726cebc33c154a1ce92a03d::/category/business-tools">  
           Business Tools  </option><option value="3352f6a597d71c0803f0598a0ec1fdf3::/category/email-calendar-and-communications">  
@@ -344,7 +386,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           Research  </option><option value="af03098223978b67697bc3c4992ec42b::/category/security">  
           Security  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-JElrBUUWG9Jckmm7HdG3qD-8zx6uaht55YGTV3ht1lA" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-lpU_YA9HFU2ZT1aW961to9Kwk7auzKVSWj69QqpUUOA" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -360,7 +402,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/popular/all" class="block-title-link">Popular Services</a></h2>
   
   <div class="content">
-    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-309bb007eaca65b64ec656cb11ee167e">
+    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-4465fde913b892ec7d1a574cd23c25d6">
         
   
   
@@ -380,7 +422,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <li class="views-row views-row-7 views-row-odd">  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/service/servicedesk">ACCC Service Desk</a></span>  </span></li>
           <li class="views-row views-row-8 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless">Wireless Network</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless" class="active">Wireless Network</a></span>  </span></li>
           <li class="views-row views-row-9 views-row-odd">  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/LTS">Learning Technology Solutions</a></span>  </span></li>
           <li class="views-row views-row-10 views-row-even views-row-last">  
@@ -477,7 +519,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     
   <div class="content">
     <div id="shib_login_url">
-  <a href="https://accc.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Faccc.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F4258">Log in</a>
+  <a href="https://accc.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Faccc.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F444">Log in</a>
 </div>
   </div>
 </div>

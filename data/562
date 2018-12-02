@@ -14,7 +14,7 @@
     <!-- End Google Tag Manager -->
 
         <title>
-                            Leadership | Student Leadership and Civic Engagement | University of Illinois at Chicago
+                            Service | Student Leadership and Civic Engagement | University of Illinois at Chicago
                     </title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,14 +53,14 @@
 </script>
 <!-- End Google Tag Manager for WordPress by DuracellTomi -->
 <!-- This site is optimized with the Yoast SEO plugin v7.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://slce.uic.edu/leadership/" />
+<link rel="canonical" href="http://slce.uic.edu/service/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Leadership - Student Leadership and Civic Engagement" />
-<meta property="og:url" content="http://slce.uic.edu/leadership/" />
+<meta property="og:title" content="Service - Student Leadership and Civic Engagement" />
+<meta property="og:url" content="http://slce.uic.edu/service/" />
 <meta property="og:site_name" content="Student Leadership and Civic Engagement" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Leadership - Student Leadership and Civic Engagement" />
+<meta name="twitter:title" content="Service - Student Leadership and Civic Engagement" />
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//s.w.org' />
@@ -120,7 +120,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//slce.uic.edu/?wordfence_lh=1&hid=A4083D4937CEDC014BAC0096F5A9D35B');
+})('//slce.uic.edu/?wordfence_lh=1&hid=2D83E1B49EC8945C37583368F550F865');
 </script>
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>
@@ -148,7 +148,7 @@ img.emoji {
   
 
 
-  <div class="l-page page-template page-template-page-templates page-template-landing-page page-template-page-templateslanding-page-php page page-id-7 page-parent post-type--landing_page  site-type-b theme--navy is-sidebar  ">
+  <div class="l-page page-template page-template-page-templates page-template-landing-page page-template-page-templateslanding-page-php page page-id-5 page-parent post-type--landing_page  site-type-b theme--navy is-sidebar  ">
 
 
     <!--[if lte IE 9]>
@@ -313,7 +313,7 @@ img.emoji {
                       </div>
         </div>
           </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-35 menu-item-has-children">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-35 menu-item-has-children">
       <a
         class="menu-main__first-link"
         href="/leadership/"
@@ -403,7 +403,7 @@ img.emoji {
                       </div>
         </div>
           </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-34 menu-item-has-children">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item menu-item-34 menu-item-has-children">
       <a
         class="menu-main__first-link"
         href="/service/"
@@ -627,16 +627,16 @@ img.emoji {
           <div
   class="header-title header-title--type-treatment  "
   style="
-    background-image:url('http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Banner_Leadership.jpg');">      <div class="color-wash ">
+    background-image:url('http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Banner_Service.jpg');">      <div class="color-wash ">
 
-                  <img src="" alt="Leadership">
+                  <img src="" alt="Service">
         
     </div>
     <div class="l-full">
     <div class="header-title__content">
             <div class="_text  _text--no-wordmark  _text--landing ">
                   <h1
-            class="header-title-title  header-title-title--b header-title-title--landing">Leadership</h1>
+            class="header-title-title  header-title-title--b header-title-title--landing">Service</h1>
               </div>
     </div>
   </div>
@@ -669,9 +669,9 @@ img.emoji {
       
       
   
-      <p class="_subtitle">Leadership</p>
+      <p class="_subtitle">Service</p>
   
-  <p>Student Leadership and Civic Engagement believes that leadership is the process by which individuals facilitate positive social change. Anchored in the Social Change Model of Leadership Development, we believe that everyone can lead and create positive change at UIC and in the greater community. Our programs and workshops provide opportunities for students to explore and discover their personal style of leadership, while building skills to help them succeed in their academic and professional lives. We emphasize the connections between individuals, groups, and community, and focus on helping students link their passions to a greater cause.</p>
+  <p>Grounded in community values and priorities, and mindful of privilege, service is the conscious act of working toward the equity of society and the welfare of others. Student Leadership and Civic Engagement provides a variety of programs and service opportunities with community partners in the many neighborhoods of Chicago, supporting students to become lifelong active citizens.</p>
 
 
 </div>
@@ -683,126 +683,32 @@ img.emoji {
 <section class="component  ">
 
   
+  <div class="component-text-block">
   
-      <h2 class="invisible">Programs</h2>
+    <figure class="_image captioned-image image-full">
+  <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/active_citizen_continuum.png" alt="Active Citizen Continuum">
+  </figure>
+  
+  <p>We use the Active Citizen Continuum to help students make meaning of, and transition through, their service and community engagement.</p>
+
+
+
+  
+</div>
+
+  
+</section>
+
+    
+    
+      
+
+<section class="component  ">
+
+  
+  
   
   <ul class="component-link-tile ">
-      <li class="component-link-tile__item component-link-tile__item--image">
-
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="http://slce.uic.edu/leadership/flashpoint/"
-       target="_self">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_FlashPoint-600x365.jpg"
-                alt="students">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--internal
-        tile-item__content-container--image">
-        <div class="
-            tile-item__title
-            tile-item__title--image">
-            Flashpoint
-        </div>
-
-        
-            </div>
-    </a>
-</div>
-
-    </li>
-      <li class="component-link-tile__item component-link-tile__item--image">
-
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="http://slce.uic.edu/leadership/ignite/"
-       target="_self">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_Ignite-600x365.jpg"
-                alt="students">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--internal
-        tile-item__content-container--image">
-        <div class="
-            tile-item__title
-            tile-item__title--image">
-            Ignite
-        </div>
-
-        
-            </div>
-    </a>
-</div>
-
-    </li>
-      <li class="component-link-tile__item component-link-tile__item--image">
-
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="http://slce.uic.edu/leadership/catalyst/"
-       target="_self">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_Catalyst-600x365.jpg"
-                alt="students">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--internal
-        tile-item__content-container--image">
-        <div class="
-            tile-item__title
-            tile-item__title--image">
-            Catalyst
-        </div>
-
-        
-            </div>
-    </a>
-</div>
-
-    </li>
-      <li class="component-link-tile__item component-link-tile__item--image">
-
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="http://slce.uic.edu/leadership/institute/"
-       target="_self">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_Institute-600x365.jpg"
-                alt="students">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--internal
-        tile-item__content-container--image">
-        <div class="
-            tile-item__title
-            tile-item__title--image">
-            Institute
-        </div>
-
-        
-            </div>
-    </a>
-</div>
-
-    </li>
       <li class="component-link-tile__item component-link-tile__item--image">
 
                   <div class="tile-item ">
@@ -813,7 +719,7 @@ img.emoji {
             <img
                 class="tile-item__image"
                 src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/02/CLCE_Tile_CSSLAlogo2-600x365.png"
-                alt="students">
+                alt="Awards">
         </div>
     
     <div class="
@@ -823,7 +729,7 @@ img.emoji {
         <div class="
             tile-item__title
             tile-item__title--image">
-            Awards (CSSLA)
+            Awards
         </div>
 
         
@@ -836,13 +742,13 @@ img.emoji {
 
                   <div class="tile-item ">
     <a class="tile-item__link"
-       href="http://slce.uic.edu/leadership/ambassadors/"
+       href="http://slce.uic.edu/service/give/"
        target="_self">
             <div class="tile-item__image-container">
             <img
                 class="tile-item__image"
-                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_Ambassador-600x365.jpg"
-                alt="students">
+                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_GIVE-600x365.jpg"
+                alt="G.I.V.E.">
         </div>
     
     <div class="
@@ -852,7 +758,7 @@ img.emoji {
         <div class="
             tile-item__title
             tile-item__title--image">
-            University Ambassadors
+            GIVE
         </div>
 
         
@@ -865,13 +771,13 @@ img.emoji {
 
                   <div class="tile-item ">
     <a class="tile-item__link"
-       href="http://slce.uic.edu/leadership/workshops/"
+       href="http://slce.uic.edu/service/expo/"
        target="_self">
             <div class="tile-item__image-container">
             <img
                 class="tile-item__image"
-                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_Workshop-600x365.jpg"
-                alt="students">
+                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_LeaderEXPO-600x365.jpg"
+                alt="Leadership & Service Expo">
         </div>
     
     <div class="
@@ -881,7 +787,123 @@ img.emoji {
         <div class="
             tile-item__title
             tile-item__title--image">
-            Workshops
+            Leadership & Service Expo
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://slce.uic.edu/service/mondays/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_MondayMatters-600x365.jpg"
+                alt="Make Mondays Matter">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--internal
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Make Mondays Matter
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://slce.uic.edu/service/mlk-day-service/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_MLKday-600x365.jpg"
+                alt="MLK Day">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--internal
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            MLK Day
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://slce.uic.edu/service/uic-day/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/02/CLCE_Tile_DayOfService-600x365.jpg"
+                alt="UIC Day of Service">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--internal
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            UIC Day of Service
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://slce.uic.edu/service/welcome/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_Welcome-600x365.jpg"
+                alt="Welcome Service Project">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--internal
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Welcome Service Project
         </div>
 
         
@@ -902,75 +924,73 @@ img.emoji {
 <section class="component  ">
 
   
-  <div class="component-text-block">
-    <h2 class="visible">Social Change Model</h2>
-  
-    <figure class="_image captioned-image image-left-third">
-  <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/SocialChangeModel.png" alt="SOCIAL CHANGE MODEL">
-  </figure>
-  
-  <p><strong>The Social Change Model was built upon the following assumptions:</strong></p>
-<ul>
-<li>Leadership is concerned with effecting change on behalf of others and society.</li>
-<li>Leadership is collaborative.</li>
-<li>Leadership is a process rather than a position.</li>
-<li>Leadership should be value-based.</li>
-<li>All students (not just those that hold formal leadership positions) are potential leaders.</li>
-<li>Service is a powerful vehicle for developing students&#8217; leadership skills.</li>
-</ul>
-<p>The Social Change Model approaches leadership as a purposeful, collaborative, values-based process that results in positive social change.</p>
-<p><em>Source:<br />
-Higher Education Research Institute. (1996). A social change model of leadership development (Version III). Los Angeles: University of California Los Angeles Higher Education Research Institute. </em></p>
-
-
-
-  
-</div>
-
-  
-</section>
-
-    
-    
-      
-
-<section class="component  ">
-
-  
       <div class="component-highlight-news">
                     <h2 class="component-highlight-news__title visible">News</h2>
                             <div class="component-highlight-news__list-2col">
                 <div class="component-highlight-news__column">
-          <article class="tease tease-news" id="tease-868">
+          <article class="tease tease-news" id="tease-776">
 	
     <figure class="teaser-image captioned-image">
-    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/10/Website_student-profile_Marissa_IGNITE_photo.jpg" alt="Marissa headshot">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2017/12/day_of_service_029.jpg" alt="Volunteers tabling at a book fair">
   </figure>
   
   <div class="teaser-content">
-    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/giving-back-ignite-mentor-marissa-scavelli/">Giving Back: IGNITE Mentor Marissa Scavelli</a></h3>
+    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/community-orgs-at-involvement-fair/">Community Orgs at Involvement Fair</a></h3>
 
               <div class="post-meta">
     <div class="post-date-line">
-            <span class="post-date">Posted on <strong>October 15, 2018</strong></span>
+            <span class="post-date">Posted on <strong>September 06, 2018</strong></span>
     </div>
     </div>
         
     
   </div>
 
-</article>          <article class="tease tease-news" id="tease-623">
+</article>          <article class="tease tease-news" id="tease-709">
 	
     <figure class="teaser-image captioned-image">
-    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/05/LS_2018_wall_up.jpg" alt="Group of 20 students looking up to camera with arms raised">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/08/2018-08-24_Welcome-Service-Project-1_big_thumbnail.jpg" alt="Volunteers with wheelbarrow and rakes in park">
   </figure>
   
   <div class="teaser-content">
-    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/leadershape-institute-inspires-students/">LeaderShape Institute inspires students</a></h3>
+    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/welcome-service-project/">Welcome Service Project</a></h3>
 
               <div class="post-meta">
     <div class="post-date-line">
-            <span class="post-date">Posted on <strong>May 30, 2018</strong></span>
+            <span class="post-date">Posted on <strong>August 24, 2018</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>          <article class="tease tease-news" id="tease-510">
+	
+    <figure class="teaser-image captioned-image">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/04/2018-04-07_Day-of-Service_El-Paseo-Copy.jpg" alt="UIC volunteers at El Paseo Community Garden stand in front of a mural">
+  </figure>
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/uic-day-of-service/">UIC Day of Service</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>April 12, 2018</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>          <article class="tease tease-news" id="tease-420">
+	
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/nominations-open-chancellors-awards/">Nominations open for Chancellor's Awards</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>January 29, 2018</strong></span>
     </div>
     </div>
         
@@ -979,11 +999,14 @@ Higher Education Research Institute. (1996). A social change model of leadership
 
 </article>    </div>
 <div class="component-highlight-news__column">
-          <article class="tease tease-news" id="tease-420">
+          <article class="tease tease-news" id="tease-416">
 	
+    <figure class="teaser-image captioned-image">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_News_MLKday.jpg" alt="Serving on MLK Day">
+  </figure>
   
   <div class="teaser-content">
-    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/nominations-open-chancellors-awards/">Nominations open for Chancellor's Awards</a></h3>
+    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/serving-mlk-day/">Serving on MLK Day</a></h3>
 
               <div class="post-meta">
     <div class="post-date-line">
@@ -1002,6 +1025,24 @@ Higher Education Research Institute. (1996). A social change model of leadership
   
   <div class="teaser-content">
     <h3 class="_title"><a href="http://slce.uic.edu/news-stories/clce-news-item-3/">UIC Named "Most Engaged Campus"</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>January 08, 2018</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>          <article class="tease tease-news" id="tease-164">
+	
+    <figure class="teaser-image captioned-image">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_News_Newman-Fellow.jpg" alt="Service">
+  </figure>
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/center-leadership-engagement-news-item-2/">UIC Student Featured as Newman Fellow</a></h3>
 
               <div class="post-meta">
     <div class="post-date-line">
@@ -1073,13 +1114,85 @@ Higher Education Research Institute. (1996). A social change model of leadership
 
 
    
+                       
+              
+                      
+      
+                       
+              
+                      
+      
+
+
+
+
+   
+                       
+              
+                      
+      
+
+
+
+
+   
+                       
+              
+                      
+      
+
+
+
+
+   
+                       
+              
+                      
+      
+
+
+
+
+   
+                       
+              
+                      
+      
+
+
+
+
+   
+                       
+              
+                      
+      
+
+
+
+
+   
+                       
+              
+                      
+      
+
+
+
+
+   
+
+
+
+
+   
                                  
               
 
                       <div class="l-sidebar">
-             <nav role="navigation" id="menu-secondary" aria-label="Secondary Navigation for Leadership section" class="menu-secondary">
+             <nav role="navigation" id="menu-secondary" aria-label="Secondary Navigation for Service section" class="menu-secondary">
                <div class="_title">
-                 <h2><a href="http://slce.uic.edu/leadership/">Leadership</a></h2>
+                 <h2><a href="http://slce.uic.edu/service/">Service</a></h2>
                  <a class="_back-to-content" href="#main">
                    <svg aria-label="Back to main content" width="32" height="32" viewBox="0 0 32 32">
                      <title>Back to main content</title>
@@ -1093,110 +1206,50 @@ Higher Education Research Institute. (1996). A social change model of leadership
 
                 <ul  class="menu ">
                   
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-120">
-                    <a href="/leadership/flashpoint/" target="_self">Flashpoint</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-119">
-                    <a href="/leadership/ignite/" target="_self">Ignite</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-117">
-                    <a href="/leadership/catalyst/" target="_self">Catalyst</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-116">
-                    <a href="/leadership/institute/" target="_self">Institute</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-115">
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
                     <a href="/leadership/awards/" target="_self">Awards</a>
                                       </li>
                   
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-114">
-                    <a href="/leadership/ambassadors/" target="_self">University Ambassadors</a>
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-318">
+                    <a href="/service/give/" target="_self">GIVE</a>
                                       </li>
                   
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-113">
-                    <a href="/leadership/workshops/" target="_self">Workshops</a>
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-319">
+                    <a href="/service/expo/" target="_self">Leadership &amp; Service Expo</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-320">
+                    <a href="/service/hours/" target="_self">Log Your Hours</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-321">
+                    <a href="/service/mondays/" target="_self">Make Mondays Matter</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-322">
+                    <a href="/service/mlk-day-service/" target="_self">MLK Day of Service</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-323">
+                    <a href="/service/president/" target="_self">President’s Volunteer Service Award</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-693">
+                    <a href="/service/service-leaders/" target="_self">Service Leaders</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-325">
+                    <a href="/service/uic-day/" target="_self">UIC Day of Service</a>
+                                      </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-326">
+                    <a href="/service/welcome/" target="_self">Welcome Service Project</a>
                                       </li>
                                   </ul>
 
               </nav>
             </div>
        
-                      
-      
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-
-
-
-
-   
-                       
-              
                       
       
                        
@@ -1412,10 +1465,10 @@ Higher Education Research Institute. (1996). A social change model of leadership
         <h2 class="assistive-text">Button Menu</h2>
 
         <ul id="button-menu" class="menu button-menu" aria-label="Button Menu">
-      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-177">
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-177">
       <a href="/leadership/" target="_self">Leadership</a>
     </li>
-      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-178">
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item menu-item-178">
       <a href="/service/" target="_self">Service</a>
     </li>
       <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-176">

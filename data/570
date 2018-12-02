@@ -14,7 +14,7 @@
     <!-- End Google Tag Manager -->
 
         <title>
-                            Welcome Service Project | Student Leadership and Civic Engagement | University of Illinois at Chicago
+                            MLK Day of Service | Student Leadership and Civic Engagement | University of Illinois at Chicago
                     </title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,14 +53,14 @@
 </script>
 <!-- End Google Tag Manager for WordPress by DuracellTomi -->
 <!-- This site is optimized with the Yoast SEO plugin v7.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://slce.uic.edu/news-stories/welcome-service-project/" />
+<link rel="canonical" href="http://slce.uic.edu/events/mlk-day-of-service/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Welcome Service Project - Student Leadership and Civic Engagement" />
-<meta property="og:url" content="http://slce.uic.edu/news-stories/welcome-service-project/" />
+<meta property="og:title" content="MLK Day of Service - Student Leadership and Civic Engagement" />
+<meta property="og:url" content="http://slce.uic.edu/events/mlk-day-of-service/" />
 <meta property="og:site_name" content="Student Leadership and Civic Engagement" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Welcome Service Project - Student Leadership and Civic Engagement" />
+<meta name="twitter:title" content="MLK Day of Service - Student Leadership and Civic Engagement" />
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//s.w.org' />
@@ -89,9 +89,9 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://slce.uic.edu/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://slce.uic.edu/wp-includes/wlwmanifest.xml" /> 
 
-<link rel='shortlink' href='http://slce.uic.edu/?p=709' />
-<link rel="alternate" type="application/json+oembed" href="http://slce.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fslce.uic.edu%2Fnews-stories%2Fwelcome-service-project%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://slce.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fslce.uic.edu%2Fnews-stories%2Fwelcome-service-project%2F&#038;format=xml" />
+<link rel='shortlink' href='http://slce.uic.edu/?p=916' />
+<link rel="alternate" type="application/json+oembed" href="http://slce.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fslce.uic.edu%2Fevents%2Fmlk-day-of-service%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://slce.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fslce.uic.edu%2Fevents%2Fmlk-day-of-service%2F&#038;format=xml" />
 <script type="text/javascript">
 (function(url){
 	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
@@ -123,7 +123,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//slce.uic.edu/?wordfence_lh=1&hid=6E32487048B8E67E002252BD7CBB7BCD');
+})('//slce.uic.edu/?wordfence_lh=1&hid=8887B1C1AEE6B8CBDDE919ED605CFC18');
 </script>
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>
@@ -142,7 +142,7 @@ img.emoji {
 
 
 
-  <div class="l-page news-template-default single single-news postid-709 post-type--news  site-type-b theme--navy no-sidebar  ">
+  <div class="l-page event-template-default single single-event postid-916 post-type--event  site-type-b theme--navy no-sidebar  ">
 
 
     <!--[if lte IE 9]>
@@ -629,19 +629,20 @@ img.emoji {
 
         <div class="l-content ">
                     
-          <article class="post-type-news" id="article">
+          <article class="post-type-event" id="article">
             
-    <div class="intro-text">
+      <span class="date-circle ">
+    <span class="_month">Jan</span>
+    <span class="_day">21</span>
+    <span class="_year">2019</span>
+</span>
 
-              <h1 class="_title post-title">Welcome Service Project</h1>
-        
-        <div class="post-meta">
-    <div class="post-date-line">
-            <span class="post-date">Posted on <strong>August 24, 2018</strong></span>
-    </div>
-          
+      <h1 class="_name">MLK Day of Service</h1>
+      <h2 class="_series-name"></h2>
+
+      
     <section class="social-sharing-links" role="region" aria-label="Share this Article on Social Media">
-            <a class="popup" href="https://facebook.com/sharer.php?u=http%3A%2F%2Fslce.uic.edu%2Fnews-stories%2Fwelcome-service-project%2F">
+            <a class="popup" href="https://facebook.com/sharer.php?u=http%3A%2F%2Fslce.uic.edu%2Fevents%2Fmlk-day-of-service%2F">
         <svg aria-label="Share this on Facebook" width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
           <title id="share-link-facebook">Share this on Facebook</title>
           <g fill="none" fill-rule="evenodd">
@@ -652,27 +653,58 @@ img.emoji {
       </a>
                               
     </section>
-    </div>
+      <div class="event-date-and-time">
+    <p class="event-date">
+
+        January 21, 2019
+
     
-    <figure class="captioned-image">
-    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/08/2018-08-24_Welcome-Service-Project-1_big-1090x595.jpg" alt="Volunteers with rakes and wheelbarrow at park">
+</p>
+    <p class="event-time">
+            9:00 AM - 1:00 PM
+    </p>
+</div>
+        <figure class="captioned-image">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/11/CLCE_MLKDay_logo-1.jpg" alt="MLK Day of Service banner">
       </figure>
 
-  
-  <p>On August 24, 2018, a group of 22 UIC volunteers partnered with the Chicago Park District to prepare Garibaldi Park for the fall. The Welcome Service Project is an annual event put on by SLCE that is geared to incoming first-year and transfer students as an opportunity to connect with fellow incoming students  and contribute to the local community. Working together, volunteers re-mulched the playground for the local park, contributing to the community right near the campus. Even with a little bit of rain, volunteers were cheery about the experience and gratified to see the impact of their work.</p>
-
-
+      
+      
+                <div class="_description u-rich-text">
+              <div class="DescriptionText">
+<p>The Dr. MLK Jr. Day of Service takes place on Dr. Martin Luther King Jr. Day every January. Since there is no class held on this day, we characterize it as “a day on, not a day off”. Students, staff, and faculty participate in service projects in the local community that honor Dr. King's legacy.</p>
+<p>This year's Dr. MLK Jr. Day of Service will take place on January 21, 2019 and will be updated with all service sites and projects as they are confirmed.</p>
 </div>
+<p>For details and to sign up, please visit <a href="http://go.uic.edu/mlksignup">go.uic.edu/mlksignup</a>.</p>
 
-    <div class="components">
-  
-</div>
-
-          <div class="post-date-line">
-        <span class="post-date">Modified on <strong>August 24, 2018</strong></span>
+          </div>
+      
+      
+      <div class="_contact">
+          <h2 class="_label">Contact</h2>
+          <div class="_contact-name">Student Leadership and Civic Engagement</div>
+          <div class="_contact-phone">(312) 996-4500</div>
+          <div class="_contact-email"><a href="mailto:slce@uic.edu">slce@uic.edu</a></div>
       </div>
-    
-              </article>
+
+      
+      <div class="_created u-definition-list--inline">
+          <div class="_row">
+              <h2 class="_label">Date posted</h2>
+              <p class="_content">Nov 19, 2018</p>
+          </div>
+          <div class="_row">
+              <h2 class="_label">Date updated</h2>
+              <p class="_content">Nov 20, 2018</p>
+          </div>
+      </div>
+
+      
+<div class="components">
+  
+</div>
+
+          </article>
         </div>
           
 

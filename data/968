@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<head><link rel="stylesheet" type="text/css" href="http://engineering.uic.edu/wp-content/cache/minify/1/f6048.css" media="all" />
+<head><link rel="stylesheet" type="text/css" href="http://engineering.uic.edu/wp-content/cache/minify/1/9df6c.css" media="all" />
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +8,7 @@
 <link rel="pingback" href="http://engineering.uic.edu/xmlrpc.php">
 <meta name="format-detection" content="telephone=no">
 
-<title>Gary Crawford &#8211; UIC College of Engineering</title>
+<title>Student News 2017 &#8211; UIC College of Engineering</title>
 <link sizes="16x16" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-01.png" rel="icon" /><link rel="icon" sizes="57x57" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-iphone-01.png" /><link rel="icon" sizes="114x114" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-iphone-retina-01.png" /><link rel="icon" sizes="72x72" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-ipad-01.png" /><link rel="icon" sizes="144x144" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-ipad-retina-01.png" /><link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="UIC College of Engineering &raquo; Feed" href="http://engineering.uic.edu/feed/" />
@@ -72,6 +72,7 @@ img.emoji {
 
 
 
+
 <script type="text/javascript" src="http://engineering.uic.edu/wp-content/cache/minify/1/018a2.js"></script>
 
 
@@ -81,13 +82,11 @@ img.emoji {
 <link rel='https://api.w.org/' href='http://engineering.uic.edu/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://engineering.uic.edu/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://engineering.uic.edu/wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='Letreurna Owens' href='http://engineering.uic.edu/k-Teacher/letreurna-owens/' />
-<link rel='next' title='Chris Kuypers' href='http://engineering.uic.edu/k-Teacher/chris-kuypers/' />
 <meta name="generator" content="WordPress 4.9.8" />
-<link rel="canonical" href="http://engineering.uic.edu/k-Teacher/gary-crawford/" />
-<link rel='shortlink' href='http://engineering.uic.edu/?p=254' />
-<link rel="alternate" type="application/json+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fk-Teacher%2Fgary-crawford%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fk-Teacher%2Fgary-crawford%2F&#038;format=xml" />
+<link rel="canonical" href="http://engineering.uic.edu/student-news-2017/" />
+<link rel='shortlink' href='http://engineering.uic.edu/?p=3976' />
+<link rel="alternate" type="application/json+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fstudent-news-2017%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fstudent-news-2017%2F&#038;format=xml" />
 <script>        jQuery(document).ready(function(){
             var retina = window.devicePixelRatio > 1 ? true : false;
                         if(retina) {
@@ -977,7 +976,7 @@ article
 					};</script>
 <noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 
-<body class="post-k-teacher-template-default single single-post-k-teacher postid-254 offcanvas-type-default  offcanvas-right wpb-js-composer js-comp-ver-5.4.5 vc_responsive" id="">
+<body class="page-template-default page page-id-3976 offcanvas-type-default  offcanvas-right wpb-js-composer js-comp-ver-5.4.5 vc_responsive" id="">
 
 	
 <div class="k2t-container">
@@ -1199,79 +1198,415 @@ article
 	<div class="k2t-body">
 
 		
-	<div class="k2t-title-bar teacher-title-bar no-sidebar parallax" style="" data-stellar-background-ratio=&quot;0.5&quot;>
+	<div class="k2t-title-bar parallax" style="background-size:inherit;background-attachment: fixed" data-stellar-background-ratio=&quot;0.5&quot;>
 				<div>
 			<div class="container k2t-wrap">
 				<h1 class="main-title" style="">
-					Gary Crawford				</h1>
-				<div class="main-excerpt" style="">
-					Laboratory Mechanic				</div><!-- .main-excerpt -->
+					Student News 2017				</h1>
+				<div class="main-excerpt">
+									</div><!-- .main-excerpt -->
 			</div>
 		</div>
-			
+		
+		<div><div class="container k2t-wrap breadcrumb"><ul class="k2t-breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://engineering.uic.edu">Home</a></li><li class="current">Student News 2017</li></ul></div><!-- k2t-wrap --></div>			
 	</div><!-- .k2t-title-bar -->
 
 
-	<div class="k2t-content no-sidebar">
-		<div class="k2t-wrap">
-			<main class="k2t-main" role="main">
+	<div class="k2t-content no-sidebar" style="">
 
-				
-					<div id="main-col" class="post-254 post-k-teacher type-post-k-teacher status-publish has-post-thumbnail hentry k-teacher-category-uncategorized">
+		<div class="container k2t-wrap">
 
-						<div class="k2t-row">
-							<div class="teacher-entry-meta col-4">
-								<div class="k2t-element-hover">
-																			<div class="teacher-thumbnail">
-											<img width="400" height="401" src="http://engineering.uic.edu/wp-content/uploads/2016/08/crawford.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Gary Crawford" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/crawford.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/crawford-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" />										</div>
-																		<div class="entry-meta-inner">
-										<div class="entry_teacher_number">
-																							<i class="fa fa-phone"></i><span class="teacher_phone_number">312-996-2966</span>
-																					</div>
-										<ul class="teacher_social">
-						                							               								               									               		<li>
-							                		<a target='_blank' href="mailto:garyc@uic.edu">
-							                			<i class="fa fa-envelope"></i>garyc@uic.edu							                		</a>
-							                	</li>
-						               								               								               								               								               								               								               								               								               								               								               								                </ul>
+			<!-- Main -->
+			<main class="k2t-main page" role="main">
+					
+					
+<article id="post-3976" class="post-3976 page type-page status-publish hentry">
 
-									</div><!--entry-meta-inner-->
-								</div>
-							</div>
-							<div class="teacher-entry-content col-8">
+	<div class="page-entry">
+		<div id="ld_courses_listing">
+			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div  id="Jynw9uFiUc" class="k2t-heading align-left no-border no-subtitle h2 two_dots"><div class="k2t-heading-inner"><div class="text"><h2 class="h"><span>Student News 2017</span></h2></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+<!--list Created by W4 Post List Ver 2.1.2-->
+<!--W4_Post_list_2941-->
+<style id="w4pl-css-2941" type="text/css">.w4pl-inner li {
+position: relative;
+padding-bottom: 10px;
+width: 100%;
+}
 
-								<h3 class="h"><i class="zmdi zmdi-account"></i><span>Bio</span></h3>
-								<div class="content">
-									<p><strong>Contact Information:</strong></p>
-<blockquote>
-<p>University of Illinois at Chicago, College of Engineering (M/C 159), 851 South Morgan, Chicago, IL 60607</p>
-</blockquote>
-<blockquote>
-<p><strong>Office: </strong>1287 SEO</p>
-</blockquote>
-<blockquote>
-<p><a href="http://engineering.webhost.uic.edu/MachineShop/index.htm" target="_blank">View Full Profile</a></p>
-</blockquote>
-<p></p>								</div>
-								
-							</div>
-						</div>
+.w4pl .w4pl-inner .inner {
+padding: 20px;
+height: 230px;
+background: white;
+}
 
 
-						<div class="teacher-connect">
-							
-							
-						</div><!--teacher-connect-->
 
-					</div><!-- #main-col -->
+.w4pl .w4pl-inner .event-listing-masonry-wrapper {
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-flow: row wrap;
+}
 
-								<div class="clear"></div>
-				
-				
-			</main><!-- .k2t-blog -->
+.w4pl .w4pl-inner .read_more {
+position: absolute;
+right: 0;
+bottom: 0;
+padding: 5px;
+border: 1px solid #CECECE;
+background: #EEE;
+}
 
+
+.w4pl-inner img {
+float: left;
+margin: 0 10px 10px 0;
+}
+
+
+.w4pl-inner .post_title {
+display: block;
+margin-bottom: 10px;
+font-size: 2rem;
+line-height: 2.4rem;
+}
+
+.w4pl-inner .news-article {
+padding-top: 5px;
+}
+
+.w4pl-inner .post-date {
+display: block;
+font-size: 14px;
+margin-bottom: 5px;
+}
+
+
+@media screen and (max-width: 1130px) and (min-width: 951px) {
+
+.w4pl-inner  .post-excerpt,
+.w4pl-inner  .post-excerpt p {
+font-size: 1.4rem;
+line-height: 1.6rem;
+}
+
+.w4pl-inner .post_title {
+font-size: 1.8rem;
+line-height: 2rem;
+}
+}
+
+@media screen and (max-width: 950px) {
+.w4pl .w4pl-inner .masonry-item {
+width: 100%;
+}
+}
+
+@media screen and (max-width: 550px) {
+.w4pl .w4pl-inner .post-excerpt,
+.w4pl .w4pl-inner .read_more {
+display: none;
+}
+}
+
+@media screen and (max-width: 475px) {
+.w4pl .w4pl-inner img {
+width: 100px;
+height: 100px;
+}
+.w4pl .w4pl-inner .inner {
+height: auto;
+}
+}
+
+@media screen and (max-width: 425px) {
+.w4pl .w4pl-inner .post_title {
+font-size: 1.5rem;
+line-height: 1.7rem;
+}
+
+}
+
+/* modify jquery */
+.w4pl-inner .ui-state-active, .w4pl-inner .ui-widget-content .ui-state-active, .w4pl-inner .ui-widget-header .ui-state-active {
+    border: 1px solid #aaa;
+    background: #141b4b;
+    font-weight: bold;
+    color: white
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    border: 1px solid #d3d3d3;
+    background: white;
+    font-weight: bold;
+    color: #555;
+}
+
+.ui-widget {
+font-family: inherit;
+color: inherit;
+}</style>
+<div id="w4pl-list-2941" class="w4pl news-items">
+	<div id="w4pl-inner-2941" class="w4pl-inner">
+		<div id="accordion">
+	<div class="event-listing-masonry-wrapper">
+		<div class="event-listing-masonry columns-2">
 			
-		</div><!-- .k2t-wrap -->
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2017/09/15/three-engineering-students-win-image-of-research-awards/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2017/09/Basantes-DefazCivilMaterialsEngineering-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="&quot;Intelligent Welding&quot; by Alexandra Del Carmen Basantes Defaz, Materials Engineering; 2nd Place" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2017/09/Basantes-DefazCivilMaterialsEngineering-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2017/09/Basantes-DefazCivilMaterialsEngineering-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2017/09/Basantes-DefazCivilMaterialsEngineering-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2017/09/Basantes-DefazCivilMaterialsEngineering-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2017/09/Basantes-DefazCivilMaterialsEngineering-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2017/09/15/three-engineering-students-win-image-of-research-awards/" title="View 3 Engineering Students Win Image of Research Awards">3 Engineering Students Win Image of Research Awards</a></span>
+						<span class="post-date">September 15, 2017</span>
+						<div class="post-excerpt">Congratulations to our Image of Research winners! The Image of Research exhibition is the annual interdisciplinary exhibit competition organized by the Graduate College and University Library to showcase the breadth and diversity of research at UIC.&nbsp; "Intelligent Welding" by Alexandra Del Carmen Basantes Defaz, Materials Engineering; 2nd Place"Intelligent Welding" I am not your stereotypical welder. I am an M.S. student in the Department of Civil and Materials Engineering conducting research in UIC’s Welding Laboratory under the direction of Professors Ernesto Indacochea and Didem Ozevin. I am researching traditional welding techniques and autonomous welding in “real-time” to avoid defects. It addresses weld quality assurance by developing a combined real-time diagnosis, decision, and control system based on multi-sensor fusion and machine learning methodology. The&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2017/09/15/three-engineering-students-win-image-of-research-awards/" title="More... 3 Engineering Students Win Image of Research Awards">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2017/08/29/connect-with-engineering-student-organizations/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2017/08/Involvementfair9-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Students at the Involvement Fair" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2017/08/Involvementfair9-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2017/08/Involvementfair9-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2017/08/Involvementfair9-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2017/08/Involvementfair9-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2017/08/Involvementfair9-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2017/08/Involvementfair9-435x435.jpg 435w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2017/08/29/connect-with-engineering-student-organizations/" title="View Connect with Engineering Student Organizations">Connect with Engineering Student Organizations</a></span>
+						<span class="post-date">August 29, 2017</span>
+						<div class="post-excerpt">Visit the UIC Involvement Fair on September 6-7 for an opportunity to connect with UIC Engineering student organizations. More than twenty College-sponsored organizations provide students with opportunities to apply their passion for engineering and develop leadership, teamwork, and hands-on technical skills.The UIC Involvement Fair will take place from 11 a.m. to 4 p.m. Sept. 6 and 7 in the Lecture Center Quad.Click here for a list of our student organizations, or visit the UIC Connection website.</div>
+						<a class="read_more" href="http://engineering.uic.edu/2017/08/29/connect-with-engineering-student-organizations/" title="More... Connect with Engineering Student Organizations">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="https://www.ece.uic.edu/2017/07/10/ece-students-giving-back-to-the-community-through-senior-design-projects/#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2017/07/Community-Projects-2017-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Student explaining solar project" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2017/07/Community-Projects-2017-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2017/07/Community-Projects-2017-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2017/07/Community-Projects-2017-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2017/07/Community-Projects-2017-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2017/07/Community-Projects-2017-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2017/07/Community-Projects-2017-435x435.jpg 435w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="https://www.ece.uic.edu/2017/07/10/ece-students-giving-back-to-the-community-through-senior-design-projects/#new_tab" title="View ECE Students Giving Back to the Community through Senior Design Projects">ECE Students Giving Back to the Community through Senior Design Projects</a></span>
+						<span class="post-date">July 14, 2017</span>
+						<div class="post-excerpt">Embracing and partnering with the community is one of the key elements of UIC’s strategic priorities. And 16 students in the Department of Electrical and Computer Engineering (ECE) are taking this mission to heart and using their engineering knowledge and skills to help four Chicago nonprofits.</div>
+						<a class="read_more" href="https://www.ece.uic.edu/2017/07/10/ece-students-giving-back-to-the-community-through-senior-design-projects/#new_tab" title="More... ECE Students Giving Back to the Community through Senior Design Projects">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2017/06/07/chicago-edt-wins-2nd-at-nasa-competition/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2017/06/i-8JRBMbs-XL-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Chicago EDT robot" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2017/06/i-8JRBMbs-XL-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2017/06/i-8JRBMbs-XL-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2017/06/i-8JRBMbs-XL-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2017/06/i-8JRBMbs-XL-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2017/06/i-8JRBMbs-XL-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2017/06/i-8JRBMbs-XL-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2017/06/i-8JRBMbs-XL-435x435.jpg 435w, http://engineering.uic.edu/wp-content/uploads/2017/06/i-8JRBMbs-XL.jpg 480w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2017/06/07/chicago-edt-wins-2nd-at-nasa-competition/" title="View Chicago EDT Wins 2nd at NASA Competition">Chicago EDT Wins 2nd at NASA Competition</a></span>
+						<span class="post-date">June 7, 2017</span>
+						<div class="post-excerpt">UIC's robotics team, the Chicago Engineering Design Team (EDT), won the Second Place Caterpillar Autonomous Award at the 2017 NASA Robotic Mining Competition. The competition, held at the Kennedy Space Center, challenged teams to design and build a robot that can dig and collect basaltic regolith simulant and autonomously navigate a simulated Martian terrain—objectives designed to help NASA find innovative ways to excavate well-insulated water ice. Chicago EDT beat 44 teams including Purdue University, Illinois Institute of Technology, University of Michigan, and UIUC in its fifth year participating in the competition.Visit chicagoedt.org for more information.</div>
+						<a class="read_more" href="http://engineering.uic.edu/2017/06/07/chicago-edt-wins-2nd-at-nasa-competition/" title="More... Chicago EDT Wins 2nd at NASA Competition">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="/student-activities-expo/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/expo28_logo-300-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="EXPO 2017 logo" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/expo28_logo-300-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/expo28_logo-300-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/expo28_logo-300-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/expo28_logo-300-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/expo28_logo-300-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="/student-activities-expo/" title="View 28th Annual Engineering EXPO ">28th Annual Engineering EXPO </a></span>
+						<span class="post-date">April 4, 2017</span>
+						<div class="post-excerpt">Our Engineering Expo will be on Friday, April 21, 2017 from 9 a.m. to 2 p.m. It will take place at the UIC Forum, 725 W. Roosevelt Road.</div>
+						<a class="read_more" href="/student-activities-expo/" title="More... 28th Annual Engineering EXPO ">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2017/04/03/students-take-first-place-at-cyber-defense-competition/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2017/04/17632349_10155219192813566_7878547410968243580_o-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="A group photo of the winning team" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2017/04/17632349_10155219192813566_7878547410968243580_o-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2017/04/17632349_10155219192813566_7878547410968243580_o-500x500.jpg 500w, http://engineering.uic.edu/wp-content/uploads/2017/04/17632349_10155219192813566_7878547410968243580_o-600x599.jpg 600w, http://engineering.uic.edu/wp-content/uploads/2017/04/17632349_10155219192813566_7878547410968243580_o-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2017/04/17632349_10155219192813566_7878547410968243580_o-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2017/04/17632349_10155219192813566_7878547410968243580_o-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2017/04/17632349_10155219192813566_7878547410968243580_o-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2017/04/17632349_10155219192813566_7878547410968243580_o-435x435.jpg 435w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2017/04/03/students-take-first-place-at-cyber-defense-competition/" title="View Students Take First Place at Cyber Defense Competition">Students Take First Place at Cyber Defense Competition</a></span>
+						<span class="post-date">April 3, 2017</span>
+						<div class="post-excerpt">L-R: Chase Lee, Shawn Kim, Michael Baccia, Daniel Stempniewicz, Daniel Moreno, and Oliver Hui. Photo courtesy of Wes Agresta, Argonne National Laboratory.--A team of UIC computer science students won first place at the 2017 Cyber Defense Competition, a contest organized by Argonne National Laboratory that challenged teams to design a secure network and defend it against attackers. The UIC team beat out 15 college teams including the University of Illinois Urbana-Champaign, Indiana University, and Iowa State University at the event on April 1.</div>
+						<a class="read_more" href="http://engineering.uic.edu/2017/04/03/students-take-first-place-at-cyber-defense-competition/" title="More... Students Take First Place at Cyber Defense Competition">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2017/03/27/uic-engineering-student-wins-gates-cambridge-scholarship/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2017/03/Sarita-Deshpande-271x406-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="UIC Engineering student Sarita Deshpande" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2017/03/Sarita-Deshpande-271x406-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2017/03/Sarita-Deshpande-271x406-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2017/03/Sarita-Deshpande-271x406-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2017/03/Sarita-Deshpande-271x406-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2017/03/Sarita-Deshpande-271x406-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2017/03/27/uic-engineering-student-wins-gates-cambridge-scholarship/" title="View UIC Engineering Student Wins Gates Cambridge Scholarship">UIC Engineering Student Wins Gates Cambridge Scholarship</a></span>
+						<span class="post-date">March 27, 2017</span>
+						<div class="post-excerpt">Bioengineering senior Sarita Deshpande is one of 36 American students to win the prestigious Gates Cambridge Scholarship for graduate studies at the University of Cambridge. She is the fourth UIC student to win one of the scholarships since the program was established through a $210 million donation from the Bill and Melinda Gates Foundation in 2000. Read more about her post-graduation plans here.</div>
+						<a class="read_more" href="http://engineering.uic.edu/2017/03/27/uic-engineering-student-wins-gates-cambridge-scholarship/" title="More... UIC Engineering Student Wins Gates Cambridge Scholarship">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="/spring-2017-commencement/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2017/03/COE-Commencement-2013-TN-2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2017/03/COE-Commencement-2013-TN-2-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2017/03/COE-Commencement-2013-TN-2-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2017/03/COE-Commencement-2013-TN-2-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2017/03/COE-Commencement-2013-TN-2-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2017/03/COE-Commencement-2013-TN-2-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="/spring-2017-commencement/" title="View Spring 2017 Commencement">Spring 2017 Commencement</a></span>
+						<span class="post-date">March 23, 2017</span>
+						<div class="post-excerpt">Engineering Commencement Ceremony,  Saturday, May 6, 2017,  UIC Pavilion.  Start time 2:00 (doors open at 1:00)</div>
+						<a class="read_more" href="/spring-2017-commencement/" title="More... Spring 2017 Commencement">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2017/02/28/ewh-laminar-flow-hood-certified/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2017/02/EWH-1-web-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="EWH with their certified Laminar Flow" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2017/02/EWH-1-web-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2017/02/EWH-1-web-500x500.jpg 500w, http://engineering.uic.edu/wp-content/uploads/2017/02/EWH-1-web-600x600.jpg 600w, http://engineering.uic.edu/wp-content/uploads/2017/02/EWH-1-web-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2017/02/EWH-1-web-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2017/02/EWH-1-web-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2017/02/EWH-1-web-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2017/02/EWH-1-web-435x435.jpg 435w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2017/02/28/ewh-laminar-flow-hood-certified/" title="View Students Build Medical Device for Vietnamese Hospital">Students Build Medical Device for Vietnamese Hospital</a></span>
+						<span class="post-date">February 28, 2017</span>
+						<div class="post-excerpt">Students in UIC’s chapter of Engineering World Health (EWH) use engineering skills to develop solutions for improving healthcare around the world. Their latest completed project—a laminar flow hood—was built to help the Nhi Dong 1 Pediatric Hospital in Ho Chi Minh City, Vietnam, reduce the rate of hospital-acquired infections.“Hospital-acquired infections are a problem all over the world,” says Miiri Kotche, PhD, the group’s faculty advisor and a clinical professor in the Richard and Loan Hill Department of Bioengineering. “The laminar flow hood is one small way students can help improve global health.”The flow hood—or sanitary cabinet—will provide an aseptic workspace for preparing intravenous medication in the NICU unit at the hospital. Its design includes a high efficiency particle-arresting (HEPA) filter&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2017/02/28/ewh-laminar-flow-hood-certified/" title="More... Students Build Medical Device for Vietnamese Hospital">More...</a>
+					</article>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+	</div><!--#w4pl-inner-2941-->
+</div><!--#w4pl-2941-->
+<script id="w4pl-js-2941" type="text/javascript">var shorten_excerpt = function() {
+
+var excerpts = document.getElementsByClassName('post-excerpt');
+if ( document.documentElement.clientWidth > 950 || document.documentElement.clientWidth < 750) {
+	var max_chars = 100;
+} else {
+var max_chars = 200;
+}
+
+	for (var i = 0; i < excerpts.length; ++i) {
+		var excerpt = excerpts[i];
+		var excerpt_string = excerpt.innerHTML;
+		var words = excerpt_string.split(' ');
+		var num_words = words.length;
+		word_lens = [];
+
+		for (var j = 0; j < words.length; ++j) {
+			word_lens.push(words[j].length);
+		}
+
+		var display_amount = 0;
+		var total = 0;
+		var index = 0;
+		while (total < max_chars) {
+			display_amount++;
+			total += word_lens[index];
+			index++;
+		}
+
+		words = words.slice(0, display_amount);
+		new_excerpt = words.join(' ');
+
+		if (display_amount < num_words) {
+			new_excerpt = new_excerpt + '...';
+		}
+		excerpt.innerHTML = new_excerpt;
+	}
+
+	return;
+}
+
+
+window.onload = function() {
+	var titles = document.getElementsByClassName('post_title');
+if ( document.documentElement.clientWidth > 950) {
+	var max_chars = 60;
+} else {
+var max_chars = 100;
+}
+
+	for (var i = 0; i < titles.length; ++i) {
+		var title = titles[i];
+		var title_string = title.innerHTML;
+		var words = title_string.split(' ');
+		var num_words = words.length;
+		word_lens = [];
+
+		for (var j = 0; j < words.length; ++j) {
+			word_lens.push(words[j].length);
+		}
+
+		var display_amount = 0;
+		var total = 0;
+		var index = 0;
+		while (total < max_chars) {
+			display_amount++;
+			total += word_lens[index];
+			index++;
+		}
+
+		words = words.slice(0, display_amount);
+		new_title = words.join(' ');
+
+		if (display_amount < num_words) {
+			new_title = new_title + '...';
+		}
+		title.innerHTML = new_title;
+	}
+
+        shorten_excerpt();
+	return;
+}
+
+
+
+/*
+jQuery(document).ready(
+
+function($) { 
+
+
+$('#accordion').bind('accordionactivate', function(event, ui) {
+  $( ui.newHeader ).ScrollTo(); // or ui.newContent, if you prefer
+});
+
+
+$(".w4pl-inner #accordion").accordion({
+      heightStyle: "content"
+    }); 
+}); */</script>
+
+<!--END_W4_Post_list_2941-->
+</div></div></div></div>
+<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="k2t-button button-default align-center button-fullwidth"><a id="XUSijtQDLb" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/student-news" target="_blank"><span class="button-text" style=""><span class="text">Return to Current News</span></span></a></div></div></div></div></div><p></p>		</div>
+	</div><!-- .page-entry -->
+	
+</article><!-- #post-## -->
+	
+					
+				<div class="clear"></div>
+				
+							</main>
+
+			<!-- Sidebar -->
+					</div>
 	</div><!-- .k2t-content -->
 
 	</div><!-- .k2t-body -->
@@ -1297,7 +1632,7 @@ Chicago, IL 60607</a></p><span class="fa fa-phone"> </span> <span style="padding
 <li id="menu-item-2062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2062"><a href="http://engineering.uic.edu/scholarships/">Scholarships</a></li>
 <li id="menu-item-3772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3772"><a href="http://engineeringalumni.uic.edu">Alumni</a></li>
 <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"><a href="http://engineering.uic.edu/contact/">Contact</a></li>
-</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="AtqLdDQXBN" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
+</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="OdRBlmcJVW" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
 		</aside></div><div class="col-3"><aside id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widget-title"><span>Resources</span></h4><div class="menu-footer-secondary-menu-container"><ul id="menu-footer-secondary-menu" class="menu"><li id="menu-item-2067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2067"><a href="http://vcsa.uic.edu/">Student Affairs</a></li>
 <li id="menu-item-2201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2201"><a href="http://www.uic.edu/apps/departments-az/search">Directory</a></li>
 <li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1694"><a href="http://engineering.uic.edu/offices/">Offices</a></li>
@@ -1411,7 +1746,7 @@ var mainParams = {"sticky_menu":"","smart_sticky":"0"};
 
 <script type='text/javascript'>
 /* <![CDATA[ */
-var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"276d87e536","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"ee093dbe34","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
 /* ]]> */
 </script>
 
@@ -1427,7 +1762,8 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 
 
 
-<script type="text/javascript" src="http://engineering.uic.edu/wp-content/cache/minify/1/ffe2d.js"></script>
+
+<script type="text/javascript" src="http://engineering.uic.edu/wp-content/cache/minify/1/298d1.js"></script>
 
 </body>
 </html>
@@ -1436,7 +1772,7 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
 Minified using disk
-Database Caching 44/85 queries in 0.063 seconds using disk
+Database Caching 51/108 queries in 0.094 seconds using disk
 
-Served from: engineering.uic.edu @ 2018-11-24 03:02:13 by W3 Total Cache
+Served from: engineering.uic.edu @ 2018-11-24 23:39:55 by W3 Total Cache
 -->

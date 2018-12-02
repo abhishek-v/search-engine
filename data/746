@@ -1,374 +1,498 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<!DOCTYPE html>
+<html lang="en"><head>
+    <title>Office of the Dean of Students</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=9" />
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/bootstrap.css" media="screen">
+    <link rel="stylesheet" href="css/site.css" media="screen">
+    <link rel="stylesheet" href="css/font-awesome.min.css"> 
+    
+    <!--royalslider CSS-->
+    <link href="assets/royalslider/royalslider.css" rel="stylesheet">
+ 	<link href="assets/royalslider/skins/default/rs-default.css" rel="stylesheet">
+   <link href="assets/royalslider/skins/minimal-white/rs-minimal-white.css" rel="stylesheet">
+     <!-- slider JS files -->    
+	<script  src="royalslider/jquery-1.8.3.min.js"></script>
+	<script src="royalslider/jquery.royalslider.min.js"></script>
+    <script src="assets/royalslider/jquery.easing-1.3.js"> </script>
+   
+<style>
+.error{
+border: 1px solid #F00000;
+}
+.navbar-fixed {
+    top: 0;
+    z-index: 100;
+  position: fixed;
+    width: 100%;
+}
 
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="up" href="/service/learning-environments" />
-<link rel="next" href="/content/guest-login-access-request" />
-<link rel="prev" href="/service/computer-labs" />
-<link rel="shortlink" href="/node/3374" />
-<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="/service/learning-environments/accessibility" />
-  <title>Accessibility Resources | Academic Computing and Communications Center  </title>
-  <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_C97MNtte-L48LG9bh-ZvFzSRgqR9x1gIfrvIDp9o6Y4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_OsO2r3O_I2E-8-khV3NulWZIRJOw7aXphEVlJbgm2xI.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_Gi2KQBa4KQP-viS3Xs9utbwGTmqh2ceGxVSM10J8c9c.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_2THG1eGiBIizsWFeexsNe1iDifJ00QRS9uSd03rY9co.css" media="print" />
+<!-- slider css -->
 
-<!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/all/themes/acccbartik/css/ie.css?pi5mp1" media="all" />
-<![endif]-->
+  #video-gallery {
+width: 100%;
+color: #FFF;
+}
 
-<!--[if IE 6]>
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/all/themes/acccbartik/css/ie6.css?pi5mp1" media="all" />
-<![endif]-->
-  <script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
-<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_f_6-OzlFXjayKlsU5sJKLwjz7LFQvdIZDm-Mt6jKwyM.js"></script>
-<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://accc.uic.edu/sites/default/files/googleanalytics/analytics.js?pi5mp1","ga");ga("create", "UA-27751174-1", {"cookieDomain":"auto"});ga("send", "pageview");
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"wbhEvqTbP0YMippzaVWGw4mivNachSD8A23EfI7HyqU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/service\/learning-environments\/accessibility":true}});
-//--><!]]>
-</script>
+.videoGallery .rsCloseVideoBtn {
+  display: none;
+} 
+/* Styling thumbnails */
+.videoGallery h5 {
+  margin: 0;
+}
+.videoGallery p {
+  color: #ddd;
+  font-size: 13px;
+}
+.videoGallery .rsTmb {
+  padding: 20px;
+}
+
+.videoGallery .rsThumbs .rsThumb {
+  width: 940px;
+  height: 80px;
+  border-bottom: 1px solid #2E2E2E;
+}
+.videoGallery .rsThumbs.rsThumbsVer {
+  width: 220px;
+  padding: 0;
+}
+.videoGallery .rsThumb:hover {
+  background: #000;
+}
+.videoGallery .rsThumb.rsNavSelected {
+  background-color: #18bc9c;
+  border-bottom: 1px solid #009E56;
+}
+.rsDefault .rsOverflow,
+.rsDefault .rsSlide,
+.rsDefault .rsVideoFrameHolder,
+.rsDefault .rsThumbs {
+  background: #202020;
+}
+.sampleBlock {
+  left: 3%; 
+  top: 1%; 
+  width: 100%;
+  max-width: 400px;
+  color: #FFF;
+  font-weight:bold;
+   background: #000;
+  background: rgba(0,0,0,0.75);
+  padding:7px 10px 10px 10px;
+}
+@media screen and (min-width: 0px) and (max-width: 500px) {
+  .videoGallery .rsTmb {
+    padding: 6px 8px;
+  }
+  .videoGallery h5 {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .videoGallery .rsThumbs.rsThumbsVer {
+    width: 100px;
+    padding: 0;
+  }
+  .videoGallery .rsThumbs .rsThumb {
+    width: 100px;
+    height: 47px;
+  }
+  .videoGallery .rsTmb p {
+    display: none;
+  }
+  .videoGallery .rsOverflow,
+  .royalSlider.videoGallery {
+    height: 300px !important;
+  }
+  .sampleBlock {
+    font-size: 14px;
+  }
+}
+<!-- Block Text Slider -->
+#slider-with-blocks-1 {
+  width: 100%;
+  height: 100%;
+}
+.rsContent {
+  color: #FFF;
+  font-size: 24px;
+  line-height: 32px;
+  float: left;
+}
+
+.bContainer {
+  position: relative;
+}
+.rsABlock {
+  left: 30px;
+	top: 280px;
+	position: absolute;
+	z-index: 15;
+	
+}
+
+.rsBBlock {
+  position: relative;
+  display: block;
+  left: auto;
+  top: auto;
+}
+.blockHeadline {
+  font-size: 42px;
+  line-height: 50px;
+}
+.blockSubHeadline {
+  font-size: 32px;
+  line-height: 40px
+}
+.txtCent {
+  text-align: center; 
+  width: 100%; 
+}
+.slide1 {
+  background: #f06b50;
+}
+.slide1 .bContainer {
+	top: 30px;
+}
+.slide2 {
+    background: #ffbc11;
+    color:#000;
+}
+.slide2 .bContainer {
+  top: 20px;
+}
+.slide2 .txtCent {
+  line-height: 44px;
+}
+.slide2 .blockHeadline {
+   line-height: 66px;
+}
+.slide3 {
+    background: #45aab8;
+    color:#FFF;
+}
+.slide3 .bContainer {
+   top: 24px;
+}
+.slide3 span {
+  line-height: 44px;
+}
+.slide4 .bContainer {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: auto;
+  top: 24px;
+}
+.photoCopy {
+  position: absolute;
+  line-height: 24px;
+  font-size: 12px;
+  background: black;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.75);
+  padding: 0px 10px;
+  position: absolute;
+  left: 12px;
+  bottom: 12px;
+  top: auto;
+  border-radius: 2px;
+  z-index: 25;
+}
+.photoCopy a {
+  color: #FFF;
+}
+.palmImg {
+  left: 0;
+  top: auto;
+  bottom: -60px;
+  position: absolute;
+}
+@media screen and (min-width: 0px) and (max-width: 960px) { 
+  .rsContent {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .blockHeadline {
+    font-size: 32px;
+    line-height: 32px;
+  }
+  .blockSubHeadline {
+    font-size: 26px;
+    line-height: 32px
+  }
+}
+@media screen and (min-width: 0px) and (max-width: 500px) { 
+  .royalSlider,
+  .rsOverflow {
+    height: 200px !important;
+  }
+  .rsContent {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .blockHeadline {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .blockSubHeadline {
+    font-size: 22px;
+    line-height: 32px
+  }
+}
+
+.label {
+  margin-right: 5px;
+}
+</style>
+
 </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-3374 node-type-book footer-columns" >
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-    <a href="/service/learning-environments/accessibility" class="element-invisible element-focusable">Accessibility Resources</a>
-  </div>
-    <div id="page-wrapper"><div id="page">
-
-  <div id="header" class="without-secondary-menu"><div class="section clearfix">
-
-          <a href="/" title="Home" rel="home" id="logo">
-        <img src="https://accc.uic.edu/sites/default/files/logo-50.png" alt="Home" />
-      </a>
-    
-          <div id="name-and-slogan" class="element-invisible">
-
-                              <div id="site-name" class="element-invisible">
-              <strong>
-                <a href="/" title="Home" rel="home"><span>Academic Computing and Communications Center  </span></a>
-              </strong>
-            </div>
-                  
-        
-      </div> <!-- /#name-and-slogan -->
-    
-      <div class="region region-header">
-    <div id="block-search-form" class="block block-search">
-
-    
-  <div class="content">
-    <form class="google-cse" action="/service/learning-environments/accessibility" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+<body>
+  
+<div id="skip"><a href="#content">Skip to Main Content</a></div> 
+<div class="container header_container">
+<div id="header">
+<div id="header_logo">
+<div id="header_logo_left"><a href="http://www.uic.edu" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('uic_logo','','img/banner-UIC.png',1)"><img src="img/banner-UIC.png" alt="link to UIC home page" id="uic_logo"/></a><a href="http://vcsa.uic.edu" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ovcsa_logo','','img/banner-OVCSA2.png',1)"><img src="img/banner-OVCSA2.png" alt="link to OVCSA home page" id="ovcsa_logo" width="200" height="40"/></a></div>
+<div id="header_logo_right"><a href="http://www.uic.edu" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('uofi_logo','','img/banner-UniversityofIlli2.png',1)"><img src="img/banner-UniversityofIlli2.png" alt="link to UIC" id="uofi_logo"/></a></div>
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-jUafOlsb930dzrmKCMbRO9bgMaZCnN5KV_Uu3Q0wpc4" />
-<input type="hidden" name="form_id" value="search_block_form" />
+<div class="clearfloat"></div>
 </div>
-</div></form>  </div>
+<div class="triangle_left"></div>
+<div class="triangle_right"></div>
 </div>
-<div id="block-block-14" class="block block-block">
-
-    
-  <div class="content">
-    <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=uic_accc&show_count=false" style="width:115px; height:20px;"></iframe>  </div>
+<!-- title -->   
+<div class="container">
+      <div class="page-header" id="banner">
+        <div class="row">
+          <div class="col-lg-12">
+            <h1 style="padding-left:12px"><strong>OFFICE OF THE DEAN OF STUDENTS</strong></h1>
+          </div>         
+        </div>
+      </div>
 </div>
-  </div>
-
-          <div id="main-menu" class="navigation">
-        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-227 first"><a href="/">Home</a></li>
-<li class="menu-4868"><a href="/news/all" title="">News</a></li>
-<li class="menu-9690"><a href="http://one.uic.edu" title="">ONE.UIC</a></li>
-<li class="menu-568"><a href="/service-status">Service Status</a></li>
-<li class="menu-2965 active-trail"><a href="/service/all" class="active-trail">Service Catalog</a></li>
-<li class="menu-4784"><a href="/answer/all" title="">Answers</a></li>
-<li class="menu-9670"><a href="http://accc.uic.edu/about" title="">About</a></li>
-<li class="menu-4776 last"><a href="/contact">Contact</a></li>
-</ul>      </div> <!-- /#main-menu -->
-    
-    
-  </div></div> <!-- /.section, /#header -->
-
-  
-  
-  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
-
-          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » <a href="/service/all">Service Catalog</a></div></div>
-    
-          <div id="sidebar-first" class="column sidebar"><div class="section">
-          <div class="region region-sidebar-first">
-    <div id="block-book-navigation" class="block block-book">
-
-    <h2><a href="/policies" class="block-title-link"><a href="/LTS" class="book-title">Learning Technology Solutions</a></a></h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first collapsed"><a href="/service/collaboration-tools">Collaboration Tools</a></li>
-<li class="collapsed"><a href="/service/equipment-lending">Equipment Lending</a></li>
-<li class="leaf"><a href="/service/event-support-av">Event Support (Audio/Visual)</a></li>
-<li class="leaf"><a href="/service/learning-design-and-development">Learning Design and Development</a></li>
-<li class="expanded active-trail"><a href="/service/learning-environments" class="active-trail">Learning Environments</a><ul class="menu clearfix"><li class="first collapsed"><a href="/service/classroom">Classrooms</a></li>
-<li class="collapsed"><a href="/service/computer-labs">Computer Labs</a></li>
-<li class="leaf active-trail"><a href="/service/learning-environments/accessibility" class="active-trail active">Accessibility Resources</a></li>
-<li class="leaf"><a href="/content/guest-login-access-request">Guest Login Access Request</a></li>
-<li class="leaf"><a href="/service/learning-environments/software-installation-request">Software Installation Request</a></li>
-<li class="last leaf"><a href="/service/learning-environments/student-response-systems">Student Response Systems</a></li>
-</ul></li>
-<li class="collapsed"><a href="/service/learning-management-system">Learning Management System</a></li>
-<li class="collapsed"><a href="/service/lecture-capture">Lecture Capture</a></li>
-<li class="leaf"><a href="/service/media-conversion">Media Conversion</a></li>
-<li class="collapsed"><a href="/service/media-streaming">Media Streaming</a></li>
-<li class="collapsed"><a href="/service/multimedia-production">Multimedia Production</a></li>
-<li class="collapsed"><a href="/service/printing">Printing</a></li>
-<li class="last collapsed"><a href="/service/professional-development-training">Professional Development &amp; Training</a></li>
-</ul>  </div>
-</div>
-<div id="block-views-answers-block-5" class="block block-views">
-
-    <h2>Related Answers</h2>
-  
-  <div class="content">
-    <div class="view view-answers view-id-answers view-display-id-block_5 nocontent view-dom-id-b074b17535b10ba05de84004d2bb9756">
-        
-  
-  
-      <div class="view-content">
-      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-request-software-be-installed-classroom-or-computer-lab">How do I request software to be installed in a classroom or computer lab?</a></span>  </span></li>
-          <li class="views-row views-row-2 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/what-software-available-computer-labs">What software is available in the computer labs?</a></span>  </span></li>
-          <li class="views-row views-row-3 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-obtain-building-access-24-hour-labs">How do I obtain building access to 24-hour labs?</a></span>  </span></li>
-          <li class="views-row views-row-4 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-reserve-computer-lab">How do I reserve a computer lab?</a></span>  </span></li>
-          <li class="views-row views-row-5 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/where-can-i-print-using-u-print">Where can I print using U-Print?</a></span>  </span></li>
-          <li class="views-row views-row-6 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-print-documents-accc-computer-lab-u-print">How do I print documents at an ACCC computer lab with U-Print?</a></span>  </span></li>
-          <li class="views-row views-row-7 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-check-my-u-print-balance">How do I check my U-Print balance?</a></span>  </span></li>
-          <li class="views-row views-row-8 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/ad-account-locked-out">AD Account Locked Out</a></span>  </span></li>
-          <li class="views-row views-row-9 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-retrieve-cd-or-dvd-frozen-mac">How do I retrieve CD or DVD from a frozen Mac?</a></span>  </span></li>
-          <li class="views-row views-row-10 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-check-lab-reservation-schedules">How do I check lab reservation schedules?</a></span>  </span></li>
-          <li class="views-row views-row-11 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/where-can-i-scan-documents">Where can I scan in documents?</a></span>  </span></li>
-          <li class="views-row views-row-12 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/can-i-print-using-guest-login-credentials">Can I print using guest login credentials?</a></span>  </span></li>
-          <li class="views-row views-row-13 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-log-campus-lab-computers">How do I log in to campus lab computers?</a></span>  </span></li>
-          <li class="views-row views-row-14 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/can-i-use-bluetooth-transfer-files-computers-accc-labs">Can I use Bluetooth to transfer files to computers in ACCC labs?</a></span>  </span></li>
-          <li class="views-row views-row-15 views-row-odd views-row-last">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-save-files-lab-computers">How do I save files on lab computers?</a></span>  </span></li>
-      </ul></div>    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-</div>
-  </div>
-      </div></div> <!-- /.section, /#sidebar-first -->
-    
-    <div id="content" class="column"><div class="section">
-            <a id="main-content"></a>
-                    <h1 class="title" id="page-title">
-          Accessibility Resources        </h1>
-                          <div class="tabs">
-                  </div>
-                          <div class="region region-content">
-    <div class="ds-1col node node-book node-full view-mode-full clearfix">
-
-  
-  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p>We work closely with the <a href="http://drc.uic.edu">Disability Resource Center</a> to ensure accessibility resources are available to the UIC community.</p>
-<h2>Accessibility software</h2>
-<p>To access the built-in Windows accessibility software at the login screen, use the <em>Windows + U</em> keys.</p>
-<table border="1" cellpadding="1" cellspacing="1" style="width:100%"><thead><tr><th scope="col" style="width:25%">Software</th>
-<th scope="col">Hotkeys</th>
-<th scope="col">Locations</th>
-</tr></thead><tbody><tr><td>Kurzweil</td>
-<td><em>Ctrl + Alt + K</em></td>
-<td> All <a href="/lab/all">computer labs</a></td>
-</tr><tr><td>ZoomText</td>
-<td><em>​Ctrl + Alt + Z</em></td>
-<td>
-<ul><li><a href="/lab/sce-401">SCE 401</a> (SCE401-PD02, SCE401-MD09)</li>
-<li><a href="/lab/bgrc-105b">BGRC 105B</a></li>
-<li><a href="/lab/jjst-214">JJST 214</a></li>
-<li><a href="/lab/lib-idea-commons">Idea Commons</a> (LIBIDEA-PD07, LIBIDEA-PD08, LIBIDEA-PD09)</li>
-<li><a href="/lab/sele-2265">SEL 2265</a> (SEL2265-PD01, SEL2265-PD03, SEL2265-PD09, SEL2265-PD10)</li>
-<li><a href="/lab/bsb-4133">BSB 4133</a> (BSB4133-PD03, BSB4133-PD04)</li>
-<li><a href="http://library.uic.edu/lhs/chicago">Library of the Health Sciences</a></li>
-<li><a href="http://www.uic.edu/depts/oaa/disability_resources/student_resources/computing_resources.html">SSB 2279 (DRC Lab)</a>  (SSB2279-PD03)</li>
-</ul></td>
-</tr><tr><td>JAWS</td>
-<td><em>​Ctrl + Alt + J</em></td>
-<td>
-<ul><li><a href="/lab/sce-401">SCE 401</a></li>
-<li><a href="/lab/bgrc-105b">BGRC 105B</a></li>
-<li><a href="/lab/tbh-181">TBH 181</a></li>
-<li><a href="/lab/lib-idea-commons">Idea Commons</a> (LIBIDEA-PD07, LIBIDEA-PD08, LIBIDEA-PD09)</li>
-</ul></td>
-</tr><tr><td>Dragon Naturally Speaking</td>
-<td><em>Ctrl + Alt + D</em></td>
-<td>
-<ul><li><a href="/lab/bgrc-105b">BGRC 105B</a></li>
-</ul></td>
-</tr><tr><td>NVDA</td>
-<td>
-<p> </p>
-</td>
-<td>
-<p> All <a href="/lab/all">computer labs</a> - PCs Only</p>
-</td>
-</tr><tr><td>Magnifier for Pharos Stations</td>
-<td><em>Windows key</em> and <em>+</em></td>
-<td>All Pharos Release Stations</td>
-</tr></tbody></table><h2>Further information</h2>
-<ul><li><a href="/policy/accessibility">Policy on Access to Computers for People with Disabilities</a></li>
-<li><a href="http://drc.uic.edu">Disability Resource Center</a></li>
-</ul></div></div></div>  <div id="book-navigation-3086" class="book-navigation">
-    
-        <div class="page-links clearfix">
-              <a href="/service/computer-labs" class="page-previous" title="Go to previous page">‹ Computer Labs</a>
-                    <a href="/service/learning-environments" class="page-up" title="Go to parent page">up</a>
-                    <a href="/content/guest-login-access-request" class="page-next" title="Go to next page">Guest Login Access Request ›</a>
+<div class="container" id="navbar_container">
+      <!-- Navbar
+      ================================================== -->
+      <div class="bs-docs-section clearfix">
+        <div class="row">
+          <div class="col-lg-12">    
+            <div class="bs-example">
+              <div class="navbar navbar-default" id="nav_bar">
+                   <div class="container">
+                      <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                        </button>
+                         <a class="navbar-brand" href="index.shtml">Home</a>
+                      </div>
+                      <div class="navbar-collapse collapse navbar-responsive-collapse">
+                         <ul class="nav navbar-nav">
+                          <li><a href="about.shtml">About Us</a></li>    
+                          <li><a href="services.shtml">Students</a></li>     
+                          <li><a href="units.shtml">Faculty & Staff</a></li>
+                          <li><a href="contact.shtml">Contact Us</a></li>            
+						  <li><a href="needhelp.shtml">Need Help?</a></li> 
+                        </ul>
+                        <form class="navbar-form navbar-right" id="cse-search-box" action="search.shtml">
+                        <input type="hidden" value="003292673167871140938:_ftumhdite0" name="cx" />
+                        <input type="hidden" value="FORID:11" name="cof" />
+                        <input type="hidden" value="UTF-8" name="ie" />                        
+                        <input type="text"  id="search"  name="q" class="form-control col-lg-8" placeholder="Search">     
+                        </form>   
+	</div><!-- /.nav-collapse -->
+                  </div><!-- /.container -->
+                  </div><!-- /.navbar -->
+             
+            </div><!-- /example -->
           </div>
+        </div>
+      </div>
+    <!-- end of Navbar-->
+</div>
     
-  </div>
-<div class="field field-name-last-updated field-type-ds field-label-inline clearfix"><div class="field-label">Last updated:&nbsp;</div><div class="field-items"><div class="field-item odd"><p>September 06, 2018</p>
-</div></div></div></div>
+       
+<!--main container-->
+<div class="container">
+<div class="Flexible-container">         
+<img src="img/dos_ombuds.jpg" alt="About Dean Of Students" class="img-responsive">
+</div>
+<br />
+<div class="row">
+<a tabindex="-1" name="content"></a>
+<div class="col-lg-9">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="h3">STUDENT OMBUDS SERVICES</h3>
+</div>
+<div class="panel-body">
+<div class="col-lg-6">
+<img src="img/Ombuds logo.jpg" class="img-responsive" alt="Ombuds"><br></div>
+<div class="col-lg-6">
+<p style="font-style:italic;">Not sure where to turn?<br>
+	Don’t know what to do to?<br>
+	Getting the run-around?<br>
+	Have a concern about a class or grade?<br>
+	Need help navigating campus services?<br>
+Wondering about your options?<br>
+<br><br>
 
-  </div>
+</p></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...<a href="contactombuds.shtml"> Contact us</a> for help
+</div>
+</div>
+<a name="behavioral"></a>
+</div>
+<div class="col-lg-3">
+<div class="list-group" style="box-shadow: 0 8px 6px -6px #000000;">
+<a class="list-group-item active" href="studentombudsservices.shtml">Student Ombuds Services</a>
+<a class="list-group-item " href="aboutombuds.shtml">About Ombuds</a>
+<a class="list-group-item" href="ombudsresources.shtml">Ombuds Resources</a>
+<a class="list-group-item" href="ombudsfaq.shtml">Ombuds FAQ</a>
+<a class="list-group-item" href="contactombuds.shtml">Contact Ombuds</a>
+</div>
+     
+<div class="list-group" style="box-shadow: 0 8px 6px -6px #000000;">
+<a class="list-group-item active" href="about.shtml">Other Services</a>
+<a class="list-group-item " href="studentconductprocess.shtml">Student Conduct Process</a>
+<a class="list-group-item" href="studentadvocacyservices.shtml">Student Advocacy Services</a>
+<a class="list-group-item" href="studentombudsservices.shtml">Student Ombuds Services</a>
+<a class="list-group-item" href="studentlegalservices.shtml">Student Legal Services</a>
+<a class="list-group-item" href="studentveteranaffairs.shtml">Student Veteran Affairs</a>
+<a class="list-group-item" href="studentgovernanceadvising.shtml">Student Governance Advising</a>
+<a class="list-group-item" href="religiousworkersassociation.shtml">Religious Workers Association</a>
+<a class="list-group-item" href="policiesandprocedures.shtml">Policies & Procedures</a>
+</div> 
+     	
+    
+</div></div>
+</div><!-- end of main container-->
+<!--footer-->
+<div class="row">
+<div class="content-wrap-spacer">
+</div>
+</div>
+<div class="row">
+<div class="content-wrap-spacer">
+</div>
+</div>
+<div class="container footer_container">  
+<div class="triangle_left_footer"></div>
+<div class="triangle_right_footer"></div> 
+<div id="footer-wrap">
+<div class="content-wrap-spacer"></div>
+<div class="row">
+<div class="col-lg-4" style="color:#00000; padding-top: 10px; padding-bottom:10px;text-align:center;" > 
+Student Services Building (SSB)<br>
+1200 West Harrison St,<br>
+3030 SSB (MC 318)<br>
+Chicago, IL 60607<br><br>
+
+<small><i class="fa fa-phone"></i> Phone: 312-996-4857 <br>
+<i class="fa fa-print"></i> Fax: 312-413-3716 
+</small>
+</div>
+   		
+<div class="col-lg-4" style="padding-top: 10px; padding-bottom:10px; text-align: center;" >
       
-    </div></div> <!-- /.section, /#content -->
+<a href="http://vcsa.uic.edu">OVCSA</a>
+|
+<a href="http://www.uic.edu">UIC</a>
+|
+<a href="sitemap.shtml">Site Map</a>
+|
+<a href="needhelp.shtml">Need Help?</a>
+ <p style="color:#3498DB; font-size:11px; line-height:1;"><br>Copyright © 2018 The Board of Trustees of the University of Illinois | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy" target="_blank">Privacy Statement</a> </p>
+</p> 
+        
+        </div>        
+        <div class="col-lg-4" style="padding-top: 10px; padding-bottom:10px;">   
+         
+             <a href="http://vcsa.uic.edu"><img src="img/banner-OVCSA-white3.png" class="img-responsive" alt="OVCSA"></a> 
+            
+        </div>
+        
+    </div>
+</div>
+  
+</div>
+<div class="row">
+          <div class="col-lg-12">
+         </div>
+        </div>
 
+<script>
+//vravic2 added this script for valdiation of message textarea
+   $( "#submitbutton" ).click(function(event) {
+	  if($("#textarea").val()=='')
+	  {
+		$("#textarea").addClass("error");
+		event.preventDefault();
+	  }
+	});
+	
+   </script>
+
+<!--Google Analytics-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54652433-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+        
+        
+<!--footer-->
     
-  </div></div> <!-- /#main, /#main-wrapper -->
-
-  
-  <div id="footer-wrapper"><div class="section">
-
-          <div id="footer-columns" class="clearfix">
-          <div class="region region-footer-firstcolumn">
-    <div id="block-menu-menu-footer-menu-1" class="block block-menu">
-
-    <h2>ACCC</h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/about">About ACCC</a></li>
-<li class="leaf"><a href="/service/learning-environments/accessibility" class="active">Accessibility Resources</a></li>
-<li class="leaf"><a href="/job/all" title="Employment Opportunities">Jobs</a></li>
-<li class="leaf"><a href="/news/all" title="">News and Alerts</a></li>
-<li class="leaf"><a href="/policy/all">Policies and Guidelines</a></li>
-<li class="leaf"><a href="/service/telecom" title="">Telecom</a></li>
-<li class="leaf"><a href="/newsletters">ACCC Newsletter</a></li>
-<li class="last leaf"><a href="/reports">Reports</a></li>
-</ul>  </div>
-</div>
-  </div>
-          <div class="region region-footer-secondcolumn">
-    <div id="block-menu-menu-tools" class="block block-menu">
-
-    <h2>Quick Links</h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/get-started">Get started</a></li>
-<li class="leaf"><a href="http://activatenetid.accc.uic.edu" title="Activate your UIC NetID">Activate UIC NetID</a></li>
-<li class="leaf"><a href="http://passwords.accc.uic.edu" title="Change password, reset forgotten password">Change password</a></li>
-<li class="leaf"><a href="http://accountportal.accc.uic.edu" title="Create ACCC-managed accounts">Create accounts</a></li>
-<li class="leaf"><a href="http://uic.blackboard.com" title="Log in to Blackboard Learn">Blackboard Learn</a></li>
-<li class="leaf"><a href="http://sms.accc.uic.edu" title="Subscribe to UIC emergency SMS notifications">Emergency SMS</a></li>
-<li class="leaf"><a href="http://gmail.uic.edu" title="">GoogleApps@UIC</a></li>
-<li class="leaf"><a href="http://emailforwarding.accc.uic.edu" title="Update netID@uic.edu email forwarding">Update email forwarding</a></li>
-<li class="last leaf"><a href="http://webmail.uic.edu" title="">Webmail</a></li>
-</ul>  </div>
-</div>
-  </div>
-          <div class="region region-footer-thirdcolumn">
-    <div id="block-menu-menu-locations" class="block block-menu">
-
-    <h2>Locations</h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/service/acccess-helpdesk" title="">ACCCeSS Helpdesk</a></li>
-<li class="leaf"><a href="/service/servicedesk" title="">Client Services Office</a></li>
-<li class="collapsed"><a href="/LTS" title="">Learning Technology Solutions</a></li>
-<li class="last leaf"><a href="/service/noc" title="">Network Operations Center</a></li>
-</ul>  </div>
-</div>
-  </div>
-          <div class="region region-footer-fourthcolumn">
-    <div id="block-menu-menu-accc-liaison-resources" class="block block-menu">
-
-    <h2>Liaison Resources</h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="https://liaison.uic.edu" title="Liaison Manager Tool">Liaison Manager</a></li>
-<li class="leaf"><a href="http://wiki.uic.edu/ACCC/PbContacts/WebHome" title="Phonebook Contacts Wiki">Phonebook Contacts Wiki</a></li>
-<li class="leaf"><a href="http://wiki.uic.edu/ACCC/REACH/WebHome" title="REACH Wiki">REACH Wiki</a></li>
-<li class="last leaf"><a href="https://helpdesk.uic.edu" title="">RT Helpdesk</a></li>
-</ul>  </div>
-</div>
-<div id="block-menu-menu-website" class="block block-menu">
-
-    <h2>Website</h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/contact/webmaster" title="">Contact the webmaster</a></li>
-<li class="last leaf"><a href="/sitemap" title="">Site map</a></li>
-</ul>  </div>
-</div>
-<div id="block-shib-auth-login-box" class="block block-shib-auth">
-
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>  
     
-  <div class="content">
-    <div id="shib_login_url">
-  <a href="https://accc.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Faccc.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F3374">Log in</a>
-</div>
-  </div>
-</div>
-  </div>
-      </div> <!-- /#footer-columns -->
     
-          <div id="footer" class="clearfix">
-          <div class="region region-footer">
-    <div id="block-block-3" class="block block-block">
-
-    
-  <div class="content">
-    <p><a href="http://www.uic.edu"><img alt="University of Illinois at Chicago" src="/sites/all/themes/acccbartik/images/uic-stacked-logo-180.png" style="float:left; height:136px; margin-right:1em; width:180px" /></a> © Copyright 2018 The Board of Trustees of the University of Illinois | <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a></p>
-  </div>
-</div>
-  </div>
-      </div> <!-- /#footer -->
-    
-  </div></div> <!-- /.section, /#footer-wrapper -->
-
-</div></div> <!-- /#page, /#page-wrapper -->
+    <!-- script and styling for sticky nav bar-->
+<script>
+$(document).ready(function() {
+  
+  $(window).scroll(function () {
+  
+     console.log($(window).scrollTop())
+    if ($(window).scrollTop() > 180) {
+      $('#nav_bar').addClass('navbar-fixed');
+	  $('#navbar_container').removeClass('container');
+    }
+    if ($(window).scrollTop() < 181) {
+      $('#nav_bar').removeClass('navbar-fixed');
+	  $('#navbar_container').addClass('container');
+    }
+  });
+});
+</script>
+<!--switch images-->
+<script type="text/javascript"> 
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+} 
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
   </body>
 </html>

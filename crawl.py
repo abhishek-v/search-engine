@@ -6,7 +6,7 @@ from collections import deque
 import re
 import pickle
 from urllib.parse import urlparse
-#Branch BS
+
 '''
 Crawling and downloading pages. Keep track of the N=3000 pages crawled.
 '''
@@ -19,7 +19,8 @@ class Crawler:
         self.inv_index = {}
         self.link_reference = {}
         self.reverse_link_reference = {}
-        self.page_threshold = 200 #increase limit
+        '''EXPLICITLY SET VARIABLE'''
+        self.page_threshold = 20 #increase limit
         self.regex = re.compile(
         r'^(?:http|ftp)s?://' # http:// or https://
         r'(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|[A-Z0-9-]{2,}\.?)|' #domain...
@@ -69,6 +70,10 @@ class Crawler:
                         except:
                             continue
                     # print("LIST:\n\n",self.URL_queue)
+                    '''save web page here'''
+                    f = open("data/"+str(self.page_count),"w")
+                    f.write(r.text)
+                    f.close()
                     if(len(self.link_reference) > self.page_threshold):
                         outfile = open("crawl_"+str(self.page_threshold),"wb")
                         pickle.dump(self.link_reference,outfile)
@@ -77,10 +82,7 @@ class Crawler:
                         print("Successfully pickled the files")
                         print("Page limit reached. Breaking..")
                         break
-                    '''save web page here'''
-                    f = open("data/"+str(self.page_count),"w")
-                    f.write(r.text)
-                    f.close()
+
                     self.page_count += 1
                     print("Currently crawling page",URL)
                     if(self.page_count % 50):

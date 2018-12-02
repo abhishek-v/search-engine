@@ -1,0 +1,499 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head id="Head1"><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><title>
+	UIC Gender &amp; Women&#39;s Studies
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="geo.region" content="US-IL" /><meta name="geo.placename" content="Chicago" /><meta name="geo.position" content="41.874428;-87.651787" /><meta name="ICBM" content="41.874428, -87.651787" /><link rel="shortcut icon" href="//static.las.uic.edu/favicon.ico" /><link href="https://d35islomi5rx1v.cloudfront.net/ajax/2017.2.621/TreeView.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="https://d35islomi5rx1v.cloudfront.net/ajax/2017.2.621/Silk/TreeView.Silk.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><meta name="Generator" content="Sitefinity 10.1.6525.0 PU" /><link rel="canonical" href="https://gws.uic.edu" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="text/javascript">
+	(function() {var _rdDeviceWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;var _rdDeviceHeight = (window.innerHeight > 0) ? window.innerHeight : screen.height;var _rdOrientation = (window.width > window.height) ? 'landscape' : 'portrait';})();
+</script><link href="/Telerik.Web.UI.WebResource.axd?d=PMrIT5dOWaVYIcpFWUE4nGhJvDzPpY_dui1YexPAo0Dhv3I26ILngeimW053R5MtL4M5Z3sk-5BRn8BbC9ef_yCDseeYdtkQDPqrfQWdCn2BrmYePJZVgxF8nBpEiEcH0&amp;t=636692118962391687&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d10.1.6525.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3aeb177f10-254a-47f5-be2f-2f1c3f40d5ff%3a7a90d6a%3a3b262ebc" type="text/css" rel="stylesheet" /><link href="/Sitefinity/Public/ResponsiveDesign/layout_transformations.css?pageDataId=8ec6d1c5-1fd7-6c5c-a337-ff02009e29c1&amp;pageSiteNode=8DC6D1C5-1FD7-6C5C-A337-FF02009E29C1/f9edcfc5-1fd7-6c5c-a337-ff02009e29c1/SitefinitySiteMap" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/LAS/App_Themes/GWS/global/gws.css?v=636453058895755375" type="text/css" rel="stylesheet" /><meta name="description" content="UIC Gender &amp; Women&#39;s Studies" /><meta name="keywords" content="GWS, uic gws" /></head>
+<body>
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl11_TSSM" id="ctl11_TSSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="5ze8DCfCL723NBSxn50EssJIBN4JDYW5S4MQhQx4C7ip8auRsA/WoULZkHUEAl82DrrPXYD9hJ0C3PY7/bxvZ5B8+dqkTTQYc/9saD/DWW5cYf6RVthpiXr3J+5Z9AWJEmAgAHBCKGI+p+N1cIijmXnb1QidAYvS1PcguX0KjPuVnmB9qPruX2bdUZiWjhV0zYS/mWy9o6rHALhBBFaZkEV+4xydlvMvFnUvTpTyQoAQTidyjVbFnEb96s/dqHGiYLoE8P52zvp2lnYPs0ThTWWX7ohsccOxHT+d6kzt9XRCX/sXUZOCAtl6c6BeU0r3IeYPjxPJg07k4SJYSIBCVPFlE83eGzHbAhcbL5QMgeG+omFOAckp/dNFRtLY+BwSo3LG5cA72Alz44gfJzREc/G/TYLgFQkhqTET/6zHs4Fke1Dm3SK0qQ9e6P5VdXvJCW8Wu5+Wccac2XcNj6pQLIeDsIQv15IoX/6OXLjFwo5n7zC4rBafA/XHLCbE8FgX+7YKPAji82EMnpiCwHiWqcOx0evwu7bMZuGN/mX3vqnxzNJAt2wo0VtrjTlAd1e8q3Af39ivR+dLIuVE4Rzm/3NtCCjdqlZLez87avDKjnFhPBxfwzCYQfYXhsDh7jCdcloEFcFetf7tdbFoz272H0dAus9FuQ+nP2iqNhfgTlmIuPU1gh7h725sBkYKG1Mz+1Aqcx7sjJOAfIvPO6+FEjC26ibIl47lyf4Irk5VMm5H1angia6Lq6XS31U8HGin86osdGIlh2XMO9cmNII4KBnWlYeYfW0/RVbUQCu5WGsjxHjSBC4S5i+i3cR3m237COqMWQ8xu+WKykzwdESBA6t/b1arSA6Tu2ZQIhMXQBBbLasW9eSezOgk2NKY+FnPvjMwvKRCaNnvIIz/u1A7vnB+U9YQi6cgSW8DJoLd3fQ=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.WebForm_PostBackOptions||document.write('<script type="text/javascript" src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZBL0GLwUDRq59_BJyRp6ZbaPQ19_R-PYjx8Clx-uunW0IgLYZYjURxOYeLouduoQPQ2&amp;t=636681423604795562"><\/script>');//]]>
+</script>
+
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvqIUa0_hP8OWGhDjgq6Aay_-OSNbZFNtYUEclngaUSFuFOpJS4lAngghwMZ0e6ac1sBR4vYjD1npBvnFp4mW_1SBVQaLvGwVN4dLsTxSSNmtsWAi8HHe7F1RiTg10XxgtGq0OINkciUwSZRBFLHUe6c1&t=545ba255"><\/script>');//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjaxWebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys.WebForms)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OLn6EFsFvId_Pm4fPHZ4i3axHS9YULD6k4bR8ooEHfc73pUoDdB-gRmhpbi_obsIgvuHQ8KJurCEAQagBA_ETeNfvavKN0qFbnLSlaDKfSONDfDkR881QI-RKM0xH96ImnWliW9Q8jndammrSIHNKTA1&t=545ba255"><\/script>');//]]>
+</script>
+
+<script src="//www.google.com/jsapi" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-1.12.1.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TzLh_6Bf7e5lPWb3oN3kRPuevFBhY9jpz_W6BU9M58DRl2zKG_9PL_7K_aJ80KPU2KoZMSkOd79SGfgPH97RuhdLUXhPdC7s1d1yRNHdNJTaWcVZEKnC8aJEl3Mg8H4bd9c455gcSRm--PKMSkyuZ63vyvAX8Vb6e_OVuGTuWacKgugqTSaLyOupYR7oyr4CMQrYvmGV75eTD2sTvJPzMQ2&amp;t=fffffffff0f3ba09" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TDVjdgRbdvNAY3tnbizUcDyH1TUufZkDz-N-W1NZDg2tDDoeLdaLQcJ7WYQm1RlbM4hHjH4rOkj6cIJqaEo1Kd7TmCLh9NXlPHcMP-PHkXD2VvrnbhMFutbszkVzKTbE0&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mbGZm65DzNC0tMTq0ElbcY6cUSVicMgZ8NdP0FtThxIojC3vtP2gISw5yWPIhIOBOm5agMFzB-yCUaANyKEdZLpMQ10xTz90RwDotai7yTvZIN6FcvTA6pGfYTemcpIXLn1R-ZgaVDXNIWiEUahigg2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-9rjE8XFv-zikiBdee7RrnGJIlqoSnxuqG8eNNBNycrjHscPTDb0ZbJL6mxz5tHXI2DL_WBvZ4bcEohiR8dIbKTISvLjXOkbQUxsONpgFMYzKeeP7SKxF9oSCxVL2KEps-z1X_735TyHdLzNEZJ_139NFkkVGKFfpQVy3rkDbcs1&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=cmIcXiVJ__exjjpjrN730kU8zTqkS3kd-2uL5MhjN0xRooTZ3dNJvUKMWjdR4auyEAVtbevChiboC7cKsNGy8z251gr-84kuqMrPTS0kttanQD7xL25L5WvAXG7JpIJcrl4GuqBPpCEFByuAEyXSdA2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=utaAJrK4EroNO-KNr3p19Em2dFtOCSiFXgSDm_kzVg6G1UQJP8DuwRJjlB5VrWm9gHzbqz5-afdWIPYE8KmrTHdxMVokE7ZVXXZTVZS_pr90GoVZRFoA0iSxqvn_oCcpvYMw-i8S_NoN3SLD0rsl0Q2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=86EhAqQjfuMKlbK4FWyenOEOoionWUbRFlYeWfxgk9I9QE9Aiad94pTvXl852XVf6yymzNf2CH24COyTPwRGuZJ3fmyfgS5-HE5uZifUk3BcQIdhDLa6AQzMEKz0WpQDheW0hNFjWmjzcHCj97vEi_s04bnnVplswxDNR_exhBQ1&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=eKZhdBAoDXLAsQys5JFN8uk8OMnPPzgFHNK59QpxmP8HclkH8UJfdSgnJUZQodjUXqM_14TZGM6766b5MunpCCYZQ3PwB-gaKGRPFdgfTSrScMdlbhqA7TcD-M603LSCFr6vKg-3eLCZYPs3XaNYSAzFWOBUhd2KuWJNHbC3l4g1&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uZyysmNAhs23bID72ZUaSniWFg4lkovfsB68VO6lp4N5Ps0SvBSNjiiF5_XycCR86BgFltCLL4vLu6Gus1Xx46-wGZTOy2zRDlc0zhCD8TnX5AXoWRcr90dIg2tHmeGVxPr606hQugLE__MDnvUY7C4tFr6HlEicpnvG6oRdv7c1&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=tFYhzROIw9zSEayAZiU0Wmozulnr1iiDcUi0WNxa2pTJfD3KMTDzMWWOvc2Cmfk26tV-M9cf1LfPWb13u60xttBNw2_tBsM53u3yPQi6xqGKHNy2ZOW58y1KGLW0TuEv_6BAsXpTMUkcIZqMHQY1lQ2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=txOWT0IWXM4wZRbIbHwGn-yXQmWVjzrr6aRnkaY4chw8HzVGdIALfMltkBTP6pABlBsLj2zOrwaN_9vrdcT9GU6ps6FOXBZutR91rQir64S4zI5a--KGiVJWygWdkyc4UzEHKHJ2v0Bbi53AzagDiybmJeoib_gSpT31FrLtRYE4eVadX7gFGGVkSZ6cPZsg0&amp;t=4293c76a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=4EzSd5VfACshMB7MLoK3t2o2X7uUWQjhV6f-FhV1TsTVPSkAUG_xbXfR1Bb5kBdmjRuqsZX_AduztDpNcw5zQj-_qpqI9WIrzRXqjPvdO77QMpQEPfkZoS2W4Em1QeZdevdyb2T-1pi4kkdfIbx2VORyD1oD-UrlZ6oYFrNJ5OdOM-9arrbln1eoOiCysz2DyGiM50RpwcveifM3kywAUQ2&amp;t=4293c76a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=6SMIvVlNATBivdp8I8uSARp9o8b__Q956IPzRtQpgeceKLSXU6VLDKHg78tLkZR8AN-Jl2imYV5GSySH2cA1st2jCAmF-LJg4Ru3UJElLPBdlPqOGm6M-tpJibLhE8bj17dtG9a8hfg3k7kccL6qMB5jUBiZiQuvqpaH-jNyKwQ1&amp;t=fffffffff0f3ba09" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=LDxs7tI-ncIIKPgYq3uJyi7HHnniUr6twHLl3FmmQlsGDrvDtTnrXjReMW7cNgO_35kryymxHqxv10rlZTGNrtEk1f7wOO9fxAdB4ZndBJ1-fYLDsxY_uJZeC1cfuzE1VGWO27_V2_noiHd9_hE0EQ2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=SuYCzQWRU5sdiMz0dhJW-rlTwu702CC7oBozepXrovkOpfHsJ5YA1GY2n7ZQVYzyEvFxH9kaAV7bZGEj5POfne-G6TsKSp1Bdeg6xSdhBb-pIcXCsUCbzSeZSs0mccESH-YyFFLOkKOwBte83hGIIsyUnMzHHlq1M2QlehRZcAg1&amp;t=4293c76a" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7B130CA4" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="EMSGgYptlZRypFiVzyylfHEYTJvdLi52oyr/5DeX79F00NTu/Fe+nMg4YupDVO8nstnzvm0IQuhp93sCe8r5mAylMUp5OVaWnypNhbSJ402B9DHpuik2JmyiHXQnKb3vJa0Lgzprrp56xlf7Q1E6ig==" />
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+	
+    <div id="wrapper">
+        <div class="container">
+            <div id="topNav" class="row">
+                <div id="topNavMenu" role="navigation">
+                    <ul role="menu">
+                        <li role="menuitem">
+                            <a title="go to UIC website" href="http://www.uic.edu" target="_blank">UIC</a></li>
+                        <li role="menuitem">
+                            <a title="go to LAS website" href="http://www.las.uic.edu" target="_blank">LAS</a></li>
+                    </ul>
+                    <span class="breadCrumbs">
+                        
+<div id="cphBreadCrumbs_T2A5F492A004">
+	<span id="cphBreadCrumbs_T2A5F492A004_ctl00_ctl00_BreadcrumbTrail"><span>UIC Gender &amp; Women&#39;s Studies</span></span>
+</div>
+
+
+
+                    </span>
+                </div>
+                
+
+<div id="search" role="search">
+    <label id="lblSearchBox" for="searchTextBox">
+        Search</label>
+    <input name="ctl00$cphSearchBox$T3A5AEE12001$searchTextBox" type="text" id="searchTextBox" />
+    <input type="image" name="ctl00$cphSearchBox$T3A5AEE12001$searchButton" id="cphSearchBox_T3A5AEE12001_searchButton" title="submit this search" class="btnGo" src="//static.las.uic.edu/images/las-ui/btn-go.png" alt="Go" />
+</div>
+
+
+            </div>
+        </div>
+        <!-- end #topNav -->
+        <div class="container">
+            <header class="row bannerWrapper" role="banner">
+                <div class="fullwidth last banner">
+                    
+<div class='sfContentBlock'><h1><a title="go to homepage" href="/gws"><img alt="Gender and Women's Studies logo" data-displaymode="Original" class="logo" src="/images/librariesprovider3/layout-images/gws-logo.png?sfvrsn=a2debc58_4" /></a></h1>
+
+
+</div>
+                    <div id="bannerText">
+                        
+
+                    </div>
+                </div>
+                <div class="fullwidth last headerPhoto">
+                    
+<img id="cphBannerPhoto_TF8D4EED6003_imageHolder" src="https://gws.uic.edu/images/librariesprovider3/sample-banners/addams.jpg?sfvrsn=953c397c_8" longdesc="data:text/html;charset=utf-8;,%3C!DOCTYPE%20html%3E%3Chtml%3E%3Chead%3E%3Ctitle%3EDescription%20of%20Jane%20Addams%3C/title%3E%3C/head%3E%3Cbody%3E%3Cp%3E%22The%20good%20we%20secure%20for%20ourselves%20is%20precarious%20and%20uncertain%20until%20it%20is%20secured%20for%20all%20of%20us%20and%20incorporated%20into%20our%20common%20life.%22%20%20-%20Jane%20Addams%3C/p%3E%3C/body%3E%3C/html%3E" alt="Jane Addams" />
+
+                </div>
+            </header>
+        </div>
+        <!-- end #header -->
+        <div class="container">
+            <div id="pageBody" class="row">
+                <div class="fullwidth last">
+                    <div class="row sideBG">
+                        <nav class="navw side_img" role="navigation">
+                            
+<div id="cphLeftNav_T2A5F492A005">
+	<div id="ctl00_cphLeftNav_T2A5F492A005_ctl00_ctl00_siteMapControl_verticaltree" class="RadTreeView RadTreeView_Silk">
+		<!-- 2017.2.621.40 --><ul class="rtUL rtLines">
+			<li class="rtLI rtFirst"><div class="rtTop">
+				<span class="rtSp"></span><a class="rtIn" href="gws/home">Home</a>
+			</div></li><li class="rtLI"><div class="rtMid">
+				<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="gws/about">About</a>
+			</div><ul class="rtUL" style="display:none;">
+				<li class="rtLI rtLast"><div class="rtBot">
+					<span class="rtSp"></span><a class="rtIn" href="gws/about/gws-history">GWS History</a>
+				</div></li>
+			</ul></li><li class="rtLI"><div class="rtMid">
+				<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="people">People</a>
+			</div><ul class="rtUL" style="display:none;">
+				<li class="rtLI"><div class="rtTop">
+					<span class="rtSp"></span><a class="rtIn" href="people/gws-administration">Administration</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="people/gws-faculty">Faculty</a>
+				</div><ul class="rtUL" style="display:none;">
+					<li class="rtLI"><div class="rtTop">
+						<span class="rtSp"></span><a class="rtIn" href="people/gws-faculty/affiliated-faculty">Affiliated Faculty</a>
+					</div></li><li class="rtLI"><div class="rtMid">
+						<span class="rtSp"></span><a class="rtIn" href="people/gws-faculty/emeriti-faculty">Emeriti Faculty</a>
+					</div></li><li class="rtLI"><div class="rtMid">
+						<span class="rtSp"></span><a class="rtIn" href="people/gws-faculty/lecturers">Lecturers</a>
+					</div></li><li class="rtLI rtLast"><div class="rtBot">
+						<span class="rtSp"></span><a class="rtIn" href="people/gws-faculty/faculty-resources">Faculty Resources</a>
+					</div></li>
+				</ul></li><li class="rtLI rtLast"><div class="rtBot">
+					<span class="rtSp"></span><a class="rtIn" href="people/gws-teaching-assistants">Teaching Assistants</a>
+				</div></li>
+			</ul></li><li class="rtLI"><div class="rtMid">
+				<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="gws/academics">Students</a>
+			</div><ul class="rtUL" style="display:none;">
+				<li class="rtLI"><div class="rtTop">
+					<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="gws/academics/major">GWS Major</a>
+				</div><ul class="rtUL" style="display:none;">
+					<li class="rtLI rtLast"><div class="rtBot">
+						<span class="rtSp"></span><a class="rtIn" href="gws/academics/major/major-plan">GWS Plan of Study</a>
+					</div></li>
+				</ul></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="gws/academics/minor">GWS Minor</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="gws/academics/social-justice-minor">Social Justice Minor</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="gws/academics/grad-concentration">GWS Graduate Concentration</a>
+				</div></li><li class="rtLI rtLast"><div class="rtBot">
+					<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="gws/academics/funding">Funding For GWS Students</a>
+				</div><ul class="rtUL" style="display:none;">
+					<li class="rtLI rtLast"><div class="rtBot">
+						<span class="rtSp"></span><a class="rtIn" href="gws/academics/funding/fellowship">Graduate Funding Opportunities </a>
+					</div></li>
+				</ul></li>
+			</ul></li><li class="rtLI"><div class="rtMid">
+				<span class="rtSp"></span><a class="rtIn" href="gws/courses">Courses</a>
+			</div></li><li class="rtLI"><div class="rtMid">
+				<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="gws/events">Events</a>
+			</div><ul class="rtUL" style="display:none;">
+				<li class="rtLI"><div class="rtTop">
+					<span class="rtSp"></span><a class="rtIn" href="gws/events/grad-student-speakers">GWS Grad Student Speaker Series</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="gws/events/cecsco">CECSCO</a>
+				</div></li><li class="rtLI rtLast"><div class="rtBot">
+					<span class="rtSp"></span><a class="rtIn" href="gws/events/past-events">Past Events</a>
+				</div></li>
+			</ul></li><li class="rtLI"><div class="rtMid">
+				<span class="rtSp"></span><a class="rtIn" href="gws/news">News</a>
+			</div></li><li class="rtLI rtLast"><div class="rtBot">
+				<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="gws/resources">Resources</a>
+			</div><ul class="rtUL" style="display:none;">
+				<li class="rtLI"><div class="rtTop">
+					<span class="rtSp"></span><a class="rtIn" href="gws/resources/contact-gws">Contact GWS</a>
+				</div></li><li class="rtLI rtLast"><div class="rtBot">
+					<span class="rtSp"></span><a class="rtIn" href="gws/resources/gws-affiliates">GWS Affiliates</a>
+				</div></li>
+			</ul></li>
+		</ul><input id="ctl00_cphLeftNav_T2A5F492A005_ctl00_ctl00_siteMapControl_verticaltree_ClientState" name="ctl00_cphLeftNav_T2A5F492A005_ctl00_ctl00_siteMapControl_verticaltree_ClientState" type="hidden" />
+	</div>
+
+<script type="text/javascript">
+    function pageLoad() { var tree = $find("ctl00_cphLeftNav_T2A5F492A005_ctl00_ctl00_siteMapControl_verticaltree"); if (tree) { var location = window.location.pathname; location = location.substring(location.lastIndexOf('/') + 1); var currentNode = tree.findNodeByUrl(location); if (currentNode) { currentNode.set_selected(true); ExpandParent(currentNode); currentNode.set_expanded(true) } } } function CollapseSiblings(node) { var parent = node.get_parent(); var siblings = parent.get_nodes(); var siblingsCount = siblings.get_count(); for (var nodeIndex = 0; nodeIndex < siblingsCount; nodeIndex++) { var siblingNode = siblings.getNode(nodeIndex); if ((siblingNode != node) && (siblingNode.get_expanded())) { siblingNode.collapse(); return } } } function OnClientNodeExpanding(sender, args) { var node = args.get_node(); if (node.get_nodes().get_count()) { CollapseSiblings(node) } } function ExpandParent(node) { node = node.get_parent(); while (node != null) { if (node.expand) { node.expand() } node = node.get_parent() } }
+</script>
+
+
+</div>
+                        </nav>
+                        <div class="bodyw last copy">
+                            
+<div class="sf_cols">
+    <div class="sf_colsOut sf_2cols_1_67">
+        <div id="cphPageBody_C002_Col00" class="sf_colsIn sf_2cols_1in_67"><div class='sfContentBlock'><h2>Welcome to Gender and Women's Studies <br />
+<br />
+</h2>
+<p>The Gender and Women's Studies Program at University of Illinois at Chicago is an interdisciplinary unit dedicated to investigating the relationships between gender (including transgender), sexuality, feminism, and social justice. <br />
+<br />
+GWS insists that gender and sexuality must be understood through their intersections with race, class, age, nation, citizenship, and ability. We conceptualize how these interconnected categories inform and structure social life, culture, politics, social movements and knowledge production. <br />
+<br />
+GWS sees a sustained engagement with local, national and transnational communities as central to our research and teaching/work at UIC.</p>
+<h2>
+</h2>
+
+
+</div><div class='sfContentBlock'><h3>New resource for people looking for jobs in GWS!</h3>
+<p >It's compiled and maintained by Women, Gender, and Sexuality Studies at Oregon State University, based on and inspired by Rhet Map http://rhetmap.org in order to fill a need for job seekers with undergraduate and master's degrees in Women, Gender and Sexuality Studies.<br />
+<br />
+<a href="https://wgssjobs.wordpress.com/">WGSS Jobs</a></p>
+<a href="https://batchgeo.com/map/90f9d47032d0971b4acca64c2c91425e" target="_blank">Jobs Map for WGSS Majors and Master&rsquo;s Students 2018-2019</a><br />
+<br />
+<a href="https://docs.google.com/spreadsheets/d/1uX_Vc_6IXQ6reulRO8CUB98VyKk6Q4bUUG7p2nV0g1E/edit#gid=0" target="_blank">Jobs for WGSS Majors and Master&rsquo;s Students Downloadable Spreadsheet</a><br />
+<br />
+<br />
+
+
+</div><div id="cphPageBody_C007_imagesFrontendThumbnailsListStrip">
+	
+
+
+<div id="cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_imagesContainer" class="sfTmbStripAndImageOnSamePage">
+    
+    
+                
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl0_singleItemLink" title="People celebrating at the 2013 CECSCO Awards" href="/images/librariesprovider3/homepagelibrary/multiracialgroup.jpg?sfvrsn=45acbd58_7"><img title="People celebrating at the 2013 CECSCO Awards" src="/images/librariesprovider3/homepagelibrary/multiracialgroup.tmb-thumb200.jpg?sfvrsn=45acbd58_1" alt="2013 CECSCO Awards Celebration" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl1_singleItemLink" title="42717-1212" href="/images/librariesprovider3/homepagelibrary/42717-1212.jpg?sfvrsn=6fc8b858_2"><img title="42717-1212" src="/images/librariesprovider3/homepagelibrary/42717-1212.tmb-thumb200.jpg?sfvrsn=6fc8b858_1" alt="42717-1212" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl2_singleItemLink" title="DG13_04_06_083" href="/images/librariesprovider3/homepagelibrary/dg13_04_06_083.jpg?sfvrsn=1071bd58_2"><img title="DG13_04_06_083" src="/images/librariesprovider3/homepagelibrary/dg13_04_06_083.tmb-thumb200.jpg?sfvrsn=1071bd58_1" alt="DG13_04_06_083" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl3_singleItemLink" title="DG13_04_06_175" href="/images/librariesprovider3/default-album/dg13_04_06_175.jpg?sfvrsn=401cbd58_0"><img title="DG13_04_06_175" src="/images/librariesprovider3/default-album/dg13_04_06_175.tmb-thumb200.jpg?sfvrsn=401cbd58_1" alt="DG13_04_06_175" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl4_singleItemLink" title="DG13_04_06_076" href="/images/librariesprovider3/homepagelibrary/dg13_04_06_076.jpg?sfvrsn=871bd58_2"><img title="DG13_04_06_076" src="/images/librariesprovider3/homepagelibrary/dg13_04_06_076.tmb-thumb200.jpg?sfvrsn=871bd58_1" alt="DG13_04_06_076" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl5_singleItemLink" title="DG13_04_06_029" href="/images/librariesprovider3/default-album/dg13_04_06_029.jpg?sfvrsn=501cbd58_0"><img title="DG13_04_06_029" src="/images/librariesprovider3/default-album/dg13_04_06_029.tmb-thumb200.jpg?sfvrsn=501cbd58_1" alt="DG13_04_06_029" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl6_singleItemLink" title="Professors Laurie Schaffner, Judith Gardiner, &amp; Sekile Nzinga Johnson at 2013 CECSCO Awards" href="/images/librariesprovider3/homepagelibrary/dg13_04_06_073.jpg?sfvrsn=3370bd58_3"><img title="Professors Laurie Schaffner, Judith Gardiner, &amp; Sekile Nzinga Johnson at 2013 CECSCO Awards" src="/images/librariesprovider3/homepagelibrary/dg13_04_06_073.tmb-thumb200.jpg?sfvrsn=3370bd58_1" alt="2013 CECSCO Awards" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl7_singleItemLink" title="Dr. Natalie Bennett at CECSCO Awards" href="/images/librariesprovider3/homepagelibrary/dg13_04_06_021.jpg?sfvrsn=d7eab858_4"><img title="Dr. Natalie Bennett at CECSCO Awards" src="/images/librariesprovider3/homepagelibrary/dg13_04_06_021.tmb-thumb200.jpg?sfvrsn=d7eab858_1" alt="2013 CECSCO Awards" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl8_singleItemLink" title="Professors Laurie Schaffner, John D&#39;Emilio, and Barbara Ransby at the 2013 CECSCO AWARDS" href="/images/librariesprovider3/homepagelibrary/2013cecscoawards1.jpg?sfvrsn=d8eab858_6"><img title="Professors Laurie Schaffner, John D&#39;Emilio, and Barbara Ransby at the 2013 CECSCO AWARDS" src="/images/librariesprovider3/homepagelibrary/2013cecscoawards1.tmb-thumb200.jpg?sfvrsn=d8eab858_1" alt="2013 CECSCO AWARDS" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl9_singleItemLink" title="CECSCO Awardee, Joy Messinger &amp; friend" href="/images/librariesprovider3/homepagelibrary/2013cecscoawards2.jpg?sfvrsn=d9eab858_4"><img title="CECSCO Awardee, Joy Messinger &amp; friend" src="/images/librariesprovider3/homepagelibrary/2013cecscoawards2.tmb-thumb200.jpg?sfvrsn=d9eab858_1" alt="2013 CECSCO Awards" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl10_singleItemLink" title="People talking at the 2013 CECSCO Awards" href="/images/librariesprovider3/homepagelibrary/2013cecscoawards3.jpg?sfvrsn=dceab858_4"><img title="People talking at the 2013 CECSCO Awards" src="/images/librariesprovider3/homepagelibrary/2013cecscoawards3.tmb-thumb200.jpg?sfvrsn=dceab858_1" alt="2013 CECSCO Awards" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl11_singleItemLink" title="Professor and Students Celebrate the End of the Semester" href="/images/librariesprovider3/homepagelibrary/endofsemester1.jpg?sfvrsn=a8eab858_4"><img title="Professor and Students Celebrate the End of the Semester" src="/images/librariesprovider3/homepagelibrary/endofsemester1.tmb-thumb200.jpg?sfvrsn=a8eab858_1" alt="People celebrating" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl12_singleItemLink" title="200A2294" href="/images/librariesprovider3/homepagelibrary/200a2294.jpg?sfvrsn=aaeab858_2"><img title="200A2294" src="/images/librariesprovider3/homepagelibrary/200a2294.tmb-thumb200.jpg?sfvrsn=aaeab858_1" alt="200A2294" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl13_singleItemLink" title="42717-1018" href="/images/librariesprovider3/homepagelibrary/42717-1018.jpg?sfvrsn=aeeab858_2"><img title="42717-1018" src="/images/librariesprovider3/homepagelibrary/42717-1018.tmb-thumb200.jpg?sfvrsn=aeeab858_1" alt="42717-1018" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl14_singleItemLink" title="42717-1053" href="/images/librariesprovider3/homepagelibrary/42717-1053.jpg?sfvrsn=b8eab858_2"><img title="42717-1053" src="/images/librariesprovider3/homepagelibrary/42717-1053.tmb-thumb200.jpg?sfvrsn=b8eab858_1" alt="42717-1053" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl15_singleItemLink" title="42717-1063" href="/images/librariesprovider3/homepagelibrary/42717-1063.jpg?sfvrsn=baeab858_2"><img title="42717-1063" src="/images/librariesprovider3/homepagelibrary/42717-1063.tmb-thumb200.jpg?sfvrsn=baeab858_1" alt="42717-1063" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl16_singleItemLink" title="42717-1087" href="/images/librariesprovider3/homepagelibrary/42717-1087.jpg?sfvrsn=bbeab858_2"><img title="42717-1087" src="/images/librariesprovider3/homepagelibrary/42717-1087.tmb-thumb200.jpg?sfvrsn=bbeab858_1" alt="42717-1087" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl17_singleItemLink" title="42717-1121" href="/images/librariesprovider3/homepagelibrary/42717-1121.jpg?sfvrsn=80eab858_2"><img title="42717-1121" src="/images/librariesprovider3/homepagelibrary/42717-1121.tmb-thumb200.jpg?sfvrsn=80eab858_1" alt="42717-1121" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl18_singleItemLink" title="42717-1215" href="/images/librariesprovider3/homepagelibrary/42717-1215.jpg?sfvrsn=85eab858_2"><img title="42717-1215" src="/images/librariesprovider3/homepagelibrary/42717-1215.tmb-thumb200.jpg?sfvrsn=85eab858_1" alt="42717-1215" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl19_singleItemLink" title="42717-1162" href="/images/librariesprovider3/homepagelibrary/42717-1162.jpg?sfvrsn=88eab858_2"><img title="42717-1162" src="/images/librariesprovider3/homepagelibrary/42717-1162.tmb-thumb200.jpg?sfvrsn=88eab858_1" alt="42717-1162" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl20_singleItemLink" title="42717-1131" href="/images/librariesprovider3/homepagelibrary/42717-1131.jpg?sfvrsn=8aeab858_2"><img title="42717-1131" src="/images/librariesprovider3/homepagelibrary/42717-1131.tmb-thumb200.jpg?sfvrsn=8aeab858_1" alt="42717-1131" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl21_singleItemLink" title="42717-1139" href="/images/librariesprovider3/homepagelibrary/42717-1139.jpg?sfvrsn=8deab858_2"><img title="42717-1139" src="/images/librariesprovider3/homepagelibrary/42717-1139.tmb-thumb200.jpg?sfvrsn=8deab858_1" alt="42717-1139" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl22_singleItemLink" title="42717-1192" href="/images/librariesprovider3/homepagelibrary/42717-1192.jpg?sfvrsn=92eab858_2"><img title="42717-1192" src="/images/librariesprovider3/homepagelibrary/42717-1192.tmb-thumb200.jpg?sfvrsn=92eab858_1" alt="42717-1192" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl23_singleItemLink" title="42717-1203" href="/images/librariesprovider3/homepagelibrary/42717-1203.jpg?sfvrsn=97eab858_2"><img title="42717-1203" src="/images/librariesprovider3/homepagelibrary/42717-1203.tmb-thumb200.jpg?sfvrsn=97eab858_1" alt="42717-1203" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl24_singleItemLink" title="42717-1280" href="/images/librariesprovider3/homepagelibrary/42717-1280.jpg?sfvrsn=9deab858_2"><img title="42717-1280" src="/images/librariesprovider3/homepagelibrary/42717-1280.tmb-thumb200.jpg?sfvrsn=9deab858_1" alt="42717-1280" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl25_singleItemLink" title="42717-1239" href="/images/librariesprovider3/homepagelibrary/42717-1239.jpg?sfvrsn=62eab858_2"><img title="42717-1239" src="/images/librariesprovider3/homepagelibrary/42717-1239.tmb-thumb200.jpg?sfvrsn=62eab858_1" alt="42717-1239" /></a>    
+          
+          <a id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ctrl26_singleItemLink" title="42717-1308" href="/images/librariesprovider3/homepagelibrary/42717-1308.jpg?sfvrsn=63eab858_2"><img title="42717-1308" src="/images/librariesprovider3/homepagelibrary/42717-1308.tmb-thumb200.jpg?sfvrsn=63eab858_1" alt="42717-1308" /></a>    
+        
+      <input id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ClientState" name="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ClientState" type="hidden" /><span id="ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList" style="display:none;"></span>
+</div>
+
+<span></span>
+</div>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_2cols_2_33">
+        <div id="cphPageBody_C002_Col01" class="sf_colsIn sf_2cols_2in_33">
+        <div class="list-title">
+	        <h3 class="news-title">News</h3>
+            <h4 class="more-link"><a id="ctl00_cphPageBody_C005_newsFrontendList_ctl00_ctl00_NewsList_morelink" title="go to news page" href="english/news">+ (More)</a></h4>
+            <a id="ctl00_cphPageBody_C005_newsFrontendList_ctl00_ctl00_NewsList_newsRSS" title="subscribe to RSS" href="Feeds/english-news"><img alt="rss icon" src="//static.las.uic.edu/images/vector-social-media-icons/24px/rss.png" class="rss-button"/></a>
+        </div>
+        
+        <ul class="sfnewsList sfnewsListTitleDateSummary">
+            
+      <li class="sfnewsListItem">
+            <h3 class="sfnewsTitle inline">
+                <a id="ctl00_cphPageBody_C005_newsFrontendList_ctl00_ctl00_NewsList_ctrl0_DetailsViewHyperLink1" Rel="tooltip" Title="" href="gws/news/2018/11/10/gws-professor-barbara-ransby-receives-2018-angela-y.-davis-prize">GWS Professor Barbara Ransby Receives 2018 Angela Y. Davis Prize</a>
+            </h3>
+            <div class="sfnewsSummary">
+                </div>
+            
+          </li>
+    
+      <li class="sfnewsListItem">
+            <h3 class="sfnewsTitle inline">
+                <a id="ctl00_cphPageBody_C005_newsFrontendList_ctl00_ctl00_NewsList_ctrl1_DetailsViewHyperLink1" Rel="tooltip" Title="" href="gws/news/2018/11/10/gws-professor-barbara-ransby-featured-on-cbs-chicago">GWS Professor Barbara Ransby Featured on CBS Chicago</a>
+            </h3>
+            <div class="sfnewsSummary">
+                </div>
+            
+          </li>
+    
+      <li class="sfnewsListItem">
+            <h3 class="sfnewsTitle inline">
+                <a id="ctl00_cphPageBody_C005_newsFrontendList_ctl00_ctl00_NewsList_ctrl2_DetailsViewHyperLink1" Rel="tooltip" Title="" href="gws/news/2018/11/10/gws-professor-barbara-ransby-featured-in-the-journal-of-blacks-in-higher-education">GWS Professor Barbara Ransby featured in The Journal of Blacks in Higher Education</a>
+            </h3>
+            <div class="sfnewsSummary">
+                </div>
+            
+          </li>
+     
+        </ul>
+    <input id="ctl00_cphPageBody_C005_newsFrontendList_ctl00_ctl00_NewsList_ClientState" name="ctl00_cphPageBody_C005_newsFrontendList_ctl00_ctl00_NewsList_ClientState" type="hidden" /><span id="ctl00_cphPageBody_C005_newsFrontendList_ctl00_ctl00_NewsList" style="display:none;"></span>
+
+<span></span>
+
+
+<span></span>
+            
+        </div>
+    </div>
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end #pageBody -->
+        <div class="container">
+            <footer role="contentinfo">
+                <div id="copyright" class="row">
+                    <div class="fullwidth last">
+                        
+<div class='sfContentBlock'><span class="copyrightText">&copy;2017 The Board of Trustees of the University of Illinois.</span>
+
+
+</div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        <div class="container">
+            <div id="footer" class="row">
+                <div class="footerCol">
+                    
+<div class='sfContentBlock'><a href="https://www.las.uic.edu/giving/gws" title="give to GWS"><img src="//static.las.uic.edu/images/giving/give-button-gws.png" alt="Give to GWS logo" class="dark-shadow" /></a>
+
+
+</div>
+                </div>
+                <div class="footerCol">
+                    
+<div class='sfContentBlock'>Gender and Women's Studies Program<br />
+University of Illinois at Chicago<br />
+College of Liberal Arts and Sciences<br />
+1208 University Hall, m/c 360<br />
+601 S. Morgan St.<br />
+Chicago, IL 60607<br />
+Office: (312) 996-2441<br />
+Fax: (312) 996-5799
+
+
+</div>
+                </div>
+                <div class="footerGroup">
+                    <div class="footerCol">
+                        
+<div class='sfContentBlock'><a target="_blank" href="http://www.uic.edu" title="go to UIC website">UIC Home</a><br />
+<a target="_blank" href="http://www.las.uic.edu" title="go to LAS website">LAS Home</a><br />
+<a target="_blank" href="http://www.uic.edu/uic/search/" title="go to UIC directory search">Find People</a><br />
+<div class="social_media">
+Social:
+<ul>
+    <li><a href="https://www.facebook.com/uicgws" title="find us on Facebook" target="_blank"><img src="https://static.las.uic.edu/images/round-social-media-icons/48px/facebook.png" alt="Facebook logo" /></a></li>
+</ul>
+</div>
+
+
+</div>
+                    </div>
+                    <div class="footerCol">
+                        
+<div class='sfContentBlock'><a target="_blank" title="go to website" href="http://www.uic.edu/uic/studentlife/campus/emergency-information.shtml">Emergency Information</a><br />
+<a target="_blank" title="go to website" href="http://tigger.uic.edu/home/wdw/accessweb/what.html">Accessibility</a><br />
+<a target="_blank" title="go to website" href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Policy</a><br />
+<a title="email LAS webmaster" href="mailto:laswebstaff@uic.edu">Webmaster</a>
+
+
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--end #footer-->
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Telerik.Web.UI.RadTreeView._preInitialize("ctl00_cphLeftNav_T2A5F492A005_ctl00_ctl00_siteMapControl_verticaltree","0");//]]>
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24550204-30', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('ctl11_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Sitefinity.Resources, Version=10.1.6525.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en:eb177f10-254a-47f5-be2f-2f1c3f40d5ff:7a90d6a:3b262ebc';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTreeView, {"_skin":"Silk","_uniqueId":"ctl00$cphLeftNav$T2A5F492A005$ctl00$ctl00$siteMapControl_verticaltree","clientStateFieldID":"ctl00_cphLeftNav_T2A5F492A005_ctl00_ctl00_siteMapControl_verticaltree_ClientState","collapseAnimation":"{\"duration\":200}","expandAnimation":"{\"duration\":200}","nodeData":[{"value":"Home"},{"value":"About","items":[{"value":"GWS History"}]},{"value":"People","items":[{"value":"Administration"},{"value":"Faculty","items":[{"value":"Affiliated Faculty"},{"value":"Emeriti Faculty"},{"value":"Lecturers"},{"value":"Faculty Resources"}]},{"value":"Teaching Assistants"}]},{"value":"Students","items":[{"value":"GWS Major","items":[{"value":"GWS Plan of Study"}]},{"value":"GWS Minor"},{"value":"Social Justice Minor"},{"value":"GWS Graduate Concentration"},{"value":"Funding For GWS Students","items":[{"value":"Graduate Funding Opportunities "}]}]},{"value":"Courses"},{"value":"Events","items":[{"value":"GWS Grad Student Speaker Series"},{"value":"CECSCO"},{"value":"Past Events"}]},{"value":"News"},{"value":"Resources","items":[{"value":"Contact GWS"},{"value":"GWS Affiliates"}]}]}, {"nodeExpanding":OnClientNodeExpanding}, null, $get("ctl00_cphLeftNav_T2A5F492A005_ctl00_ctl00_siteMapControl_verticaltree"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Sitefinity.Modules.Libraries.Web.UI.Images.MasterThumbnailStripView, {"_enablePrevNextLinks":true,"_galleriaCssUrl":"/WebResource.axd?d=1AcPb7B7n7OGvxzXJMkho2woUO7ShGVoaeR2b4jLtnoSiS1EvnhkfounovWv5h6KOiS0PPSkPeiw2JukYqLB9nIrYcWWFMUufZSvbBSossvh3z9YwbBICwy87WfqTRncGIZdT8Gph5H3AAhebsTdogn747wAYWiKYVh_MQfG0rpeoPJ0tWHR25siKy-F0PVYQ1XFeCYw3n4EUyVTR6rMAA2\u0026t=636428201060000000","_galleriaTemplateUrl":"/WebResource.axd?d=Gk57VYG0eEf33F5Gf0xBBqldtIlScbeESu86Ej_Xipa467C6hHldjO0rgs9hVETuNVDazk3vICHu_yOTF35kZnvBzK9ARRKtQxymzI7p0Bi6-7iEiav0_x1avBjWzU0uT4SUf0udG7XOjfXfdv18bM-S90xjIxtVXHWrqcEvEAVk_nBcgGBOj04B14iO_0W-0\u0026t=636428201060000000","_imagesContainerId":"cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_imagesContainer"}, null, null, $get("cphPageBody_C007_imagesFrontendThumbnailsListStrip"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadListView, {"UniqueID":"ctl00$cphPageBody$C007$imagesFrontendThumbnailsListStrip$ctl00$ctl00$ItemsList","_clientSettings":{"DataBinding":{"ItemPlaceHolderID":"ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ItemsContainer","DataService":{}}},"_virtualItemCount":27,"clientStateFieldID":"ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList_ClientState","renderMode":1}, null, null, $get("ctl00_cphPageBody_C007_imagesFrontendThumbnailsListStrip_ctl00_ctl00_ItemsList"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Sitefinity.Web.UI.UserPreferences, {"_timeOffset":"-21600000","_userBrowserSettingsForCalculatingDates":true,"timeZoneDisplayName":"(UTC-06:00) Central Time (US \u0026 Canada)","timeZoneId":"Central Standard Time"}, null, null);
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadListView, {"UniqueID":"ctl00$cphPageBody$C005$newsFrontendList$ctl00$ctl00$NewsList","_clientSettings":{"DataBinding":{"ItemPlaceHolderID":"ctl00_cphPageBody_C005_newsFrontendList_ctl00_ctl00_NewsList_ItemsContainer","DataService":{}}},"_virtualItemCount":3,"clientStateFieldID":"ctl00_cphPageBody_C005_newsFrontendList_ctl00_ctl00_NewsList_ClientState","renderMode":1}, null, null, $get("ctl00_cphPageBody_C005_newsFrontendList_ctl00_ctl00_NewsList"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

@@ -1,0 +1,395 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head id="Head1"><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><title>
+	David Shatz - "Should Theists Eschew Theodicies? Nahmanides and Joseph Soloveitchik on the Problem of Suffering"
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="geo.region" content="US-IL" /><meta name="geo.placename" content="Chicago" /><meta name="geo.position" content="41.874428;-87.651787" /><meta name="ICBM" content="41.874428, -87.651787" /><link rel="shortcut icon" href="//static.las.uic.edu/favicon.ico" />
+
+<link href="https://d35islomi5rx1v.cloudfront.net/ajax/2017.2.621/TreeView.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="https://d35islomi5rx1v.cloudfront.net/ajax/2017.2.621/Silk/TreeView.Silk.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="https://d35islomi5rx1v.cloudfront.net/ajax/2017.2.621/Common/fonticons.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="https://d35islomi5rx1v.cloudfront.net/ajax/2017.2.621/SocialShare.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="https://d35islomi5rx1v.cloudfront.net/ajax/2017.2.621/Default/SocialShare.Default.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><meta name="Generator" content="Sitefinity 10.1.6525.0 PU" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="text/javascript">
+	(function() {var _rdDeviceWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;var _rdDeviceHeight = (window.innerHeight > 0) ? window.innerHeight : screen.height;var _rdOrientation = (window.width > window.height) ? 'landscape' : 'portrait';})();
+</script><link href="/Sitefinity/WebsiteTemplates/LAS/App_Themes/LCSL/global/lcsl.css?v=636440278636996827" type="text/css" rel="stylesheet" /><meta name="description" content="This page contains events information and a calendar for the School of Literature, Cultural Studies and Linguistics (LCSL), University of Illinois at Chicago (UIC)." /><meta name="keywords" content="calendar, events, lectures, seminars, brown bag" /></head>
+<body>
+    <form method="post" action="./should-theists-eschew-theodicies-nahmanides-and-joseph-soloveitchik-on-the-problem-of-suffering" id="form1">
+<input type="hidden" name="ctl11_TSSM" id="ctl11_TSSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="TijNjINfxFm7it9JC9Ojn1pZI6RGCTI0c8SFJ6rjLT+E1NghXgq80AJ0hM7/2sBjF24ot1cYM3voIg6RtB9TyeOxgIS02GV6Wjc+dU4OCPdoquWZNxXOxFT+ysuxAHIHn2P2F/IYM26f2bbPcZamhXvatWnfMrajHJuicFs1MenAGsJfEiNHYTtFcsJuECsiyeJQUNdInsbZiKRgMRYulDC/RGk3Sj0C6+A0CHPvSOaPRZ+I6mTW7aCsoN0w8FJ+4NJI6Zu6HHAslrpO+tDPJFdRWbJVAMAldPOE6WCEyj43jXMiXbTf/qp7OmXk/OqNBofrVmHgoshY+JM0bSWKpzKND84N7Q2dIWkGF52HQ/kfii/JIstYcU20ZV5eNbuYsKpVD6/pRBOkRzilgmsiaADRJaBd1rRsKrWXF4z55C0hyy5vtOjiUkLzUV1fwgu+YBccQNxACHZjY5ocrkNejbnnmcq5dWZGEwP4UzEhkG+MD14ygSonXIww2TY4gRVouXCuh+3J2veZfSUh3djHJ3dijtKEDDWwDza4dvmDS+MORs14BKk2FSZm2D22QhV1r7sfDgyPjt5B34HMC4z3jHZBBbXdGl240ywwNvyZuOCfK3vE7v3Z7scUCaqbBKziNEJ4nttMAukHwr47JH37gfQC8CVSxfoYP0l/JxEH0blpE3kWjdd8z0dCHVLR/K749O2aKyPFRl5SC0/0ZHLwpoE89kkPWJLF7djAsODsKiHmBFzh+lFe88MXRjGpyfzmGAA4wKavMbVyAhEAgSV5iiXYFn+UPQsoLgebQwvhu6Yk86TnlAxzbvv4DPnKW+d/AOSgyy6Uk6pE2jhL2ygKWO57R0U8Qnv7wP/SMg2JOXMMQvgQnFA973CfZmfLEM0ACH7KzJh/nj4zE6LcCaaTSBysPjrC8yrrKxSa81FC7JHGnai2eqP4n5fiV5Y0ZGOU5nEeP4Yw8TIyDLT/u4j5PdZJeLEgal7LUHWBTY5Jipr4fPFur7GSVxQCFQMPW77/mveStKFz4DHFuBGrBTYR/nGO2vJqyRZUMJ2UZ0jo56OKIHgbCrTAlpLwR1bmiO5+9/ypHZ2qCd8n3vhCflsD+TgOkwMY0ROGUQYnt/g81Ar7pBpNoZIGh0mp+8CJN2/2guQ60apDDD8aN9WFHNDmbQ9UyqGbq1VKWImpyAmaMj7cP/F2tgR+mITWfWzvxbbhJwn7Ii1XeHN1cWocDqoA6/Pw1ybJABDVG7n+hsgd3tYZShaLYcnUEjGxDKR4VCAZ+h7VEGleS+rVp6YVQjndpj1DnRBNcbMki1G5b2C6+ebXs7jMwqXMJ5UPswwLSgxAG/EilTwNtmsED9W7zoCWCQ==" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+function socialButtonClickedHandler(sender, args){
+      if (window.DataIntelligenceSubmitScript) {
+            DataIntelligenceSubmitScript._client.sentenceClient.writeSentence({
+                predicate: 'Share on social media',
+                object: args._socialNetType,
+                objectMetadata: [
+											{
+											    'K': 'PageTitle',
+											    'V': document.title
+											},
+                                            {
+                                                'K': 'PageUrl',
+                                                'V': location.href
+                                            }
+                ]
+            });
+        }
+}function twitterButtonClickedHandler(sender, args){
+      if (window.DataIntelligenceSubmitScript) {
+            DataIntelligenceSubmitScript._client.sentenceClient.writeSentence({
+                predicate: 'Share on social media',
+                object: 'Twitter',
+                objectMetadata: [
+											{
+											    'K': 'PageTitle',
+											    'V': document.title
+											},
+                                            {
+                                                'K': 'PageUrl',
+                                                'V': location.href
+                                            }
+                ]
+            });
+        }
+}function googlePlusButtonClickedHandler(sender, args){
+      if (window.DataIntelligenceSubmitScript) {
+            DataIntelligenceSubmitScript._client.sentenceClient.writeSentence({
+                predicate: 'Share on social media',
+                object: 'Google+',
+                objectMetadata: [
+											{
+											    'K': 'PageTitle',
+											    'V': document.title
+											},
+                                            {
+                                                'K': 'PageUrl',
+                                                'V': location.href
+                                            }
+                ]
+            });
+        }
+}//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvqReKDV31fx4WbZULCNIZ94JPY-dDhNoEQokDshHCD5PJCNMmQGNEuRSNuJNQfaxHi-yQapzrY9vkJWVwuTTZj398iCu6TGm9Hf9P6Mb5oe6uGTDDPVXjocwjwK8QjWu3ZfGvOJNASMNdVT_QgEn4Hs1&t=545ba255"><\/script>');//]]>
+</script>
+
+<script src="//www.google.com/jsapi" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-1.12.1.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TzLh_6Bf7e5lPWb3oN3kRPUqxLgpARAQca2rA3BRm-C3hAJM9X_ru7oaYwL36aCUotXmeQ8wKTS6Tw46dKfEEUdzuspQibOoB63bEcoFBRruAI2k-m6CaZnngqUEUcM8uPeGSWaBx-jiKwuCuuAR9ITjT1GDSqd4k8Dd2rzYJE8YkMGBG63UrsJh2bpCqgLpFcuFNiPZM54SXTiCezW36Q2&amp;t=fffffffff0f3ba09" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TDVjdgRbdvNAY3tnbizUcEebH9kjW3XaxPqINgZM6xz6TJ0Lj43DqhGT1EAjr9Stov6gdrPvloT27kRjcXzvZMlb8rfmQLN-nHvRU7zvFSB4Qi7smv-wHolPD63uIdsY0&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mbGZm65DzNC0tMTq0ElbcXaxRi-DtXd4SyunCv3-vVDS6ZwIeqS0qHmGZnDsrQk2Cw0whQRqg1F_bJyHaG6iL6bnCTuCOnSHHaM0mYCpMMlapE7jUSsFeXeI905-qecz5Dr792yE9O3VX92pju8djA2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-9rjE8XFv-zikiBdee7Rrp6nsRVf_q-Rly-C5ckZQTwAidz49bywPQLjVdqHMPIYoZetNUcv7MgDOFePO2cUvWmt4Lz0dxZc3u5pr2Ph7pvob-wCTeoWUH68_-O9Qh3SnAO-nd2xR4tGYypv0KmVOtFfznGL1IJDAj20PGdiUkw1&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=cmIcXiVJ__exjjpjrN730oJjjlydd5Cnj64GhOAcO6_9RUS9unpz_QGhh_8fhg4a3IYdWSGr4JcZLj1_5WiO1T010-DmlE1w9YTn71c_9-s_MZ_v03f4MTiBkBOZ5CWQ5yLq1aUF9Kg7weBedtbGvg2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=utaAJrK4EroNO-KNr3p19Ek7723_1m3s69AUfLHukT4hPPIgzjf-DcTsMLmRwzdj-p_tXyJmHclWggMo0Yxlo13-iCP0SZCvU0VSUvD5vyhUKwdlsb-hLF1EeG17PM4hIviohmi5vRpYYlG94ZK82A2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=86EhAqQjfuMKlbK4FWyenOERM8XvuOJ9qXE9OlNoUtqp9hmVE67hP_nQ8CZi9vuiYPqZPvffD6l8Qx9iU0-_mgNgjC2pqVdTOEt11vJLB8FXX18IkhjMEEtnA12a3-f8u-9XH50BqA-m_oStBNabyh5-RHZm1cCASxGhPMsz-VU1&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=eKZhdBAoDXLAsQys5JFN8iIryhrfBAZBq7_x8htphXmsryKt7lwPJ95w-NUdxialJT7k1es9x0lSbd5ntHTjnNpIyrBSvR5lpHNebzyXqKsLK2QjHA_04auVSOKd1AW1rVcZ1nOgi8n8_YqBvoU5tJr9EZqF3Eq-ycgy3HZSm5M1&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uZyysmNAhs23bID72ZUaSkv1dV1up0GhTtnrfcX5yBVhtrGiq3igS74c0Js2t9SI5c-2NDYiiilzzwlSZrFnjEp3PCoKEe3VzuTptUZkWB5P7RLYdyMBp-ezdieqb_eP0aZBOduBFv8kC0oH6onDCkeTnCeF5GWfBp-vYNFInqo1&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=tFYhzROIw9zSEayAZiU0Wm-_YdNjmGKFX_pwDfa3k06v0ZTKi5Xu-wVN02T3m3YOzkMTWxQyH42-kC-8GyEpy0T7uMf57mV1E4ZEXQSJZPFdXITi1z4hrcsp60B5vKgNjRr9bRTNtSPFlgbbeUDAQw2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=txOWT0IWXM4wZRbIbHwGn13Bqe0ybAR5NrthjfbxS4vwqYMMdBVbKBidmgpsta_ZNUY93cr9Osngcf6xWRzk5jBUOPelrf570qC7y2Nu_TKyG_v6Ub7UKD6sko2w5yx-E6qu-px0L0ncHIn7qHsWEKlw8wioyY9p8arKfqGHTTBKIJxoumj-tHj6o3grnSow0&amp;t=4293c76a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=LDxs7tI-ncIIKPgYq3uJyrCUHtRGs0motqwKhLFtW2aIR7muBaZ9MBnAEeWZneACdCV6IlTfjSDqx8Esex6yn69KuufLM5qWQ4deI2O1bpzzLFuG3MA__HMXrb2PlcAil79f70yw-DWSUeNo1oIOJg2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=aoSSiMnLNTC20U5L7LFIKqlEf1la5aYG7bsb9v0JyHTpOz3mM18MpILh6fHknsys5I_wmaBG2IzHMzk70uyg6A_BhFPxSPXN77cdMtA2WLFlv7DxWLyduIRISfjr9QDu4JAdpo7oPcO-d6gqK8DDeXzwmQrk7u6U1j0oTHhpnCU1&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=A22-SyJgKhJ5FWUJePaPlDNVjcYuSoeq4YVtffTjslgSzffozK-ZVJdxm1Hqs5kbjLMIViVJ-6AADgucV_U8knJTSxW4CrEWRhu69ZaKg0Mr44p9-riq75A2PnNU_eFt_uyeLEuWro3BmHN91Ca6dA2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=YxFU2pUkHIgnVyJnzRMJfHuxeqe24-RzDM0qVEPaSTVqfmw7uHPaNolyfVZItxqk2VYHBDA6DKyJUTb3vxs-wyxtB9rN_-gYvhmnuZhTyZhc_ezzqTbnUo6NeR45hjgbY3kueUJ1jCOXpSXvSYJsJw2&amp;t=154d5dcf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=SuYCzQWRU5sdiMz0dhJW-jJDKmzH3UDUhcEyvkXaVGwz7PPxGrv2e3_avJ6idVIUvIhcWn8PXaVTmTNyY-V_M0At4Gs9nXnJmC-QzR_mXEm2OYFTaa2gOtyUogb7-DNe3VwCxnSGmpP8_6GRem2v2sleZVEN5oiyBLDz_VwDCeE1&amp;t=4293c76a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=INube0ElhmyXwn1oScB2tZ0sUy1KDo_Hoq7sgZSpYXUUo5vAZe9dbKvW6KwdKcZ5LVLirna158cFtrGIt_NjyAnN78HcC6jqs7qcyZzHXsIkEOZIUTFmjZA2cD6j_CJTtCBB9jYoqO9ssDrZa62xjDsdAParmNLpg_jY90Nlx2m249s66bmcvZBjxraqTp5e0&amp;t=4293c76a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=_NPMny2I3XEjVKeNUPS2sPyiTOQVc7Ud36HUtFNjP769W5FepebTjq1q91quOzqKdiSifpa3nhPBx8IW4Zi2I40tUEeW4jDc_A4_aBkMJh52O58UXu9HChUGAolgP5yZr31mlKNjRpl7bK3dAUf481i11odc1jW1XbjRhn43srI1&amp;t=4293c76a" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5F60A156" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="2mRYD7Jvq91Z8arrPcUJwWZPAI3VbZPllJvXQ1/Jiezkx7bGv1hoifMIt0Dn+olBe0rGNNHJwzzvUqLUcHrHk+yM3gl0Vj/D4oGLCA5NZC2XDrRvRxy4IdxP25tF8+l3UbzmNNzQa5dIkcSizhWzSQ==" />
+    
+	
+    <div id="wrapper">
+        <div class="container">
+            <div id="topNav" class="row">
+                <div id="topNavMenu" role="navigation">
+                    <ul role="menu">
+                        <li role="menuitem">
+                            <a title="go to UIC website" href="http://www.uic.edu" target="_blank">UIC</a></li>
+                        <li role="menuitem">
+                            <a title="go to LAS website" href="http://www.las.uic.edu" target="_blank">LAS</a></li>
+                    </ul>
+                    <span class="breadCrumbs">
+                        
+<div id="cphBreadCrumbs_TDB811899007">
+	<span id="cphBreadCrumbs_TDB811899007_ctl00_ctl00_BreadcrumbTrail"><span><a title="This is the homepage for the School of Literatures, Cultural Studies and Lingustics (LCSL), University of Illinois at Chicago (UIC)." href="/lcsl">LCSL</a></span><span> &gt; </span><span>Events</span></span>
+</div>
+                    </span>
+                </div>
+                
+
+<div id="search" role="search">
+    <label id="lblSearchBox" for="searchTextBox">
+        Search</label>
+    <input name="ctl00$cphSearchBox$TDB811899012$searchTextBox" type="text" id="searchTextBox" />
+    <input type="image" name="ctl00$cphSearchBox$TDB811899012$searchButton" id="cphSearchBox_TDB811899012_searchButton" title="submit this search" class="btnGo" src="//static.las.uic.edu/images/las-ui/btn-go.png" alt="Go" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphSearchBox$TDB811899012$searchButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" />
+</div>
+
+
+            </div>
+        </div>
+        <!-- end #topNav -->
+        <div class="container">
+            <header class="row bannerWrapper" role="banner">
+                <div class="fullwidth last banner">
+                    
+<div class='logo'><h1><a href="/" title="go to LCSL homepage"><img src="/images/layout/lcsl-logoDCD3437E3723.png?sfvrsn=3974aaae_2" alt="School of Literatures, Cultural Studies and Liguistics" /></a></h1>
+
+
+</div>
+                    <div id="bannerText">
+                        
+
+                    </div>
+                </div>
+                <div class="fullwidth last headerPhoto">
+                    
+
+                </div>
+            </header>
+        </div>
+        <!-- end #header -->
+        <div class="container">
+            <div id="pageBody" class="row">
+                <div class="fullwidth last">
+                    <div class="row sideBG">
+                        <nav class="navw side_img" role="navigation">
+                            
+<div id="cphLeftNav_TDB811899013" class="main_nav">
+	<div id="ctl00_cphLeftNav_TDB811899013_ctl00_ctl00_siteMapControl_verticaltree" class="RadTreeView RadTreeView_Silk">
+		<!-- 2017.2.621.40 --><ul class="rtUL rtLines">
+			<li class="rtLI rtFirst"><div class="rtTop">
+				<span class="rtSp"></span><a class="rtIn" href="../../../../../home">Home</a>
+			</div></li><li class="rtLI"><div class="rtMid">
+				<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="../../../../../for-majors-and-minors">Undergraduate Programs</a>
+			</div><ul class="rtUL" style="display:none;">
+				<li class="rtLI"><div class="rtTop">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-majors-and-minors/why-study-foreign-languages">Why Study Foreign Languages</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-majors-and-minors/foreign-languages-taught">Foreign Languages Taught</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-majors-and-minors/undergraduate-majors">Undergraduate Majors and Minors</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-majors-and-minors/undergraduate-advising">Undergraduate Advising</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-majors-and-minors/study-abroad-opportunities">Study Abroad Opportunities</a>
+				</div></li><li class="rtLI rtLast"><div class="rtBot">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-majors-and-minors/1650">Language and Writing Studio (UH 1650)</a>
+				</div></li>
+			</ul></li><li class="rtLI"><div class="rtMid">
+				<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="../../../../../for-graduate-students">Graduate Programs</a>
+			</div><ul class="rtUL" style="display:none;">
+				<li class="rtLI"><div class="rtTop">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-graduate-students/degrees-and-concentrations">Degrees and Concentrations</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-graduate-students/advising-and-dgs">Advising and DGS</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-graduate-students/funding-travel-to-conferences">Funding Travel to Conferences</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="../../../../../for-graduate-students/new-student-information">New Student Information</a>
+				</div><ul class="rtUL" style="display:none;">
+					<li class="rtLI"><div class="rtTop">
+						<span class="rtSp"></span><a class="rtIn" href="../../../../../for-graduate-students/new-student-information/general-information">General Information</a>
+					</div></li><li class="rtLI"><div class="rtMid">
+						<span class="rtSp"></span><a class="rtIn" href="../../../../../for-graduate-students/new-student-information/teaching-assistants">Teaching Assistants</a>
+					</div></li><li class="rtLI rtLast"><div class="rtBot">
+						<span class="rtSp"></span><a class="rtIn" href="../../../../../for-graduate-students/new-student-information/international-students">International Students</a>
+					</div></li>
+				</ul></li><li class="rtLI rtLast"><div class="rtBot">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-graduate-students/reading-groups">Reading Groups</a>
+				</div></li>
+			</ul></li><li class="rtLI"><div class="rtMid">
+				<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="../../../../../for-faculty-and-staff">Faculty and Staff</a>
+			</div><ul class="rtUL" style="display:none;">
+				<li class="rtLI"><div class="rtTop">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-faculty-and-staff/bylaws-and-p-t-guidelines">Bylaws and P&T Guidelines</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-faculty-and-staff/executive-committee">Executive Committee</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-faculty-and-staff/executive-officers">Executive Officers</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-faculty-and-staff/funding-research-and-travel">Funding Research and Travel</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-faculty-and-staff/mentoring">Mentoring</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-faculty-and-staff/peer-observation-guidelines">Peer Observation Guidelines</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-faculty-and-staff/program-fund">Program Fund</a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="http://lcsl.publish.uic.edu">Second Language Writing Resource Blog</a>
+				</div></li><li class="rtLI rtLast"><div class="rtBot">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../for-faculty-and-staff/event-planning-information">Event Planning Information </a>
+				</div></li>
+			</ul></li><li class="rtLI"><div class="rtMid">
+				<span class="rtSp"></span><span class="rtPlus"></span><a class="rtIn" href="../../../../../about-us">About us</a>
+			</div><ul class="rtUL" style="display:none;">
+				<li class="rtLI"><div class="rtTop">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../about-us/contact">Contact </a>
+				</div></li><li class="rtLI"><div class="rtMid">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../about-us/directories">Staff</a>
+				</div></li><li class="rtLI rtLast"><div class="rtBot">
+					<span class="rtSp"></span><a class="rtIn" href="../../../../../about-us/where-to-go-for-what-in-the-school">Who does what</a>
+				</div></li>
+			</ul></li><li class="rtLI"><div class="rtMid">
+				<span class="rtSp"></span><a class="rtIn" href="../../../../../news">News</a>
+			</div></li><li class="rtLI rtLast"><div class="rtBot">
+				<span class="rtSp"></span><a class="rtIn" href="../../../../../events">Events</a>
+			</div></li>
+		</ul><input id="ctl00_cphLeftNav_TDB811899013_ctl00_ctl00_siteMapControl_verticaltree_ClientState" name="ctl00_cphLeftNav_TDB811899013_ctl00_ctl00_siteMapControl_verticaltree_ClientState" type="hidden" />
+	</div>
+
+<script type="text/javascript">
+    function pageLoad() { var tree = $find("ctl00_cphLeftNav_TDB811899013_ctl00_ctl00_siteMapControl_verticaltree"); if (tree) { var location = window.location.pathname; location = location.substring(location.lastIndexOf('/') + 1); var currentNode = tree.findNodeByUrl(location); if (currentNode) { currentNode.set_selected(true); ExpandParent(currentNode); currentNode.set_expanded(true) } } } function CollapseSiblings(node) { var parent = node.get_parent(); var siblings = parent.get_nodes(); var siblingsCount = siblings.get_count(); for (var nodeIndex = 0; nodeIndex < siblingsCount; nodeIndex++) { var siblingNode = siblings.getNode(nodeIndex); if ((siblingNode != node) && (siblingNode.get_expanded())) { siblingNode.collapse(); return } } } function OnClientNodeExpanding(sender, args) { var node = args.get_node(); if (node.get_nodes().get_count()) { CollapseSiblings(node) } } function ExpandParent(node) { node = node.get_parent(); while (node != null) { if (node.expand) { node.expand() } node = node.get_parent() } }
+</script>
+
+
+</div>
+                        </nav>
+                        <div class="bodyw last copy">
+                            
+<div class='sfContentBlock'><h2>Events</h2>
+
+
+</div>
+        <div class="sfeventDetails">
+            
+            
+        <h3 class="sfeventTitle">
+            David Shatz - "Should Theists Eschew Theodicies? Nahmanides and Joseph Soloveitchik on the Problem of Suffering"
+            &nbsp;<a id="ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer_ctrl0_hlAddToCal" title="add to your calendar" href="../../../../../../Sitefinity/Public/Services/ICalanderService/file.ics?id=a8535d74-0699-691f-850f-ff0000daa2ce"><img title="add to your calendar" src="//static.las.uic.edu/images/silk-icons/calendar_add.png" alt="Add To Calendar" /></a>
+        </h3>
+        
+        <ul class="sfeventDatesLocationContacts">
+          <li><strong>Date(s): </strong>Tuesday, 11/27 3:00 PM to Tuesday, 11/27 5:00 PM</li>
+            <li><strong>Campus Address:</strong> Institute for the Humanities (Stevenson Hall Basement)</li>
+            
+            
+            
+            
+            
+            
+        </ul>
+        <div class="sfeventContent">
+            Whereas many theistic philosophers have vigorously attempted to &ldquo;justify the ways of God&rdquo; in the face of suffering, in recent times others have argued that it is religiously and/or morally wrong to do so. Their approach has been called anti-theodicy. Professor Shatz will examine several considerations that have been marshaled for an antitheodic stance, particularly by Rabbi Joseph B. Soloveitchik, and to compare them to the pro-theodic approach of Moses Nahmanides.<br />
+<br />
+<a href="/images/default-source/lcsl-newsletter-images/shatz_theodicies.jpg?sfvrsn=48cc34a5_0"><img src="/images/default-source/lcsl-newsletter-images/shatz_theodicies.jpg?sfvrsn=48cc34a5_0&amp;MaxWidth=1000&amp;MaxHeight=&amp;ScaleUp=false&amp;Quality=High&amp;Method=ResizeFitToAreaArguments&amp;Signature=4984197318A07B6BB1916B8727D9EB7A" data-method="ResizeFitToAreaArguments" data-customsizemethodproperties="{'MaxWidth':'1000','MaxHeight':'','ScaleUp':false,'Quality':'High'}" data-displaymode="Custom" alt="Shatz_theodicies" title="Shatz_theodicies" data-openoriginalimageonclick="true" /></a>
+        </div>
+         <div id="ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer_ctrl0_ctl00" class="RadSocialShare RadSocialShare_Default">
+	<ul class="sshContent">
+		<li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Facebook"><span class="sshIcon sshShareOnFacebook "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Tweet this"><span class="sshIcon sshShareOnTwitter "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on LinkedIn"><span class="sshIcon sshLinkedIn "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)"></a></li>
+	</ul><input id="ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer_ctrl0_ctl00_ClientState" name="ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer_ctrl0_ctl00_ClientState" type="hidden" />
+</div>
+        
+<span></span>
+        
+
+<span></span>
+    
+        </div>
+    <input id="ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer_ClientState" name="ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer_ClientState" type="hidden" /><span id="ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer" style="display:none;"></span><span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end #pageBody -->
+        <div class="container">
+            <footer role="contentinfo">
+                <div id="copyright" class="row">
+                    <div class="fullwidth last">
+                        
+<div class='sfContentBlock'><span class="copyrightText">&copy;2017 The Board of Trustees of the University of Illinois.</span>
+
+
+</div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        <div class="container">
+            <div id="footer" class="row">
+                <div class="footerCol">
+                    
+<div class='sfContentBlock'><a href="http://www.las.uic.edu/giving/lcsl" title="give to LCSL" target="_blank"><img src="//static.las.uic.edu/images/giving/give-button-lcsl.png" alt="Give to LCSL logo" /></a>
+
+
+</div>
+                </div>
+                <div class="footerCol">
+                    
+<div class='sfContentBlock'>School of Literatures, Cultural Studies<br />
+and Linguistics<br />
+601 South Morgan Street (MC 315)<br />
+1722 University Hall <br />
+Chicago, IL 60607<br />
+Tel: (312) 996-5218 <br />
+Fax: (312) 413-1044
+
+
+</div>
+                </div>
+                <div class="footerGroup">
+                    <div class="footerCol">
+                        
+<div class='sfContentBlock'><a target="_blank" href="http://www.uic.edu" title="go to UIC website">UIC Home</a><br /> <a target="_blank" href="http://www.las.uic.edu" title="go to LAS website">LAS Home</a><br /> <a target="_blank" href="http://www.uic.edu/uic/search/" title="go to UIC directory search">Find People</a>
+
+
+</div>
+                    </div>
+                    <div class="footerCol">
+                        
+<div class='sfContentBlock'><a target="_blank" title="go to website" href="http://www.uic.edu/uic/studentlife/campus/emergency-information.shtml">Emergency Information</a><br /> <a target="_blank" title="go to website" href="http://accessweb.uic.edu">Accessibility</a><br /> <a target="_blank" title="go to website" href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Policy</a><br /> <a title="email LAS webmaster" href="mailto:laswebstaff@uic.edu">Webmaster</a>
+
+
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--end #footer-->
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Telerik.Web.UI.RadTreeView._preInitialize("ctl00_cphLeftNav_TDB811899013_ctl00_ctl00_siteMapControl_verticaltree","0");//]]>
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-24550204-5");
+pageTracker._trackPageview();
+} catch(err) {} 
+</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTreeView, {"_skin":"Silk","_uniqueId":"ctl00$cphLeftNav$TDB811899013$ctl00$ctl00$siteMapControl_verticaltree","clientStateFieldID":"ctl00_cphLeftNav_TDB811899013_ctl00_ctl00_siteMapControl_verticaltree_ClientState","collapseAnimation":"{\"duration\":200}","expandAnimation":"{\"duration\":200}","nodeData":[{"value":"Home"},{"value":"Undergraduate Programs","items":[{"value":"Why Study Foreign Languages"},{"value":"Foreign Languages Taught"},{"value":"Undergraduate Majors and Minors"},{"value":"Undergraduate Advising"},{"value":"Study Abroad Opportunities"},{"value":"Language and Writing Studio (UH 1650)"}]},{"value":"Graduate Programs","items":[{"value":"Degrees and Concentrations"},{"value":"Advising and DGS"},{"value":"Funding Travel to Conferences"},{"value":"New Student Information","items":[{"value":"General Information"},{"value":"Teaching Assistants"},{"value":"International Students"}]},{"value":"Reading Groups"}]},{"value":"Faculty and Staff","items":[{"value":"Bylaws and P\u0026T Guidelines"},{"value":"Executive Committee"},{"value":"Executive Officers"},{"value":"Funding Research and Travel"},{"value":"Mentoring"},{"value":"Peer Observation Guidelines"},{"value":"Program Fund"},{"value":"Second Language Writing Resource Blog"},{"value":"Event Planning Information "}]},{"value":"About us","items":[{"value":"Contact "},{"value":"Staff"},{"value":"Who does what"}]},{"value":"News"},{"value":"Events"}]}, {"nodeExpanding":OnClientNodeExpanding}, null, $get("ctl00_cphLeftNav_TDB811899013_ctl00_ctl00_siteMapControl_verticaltree"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSocialShare, {"_addFbScript":false,"_addGoogleScript":true,"_addLinkedInScript":false,"_addPinterestScript":false,"_addTwitterScript":false,"_addYammerScript":false,"_locale":"en_US","_uniqueId":"ctl00$cphPageBody$C003$eventsFrontendEdit$ctl00$ctl00$SingleItemContainer$ctrl0$ctl00","clientStateFieldID":"ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer_ctrl0_ctl00_ClientState","mainButtons":"[['ShareOnFacebook','','', '470', '470', '', ''],['ShareOnTwitter','','', '470', '470', '', ''],['LinkedIn','','', '470', '470', '', ''],['GooglePlusOne','','', 'Small', 'None', '']]","urlToShare":"https://lcsl.uic.edu/lcsl/events/2018/11/27/default-calendar/should-theists-eschew-theodicies-nahmanides-and-joseph-soloveitchik-on-the-problem-of-suffering"}, {"clicked":socialButtonClickedHandler,"onPlusone":googlePlusButtonClickedHandler,"tweet":twitterButtonClickedHandler}, null, $get("ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer_ctrl0_ctl00"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Sitefinity.Web.UI.UserPreferences, {"_timeOffset":"-21600000","_userBrowserSettingsForCalculatingDates":true,"timeZoneDisplayName":"(UTC-06:00) Central Time (US \u0026 Canada)","timeZoneId":"Central Standard Time"}, null, null);
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Sitefinity.Web.UI.Fields.FormManager, {"_controlIdMappings":{},"_validationGroupMappings":{}}, null, null);
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadListView, {"UniqueID":"ctl00$cphPageBody$C003$eventsFrontendEdit$ctl00$ctl00$SingleItemContainer","_clientSettings":{"DataBinding":{"ItemPlaceHolderID":"ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer_ItemContainer","DataService":{}}},"_virtualItemCount":1,"clientStateFieldID":"ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer_ClientState","renderMode":1}, null, null, $get("ctl00_cphPageBody_C003_eventsFrontendEdit_ctl00_ctl00_SingleItemContainer"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

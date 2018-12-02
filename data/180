@@ -51,11 +51,11 @@
   name="id" method="POST" action="/bluestem/login.cgi" >
 
 
-  <input type="hidden" name="BSVersionHash" value="93d49f2b168e8ac02df9d410105fc2b9682e76d1"/>
+  <input type="hidden" name="BSVersionHash" value="6e0a99049d98b91d3be28405dc73fd22b51b2681"/>
 
   <input type="hidden" name="BSVersion" value="1.6"/>
 
-  <input type="hidden" name="cacheid" value="1543041225-803810220"/>
+  <input type="hidden" name="cacheid" value="1543100904-218111514"/>
 
   <input type="hidden" name="msg" value=""/>
 

@@ -1,552 +1,1624 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="up" href="/LTS" />
-<link rel="next" href="/service/lecture-capture/echo360-alp" />
-<link rel="prev" href="/service/learning-management-system/blackboard-ultra-pilot" />
-<link rel="shortlink" href="/node/426" />
-<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="/service/lecture-capture" />
-  <title>Lecture Capture | Academic Computing and Communications Center  </title>
-  <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_C97MNtte-L48LG9bh-ZvFzSRgqR9x1gIfrvIDp9o6Y4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_OsO2r3O_I2E-8-khV3NulWZIRJOw7aXphEVlJbgm2xI.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_Gi2KQBa4KQP-viS3Xs9utbwGTmqh2ceGxVSM10J8c9c.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_2THG1eGiBIizsWFeexsNe1iDifJ00QRS9uSd03rY9co.css" media="print" />
-
-<!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/all/themes/acccbartik/css/ie.css?pi5mp1" media="all" />
-<![endif]-->
-
-<!--[if IE 6]>
-<link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/all/themes/acccbartik/css/ie6.css?pi5mp1" media="all" />
-<![endif]-->
-  <script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
-<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_f_6-OzlFXjayKlsU5sJKLwjz7LFQvdIZDm-Mt6jKwyM.js"></script>
-<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_9G1HmFpiIIAASGUsStD4Bs7yInEexthhfZpuiB7qGwQ.js"></script>
+<!DOCTYPE html lang="en" xml:lang="en" >
+<html>
+<head>
+	<title>Office of the Vice Chancellor for Research</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="http://research.uic.edu/sites/all/themes/ovcr/images/favicon.ico" />
+	<link type="text/css" rel="stylesheet" href="http://research.uic.edu/sites/default/files/css/css_rEI_5cK_B9hB4So2yZUtr5weuEV3heuAllCDE6XsIkI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://research.uic.edu/sites/default/files/css/css_-oPSuSJHNauALts1y3_N3QxwfWHc3U1jhfUJR06X8-Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://research.uic.edu/sites/default/files/css/css_xxSKMf60xbS5uXzOZ6zIKv7ot46isrkUvQRTxrPG4Ps.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://research.uic.edu/sites/default/files/css/css_iJS0Gqt8WMx1qbVrjTKbyPSGjfYU4uAF6CcxQSZbmJA.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://research.uic.edu/sites/default/files/css/css_0p1v_sOFl6DvTSsFMAq2ELq5szeCW5TinPlEXNlnxpE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://research.uic.edu/sites/default/files/css/css_bH0H7hKboDDRtgIiAP9PllevCqOaXUGwxgPJr5vVG70.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://research.uic.edu/sites/default/files/css/css_Qz1aLFKF5Zy_Lbsa_4eVKnRn2b9zNU93RIUCRAreeAw.css" media="print" />
+	<script type="text/javascript" src="http://research.uic.edu/sites/default/files/js/js_v7z_ueNi9EIrZXPI8So7AkuzyXuKekr2jbdDptsM5Oc.js"></script>
+<script type="text/javascript" src="http://research.uic.edu/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script type="text/javascript" src="http://research.uic.edu/sites/default/files/js/js_Fukg-qXU6WY1DpHq0r7KIfLl8rVR6emtQFOXuIfMfh4.js"></script>
+<script type="text/javascript" src="https://cdn.cookielaw.org/consent/f5cc0259-ebf9-460e-b628-c1d661e5d3b6.js"></script>
+<script type="text/javascript" src="http://research.uic.edu/sites/default/files/js/js_UFJoHMkAjD_34guVTqDwkL0nI1xiGCOAG4laRHEF8DU.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://accc.uic.edu/sites/default/files/googleanalytics/analytics.js?pi5mp1","ga");ga("create", "UA-27751174-1", {"cookieDomain":"auto"});ga("send", "pageview");
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ovcr","theme_token":"Jo0QoRfojTgBsr1ekaSG3cFFmDFI4Qh6JGuEFTnKX34","js":{"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/themes\/ovcr\/js\/viewsRandomize.js":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"misc\/textarea.js":1,"https:\/\/cdn.cookielaw.org\/consent\/f5cc0259-ebf9-460e-b628-c1d661e5d3b6.js":1,"sites\/all\/themes\/ovcr\/js\/ovcr.js":1,"sites\/all\/themes\/ovcr\/js\/html5shiv.js":1,"sites\/all\/themes\/ovcr\/js\/jquery.hoverIntent.min.js":1,"sites\/all\/themes\/ovcr\/js\/jquery.icheck.min.js":1,"sites\/all\/themes\/ovcr\/js\/lightbox.min.js":1,"sites\/all\/themes\/ovcr\/js\/responsive-carousel.min.js":1,"sites\/all\/themes\/ovcr\/js\/responsive-carousel.keybd.js":1,"sites\/all\/themes\/ovcr\/js\/responsive-carousel.touch.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox_alt.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/shib_auth\/shib_auth.css":1,"sites\/all\/themes\/ovcr\/layouts\/home\/ovcr-home.css":1,"sites\/all\/modules\/contrib\/media_pane\/media_pane.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/themes\/ovcr\/css\/responsive-carousel.css":1,"sites\/all\/themes\/ovcr\/css\/responsive-carousel.fade.css":1,"sites\/all\/themes\/ovcr\/css\/responsive-carousel.slide.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/twocol\/twocol.css":1,"public:\/\/honeypot\/honeypot.css":1,"public:\/\/Content\/additional_comments.css":1,"sites\/all\/modules\/contrib\/contact_form_blocks\/contact_form_blocks.css":1,"sites\/all\/themes\/ovcr\/system.css":1,"sites\/all\/themes\/ovcr\/system.menus.css":1,"sites\/all\/themes\/ovcr\/system.theme.css":1,"sites\/all\/themes\/ovcr\/field_collection.theme.css":1,"sites\/all\/themes\/ovcr\/css\/default.scss":1,"sites\/all\/themes\/ovcr\/css\/print.scss":1}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":0,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":1,"disable_resize":0,"disable_zoom":1,"force_show_nav":0,"show_caption":0,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":1,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":0,"slideshow_automatic_exit":0,"show_play_pause":1,"pause_on_next_click":0,"pause_on_previous_click":0,"loop_slides":0,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0,"useragent":"python-requests\/2.18.4"},"urlIsAjaxTrusted":{"\/":true}});
 //--><!]]>
 </script>
-<script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"w-CF8DpTwKe5mmnHNo6Ew8E2aV0eUozRkoOSeHI7jBY","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/service\/lecture-capture":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
-//--><!]]>
-</script>
+
+	<!--[if IE 8]>
+  	<link rel="stylesheet" type="text/css" href="/sites/all/themes/ovcr/css/ie8.css">
+  <![endif]-->
 </head>
-<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-426 node-type-service-catalog-entry featured footer-columns" >
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-    <a href="/service/learning-environments/accessibility" class="element-invisible element-focusable">Accessibility Resources</a>
-  </div>
-    <div id="page-wrapper"><div id="page">
-
-  <div id="header" class="without-secondary-menu"><div class="section clearfix">
-
-          <a href="/" title="Home" rel="home" id="logo">
-        <img src="https://accc.uic.edu/sites/default/files/logo-50.png" alt="Home" />
-      </a>
+<body class="html front not-logged-in page-home no-sidebars">
+    <div class="header">
+  
+  <div class="eyebrow">
+    <button id="eyebrow-nav-header"><img src="/sites/all/themes/ovcr/images/tools-icon.png" data-close-path="/sites/all/themes/ovcr/images/menu-close-icon.png" class="menu-icon" alt="Tools" />Tools</button>
     
-          <div id="name-and-slogan" class="element-invisible">
-
-                              <div id="site-name" class="element-invisible">
-              <strong>
-                <a href="/" title="Home" rel="home"><span>Academic Computing and Communications Center  </span></a>
-              </strong>
-            </div>
-                  
-        
-      </div> <!-- /#name-and-slogan -->
-    
-      <div class="region region-header">
-    <div id="block-search-form" class="block block-search">
+    <div>
 
     
-  <div class="content">
-    <form class="google-cse" action="/service/lecture-capture" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-DEigOEYQ3mhqEniVP2TSIWx1Fs4HCMnERrVsD5pv10U" />
-<input type="hidden" name="form_id" value="search_block_form" />
-</div>
-</div></form>  </div>
-</div>
-<div id="block-block-14" class="block block-block">
-
-    
-  <div class="content">
-    <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=uic_accc&show_count=false" style="width:115px; height:20px;"></iframe>  </div>
-</div>
-  </div>
-
-          <div id="main-menu" class="navigation">
-        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-227 first"><a href="/">Home</a></li>
-<li class="menu-4868"><a href="/news/all" title="">News</a></li>
-<li class="menu-9690"><a href="http://one.uic.edu" title="">ONE.UIC</a></li>
-<li class="menu-568"><a href="/service-status">Service Status</a></li>
-<li class="menu-2965 active-trail"><a href="/service/all" class="active-trail">Service Catalog</a></li>
-<li class="menu-4784"><a href="/answer/all" title="">Answers</a></li>
-<li class="menu-9670"><a href="http://accc.uic.edu/about" title="">About</a></li>
-<li class="menu-4776 last"><a href="/contact">Contact</a></li>
-</ul>      </div> <!-- /#main-menu -->
-    
-    
-  </div></div> <!-- /.section, /#header -->
-
+<section class="block block-menu">
   
-      <div id="featured"><div class="section clearfix">
-        <div class="region region-featured">
-    <div id="block-block-20" class="block block-block">
-
-    
-  <div class="content">
-    <p><img alt="Echo 360" src="/sites/default/files/echo360-monthlycampaign2.jpg" style="height:195px; width:955px" /></p>
-  </div>
-</div>
-  </div>
-    </div></div> <!-- /.section, /#featured -->
-  
-  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
-
-          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » <a href="/service/all">Service Catalog</a></div></div>
-    
-          <div id="sidebar-first" class="column sidebar"><div class="section">
-          <div class="region region-sidebar-first">
-    <div id="block-book-navigation" class="block block-book">
-
-    <h2><a href="/policies" class="block-title-link"><a href="/LTS" class="book-title">Learning Technology Solutions</a></a></h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first collapsed"><a href="/service/collaboration-tools">Collaboration Tools</a></li>
-<li class="collapsed"><a href="/service/equipment-lending">Equipment Lending</a></li>
-<li class="leaf"><a href="/service/event-support-av">Event Support (Audio/Visual)</a></li>
-<li class="leaf"><a href="/service/learning-design-and-development">Learning Design and Development</a></li>
-<li class="collapsed"><a href="/service/learning-environments">Learning Environments</a></li>
-<li class="collapsed"><a href="/service/learning-management-system">Learning Management System</a></li>
-<li class="expanded active-trail"><a href="/service/lecture-capture" class="active-trail active">Lecture Capture</a><ul class="menu clearfix"><li class="first leaf"><a href="/service/lecture-capture/echo360-alp">Echo360 Active Learning Platform (ALP)</a></li>
-<li class="leaf"><a href="/service/lecture-capture/echo360-online-help">Echo360 Online Help</a></li>
-<li class="last leaf"><a href="/service/lecture-capture/request">Lecture Capture Request</a></li>
-</ul></li>
-<li class="leaf"><a href="/service/media-conversion">Media Conversion</a></li>
-<li class="collapsed"><a href="/service/media-streaming">Media Streaming</a></li>
-<li class="collapsed"><a href="/service/multimedia-production">Multimedia Production</a></li>
-<li class="collapsed"><a href="/service/printing">Printing</a></li>
-<li class="last collapsed"><a href="/service/professional-development-training">Professional Development &amp; Training</a></li>
-</ul>  </div>
-</div>
-<div id="block-views-answers-block-4" class="block block-views">
-
-    <h2><a href="/answer/Lecture%20Capture" class="block-title-link">Answers related to Lecture Capture</a></h2>
-  
-  <div class="content">
-    <div class="view view-answers view-id-answers view-display-id-block_4 nocontent view-dom-id-1f1ed0957608435442c06301f33b9559">
-            <div class="view-header">
-      Displaying 4 of 4 answers    </div>
-  
-  
-  
-      <div class="view-content">
-      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/downloading-echo360-personal-capture">Downloading Echo360 Personal Capture</a></span>  </span></li>
-          <li class="views-row views-row-2 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-get-my-lecture-recorded">How do I get my lecture recorded?</a></span>  </span></li>
-          <li class="views-row views-row-3 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-add-echo360-alp-lti-tool-link-course-content">How do I add the Echo360 ALP LTI tool link to course content?</a></span>  </span></li>
-          <li class="views-row views-row-4 views-row-even views-row-last">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-create-link-echo360-alp-left-navigation">How do I create a link to Echo360 ALP in the left navigation?</a></span>  </span></li>
-      </ul></div>    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-</div>
-  </div>
-      </div></div> <!-- /.section, /#sidebar-first -->
-    
-    <div id="content" class="column"><div class="section">
-            <a id="main-content"></a>
-                    <h1 class="title" id="page-title">
-          Lecture Capture        </h1>
-                          <div class="tabs">
-                  </div>
-                          <div class="region region-content">
-    <div class="ds-1col node node-service-catalog-entry node-full view-mode-full clearfix">
-
-  
-  <div id="node-service-catalog-entry-full-group-borderwrap" class=" group-borderwrap field-group-div"><div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Category:&nbsp;</strong><span class="field-items"><a href="/category/learning-tools" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Learning Tools</a></span></div><div class="field field-name-field-audience field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Audience:&nbsp;</strong><span class="field-items"><a href="/audience/faculty" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Faculty</a>, <a href="/audience/staff" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Staff</a>, <a href="/audience/it" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">IT</a>, <a href="/audience/accc" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">ACCC</a></span></div><div class="field field-name-field-launch field-type-link-field field-label-hidden"><div class="field-item odd first last"><a href="http://accc.uic.edu/service/lecture-capture/request" target="_blank">Request Lecture Capture</a></div></div></div><h2 class="field-label">Overview&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>UIC provides all faculty and instructors with a free and easy-to-use lecture capture tool called Echo360 ALP. Along with features provided by the tool, UIC faculty have access to support, learning workshops, and personal consultations.</p>
-<p>The captures created from Echo360 ALP can be linked to <a href="/service/blackboard" style="text-decoration:none;"> <u>Blackboard Learn</u></a> and accessed via Echo 360.org</p>
-</div></div><h2 class="field-label">Features&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>Echo360 provides faculty with two distinct lecture capture options that facilitate blended learning:</p>
-<p>      1. Classroom Capture<br />
-      2. Personal Capture </p>
-<p><a id="echo-record" name="echo-record"></a></p>
-<p><strong>RECORD</strong></p>
-<p><strong>Classroom Capture</strong> allows instructors to easily record lectures taught in <a href="https://answers.uillinois.edu/uic/page.php?id=83665" style="text-decoration:none;"><u>specific classrooms</u></a> and make them available to their students electronically via Blackboard learn or Echo360.org.</p>
-<p>The system will capture all audio and video sources in the classroom’s multimedia system, including the installed PC, an instructor’s laptop, the built-in and wireless microphones, and more.</p>
-<p><strong>Personal Capture </strong>allows you to record captures using a stand-alone application that runs on Windows and Mac computers. Personal Capture allows instructors to record a webcam video or simply record audio and their computer screen simultaneously, which allows adding sound to PowerPoint presentations and other course material.</p>
-<p><a name="#echo-edit" id="#echo-edit"></a></p>
-<p><strong>EDIT</strong></p>
-<p>All recorded <a href="/answer/how-do-i-edit-my-uicast-presentation" style="text-decoration:none;"><u>captures can be modified</u></a> in your dashboard and tailored for your lecture and student needs.</p>
-<p><strong>PUBLISH</strong></p>
-<p>Captures created from both of these options can be linked to <a href="/service/blackboard" style="text-decoration:none;"> <u>Blackboard Learn</u></a> and also accessed at Echo360.org. Echo360 ALP provides the instructor with reports on student activities such as viewing of Echoes and participation in discussions, and polling.</p>
-<p>Recorded captures are kept on Echo 360’s servers for a period of four years before being removed.</p>
-<p><strong>HELP</strong></p>
-<p>Visit our <a href="/service/lecture-capture/echo360-online-help">Echo360 Online Help</a> page to discover many popular topics to get started, present, analyse data, and more.</p>
-</div></div><h2 class="field-label">Requirements&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p><strong>Classroom Capture </strong>recordings must be scheduled ahead of time, and can be either one-time events or repeating semester events. Captures are available within 3-6 hours of a one-hour long lecture.</p>
-<p>The ACCC assists with scheduling automatic capture of the<a href="https://accc-fs.webhost.uic.edu/uicast/index.cgi" style="text-decoration:none;"> <u>east campus common use classrooms</u></a>. For other classrooms, contact the appropriate department to have your lecture captured:</p>
-<ul><li><a href="mailto:pharmhelp@uic.edu">College of Pharmacy</a></li>
-<li><a href="mailto:mdpchelp@uic.edu">College of Medicine</a></li>
-<li><a href="mailto:nnorman@uic.edu">College of Dentistry</a></li>
-</ul><p><strong>Personal Capture</strong> is available to all UIC faculty and instructors by <a href="https://accc-fs.webhost.uic.edu/uicast/index.cgi" style="text-decoration:none;"><u>request</u></a>. Please note you must already have your <a href="/service/blackboard/request-site" style="text-decoration:none;"><u>course created via Blackboard</u></a> before submitting your request.</p>
-<p>For additional information, please consult the Echo Center <a href="http://confluence.echo360.com/display/54/EchoCenter+for+Academic+Staff" style="text-decoration:none;"><u>Academic Staff Guide</u></a> from the Echo System documentation page.</p>
-</div></div><h2 class="field-label">Cost&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>There is no charge for this service.</p>
-</div></div><h2 class="field-label">Support&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row" style="width:30%">Email</th>
-<td><a href="mailto:LTS@uic.edu">LTS@uic.edu</a></td>
-</tr><tr><th scope="row">Phone</th>
-<td><a href="tel:312-413-0003">312-413-0003</a> Option 1</td>
-</tr><tr><th scope="row">In person</th>
-<td>
-<p>Lecture Center E<br />
-			Room E112</p>
-<ul><li>Monday - Thursday 7:45am to 7:00pm, Friday 8:00 am to 5:00 pm during academic sessions</li>
-</ul></td>
-</tr></tbody></table></div></div><h2 class="field-label">Further Information&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><ul><li><a href="http://echo360.uic.edu">Echo360 System Administration</a></li>
-<li><a href="/answer/downloading-echo360-personal-capture">Personal Capture Downloads</a></li>
-</ul><h3>ACCC Service Level Agreement (SLA)</h3>
-<table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Service Request Fulfillment Time</th>
-<td>
-<p>Under 2 business days, unless in-person training/discussion is required, or escalation to the vendor is required.</p>
-</td>
-</tr><tr><th scope="row">Incident Resolution Time</th>
-<td>
-<p>Under 2 business days unless escalation to the vendor is required.</p>
-</td>
-</tr><tr><th scope="row">Service Availability</th>
-<td>24x7</td>
-</tr><tr><th scope="row">Maintenance Window(s)</th>
-<td>Approved ACCC maintenance window(s): <a href="/service-status">accc.uic.edu/service-status</a></td>
-</tr><tr><th scope="row">Service Notification Channel(s)</th>
-<td>ACCC News and Alerts: <a href="/news/all">accc.uic.edu/news/all</a><br />
-			casters@uic.edu listserv of lecture capture administrators on campus.<br />
-			Faculty Notification System for targeted notifications for specific spaces.</td>
-</tr><tr><th scope="row">Reviewed to Ensure SLA Meets Business Requirements</th>
-<td>
-<p>Provisional SLA - Currently under IT Governance review.</p>
-</td>
-</tr><tr><th scope="row">Date Reviewed</th>
-<td>
-<p>Provisional SLA - Currently under IT Governance review.</p>
-</td>
-</tr></tbody></table></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tag:&nbsp;</div><div class="field-items"><div class="field-item odd"><a href="/tag/classroom" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">classroom</a></div><div class="field-item even"><a href="/tag/recording" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">recording</a></div><div class="field-item odd"><a href="/tag/lecture-capture" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">lecture capture</a></div><div class="field-item even"><a href="/tag/multimedia" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">multimedia</a></div><div class="field-item odd"><a href="/tag/personal-capture" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">personal capture</a></div><div class="field-item even"><a href="/tag/classroom-capture" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">classroom capture</a></div></div></div></div>
-
-  </div>
+          <header>
+      <div>
+        <h1>Eyebrow Menu</h1>
+      </div>
+    </header>
       
-    </div></div> <!-- /.section, /#content -->
+  <div class="content">
+    <div>
+      <ul class="menu"><li class="first leaf"><a href="/forms" title="">Forms &amp; Contracts</a></li>
+<li class="leaf"><a href="/policies" title="">Policies</a></li>
+<li class="leaf"><a href="/education-training" title="">Education &amp; Training</a></li>
+<li class="leaf"><a href="/calendar/events" title="">Calendar</a></li>
+<li class="leaf"><a href="/im-looking" title="">I&#039;m looking for...</a></li>
+<li class="leaf"><a href="/directory" title="">Staff Directory</a></li>
+<li class="last leaf"><a href="/contact" title="">Contact Us</a></li>
+</ul>    </div>
+  </div>
+  
+</section>
+			
+          <div class="search block">
+        <script>
+  (function() {
+    var cx = '003061607288591330416:k08oiictot4';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
 
-          <div id="sidebar-second" class="column sidebar"><div class="section">
-          <div class="region region-sidebar-second">
-    <div id="block-views-service-catalog-block-2" class="block block-views">
+  jQuery(function($){
 
-    <h2><a href="/service/all" class="block-title-link">Service Catalog</a></h2>
+    $(window).load(function(){
+      // Google CSE
+      //alert($('.eyebrow .gsc-control-searchbox-only .gsc-input input[type=text]').val());
+      $('.eyebrow .gsc-control-searchbox-only .gsc-input input[type=text]').val("Search OVCR");
+      $('.eyebrow .gsc-control-searchbox-only .gsc-input input[type=text]').focusin(function() {
+        if($(this).val() == "Search OVCR") { // don't overwrite their query
+          $(this).val("");
+        }
+      });
+      $('.eyebrow .gsc-control-searchbox-only .gsc-input input[type=text]').blur(function() {
+        if($(this).val() == "") { // don't overwrite their query
+          $(this).val("Search OVCR");
+        }
+      });
+    });
+  });
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+<style type='text/css'>
+  div.search.block {
+    width: 184px;
+  }
+  
+  @media screen and (max-width: 1191px) and (min-width: 785px) {
+    div.search.block {
+      width: 80px;
+    }
+
+    div.gsc-control-searchbox-only {
+        float: right;
+        width: 126px;
+    }
+  }
+
+  form.gsc-search-box {
+    padding: 0;
+  }
+
+  table.gsc-search-box td {
+    padding: 0 0.15em;
+  }
+
+  td.gsc-input {
+    background-color: #547ea4;
+  }
+
+  input.gsc-input {
+    background: none !important;
+    background-color: #547ea4 !important;
+    font-family: "Arial", helvetica, arial;
+    font-size: 0.9em;
+    font-style: italic;
+    color: white;
+    padding: 0.2em 0.3em;
+    margin-left: 0.5em;
+    border: none;
+  }
+
+  input.gsc-input:focus {
+      outline: -webkit-focus-ring-color auto 5px !important;
+  }
+
+  .gsc-input-box, .gsc-input-box:hover, .gsc-input-box:focus {
+    background-color: transparent;
+    border: none;
+  }
+
+  .gsc-input-box:hover, .gsc-input-box:focus {
+    border: 1px solid #fff;
+  }
+
+  .gsc-input-box tbody tr {
+    background-color: transparent;
+  }
+
+  td.gsc-search-button {
+    background-color: #547ea4;
+  }
+
+  input.gsc-search-button {
+    background: url("/sites/all/themes/ovcr/images/icon-search.png") no-repeat scroll 5px 0px #547ea4;
+    border-radius: 0;
+    min-width: 25px !important;
+    height: 20px;
+    position: relative;
+    padding: 0;
+    margin: 7px;
+    border: none;
+    color: transparent;
+    cursor: pointer;
+    text-indent: -9000px;
+    text-transform: capitalize;
+  }
+
+  input.gsc-search-button:hover, input.gsc-search-button:focus {
+    background: url("/sites/all/themes/ovcr/images/icon-search.png") no-repeat scroll 5px -20px #547ea4;
+  }
+
+  td.gsc-clear-button {
+      display: none;
+  }
+
+  .gsib_b {
+    display: none;
+  }
+</style>
+      </div>
+    
+    </div>
+  </div>
+  
+  <div class="identity">
+  
+    <p class="site-title">
+      <a class="uic" href="http://www.uic.edu/"><span>UIC</span></a>    
+      <a class="ovcr" href="/"><span>Office of the Vice Chancellor for Research</span></a>
+    </p>
+    
+  </div>
+  
+  <div class="navigation">
+  
+    
+<section class="block block-ovcr-navigation">
+  
   
   <div class="content">
-    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-426f9f4ebd9fdc65446db09bfd3e4ad0">
+    <div>
+      
+<div class="main-menu">
+  <h2>Menu</h2>
+  <button id="main-menu-header"><img src="/sites/all/themes/ovcr/images/menu-icon.png" data-close-path="/sites/all/themes/ovcr/images/menu-close-icon.png" class="menu-icon" alt="Menu" />Menu</button>
+  <ul class="links">
+        <li class="">
+      <a href="/" class="active">Home</a>
+      <div class="no-panel">
+        
+                
+                
+      </div>
+    </li>
+        <li class="">
+      <a href="/funding">Funding Opportunities</a>
+      <div class="has-panel">
+        
+                <div class="submenu">
+        
+          <h2>Funding Opportunities</h2>
+
+          <ul>
+                        <li><a href="/funding/limited-submissions">Limited Submissions</a>
+</li>
+                        <li><a href="/funding/internal-seed-funding">Internal Funding</a>
+</li>
+                        <li><a href="/funding/external-funding">External Funding</a>
+</li>
+                        <li><a href="/funding/faculty-awards">Faculty Awards</a>
+</li>
+                        <li><a href="/funding/education-training">Education & Training</a>
+</li>
+                        <li><a href="/funding-opportunities/forms">Forms</a>
+</li>
+                        <li><a href="/funding/looking">I’m Looking for...</a>
+</li>
+                      </ul>
+          
+        </div>
+                
+                <div class="panel">
+        
+          
+<section class="block block-panels-mini">
+  
+  
+  <div class="content">
+    <div>
+      <div class="panel-display panel-2col clearfix" id="mini-panel-menu_412-2">
+  <div class="panel-panel panel-col-first">
+    <div class="inside">
+<section class="panel-pane pane-menu-tree pane-menu-funding-quick-links">
+  
+    <header>
+    <h1>Quick Links</h1>
+  </header>
+  
+  <div class="menu-block-wrapper menu-block-ctools-menu-funding-quick-links-3 menu-name-menu-funding-quick-links parent-mlid-menu-funding-quick-links-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-2114"><a href="http://research.uic.edu/funding-opportunities/faculty-awards/researcher-year-awards" title="">Researcher and Scholar of the Year Awards</a></li>
+<li class="leaf menu-mlid-1130"><a href="/funding/limited-submissions" title="">Limited Submissions</a></li>
+<li class="leaf menu-mlid-1195"><a href="/funding-opportunities/forms" title="">Letter of Intent </a></li>
+<li class="leaf menu-mlid-4418"><a href="http://research.uic.edu/funding/external-funding" title="Identify and connect with funding opportunities and with other researchers — locally and globally.">Pivot-COS</a></li>
+<li class="last leaf menu-mlid-4401"><a href="http://research.uic.edu/lewis-burke-funding-announcements" title="">Lewis-Burke Updates (log in required)</a></li>
+</ul></div>
+
+  
+    
+</section>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside">
+<section class="panel-pane pane-custom pane-5">
+  
+  
+  <p><strong>RESEARCH DEVELOPMENT SERVICES (RDS)</strong><br />
+312.996.4995</p>
+<p>310 Administrative Office Building - M/C 672<br />
+1737 West Polk Street<br />
+Chicago, Illinois 60612</p>
+<p><a href="/directory?display=unit&amp;unit=37&amp;first=&amp;last=&amp;search=1">Staff directory</a></p>
+
+  
+    
+</section>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+  
+</section>
+        
+        </div>
+                
+      </div>
+    </li>
+        <li class="">
+      <a href="/sponsored_programs">Sponsored Programs</a>
+      <div class="has-panel">
+        
+                <div class="submenu">
+        
+          <h2>Sponsored Programs</h2>
+
+          <ul>
+                        <li><a href="/sponsored_programs/preparing-proposal">Preparing a Proposal</a>
+</li>
+                        <li><a href="/sponsored_programs/award_contract">Award/Contract Processing & Acceptance</a>
+</li>
+                        <li><a href="/sponsored_programs/award-administration">Award Administration</a>
+</li>
+                        <li><a href="/sponsored_programs/award-closeout">Award Closeout</a>
+</li>
+                        <li><a href="/sponsored_programs/myresearchportal">myResearch Portal</a>
+</li>
+                        <li><a href="/sponsored-programs/forms-contract-templates/orsweb">ORSWeb</a>
+</li>
+                        <li><a href="/sponsored-programs/forms-contract-templates">Forms & Contract Templates</a>
+</li>
+                        <li><a href="/sponsored_programs/policies">Policies</a>
+</li>
+                        <li><a href="/sponsored_programs/education">Education & Training</a>
+</li>
+                        <li><a href="/sponsored-programs/omb-uniform-guidance">OMB Uniform Guidance</a>
+</li>
+                        <li><a href="/sponsored_programs/lookingfor">I'm Looking for...</a>
+</li>
+                        <li><a href="/sponsored-programs/find-contacts">Find Contacts</a>
+</li>
+                      </ul>
+          
+        </div>
+                
+                <div class="panel">
+        
+          
+<section class="block block-panels-mini">
+  
+  
+  <div class="content">
+    <div>
+      <div class="panel-display panel-2col clearfix" id="mini-panel-menu_413-2">
+  <div class="panel-panel panel-col-first">
+    <div class="inside">
+<section class="panel-pane pane-menu-tree pane-menu-sponsored-quick-links">
+  
+    <header>
+    <h1>Quick Links</h1>
+  </header>
+  
+  <div class="menu-block-wrapper menu-block-ctools-menu-sponsored-quick-links-3 menu-name-menu-sponsored-quick-links parent-mlid-menu-sponsored-quick-links-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-3644"><a href="https://orsweb.ovcr.uic.edu" title="">ORSWeb</a></li>
+<li class="leaf menu-mlid-3633"><a href="https://myresearch.uillinois.edu/piPortal/" title=""> myResearch Portal version 2.0</a></li>
+<li class="leaf menu-mlid-1196"><a href="/sponsored-programs/forms-contract-templates" title="">Proposal Request Form (PAF)</a></li>
+<li class="leaf menu-mlid-1686"><a href="/sponsored_programs/preparing-proposal/developing-proposal/standard-institutional-information" title="">Standard Institutional Information </a></li>
+<li class="leaf menu-mlid-1684"><a href="/sponsored_programs/nih_commons_account_request" title="">NIH Commons Account Request Form</a></li>
+<li class="leaf menu-mlid-1685"><a href="/sponsored_programs/nsf_account_request" title="">NSF Account Request Form</a></li>
+<li class="leaf menu-mlid-1687"><a href="/sponsored-programs/award-administration/prior-approval-guidance/nih-prior-approval-request" title="">NIH Prior Approval Request</a></li>
+<li class="leaf menu-mlid-1151"><a href="/sponsored_programs/award/contract-processing-and-acceptance/negotiating-award/contract" title="">Negotiate the Award/Contract</a></li>
+<li class="leaf menu-mlid-2235"><a href="https://www.obfs.uillinois.edu/omb-uniform-guidance" title="">OMB Uniform Guidance</a></li>
+<li class="last leaf menu-mlid-2315"><a href="http://research.uic.edu/node/2920" title="">Individual Development Plans Policy</a></li>
+</ul></div>
+
+  
+    
+</section>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside">
+<section class="panel-pane pane-custom pane-7">
+  
+  
+  <p><strong>OFFICE OF RESEARCH SERVICES (ORS)</strong><br />
+312.996.2862</p>
+<p>310 Administrative Office Building - M/C 672<br />
+1737 West Polk Street<br />
+Chicago, Illinois 60612</p>
+<p><a href="/directory?display=unit&amp;unit=33&amp;first=&amp;last=&amp;search=1">Staff directory</a></p>
+
+  
+    
+</section>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+  
+</section>
+        
+        </div>
+                
+      </div>
+    </li>
+        <li class="">
+      <a href="/gco">Post Award</a>
+      <div class="has-panel">
+        
+                <div class="submenu">
+        
+          <h2>Post Award</h2>
+
+          <ul>
+                        <li><a href="/post-award/federal-133-audit-reports">Federal A-133 Audit Reports</a>
+</li>
+                        <li><a href="/post-award/effort-reporting">Effort Reporting</a>
+</li>
+                        <li><a href="/post-award/essentials-post-award-administration">Essentials of Post-Award Administration</a>
+</li>
+                        <li><a href="/post-award/indirect-cost-rates-fa-fringe-benefits-tuition">Indirect Cost Rates (F&A)</a>
+</li>
+                        <li><a href="/post-award/monitoring-expenditures">Monitoring Expenditures</a>
+</li>
+                        <li><a href="/post-award/omb-uniform-guidance">OMB Uniform Guidance</a>
+</li>
+                        <li><a href="/post-award/sponsored-project-expenditures">Sponsored Project Expenditures</a>
+</li>
+                        <li><a href="/post-award/links-resources">Links & Resources</a>
+</li>
+                        <li><a href="/post-award/forms">Forms</a>
+</li>
+                        <li><a href="https://www.obfs.uillinois.edu/bfpp/section-16-grants-research-contracts/">Policies and Procedures</a>
+</li>
+                        <li><a href="/post-award/glossary">Glossary</a>
+</li>
+                        <li><a href="/post-award/job-aids-and-training-materials">Job Aids and Training Materials</a>
+</li>
+                        <li><a href="/post-award/uic-frequently-asked-questions">UIC Frequently Asked Questions</a>
+</li>
+                        <li><a href="/post-award/who-ask">Who To Ask</a>
+</li>
+                      </ul>
+          
+        </div>
+                
+                <div class="panel">
+        
+          
+<section class="block block-panels-mini">
+  
+  
+  <div class="content">
+    <div>
+      <div class="panel-display panel-2col clearfix" id="mini-panel-grants_and_contracts-1">
+  <div class="panel-panel panel-col-first">
+    <div class="inside">
+<section class="panel-pane pane-menu-tree pane-menu-quick-links-clinical-trials">
+  
+    <header>
+    <h1>Quick Links: GCO</h1>
+  </header>
+  
+  <div class="menu-block-wrapper menu-block-ctools-menu-quick-links-clinical-trials-2 menu-name-menu-quick-links-clinical-trials parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-4517"><a href="http://research.uic.edu/post-award/indirect-cost-rates-fa-fringe-benefits-tuition" title="">Indirect Cost Rates</a></li>
+<li class="leaf menu-mlid-4524"><a href="http://research.uic.edu/post-award/uic-frequently-asked-questions" title="">FAQ</a></li>
+<li class="last leaf menu-mlid-4525"><a href="http://research.uic.edu/post-award/forms" title="">Forms</a></li>
+</ul></div>
+
+  
+    
+</section>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside">
+<section class="panel-pane pane-custom pane-9">
+  
+  
+  <p><strong>GRANTS AND CONTRACTS OFFICE (GCO)</strong><br />
+312.996.3373</p>
+<p>809 South Marshfield Avenue<br />
+Marshfield Building, 5th Floor - MC-551<br />
+Chicago, IL 60612</p>
+<p><a href="http://research.uic.edu/directory?display=unit&amp;unit=68&amp;first=&amp;last=&amp;search=1">Staff directory</a></p>
+
+  
+    
+</section>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+  
+</section>
+        
+        </div>
+                
+      </div>
+    </li>
+        <li class="">
+      <a href="/compliance">Compliance</a>
+      <div class="has-panel">
+        
+                <div class="submenu">
+        
+          <h2>Compliance</h2>
+
+          <ul>
+                        <li><a href="/compliance/irb">Human Subjects & IRB</a>
+</li>
+                        <li><a href="/compliance/escro">ESCRO</a>
+</li>
+                        <li><a href="/compliance/acc">Animal Care & Use (ACC)</a>
+</li>
+                        <li><a href="/compliance/ibc">rDNA & Infectious Agents (IBC)</a>
+</li>
+                        <li><a href="/compliance/cs">Controlled Substances (CS)</a>
+</li>
+                        <li><a href="/compliance/research-integrity">Research Integrity</a>
+</li>
+                        <li><a href="/compliance/coi">Conflict of Commitment & Interest (COI)</a>
+</li>
+                        <li><a href="/compliance/export-controls">Export Controls</a>
+</li>
+                      </ul>
+          
+        </div>
+                
+                <div class="panel">
+        
+          
+<section class="block block-panels-mini">
+  
+  
+  <div class="content">
+    <div>
+      <div class="panel-display panel-2col clearfix" id="mini-panel-menu_449-2">
+  <div class="panel-panel panel-col-first">
+    <div class="inside">
+<section class="panel-pane pane-menu-tree pane-menu-compliance-quick-links">
+  
+    <header>
+    <h1>Quick Links</h1>
+  </header>
+  
+  <div class="menu-block-wrapper menu-block-ctools-menu-compliance-quick-links-3 menu-name-menu-compliance-quick-links parent-mlid-menu-compliance-quick-links-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-486"><a href="/coi/report-non-university-activities-rnua" title="">Annual Report of Non-University Activities (RNUA)</a></li>
+<li class="leaf menu-mlid-3632"><a href="https://myresearch.uillinois.edu/myDisclosures/" title="">START myDisclosures</a></li>
+<li class="leaf menu-mlid-3622"><a href="http://research.uic.edu/compliance/human-subjects-irb/investigators-research-staff/submission/oprslive-beta" title="">OPRS Live (beta)</a></li>
+<li class="leaf menu-mlid-488"><a href="/compliance/human-subjects-irb/investigators-research-staff/submission/irb-submission-deadlines" title="">IRB Submission Deadlines &amp; Meeting Dates</a></li>
+<li class="leaf menu-mlid-491"><a href="/research-directory" title="">IRB Research Directory</a></li>
+<li class="leaf menu-mlid-1524"><a href="/compliance/animal-care-use-acc/meeting-deadlines" title="">ACC Meeting and Deadlings </a></li>
+<li class="leaf menu-mlid-1525"><a href="/node/924/institutional-biosafety-committee-ibc/meeting-deadlines" title="">IBC Meetings and Deadlines</a></li>
+<li class="last leaf menu-mlid-487"><a href="/coi/conflict-commitment-and-interest/public-health-services-phs-disclosure-training" title="">Significant Financial Interest-Disclosure &amp; Management Plan (SFI-DMP)</a></li>
+</ul></div>
+
+  
+    
+</section>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside">
+<section class="panel-pane pane-custom pane-11">
+  
+  
+  <p><strong>OFFICE FOR THE PROTECTION OF RESEARCH SUBJECTS (OPRS)</strong><br />
+312.996.1711<br /><a href="/directory?display=unit&amp;unit=34&amp;first=&amp;last=&amp;search=1">Staff directory</a></p>
+<p><strong>OFFICE OF ANIMAL CARE &amp; INSTITUTIONAL BIOSAFETY (OACIB)</strong><br />
+312.996.1972</p>
+<p><strong>CONFLICT OF INTEREST (COI)</strong><br />
+312.996.4995<br /><a href="/directory?display=unit&amp;unit=36&amp;first=&amp;last=&amp;search=1">Staff directory</a></p>
+
+  
+    
+</section>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+  
+</section>
+        
+        </div>
+                
+      </div>
+    </li>
+        <li class="">
+      <a href="/resources">Resources</a>
+      <div class="no-panel">
+        
+                <div class="submenu">
+        
+          <h2>Resources</h2>
+
+          <ul>
+                        <li><a href="http://www.brl.uic.edu/">Biologic Resources Laboratory (BRL)</a>
+</li>
+                        <li><a href="http://www.rrc.uic.edu/">Research Resources Center (RRC)</a>
+</li>
+                        <li><a href="http://www.uic.edu/depts/envh/">Environmental Health and Safety Office (EHSO)</a>
+</li>
+                        <li><a href="http://otm.uic.edu/">Office of Technology Management (OTM)</a>
+</li>
+                        <li><a href="/ct">Clinical Trials</a>
+</li>
+                        <li><a href="http://www.uic.edu/depts/oaa/faculty/">Office of the Vice Provost for Faculty Affairs</a>
+</li>
+                        <li><a href="/about/centers-and-institutes/centers-and-institutes">Centers & Institutes</a>
+</li>
+                        <li><a href="https://uic.pure.elsevier.com/">UICollaboratory Research Profiles</a>
+</li>
+                        <li><a href="/resources/uic-postdoc-association/home">UIC Postdoc Association</a>
+</li>
+                      </ul>
+          
+        </div>
+                
+                
+      </div>
+    </li>
+        <li class="">
+      <a href="/about">About OVCR</a>
+      <div class="no-panel">
+        
+                <div class="submenu">
+        
+          <h2>About OVCR</h2>
+
+          <ul>
+                        <li><a href="/about/staff">Staff Profiles</a>
+</li>
+                        <li><a href="/news">News</a>
+</li>
+                        <li><a href="/about/ovcr-facts-figures">OVCR Facts & Figures</a>
+</li>
+                        <li><a href="/ird">Impact and Research Day</a>
+</li>
+                        <li><a href="/research-highlights">Research Highlights</a>
+</li>
+                        <li><a href="/about/featured-faculty">Featured Faculty</a>
+</li>
+                        <li><a href="/about-ovcr/ovcr-centers-and-institutes">OVCR Centers and Institutes</a>
+</li>
+                        <li><a href="http://dscc.uic.edu">Division of Specialized Care for Children </a>
+</li>
+                        <li><a href="/about-ovcr/ovcr-vision">OVCR Vision</a>
+</li>
+                      </ul>
+          
+        </div>
+                
+                
+      </div>
+    </li>
+      </ul>
+</div>
+
+    </div>
+  </div>
+  
+</section>
+  
+  </div>
+  
+</div>
+
+<div class="layout-outer content">
+  <div class="layout-inner">
+
+    <div class="layout-main main">
+      <div class="layout-header main-header">
+        
+        <button class="section-button">In this section</button>
+        
+          
+                <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/" class="active">Home</a></div>          
+        
+        
+        
+            
+      </div>
+
+      <div class="layout-content main-content">
+      
+<section class="block block-system">
+  
+  
+  <div class="content">
+    <div>
+      <div class="home layout clearfix" >
+  <div class="top">
+    <div class="right">
+<section class="panel-pane pane-menu-tree pane-menu-tools">
+  
+    <header>
+    <h1>Tools</h1>
+  </header>
+  
+  <div class="menu-block-wrapper menu-block-ctools-menu-tools-1 menu-name-menu-tools parent-mlid-menu-tools-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-373"><a href="/forms" title="">Forms &amp; Contracts</a></li>
+<li class="leaf menu-mlid-1191"><a href="/policies" title="">Policies</a></li>
+<li class="leaf menu-mlid-510"><a href="/education-training" title="">Education &amp; Training</a></li>
+<li class="leaf menu-mlid-511"><a href="/im-looking" title="">I&#039;m looking for...</a></li>
+<li class="last leaf menu-mlid-2113"><a href="http://research.uic.edu/electronic-submission-systems" title="">Electronic Submission Systems          </a></li>
+</ul></div>
+
+  
+    
+</section>
+</div>
+    <div class="left">
+<section class="panel-pane pane-block pane-views-research-highlights-block">
+  
+    <header>
+    <h1>Research Highlights</h1>
+  </header>
+  
+  
+<div class="featured-highlights">
+  
+    <div>
+    
+
+<article class="research-highlight">
+  <div class="photo"><div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/highlights/photos/cadmimleads.jpg" width="492" height="400" alt="NSF grant supports center to develop microfluidics-based solutions" /></div></div></div></div>
+  
+  <header>
+    <h1><a href="https://today.uic.edu/nsf-grant-supports-center-to-develop-microfluidics-based-solutions">NSF grant supports center to develop microfluidics-based solutions</a></h1>
+  </header>
+
+  <div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">The University of Illinois at Chicago has received a $500,000, five-year grant from the National Science Foundation to support the Center for Advanced Design and Manufacturing of Integrated Microfluidics</div></div></div>
+        <div class="field field-name-field-summary field-type-text-long field-label-hidden">
+    <a href="https://today.uic.edu/nsf-grant-supports-center-to-develop-microfluidics-based-solutions" >Read full article &raquo;</a>
+    </div>
+    </article>
+
+  </div>
+  <div>
+    
+
+<article class="research-highlight">
+  <div class="photo"><div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/highlights/photos/ransby02-copy-e1366755598612-298x406_0.jpg" width="381" height="400" alt="UIC scholar honored for work serving the ‘public good’" /></div></div></div></div>
+  
+  <header>
+    <h1><a href="https://today.uic.edu/uic-scholar-honored-for-work-serving-the-public-good">UIC scholar honored for work serving the ‘public good’</a></h1>
+  </header>
+
+  <div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Barbara Ransby, a University of Illinois at Chicago historian, writer and activist, is the recipient of the American Studies Association’s 2018 Angela Y. Davis Prize for Public Scholarship, which recognizes scholars who have applied or used their scholarship for the betterment of society.  The selective award acknowledges high-level work that “explicitly aims to educate the lay public, influence policies, or in other ways seeks to address inequalities in imaginative, practical, and applicable forms.”</div></div></div>
+        <div class="field field-name-field-summary field-type-text-long field-label-hidden">
+    <a href="https://today.uic.edu/uic-scholar-honored-for-work-serving-the-public-good" >Read full article &raquo;</a>
+    </div>
+    </article>
+
+  </div>
+  <div>
+    
+
+<article class="research-highlight">
+  <div class="photo"><div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/highlights/photos/2018.Groden.Joanna24_sm-271x406.jpg" width="394" height="415" alt="New vice chancellor for research aims to support, highlight campus innovation" /></div></div></div></div>
+  
+  <header>
+    <h1><a href="https://today.uic.edu/new-vice-chancellor-for-research-aims-to-support-highlight-campus-innovation?utm_source=newsletter&utm_campaign=November%206%2C%202018">New vice chancellor for research aims to support, highlight campus innovation</a></h1>
+  </header>
+
+  <div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">As UIC’s new vice chancellor for research, Joanna Groden aims to spotlight the groundbreaking and interdisciplinary work happening on campus.  “UIC should be known for innovation and collaboration in research,” Groden said. “Our faculty are tremendously talented and also very willing to work with others. We have many institutes and centers that organize our research excellence in effective ways.”</div></div></div>
+        <div class="field field-name-field-summary field-type-text-long field-label-hidden">
+    <a href="https://today.uic.edu/new-vice-chancellor-for-research-aims-to-support-highlight-campus-innovation?utm_source=newsletter&utm_campaign=November%206%2C%202018" >Read full article &raquo;</a>
+    </div>
+    </article>
+
+  </div>
+  <div>
+    
+
+<article class="research-highlight">
+  <div class="photo"><div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/highlights/photos/9781469646589-271x406.jpg" width="396" height="397" alt="New book details six decades of black politics, education reform" /></div></div></div></div>
+  
+  <header>
+    <h1><a href="https://today.uic.edu/new-book-details-six-decades-of-black-politics-education-reform">New book details six decades of black politics, education reform</a></h1>
+  </header>
+
+  <div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Fifty-five years ago this week, a massive boycott and demonstration, known as Freedom Day, was launched in opposition to segregationist policies of the Chicago Public Schools.  For six decades, Chicago has been and continues to be at the center of the national debate over race and public education reform, said University of Illinois at Chicago historian Elizabeth Todd-Breland.  In her new book, “A Political Education: Black Politics and Education Reform in Chicago Since the 1960s,” Todd-Breland details the city’s transformations in black politics, shifts in modes of education organizing, and the racial politics of education reform spanning the past 60 years.</div></div></div>
+        <div class="field field-name-field-summary field-type-text-long field-label-hidden">
+    <a href="https://today.uic.edu/new-book-details-six-decades-of-black-politics-education-reform" >Read full article &raquo;</a>
+    </div>
+    </article>
+
+  </div>
+  <div>
+    
+
+<article class="research-highlight">
+  <div class="photo"><div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/highlights/photos/sensei-387x258.jpg" width="398" height="396" alt="NSF grant to fund advanced deep learning and visualization computing platform" /></div></div></div></div>
+  
+  <header>
+    <h1><a href="https://today.uic.edu/nsf-grant-to-fund-advanced-deep-learning-and-visualization-computing-platform">NSF grant to fund advanced deep learning and visualization computing platform</a></h1>
+  </header>
+
+  <div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">The University of Illinois at Chicago has received a three-year, $1 million grant from the National Science Foundation to build a state-of-the-art computing platform that will incorporate multiple graphics processing units, as well as enable faculty and students to execute deep learning and visualization codes faster, apply more sophisticated models to large-scale problems, gain greater insights, accelerate discovery and open new avenues of research.</div></div></div>
+        <div class="field field-name-field-summary field-type-text-long field-label-hidden">
+    <a href="https://today.uic.edu/nsf-grant-to-fund-advanced-deep-learning-and-visualization-computing-platform" >Read full article &raquo;</a>
+    </div>
+    </article>
+
+  </div>
+
+</div>
+
+  
+    
+</section>
+</div>
+  </div>
+  <div class="middle">
+    <div class="left">
+<section class="panel-pane pane-panels-mini pane-deadlines-events">
+  
+  
+  <div class="panel-display panel-1col clearfix" id="mini-panel-deadlines_events">
+  <div class="panel-panel panel-col">
+    <div>
+<section class="panel-pane pane-block pane-views-deadlines-block">
+  
+    <header>
+    <h1>Deadlines</h1>
+  </header>
+  
+  <div class="view view-deadlines view-id-deadlines view-display-id-block view-dom-id-9a1c56afbca8cb07f73738e14724b14a">
         
   
   
       <div class="view-content">
-      <form action="/service/lecture-capture" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
- <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump" name="jump"><option value="">Choose service</option><option value="f1c0fd1eb440653d41d9b934c81f2e1d::/service/acccell">  
-          ACCC Extended Laptop Loan (ACCCELL)  </option><option value="9fdd844bb8a1c40b07e178fc3338f2d5::/service/servicedesk">  
-          ACCC Service Desk  </option><option value="ecc409c51f10b0b63be5a6571ce81b96::/service/acccess-helpdesk">  
-          ACCCeSS Helpdesk  </option><option value="50ed3de763b430b8c1a48453b620db95::/service/active-directory">  
-          Active Directory  </option><option value="df59df48a9787f9562382ae3e0a8956a::/service/active-directory-desktop-advantage">  
-          Active Directory Desktop Advantage (ADDA)  </option><option value="5c3ffc71c191c3a86b18f5ae096390bf::/service/automatic-call-distribution">  
-          Automatic Call Distribution   </option><option value="4eacbcd9609818e1dfa88a75ecc17cbc::/service/backups">  
-          Backups  </option><option value="87649ed6cfbd7cbc975e368cd26d6514::/service/blackboard-collaborate">  
-          Blackboard Collaborate  </option><option value="921b1bf1fcf3d0855dd6266ddcf53043::/service/box">  
-          Box  </option><option value="19e3358c2add0b2367c4e5d43e3c3970::/service/c-stop">  
-          C-stop  </option><option value="4f276c8f111958c4dac723c36e9b71bf::/service/equipment-lending/classroom-equipment-lending">  
-          Classroom Equipment Lending  </option><option value="32bb00830993846ab986d00b0c8a5fd9::/service/classroom">  
-          Classrooms  </option><option value="6a34288ce1585e03b7513e4d47c45e49::/service/collaboration-tools">  
-          Collaboration Tools  </option><option value="0a0aef270d360aa126cf7e0a8ec2ad44::/service/colocation-server-hosting">  
-          Colocation Server Hosting  </option><option value="7adfc88989421c8fb40583511e051a57::/service/computer-labs">  
-          Computer Labs  </option><option value="09591e995510e42238e1dc9f88dfc73b::/service/conferencing">  
-          Conferencing  </option><option value="452d3d2303d0394dab6432f5545d5a87::/service/ceb">  
-          Corporate Executive Board  </option><option value="e8cf41609887f887d29e4506d1186cd8::/service/data-usage-monitoring">  
-          Data Usage Monitoring  </option><option value="0db9ba4d82994b1409130db6f35b35e9::/service/databases">  
-          Database Services  </option><option value="56a4f6ec101c46829e0ed4b821fb389b::/service/digital-signage">  
-          Digital Signage  </option><option value="bf219a4619b9e123df222a4a0b216309::/service/directory">  
-          Directory Services  </option><option value="54acba8c9baec915b09cb1b277e86bbf::/service/email-and-calendaring">  
-          Email and Calendaring  </option><option value="7a1a6698d0be8e706b08fdca9856113f::/service/encryption">  
-          Encryption  </option><option value="d85b23f87c8b939a2de49f757a885404::/service/endpoint-management">  
-          Endpoint Management  </option><option value="1c4c420556b8f4964ec821fbe1c91443::/service/equipment-lending">  
-          Equipment Lending  </option><option value="83b5c96a64686618a1c924de844cd427::/service/event-logging">  
-          Event Logging  </option><option value="05ba4c880395d2e8c112a88383097df8::/service/event-support-av">  
-          Event Support (Audio/Visual)  </option><option value="ec50ae47546b551fe93f9c6766d417e5::/service/events-calendar">  
-          Events Calendar  </option><option value="3aca9ee863caaca38338d91d2b67c153::/service/exchange">  
-          Exchange  </option><option value="497b750a7695989ec1caf7d829a1230a::/service/fact">  
-          Faculty Computer Trade-In (FaCT)  </option><option value="92d5cf8a0a3a88fe65d11d9731373ce3::/service/g-suite">  
-          G Suite (formerly Google Apps)  </option><option value="29fc87540c271b8863beac609c29b42e::/service/helpdesk">  
-          Helpdesk Services  </option><option value="592c5cb5e681f4ee30b09d7482663b5e::/service/high-performance-computing">  
-          High Performance Computing  </option><option value="915b2b821e2fe4e47ac34ed061a0d007::/service/identity-and-access-management">  
-          Identity and Access Management  </option><option value="fddc96fe1e22714e61db4345c78febad::/service/instant-messaging">  
-          Instant Messaging  </option><option value="f94278ec0e388291a8f3988411d314cc::/service/learning-design-and-development">  
-          Learning Design and Development  </option><option value="c6147deed44acd6ca048ad470afcbe33::/service/learning-environments">  
-          Learning Environments  </option><option value="3689d4a6c97c3fd4162a0506b8d959ef::/service/learning-management-system">  
-          Learning Management System  </option><option value="8936c111080f3aa031c861e4448efc99::/LTS">  
-          Learning Technology Solutions  </option><option value="4989923a8a910d2acbb7464d28c7f2a5::/service/lecture-capture" selected="selected">  
-          Lecture Capture  </option><option value="67919309615b8414e3dee04798b5804d::/service/listserv">  
-          Listserv  </option><option value="844e9859712145ab647f937e528f81af::/service/mass-and-emergency-communications">  
-          Mass and Emergency Communications  </option><option value="c27a9506dce9ed22050fde8417def8ba::/service/massmail">  
-          Massmail  </option><option value="c56c755a9fd9d903e460ed676a2b24c4::/service/media-conversion">  
-          Media Conversion  </option><option value="629ee8ca86679fcf902db74ce2a2713c::/service/media-streaming">  
-          Media Streaming  </option><option value="0309479d93b815bb68f2e1f76c34ae31::/service/microsoft-iis">  
-          Microsoft IIS  </option><option value="2570aee9c526595d90eee4ad00cfab22::/service/mobile-phones">  
-          Mobile Phones  </option><option value="9f78a633eded2f13a2cff2a1adec86be::/service/multimedia-production">  
-          Multimedia Production  </option><option value="6c9309bb3bef1869bab876a2b6a397e1::/service/network">  
-          Network  </option><option value="3929c91be987d9925911001ac035bbf9::/service/network-data-moves">  
-          Network Data Moves  </option><option value="c9237d508f18c48eb1b5aee02bcbc10a::/service/network-filters">  
-          Network Filters  </option><option value="49f2ff0aed27f04a3f6a872286a36325::/service/noc">  
-          Network Operations Center  </option><option value="0e52b94c317bdda083778dee5f3b9a1e::/service/network-scanning">  
-          Network Security Vulnerability Scanner  </option><option value="6353814f68b2cf28e760c96a641934ef::/service/office-365">  
-          Office 365  </option><option value="d5b5c084e9d92a32b23edb68c7c7273d::/service/onsite">  
-          On-Site Support  </option><option value="530322567e0527508f43f4a791e1d439::/service/oneuic">  
-          ONE.UIC  </option><option value="fe3bb70146b7ed2b8de88e9af6ebdea8::/service/phone">  
-          Phone Services  </option><option value="126e899c4dc7c6d320bc33149c8d4d52::/service/centrex">  
-          Phones (Centrex)  </option><option value="43877dcbe943b59254a0e0d0e1e27402::/service/printing">  
-          Printing  </option><option value="72cef4679afa528259f1d043126ad344::/service/professional-development-training">  
-          Professional Development &amp; Training  </option><option value="6d8f5e743e878146cd5b6b726879427e::/recharge-stations">  
-          Recharge Stations  </option><option value="ce97cf5eb2bbbab453b5c215228e5be3::/service/rt">  
-          Request Tracker (RT)  </option><option value="e00f51bddf0ac5346c133dc56dba5df3::/service/resident-hall-network-res-net">  
-          Resident Hall Network (Res-Net)  </option><option value="12a1b103043201b45b6dac657bda70ad::/service/resphone">  
-          ResPhone  </option><option value="7c3e92a65a50c6bde2ca6ecc4e72da19::/service/secure-computing-environment">  
-          Secure Computing Environment  </option><option value="3386c64ffcb94879c8ccf0adb1ec85a5::/service/security">  
-          Security  </option><option value="013c818ece3664f5d6072116f8e306dd::/service/sharepoint">  
-          SharePoint  </option><option value="b809113863ca89e6b9bb5e9615141730::/service/single-sign-on">  
-          Single Sign On  </option><option value="c062a95e54affe32842ed9edb5540c52::/service/ssl-certificates">  
-          SSL Certificates  </option><option value="b9c23de9594fad3398e10a7e9dcb48a9::/service/startel">  
-          StarTel  </option><option value="f1d6a17201647bf956b356d9138d44a3::/service/surveys">  
-          Surveys  </option><option value="f8eb511c09ac5ca794ff91c4150ca916::/service/telecom">  
-          Telecommunications   </option><option value="19591106fe22e0d6f02541823194b5d3::/service/uic-alert">  
-          UIC Alert  </option><option value="b1ecd866ebb0bf9028921ca37161dc98::/uicmobile">  
-          UIC Mobile   </option><option value="dec0719df1440c3ce11f38032e82ed99::/service/uicalendar">  
-          UICalendar  </option><option value="0fd8a02dd3a2acad6b6241ec8881d0f7::/service/vpn">  
-          Virtual Private Network (VPN)  </option><option value="ba6ae6defd250193141979db057dc5bb::/service/virtual-servers">  
-          Virtual Servers  </option><option value="be397f639d2f1d34bed945365117f4b3::/service/voicemail">  
-          Voicemail  </option><option value="528645dae420c32d525ca9b51f4bb329::/service/voip">  
-          VoIP  </option><option value="b4b33b22c32bfad584042a5866096f54::/service/web-services">  
-          Web Services  </option><option value="555a2c0af67b49f8eedcbcac9c82062a::/service/wiki">  
-          Wiki  </option><option value="d26ff2b332dda04f377761b3cc13e8a6::/service/uic-net">  
-          Wired Network  </option><option value="7b8b5252a137d17387b07d7470d684d6::/service/wireless">  
-          Wireless Network  </option></select>
-</div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-PHZHDuRXBVF9gS-egvi6GwFUggdItsNGx_EbhLx82nw" />
-<input type="hidden" name="form_id" value="ctools_jump_menu" />
-</div></form>    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-</div>
-<div id="block-views-service-categories-block" class="block block-views">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+<article class="deadline node teaser">
+    <header>
+        <h1>
+                    UIC DPI Seed Program - Cycle 2 Application                  </h1>
+    </header>
 
-    <h2>Service Categories</h2>
+    <p class="date">
+      <span class="month">Dec</span>
+      <span class="day">03</span>
+    </p>
+
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="http://research.uic.edu/uicdpi">http://research.uic.edu/uicdpi</a></p>
+</div></div></div>
+</article>
+
+  </div>
+    </div>
   
-  <div class="content">
-    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-369c221907789267cce5747eb590f78c">
+  
+  
+  
+      <div class="view-footer">
+      <div class="view-all">
+<a href="/calendar/deadlines" class="view-all-arrow">All Deadlines</a>
+</div>    </div>
+  
+  
+</div>
+  
+    
+</section>
+<div class="panel-separator"></div>
+<section class="panel-pane pane-block pane-views-calendar-block-1">
+  
+    <header>
+    <h1>Events</h1>
+  </header>
+  
+  <div class="view view-calendar view-id-calendar view-display-id-block_1 view-dom-id-5394dda0cace7fd7b3d391a0b83619d4">
         
   
   
       <div class="view-content">
-      <form action="/service/lecture-capture" method="post" id="ctools-jump-menu--2" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
- <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump--2" name="jump"><option value="" selected="selected">Choose category</option><option value="0d6b0768f9fe01f93fc2f5863e2e1e1d::/category/accounts-and-passwords">  
-          Accounts and Passwords  </option><option value="cefded44a726cebc33c154a1ce92a03d::/category/business-tools">  
-          Business Tools  </option><option value="3352f6a597d71c0803f0598a0ec1fdf3::/category/email-calendar-and-communications">  
-          Email, Calendar and Communications  </option><option value="887ccd1368c395cef26dba3afa6ab41c::/category/facilities-and-equipment">  
-          Facilities and Equipment  </option><option value="94f5a3a65429b9ee9d785b9f208c942e::/category/help">  
-          Help  </option><option value="b25e1722bef36292c2cc478026b29cda::/category/learning-tools">  
-          Learning Tools  </option><option value="506986de589bcedec624d445b7c8fbe0::/category/networking">  
-          Networking  </option><option value="94638126b57cc939aff9257042a70663::/category/research">  
-          Research  </option><option value="af03098223978b67697bc3c4992ec42b::/category/security">  
-          Security  </option></select>
-</div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-odmdWvTABlMLtYIyBOokeRXllZEEKxagFNYBUTSz754" />
-<input type="hidden" name="form_id" value="ctools_jump_menu" />
-</div></form>    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-</div>
-<div id="block-views-popular-block" class="block block-views">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <!-- dialog itself, mfp-hide class is required to make dialog hidden -->
+<div id="lightbox-6932" class="zoom-anim-dialog mfp-hide small-dialog">
+  <article class="node event teaser">
+    <header>
+      <h1>Research Administrators Monthly Meeting - Pre-Award: Subaward Post-Award: Sub-recipient monitoring? (Tentative)</h1>
+    </header>
 
-    <h2><a href="/popular/all" class="block-title-link">Popular Services</a></h2>
+        <p class="date">
+      <span class="month">Nov</span>
+      <span class="day">28</span>
+    </p>
+        
+    <div>
+      
+      <div class="field field-name-field-event-time field-type-datetime field-label-above"><div class="field-label">Date/Time</div> <div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, November 28, 2018 - <span class="date-display-range"><span class="date-display-start">1:00pm</span> to <span class="date-display-end">2:00pm</span></span></span></div></div></div>    
+      <div class="field field-name-field-event-location field-type-location field-label-above"><div class="field-label">Location</div> <div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">307C, AOB</span>
+              <div class="street-address">
+        <span itemprop="streetAddress">1737 W Polk St.</span>
+              </div>
+                  <span class="locality" itemprop="addressLocality">
+      Chicago      </span>
+                                                        </div>
+  </div>
+</div></div></div>    
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Presenter:</strong> Pre: Joe Stefanich /Rosalva Medina</p>
+<div> </div>
+</div></div></div>
+      
+    </div>
+  </article>
+</div>
+
+
+<div class="lightbox-preview">
+  <article class="node event teaser">
+    <header>
+      <h1><a href="#lightbox-6932" class="popup-with-zoom-anim">Research Administrators Monthly Meeting - Pre-Award: Subaward Post-Award: Sub-recipient monitoring? (Tentative)</a></h1>
+      <div class="field field-name-field-event-time field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, November 28, 2018 - <span class="date-display-range"><span class="date-display-start">1:00pm</span> to <span class="date-display-end">2:00pm</span></span></span></div></div></div>    </header>
+    
+        <p class="date">
+      <span class="month">Nov</span>
+      <span class="day">28</span>
+    </p>
+        
+    <div>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Presenter:</strong> Pre: Joe Stefanich /Rosalva Medina</p>
+<div> </div>
+</div></div></div>    </div>
+
+  </article>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <!-- dialog itself, mfp-hide class is required to make dialog hidden -->
+<div id="lightbox-7449" class="zoom-anim-dialog mfp-hide small-dialog">
+  <article class="node event teaser">
+    <header>
+      <h1>RCR Training - Authorship</h1>
+    </header>
+
+        <p class="date">
+      <span class="month">Dec</span>
+      <span class="day">12</span>
+    </p>
+        
+    <div>
+      
+      <div class="field field-name-field-event-time field-type-datetime field-label-above"><div class="field-label">Date/Time</div> <div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, December 12, 2018 - <span class="date-display-range"><span class="date-display-start">12:00pm</span> to <span class="date-display-end">1:00pm</span></span></span></div></div></div>    
+      <div class="field field-name-field-event-location field-type-location field-label-above"><div class="field-label">Location</div> <div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">AOB 202G</span>
+              <div class="street-address">
+        <span itemprop="streetAddress">1737 W Polk St.</span>
+              </div>
+                  <span class="locality" itemprop="addressLocality">
+      Chicago      </span>
+                                                        </div>
+  </div>
+</div></div></div>    
+      
+      <div class="field field-name-field-event-registration-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.uictraining.org/Public/Catalog/Description.aspx?u=kM6WW0gCRplNnwNUAkhTU8aYV7sYm59%2BGAhbBGNIIiI%2BchBMS%2Bb9jNLdpSMg4RntmnQCibi6x1E%3D">Registration</a></div></div></div>
+    </div>
+  </article>
+</div>
+
+
+<div class="lightbox-preview">
+  <article class="node event teaser">
+    <header>
+      <h1><a href="#lightbox-7449" class="popup-with-zoom-anim">RCR Training - Authorship</a></h1>
+      <div class="field field-name-field-event-time field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, December 12, 2018 - <span class="date-display-range"><span class="date-display-start">12:00pm</span> to <span class="date-display-end">1:00pm</span></span></span></div></div></div>    </header>
+    
+        <p class="date">
+      <span class="month">Dec</span>
+      <span class="day">12</span>
+    </p>
+        
+    <div>
+        </div>
+
+  </article>
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <!-- dialog itself, mfp-hide class is required to make dialog hidden -->
+<div id="lightbox-6933" class="zoom-anim-dialog mfp-hide small-dialog">
+  <article class="node event teaser">
+    <header>
+      <h1>Research Administrators Monthly Meeting - End-of-Year Update</h1>
+    </header>
+
+        <p class="date">
+      <span class="month">Dec</span>
+      <span class="day">19</span>
+    </p>
+        
+    <div>
+      
+      <div class="field field-name-field-event-time field-type-datetime field-label-above"><div class="field-label">Date/Time</div> <div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, December 19, 2018 - <span class="date-display-range"><span class="date-display-start">1:00pm</span> to <span class="date-display-end">2:00pm</span></span></span></div></div></div>    
+      <div class="field field-name-field-event-location field-type-location field-label-above"><div class="field-label">Location</div> <div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">307C, AOB</span>
+              <div class="street-address">
+        <span itemprop="streetAddress">1737 W Polk St.</span>
+              </div>
+                  <span class="locality" itemprop="addressLocality">
+      Chicago      </span>
+                                                        </div>
+  </div>
+</div></div></div>    
+      
+      
+    </div>
+  </article>
+</div>
+
+
+<div class="lightbox-preview">
+  <article class="node event teaser">
+    <header>
+      <h1><a href="#lightbox-6933" class="popup-with-zoom-anim">Research Administrators Monthly Meeting - End-of-Year Update</a></h1>
+      <div class="field field-name-field-event-time field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, December 19, 2018 - <span class="date-display-range"><span class="date-display-start">1:00pm</span> to <span class="date-display-end">2:00pm</span></span></span></div></div></div>    </header>
+    
+        <p class="date">
+      <span class="month">Dec</span>
+      <span class="day">19</span>
+    </p>
+        
+    <div>
+        </div>
+
+  </article>
+</div>
+  </div>
+    </div>
   
-  <div class="content">
-    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-309bb007eaca65b64ec656cb11ee167e">
+  
+  
+  
+      <div class="view-footer">
+      <div class="view-all">
+<a href="/calendar/events" class="view-all-arrow">Full Calendar</a>
+</div>    </div>
+  
+  
+</div>
+  
+    
+</section>
+</div>
+  </div>
+</div>
+
+  
+    
+</section>
+</div>
+    <div class="right">
+<section class="panel-pane pane-block pane-views-announcements-block">
+  
+    <header>
+    <h1>OVCR Announcements</h1>
+  </header>
+  
+  <div class="view view-announcements view-id-announcements view-display-id-block view-dom-id-0cf406edf3e61d936a277b17219b5101">
         
   
   
       <div class="view-content">
-      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/learning-management-system">Learning Management System</a></span>  </span></li>
-          <li class="views-row views-row-2 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/g-suite">G Suite (formerly Google Apps)</a></span>  </span></li>
-          <li class="views-row views-row-3 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/exchange">Exchange</a></span>  </span></li>
-          <li class="views-row views-row-4 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/box">Box</a></span>  </span></li>
-          <li class="views-row views-row-5 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/lecture-capture">Lecture Capture</a></span>  </span></li>
-          <li class="views-row views-row-6 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/classroom">Classrooms</a></span>  </span></li>
-          <li class="views-row views-row-7 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/servicedesk">ACCC Service Desk</a></span>  </span></li>
-          <li class="views-row views-row-8 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless">Wireless Network</a></span>  </span></li>
-          <li class="views-row views-row-9 views-row-odd">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/LTS">Learning Technology Solutions</a></span>  </span></li>
-          <li class="views-row views-row-10 views-row-even views-row-last">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/telecom">Telecommunications </a></span>  </span></li>
-      </ul></div>    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-</div>
-  </div>
-      </div></div> <!-- /.section, /#sidebar-second -->
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article class="announcement node teaser">
+    <header>
+    <h1><a href="http://research.uic.edu/uicdpi">UIC DPI Seed Funding Program </a></h1>
+            <p class="office">
+                </p>
+    <p class="date">
+      <span class="month">Nov</span>
+      <span class="day">9</span>
+    </p>
+  </header>
     
-  </div></div> <!-- /#main, /#main-wrapper -->
-
+  <div class="body">
+      </div>
   
-  <div id="footer-wrapper"><div class="section">
-
-          <div id="footer-columns" class="clearfix">
-          <div class="region region-footer-firstcolumn">
-    <div id="block-menu-menu-footer-menu-1" class="block block-menu">
-
-    <h2>ACCC</h2>
+</article>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article class="announcement node teaser">
+    <header>
+    <h1><a href="/node/6363">2018 OVCR  Holiday Schedules</a></h1>
+            <p class="office">
+                </p>
+    <p class="date">
+      <span class="month">Nov</span>
+      <span class="day">7</span>
+    </p>
+  </header>
+    
+  <div class="body">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2><strong>Office of Research Services (ORS) 2018 Holiday Schedule</strong></h2>
+<p>The Office of Research Services (ORS) will observe the UIC reduced service schedule for non-essential services that begins on Monday, December 24th. As such, ORS will close at 5:00 PM on Friday, December 21, 2018, and will reopen at 8:30 AM on Wednesday, January 2, 2019.</p>
+<p>To ensure timely review and processing of sponsored project documents due prior to Wednesday, January 2, 2019, please submit all necessary paperwork no later than 5:00 PM, Friday, December 14, 2018.</p></div></div></div>  </div>
   
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/about">About ACCC</a></li>
-<li class="leaf"><a href="/service/learning-environments/accessibility">Accessibility Resources</a></li>
-<li class="leaf"><a href="/job/all" title="Employment Opportunities">Jobs</a></li>
-<li class="leaf"><a href="/news/all" title="">News and Alerts</a></li>
-<li class="leaf"><a href="/policy/all">Policies and Guidelines</a></li>
-<li class="leaf"><a href="/service/telecom" title="">Telecom</a></li>
-<li class="leaf"><a href="/newsletters">ACCC Newsletter</a></li>
-<li class="last leaf"><a href="/reports">Reports</a></li>
-</ul>  </div>
+</article>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <article class="announcement node teaser">
+    <header>
+    <h1><a href="http://research.uic.edu/post-award/effort-reporting">AY18 Effort Reporting</a></h1>
+            <p class="office">
+                </p>
+    <p class="date">
+      <span class="month">Oct</span>
+      <span class="day">18</span>
+    </p>
+  </header>
+    
+  <div class="body">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Dear Research Community,</p>
+<p>The Effort Reporting System (ERS) is now open and ready for AY18 certifications to be completed. Effort is the time spent on all university activities. The ERS is designed to document effort actually expended by individuals on each sponsored award during AY18 (8/16/17 – 8/15/18) and reconcile effort committed in award document(s).  This effort can be paid directly by the award and/or other funding sources (i.e. cost shared) to ensure effort commitments are met.</p>
+<p><u>Process</u></p></div></div></div>  </div>
+  
+</article>
+  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+    <article class="announcement node teaser">
+    <header>
+    <h1><a href="http://research.uic.edu/funding-opportunities/faculty-awards/researcher-year-awards">2018 Researcher and Scholar of the Year Nomination</a></h1>
+            <p class="office">
+                </p>
+    <p class="date">
+      <span class="month">Oct</span>
+      <span class="day">9</span>
+    </p>
+  </header>
+    
+  <div class="body">
+      </div>
+  
+</article>
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/announcements">
+    All Announcements  </a>
+</div>
+  
+  
+  
+</div>
+  
+    
+</section>
+<div class="panel-separator"></div>
+<section class="panel-pane pane-views pane-news">
+  
+    <header>
+    <h1>UIC Research News</h1>
+  </header>
+  
+  <div class="view view-news view-id-news view-display-id-block view-dom-id-04760f3241b0c15b90167bfc2061eb0c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+<article class="news feed-item teaser with-image">
+  
+    <a href="https://today.uic.edu/dpi-submit-your-proposals-and-join-experts-groups" target="_blank">
+      
+        
+    <h1>DPI: Submit Your Proposals and Join Experts Groups</h1>
+
+    <p class="date">Nov 20</p>
+
+    <div class="summary"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Dear colleagues: As the end of the year approaches, we […]</p>
+</div></div></div></div>
+  
+    </a>
+    
+</article>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+<article class="news feed-item teaser with-image">
+  
+    <a href="https://today.uic.edu/nsf-grant-supports-center-to-develop-microfluidics-based-solutions" target="_blank">
+      
+        <div class="field field-name-field-uic-feed-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/styles/feed_thumbnail/public/news/research/CADMIMleads-387x258.jpg?itok=BYdAZj_G" width="100" height="100" /></div></div></div>        
+    <h1>NSF grant supports center to develop microfluidics-based solutions</h1>
+
+    <p class="date">Nov 19</p>
+
+    <div class="summary"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Academic-industry partnerships lead to faster, cheaper analytical devices</p>
+</div></div></div></div>
+  
+    </a>
+    
+</article>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+<article class="news feed-item teaser with-image">
+  
+    <a href="https://today.uic.edu/parents-kids-actually-agree-about-confidential-medical-care" target="_blank">
+      
+        <div class="field field-name-field-uic-feed-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/styles/feed_thumbnail/public/news/research/2018.Klein_.Jonathan14-387x258.jpg?itok=q98HQ4A5" width="100" height="100" /></div></div></div>        
+    <h1>Parents, kids actually agree about confidential medical care</h1>
+
+    <p class="date">Nov 14</p>
+
+    <div class="summary"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>But attitudes do not line up with care guidelines</p>
+</div></div></div></div>
+  
+    </a>
+    
+</article>  </div>
+  <div class="views-row views-row-4 views-row-even">
+    
+<article class="news feed-item teaser with-image">
+  
+    <a href="https://today.uic.edu/a-checklist-for-employee-training" target="_blank">
+      
+        <div class="field field-name-field-uic-feed-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/styles/feed_thumbnail/public/news/research/readers-survey1-387x258.jpg?itok=TX3NFe8V" width="100" height="100" /></div></div></div>        
+    <h1>A checklist for employee training</h1>
+
+    <p class="date">Nov 14</p>
+
+    <div class="summary"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>UIC research provides guidance on effective training transfer</p>
+</div></div></div></div>
+  
+    </a>
+    
+</article>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    
+<article class="news feed-item teaser with-image">
+  
+    <a href="https://today.uic.edu/second-uic-breast-cancer-drug-enters-clinical-trial" target="_blank">
+      
+        <div class="field field-name-field-uic-feed-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/styles/feed_thumbnail/public/news/research/tonetti-thatcher_F-387x258.jpg?itok=aCEZPvWM" width="100" height="100" /></div></div></div>        
+    <h1>Second UIC breast cancer drug enters clinical trial         </h1>
+
+    <p class="date">Nov 13</p>
+
+    <div class="summary"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Drug pipeline advances</p>
+</div></div></div></div>
+  
+    </a>
+    
+</article>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="view-all-blue">
+<a href="/news">More News</a>
+</div>    </div>
+  
+  
+</div>
+  
+    
+</section>
 </div>
   </div>
-          <div class="region region-footer-secondcolumn">
-    <div id="block-menu-menu-tools" class="block block-menu">
+  <div class="bottom">
+    <div class="left">
+<section class="panel-pane pane-fieldable-panels-pane pane-uuid-d10db973-ebb7-4d64-9e48-e5bac634772e pane-bundle-media-pane">
+  
+    <header>
+    <h1><a href="/about/ovcr-facts-figures">OVCR Facts & Figures</a></h1>
+  </header>
+  
+  
+<div class="fieldable-panels-pane">
+  
+  
+  <p class="media"><a href="/about/ovcr-facts-figures"><div id="file-170" class="file file-image file-image-png">
 
-    <h2>Quick Links</h2>
+        <h2 class="element-invisible"><a href="/file/170">facts-figures.png</a></h2>
+    
   
   <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/get-started">Get started</a></li>
-<li class="leaf"><a href="http://activatenetid.accc.uic.edu" title="Activate your UIC NetID">Activate UIC NetID</a></li>
-<li class="leaf"><a href="http://passwords.accc.uic.edu" title="Change password, reset forgotten password">Change password</a></li>
-<li class="leaf"><a href="http://accountportal.accc.uic.edu" title="Create ACCC-managed accounts">Create accounts</a></li>
-<li class="leaf"><a href="http://uic.blackboard.com" title="Log in to Blackboard Learn">Blackboard Learn</a></li>
-<li class="leaf"><a href="http://sms.accc.uic.edu" title="Subscribe to UIC emergency SMS notifications">Emergency SMS</a></li>
-<li class="leaf"><a href="http://gmail.uic.edu" title="">GoogleApps@UIC</a></li>
-<li class="leaf"><a href="http://emailforwarding.accc.uic.edu" title="Update netID@uic.edu email forwarding">Update email forwarding</a></li>
-<li class="last leaf"><a href="http://webmail.uic.edu" title="">Webmail</a></li>
-</ul>  </div>
+    <img src="http://research.uic.edu/sites/default/files/media_panes/facts-figures.png" alt="" title="" />  </div>
+
+  
+</div>
+</a></p>
+
+  <p><a class="read-more" href="/about/ovcr-facts-figures">See more</a></p>
+  
+    
+</div>
+
+  
+    
+</section>
+</div>
+    <div class="right">
+<section class="panel-pane pane-views pane-featured-faculty">
+  
+    <header>
+    <h1>Featured Faculty</h1>
+  </header>
+  
+  <div class="view view-featured-faculty view-id-featured_faculty view-display-id-block view-dom-id-6b9bd1c4031e050347d5cee182ad8720">
+        
+  
+  
+      <div class="view-content">
+        <div>
+    <article class="profile teaser node ">
+    <div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/faculty/profiles/jain.jpg" width="200" height="200" alt="" /></div></div></div>
+    <div class="info">
+        <div class="field-collection-container clearfix"><div class="field field-name-field-highlight-faculty field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-highlight-faculty clearfix">
+  <div class="content">
+    <div class="field field-name-field-faculty-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Sandeep Jain, Associate Professor </div></div></div><div class="field field-name-field-faculty-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">2017 Inventor of the Year</div></div></div>  </div>
+</div>
+</div></div></div></div></div>        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Sandeep Jain is amongst the few clinical scientists in the field who have taken their research discovery from laboratory to the clinic and converted them to new therapies.</p>
+<p>His research and clinical practice have both focused on very severe cases of dry eye disease caused by autoimmune disorders, in particular by a condition known as ocular graft versus host disease, which is a serious complication that occurs in patients with blood cancers who have undergone stem cell or bone marrow transplants.</p></div></div></div>        <p class="more"><a class="button" href="/researchatuic/sandeep-jain">Read full profile</a></p>
+    </div>
+</article>
+  </div>
+  <div>
+    <article class="profile teaser node ">
+    <div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/faculty/profiles/lawless1.jpg" width="200" height="201" alt="" /></div></div></div>
+    <div class="info">
+        <div class="field-collection-container clearfix"><div class="field field-name-field-highlight-faculty field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-highlight-faculty clearfix">
+  <div class="content">
+    <div class="field field-name-field-faculty-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Kimberly Lawless, Professor</div></div></div><div class="field field-name-field-faculty-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">2017 Researcher of the Year, Distinguished - Social Sciences</div></div></div>  </div>
+</div>
+</div></div></div></div></div>        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Kimberly Lawless, associate dean for research in the College of Education, believes that science literacy is a tool, and like any tool, be it a hammer, screwdriver or wrench, you need to learn what it is, what it does and when to use it.</p>
+<p>“If you go through the world thinking that you only have a hammer, the only thing you can do is hammer,” said Lawless, professor of educational psychology. “But if you go through life with a complement of tools and you are able to fluidly mix and match those tools to the job that’s in front of you, you’re going to better accomplish the job.”</p></div></div></div>        <p class="more"><a class="button" href="/researchatuic/kimberly-lawless">Read full profile</a></p>
+    </div>
+</article>
+  </div>
+  <div>
+    <article class="profile teaser node ">
+    <div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/faculty/profiles/qato.jpg" width="200" height="202" alt="" /></div></div></div>
+    <div class="info">
+        <div class="field-collection-container clearfix"><div class="field field-name-field-highlight-faculty field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-highlight-faculty clearfix">
+  <div class="content">
+    <div class="field field-name-field-faculty-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dima Mazen Qato, Assistant Professor</div></div></div><div class="field field-name-field-faculty-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">2017 Researcher of the Year, Rising Star - Social Sciences</div></div></div>  </div>
+</div>
+</div></div></div></div></div>        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>For more than 10 years, Dima Qato worked as a retail pharmacist and witnessed countless examples of the vital role pharmacies play in the public health system, particularly when it comes to access to and safe use of medications.</p>
+<p>However, while many like Qato consider pharmacies to be an essential part of our health care system, the independent and chain retailers are not regulated by or held accountable to any of the groups that provide checks and balances for other essential health services, like care in hospitals and clinics.</p></div></div></div>        <p class="more"><a class="button" href="/researchatuic/dima-mazen-qato">Read full profile</a></p>
+    </div>
+</article>
+  </div>
+  <div>
+    <article class="profile teaser node ">
+    <div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/faculty/profiles/cruz.jpg" width="200" height="200" alt="" /></div></div></div>
+    <div class="info">
+        <div class="field-collection-container clearfix"><div class="field field-name-field-highlight-faculty field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-highlight-faculty clearfix">
+  <div class="content">
+    <div class="field field-name-field-faculty-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Isabel Cruz, Professor</div></div></div><div class="field field-name-field-faculty-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">2017 Researcher of the Year, Distinguished - Natural Sciences and Engineering</div></div></div>  </div>
+</div>
+</div></div></div></div></div>        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Isabel Cruz makes sense of complex data.</p>
+<p>“One of the aspects I work on is heterogeneous data — for example, how to make sense of data that is collected with different spatial and temporal granularities,” said Cruz, professor of computer science.</p>
+<p>The U.S. Census, for example, collects data every 10 years, but other population data within a city may be taken every month or year.</p>
+<p>“So if you want to tell the story of what’s happening in a city, you cannot put apples and oranges together,” she said.</p></div></div></div>        <p class="more"><a class="button" href="/researchatuic/isabel-cruz">Read full profile</a></p>
+    </div>
+</article>
+  </div>
+  <div>
+    <article class="profile teaser node ">
+    <div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/faculty/profiles/novak.jpg" width="200" height="199" alt="" /></div></div></div>
+    <div class="info">
+        <div class="field-collection-container clearfix"><div class="field field-name-field-highlight-faculty field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-highlight-faculty clearfix">
+  <div class="content">
+    <div class="field field-name-field-faculty-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Richard Novak, Professor</div></div></div><div class="field field-name-field-faculty-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">2017 Researcher of the Year, Distinguished - Clinical Sciences</div></div></div>  </div>
+</div>
+</div></div></div></div></div>        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Richard Novak has been working to identify therapies and vaccines for HIV since the 1980s, when the infection first started making the news as it spread among the gay community.</p>
+<p>Novak was a young assistant professor of infectious disease at UIC when he pushed for the hospital to open a dedicated HIV clinic because the general infectious disease department wasn’t able to handle the influx of HIV patients. That clinic opened in 1989, and just a few years later, Novak received funding to open UIC’s first dedicated HIV treatment and prevention clinics in the community in 1992.</p></div></div></div>        <p class="more"><a class="button" href="/researchatuic/richard-novak">Read full profile</a></p>
+    </div>
+</article>
+  </div>
+  <div>
+    <article class="profile teaser node ">
+    <div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/faculty/profiles/argos.jpg" width="197" height="200" alt="" /></div></div></div>
+    <div class="info">
+        <div class="field-collection-container clearfix"><div class="field field-name-field-highlight-faculty field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-highlight-faculty clearfix">
+  <div class="content">
+    <div class="field field-name-field-faculty-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Maria Argos, Associate Professor</div></div></div><div class="field field-name-field-faculty-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">2017 Researcher of the Year, Rising Star - Clinical Sciences</div></div></div>  </div>
+</div>
+</div></div></div></div></div>        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>What are the health effects of arsenic from drinking water and other sources?</p>
+<p>That’s a question that Maria Argos aims to answer in her research studies.</p>
+<p>Argos examines the levels of arsenic in drinking water primarily in Bangladesh, and the associated health effects for people who live there.</p></div></div></div>        <p class="more"><a class="button" href="/researchatuic/maria-argos">Read full profile</a></p>
+    </div>
+</article>
+  </div>
+  <div>
+    <article class="profile teaser node ">
+    <div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/faculty/profiles/subbaiah.jpg" width="199" height="200" alt="" /></div></div></div>
+    <div class="info">
+        <div class="field-collection-container clearfix"><div class="field field-name-field-highlight-faculty field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-highlight-faculty clearfix">
+  <div class="content">
+    <div class="field field-name-field-faculty-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Parasani Subbaiah, Professor</div></div></div><div class="field field-name-field-faculty-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">2017 Researcher of the Year, Distinguished - Basic Life Sciences</div></div></div>  </div>
+</div>
+</div></div></div></div></div>        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>“I’m a lipid biochemist,” said Papasani Subbaiah, professor of medicine in the department of diabetes/endocrinology and metabolism in the UIC College of Medicine.</p>
+<p>Subbaiah’s career has focused on analyzing the role of lipids — the molecules that make up fat in the body — for more than 40 years. His contributions have added to knowledge in several fields including Alzheimer’s disease and other neuroinflammatory diseases, atherosclerosis and metabolism.</p></div></div></div>        <p class="more"><a class="button" href="/researchatuic/parasani-subbaiah">Read full profile</a></p>
+    </div>
+</article>
+  </div>
+  <div>
+    <article class="profile teaser node ">
+    <div class="field field-name-field-highlight-photo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="http://research.uic.edu/sites/default/files/faculty/profiles/moore.jpg" width="200" height="200" alt="" /></div></div></div>
+    <div class="info">
+        <div class="field-collection-container clearfix"><div class="field field-name-field-highlight-faculty field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-highlight-faculty clearfix">
+  <div class="content">
+    <div class="field field-name-field-faculty-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Terry Moore, Assistant Professor</div></div></div><div class="field field-name-field-faculty-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even"> 2017 Researcher of the Year, Rising Star - Basic Life Sciences</div></div></div>  </div>
+</div>
+</div></div></div></div></div>        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Terry Moore is a medicinal chemist focused on discovering new drugs to improve the lives of men and women living with chronic health conditions, like cancer and diabetes.</p>
+<p>Unlike many drug discovery labs, Moore’s lab investigates the way that proteins interact with one another in diseases.</p></div></div></div>        <p class="more"><a class="button" href="/researchatuic/terry-moore">Read full profile</a></p>
+    </div>
+</article>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+    
+</section>
 </div>
   </div>
-          <div class="region region-footer-thirdcolumn">
-    <div id="block-menu-menu-locations" class="block block-menu">
-
-    <h2>Locations</h2>
-  
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/service/acccess-helpdesk" title="">ACCCeSS Helpdesk</a></li>
-<li class="leaf"><a href="/service/servicedesk" title="">Client Services Office</a></li>
-<li class="collapsed"><a href="/LTS" title="">Learning Technology Solutions</a></li>
-<li class="last leaf"><a href="/service/noc" title="">Network Operations Center</a></li>
-</ul>  </div>
 </div>
+    </div>
   </div>
-          <div class="region region-footer-fourthcolumn">
-    <div id="block-menu-menu-accc-liaison-resources" class="block block-menu">
-
-    <h2>Liaison Resources</h2>
   
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="https://liaison.uic.edu" title="Liaison Manager Tool">Liaison Manager</a></li>
-<li class="leaf"><a href="http://wiki.uic.edu/ACCC/PbContacts/WebHome" title="Phonebook Contacts Wiki">Phonebook Contacts Wiki</a></li>
-<li class="leaf"><a href="http://wiki.uic.edu/ACCC/REACH/WebHome" title="REACH Wiki">REACH Wiki</a></li>
-<li class="last leaf"><a href="https://helpdesk.uic.edu" title="">RT Helpdesk</a></li>
-</ul>  </div>
-</div>
-<div id="block-menu-menu-website" class="block block-menu">
-
-    <h2>Website</h2>
+</section>
+      </div>
   
-  <div class="content">
-    <ul class="menu clearfix"><li class="first leaf"><a href="/contact/webmaster" title="">Contact the webmaster</a></li>
-<li class="last leaf"><a href="/sitemap" title="">Site map</a></li>
-</ul>  </div>
+      
+    </div>
+
+      
+  </div>
 </div>
-<div id="block-shib-auth-login-box" class="block block-shib-auth">
+
+
+
+
+<div class="footer">
+  
+  <div class="identity">
+  
+    <p class="site-title"><span>UIC Office of the Vice Chancellor for Research</span></p>
+    
+  </div>
+
+  <div class="content">
+    <div>
 
     
+<section class="block block-block">
+  
+          <header>
+      <div>
+        <h1>OVCR Main Office</h1>
+      </div>
+    </header>
+      
   <div class="content">
-    <div id="shib_login_url">
-  <a href="https://accc.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Faccc.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F426">Log in</a>
-</div>
+    <div>
+      <p>310 Administrative Office Building (AOB)<br />
+MC 672<br />
+1737 West Polk Street<br />
+Chicago, IL 60612</p>
+<p><em>T</em> (312) 996-4995<br /><em>F</em> (312) 996-9598<br />
+ovcrweb@uic.edu</p>
+<p><em>Hours</em> M–F, 8:30am–5:00pm</p>
+<p><a href="/contact">Get Directions »</a><br /><a href="/directory">Staff Directory »</a></p>
+<p><img alt="" src="http://research.uic.edu/sites/all/themes/ovcr/images/ovcrlogored.png" style="float:left; height:124px; width:100px" /></p>
+    </div>
   </div>
+  
+</section>
+
+<section class="block block-contact-form-blocks">
+  
+          <header>
+      <div>
+        <h1>Send Us a Message</h1>
+      </div>
+    </header>
+      
+  <div class="content">
+    <div>
+      <form class="user-info-from-cookie contact-form" action="/" method="post" id="contact-site-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Your name </label>
+ <input type="text" id="edit-name" name="name" value="" size="60" maxlength="255" class="form-text" />
 </div>
+<div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">Your e-mail address </label>
+ <input type="text" id="edit-mail" name="mail" value="" size="60" maxlength="255" class="form-text" />
+</div>
+<div class="form-item form-type-select form-item-cid">
+  <label for="edit-cid">Category <span class="form-required" title="This field is required.">*</span></label>
+ <select id="edit-cid" name="cid" class="form-select required"><option value="3" selected="selected">OVCR/General</option><option value="5">COI</option><option value="7">CT</option><option value="6">OACIB</option><option value="2">OPRS</option><option value="1">ORS</option><option value="4">RDS</option><option value="8">RI</option></select>
+</div>
+<div class="form-item form-type-textarea form-item-message">
+  <label for="edit-message">Message <span class="form-required" title="This field is required.">*</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-message" name="message" cols="60" rows="4" class="form-textarea required"></textarea></div>
+</div>
+<input type="hidden" name="form_build_id" value="form-DnlUl31j_y3Lq4iLntjnQyB1NAzF9LiKOQDF1q47P8Y" />
+<input type="hidden" name="form_id" value="contact_site_form" />
+<input type="hidden" name="honeypot_time" value="1543101711|5hHmlFqV9FQVWzRs_IPG4JYlTPwFMozwsw2p3jhUcNY" />
+<div class="edit-additional-comments-wrapper"><div class="form-item form-type-textfield form-item-additional-comments">
+  <label for="edit-additional-comments">additional comments </label>
+ <input type="text" id="edit-additional-comments" name="additional_comments" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">Type of Research</div>
+</div>
+</div><fieldset class="captcha form-wrapper"><legend><span class="fieldset-legend">CAPTCHA</span></legend><div class="fieldset-wrapper"><div class="fieldset-description">This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" value="1903030" />
+<input type="hidden" name="captcha_token" value="e9f01c9432588fae380e96197be1a4a7" />
+<img src="/image_captcha?sid=1903030&amp;ts=1543101711" width="180" height="60" alt="Image CAPTCHA" title="Image CAPTCHA" /><div class="form-item form-type-textfield form-item-captcha-response">
+  <label for="edit-captcha-response">What code is in the image? <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-captcha-response" name="captcha_response" value="" size="15" maxlength="128" class="form-text required" />
+<div class="description">Enter the characters shown in the image.</div>
+</div>
+</div></fieldset>
+<div class="office-textfield"><div class="form-item form-type-textfield form-item-office">
+  <label for="edit-office">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-office" name="office" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Send message" class="form-submit" /></div></div></form>    </div>
   </div>
-      </div> <!-- /#footer-columns -->
-    
-          <div id="footer" class="clearfix">
-          <div class="region region-footer">
-    <div id="block-block-3" class="block block-block">
+  
+</section>
+
+<section class="block block-menu-block">
+  
+          <header>
+      <div>
+        <h1>Offices/Units</h1>
+      </div>
+    </header>
+      
+  <div class="content">
+    <div>
+      <div class="menu-block-wrapper menu-block-2 menu-name-menu-offices-units parent-mlid-0 menu-level-1">
+  <div class="offices-units-menu"><div><a href="/sponsored_programs"><abbr title="Office of Research Services">ORS</abbr> Office of Research Services</a><a href="/compliance/irb"><abbr title="Office for the Protection of Research Subjects">OPRS</abbr> Office for the Protection of Research Subjects</a><a href="/compliance/coi"><abbr title="Conflict of Commitment &amp; Interest">COI</abbr> Conflict of Commitment & Interest</a><a href="/compliance/acc"><abbr title="Office of Animal Care &amp; Institutional Biosafety">OACIB</abbr> Office of Animal Care & Institutional Biosafety</a><a href="/funding"><abbr title="Research Development Services">RDS</abbr> Research Development Services</a></div><div><a href="/ct"><abbr title="Clinical Trials">CTO</abbr> Clinical Trials</a><a href="http://www.rrc.uic.edu/"><abbr title="Research Resources Center">RRC</abbr> Research Resources Center</a><a href="http://www.brl.uic.edu/"><abbr title="Biologic Resources Laboratory">BRL</abbr> Biologic Resources Laboratory</a><a href="/gco"><abbr title="Grants and Contracts">GCO</abbr> Grants and Contracts</a></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+<section class="block block-block">
+  
+  
+  <div class="content">
+    <div>
+      <p><a href="https://www.youtube.com/user/uicmedia"><img alt="" src="/sites/default/files/form/files/youtube.jpg" style="float:left; height:30px; margin:20px 30px; width:30px" /></a><a href="https://twitter.com/UIC_OVCR"><img alt="" src="/sites/default/files/form/files/twitter.jpg" style="float:left; height:30px; margin:20px 30px; width:30px" /></a></p>
+    </div>
+  </div>
+  
+</section>
+  
+    </div>
+  </div>
+  
+  <div class="fine-print">
+    <div>
 
     
+<section class="block block-block">
+  
+  
   <div class="content">
-    <p><a href="http://www.uic.edu"><img alt="University of Illinois at Chicago" src="/sites/all/themes/acccbartik/images/uic-stacked-logo-180.png" style="float:left; height:136px; margin-right:1em; width:180px" /></a> © Copyright 2018 The Board of Trustees of the University of Illinois | <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a></p>
+    <div>
+      <p>© Copyright 2018 The Board of Trustees of the University of Illinois. Having problems accessing this site? Please contact the <a href="mailto:ovcrweb@uic.edu">webmaster</a>. | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Policy</a></p>
+    </div>
   </div>
-</div>
+  
+</section>
+  
+    </div>
   </div>
-      </div> <!-- /#footer -->
-    
-  </div></div> <!-- /.section, /#footer-wrapper -->
 
-</div></div> <!-- /#page, /#page-wrapper -->
-  </body>
+</div>
+
+
+
+
+
+  <a class="optanon-show-settings optanon-show-settings-default">CookieSettings</a>
+					<style type="text/css">
+						.optanon-show-settings-popup-wrapper {
+							z-index: 10001;
+							position: absolute;
+						}						
+					</style>
+					<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function OptanonWrapper() {}
+//--><!]]>
+</script>
+
+  <!-- This website was designed and built by Pixo <http://pixotech.com> -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35369580-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
 </html>

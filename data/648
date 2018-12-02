@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<title>infrastructure | UIC Today</title>
+<title>Sherri McGinnis González | UIC Today</title>
 
 <link rel="stylesheet" type="text/css" media="all" href="https://today.uic.edu/wp-content/themes/uictoday/style.css" />
 
@@ -17,7 +17,7 @@
 
 
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="UIC Today &raquo; infrastructure Tag Feed" href="https://today.uic.edu/tag/infrastructure/feed" />
+<link rel="alternate" type="application/rss+xml" title="UIC Today &raquo; Posts by Sherri McGinnis González Feed" href="https://today.uic.edu/author/smcginn/feed" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/today.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -151,7 +151,7 @@ var EM = {"ajaxurl":"https:\/\/today.uic.edu\/wp-admin\/admin-ajax.php","locatio
 
 </head>
 
-<body role="document" class="archive tag tag-infrastructure tag-388">
+<body role="document" class="archive author author-smcginn author-16">
 
 
 <div id="skip" role="complementary">
@@ -301,83 +301,112 @@ Submit
 
 
 
-		    <h1>All infrastructure</h1>
-	 
-            <div class='news-release'>
-          <div class="listing-thumb">
-            <img width="150" height="150" src="https://today.uic.edu/files/2013/11/special-ed-teachers1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="An apple on a desk with a chalkboard in the background" srcset="https://today.uic.edu/files/2013/11/special-ed-teachers1-150x150.jpg 150w, https://today.uic.edu/files/2013/11/special-ed-teachers1-160x160.jpg 160w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
-          <div class='news-release-info clearfix'>
-            <p class="date grayed">November 12, 2018</p>
-            <a href="https://today.uic.edu/study-investigates-factors-behind-chicago-school-closure-decisions"> Study investigates factors behind Chicago school closure decisions </a>
-            <p>Analysis covers closure decisions from 2003 to 2013</p>
-          </div>
-        </div>
-            <div class='news-release'>
-          <div class="listing-thumb">
-            <img width="150" height="150" src="https://today.uic.edu/files/2016/10/DJI_0080-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Chicago skyline" srcset="https://today.uic.edu/files/2016/10/DJI_0080-150x150.jpg 150w, https://today.uic.edu/files/2016/10/DJI_0080-160x160.jpg 160w, https://today.uic.edu/files/2016/10/DJI_0080-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
-          <div class='news-release-info clearfix'>
-            <p class="date grayed">September 6, 2017</p>
-            <a href="https://today.uic.edu/uic-urban-forum-to-examine-influence-future-of-infrastructure"> UIC Urban Forum to examine influence, future of infrastructure </a>
-            <p>Architect Carol Ross Barney, IDOT&#8217;s Randy Blankenhorn to deliver keynotes </p>
-          </div>
-        </div>
-            <div class='news-release'>
-          <div class="listing-thumb">
-            <img width="150" height="150" src="https://today.uic.edu/files/2015/04/1109447_70414087-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="drain pipe releasing water" srcset="https://today.uic.edu/files/2015/04/1109447_70414087-150x150.jpg 150w, https://today.uic.edu/files/2015/04/1109447_70414087-100x100.jpg 100w, https://today.uic.edu/files/2015/04/1109447_70414087-200x200.jpg 200w, https://today.uic.edu/files/2015/04/1109447_70414087-125x125.jpg 125w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
-          <div class='news-release-info clearfix'>
-            <p class="date grayed">April 9, 2015</p>
-            <a href="https://today.uic.edu/combined-sewer-systems-lead-to-risk-of-illness-after-heavy-rains"> Combined sewer systems lead to risk of illness after heavy rains </a>
-            <p>Contamination of drinking water may be to blame for health problems</p>
-          </div>
-        </div>
-            <div class='news-release'>
-          <div class="listing-thumb">
-            <img width="150" height="150" src="https://today.uic.edu/files/2014/01/bridge-4-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Man working on bridge infrastructure" srcset="https://today.uic.edu/files/2014/01/bridge-4-150x150.jpg 150w, https://today.uic.edu/files/2014/01/bridge-4-160x160.jpg 160w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
-          <div class='news-release-info clearfix'>
-            <p class="date grayed">January 28, 2014</p>
-            <a href="https://today.uic.edu/making-bridge-monitoring-fast-accurate-affordable"> New ways to monitor bridge safety </a>
-            <p>Optical fiber can replace thousands of sensors</p>
-          </div>
-        </div>
-            <div class='news-release'>
-          <div class="listing-thumb">
-            <img width="150" height="150" src="https://today.uic.edu/files/2014/01/140121_Cold-weather38-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Students walk to campus" srcset="https://today.uic.edu/files/2014/01/140121_Cold-weather38-150x150.jpg 150w, https://today.uic.edu/files/2014/01/140121_Cold-weather38-160x160.jpg 160w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
-          <div class='news-release-info clearfix'>
-            <p class="date grayed">January 21, 2014</p>
-            <a href="https://today.uic.edu/pipeline-replaced-after-heat-goes-out-on-east-campus"> Pipeline replaced after heat goes out on east campus </a>
-            <p>Crews will excavate for repairs near Student Center East this week</p>
-          </div>
-        </div>
-            <div class='news-release'>
-          <div class="listing-thumb">
-            <img width="150" height="150" src="https://today.uic.edu/files/2013/05/The-Future-of-the-City-featured-image-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Kartal, a district of Istanbul, Turkey, as planned by Zaha Hadid Architects." srcset="https://today.uic.edu/files/2013/05/The-Future-of-the-City-featured-image-150x150.jpg 150w, https://today.uic.edu/files/2013/05/The-Future-of-the-City-featured-image-160x160.jpg 160w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
-          <div class='news-release-info clearfix'>
-            <p class="date grayed">May 14, 2013</p>
-            <a href="https://today.uic.edu/vital-skyscrapers-need-better-planning-experts-say"> Vital skyscrapers need better planning, experts say </a>
-            <p>Tall buildings need better urban planning to serve the needs of growing cities, UIC and UIUC authors write.</p>
-          </div>
-        </div>
-            <div class='news-release'>
-          <div class="listing-thumb">
-                      </div>
-          <div class='news-release-info clearfix'>
-            <p class="date grayed">August 21, 2012</p>
-            <a href="https://today.uic.edu/study-to-evaluate-zoning-code-reforms-and-physical-activity"> Study to Evaluate Zoning Code Reforms and Physical Activity </a>
-            <p>Researchers at the University of Illinois at Chicago have received a $1.5 million federal grant to examine the relationship between zoning code reforms, the physical environment, and physical-activity behavior in communities throughout the U.S.</p>
-          </div>
-        </div>
+                <h1>All Entries by Sherri McGinnis González</h1>
+                                    <div class='news-release'>
+                    <div class="listing-thumb">
+                        <img width="150" height="150" src="https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Credit Union 1 Arena" srcset="https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-150x150.jpg 150w, https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-160x160.jpg 160w, https://today.uic.edu/files/2018/11/CU1-Arena-FB-Ad-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />                    </div>
+                    <div class='news-release-info clearfix'>
+                        <p class="date grayed">November 15, 2018</p>
+                        <a href="https://today.uic.edu/credit-union-1-and-uic-poised-to-strengthen-partnership-with-naming-rights-agreement"> Credit Union 1 and UIC Poised to Strengthen Partnership with Naming Rights Agreement </a>
+                        <p>University’s multi-use facility to be named Credit Union 1 Arena, subject to approval of Board of Trustees</p>
+                    </div>
+                </div>
+                            <div class='news-release'>
+                    <div class="listing-thumb">
+                        <img width="150" height="150" src="https://today.uic.edu/files/2015/08/IMG_1693-HDR-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="East campus looking at lecture halls" srcset="https://today.uic.edu/files/2015/08/IMG_1693-HDR-150x150.jpg 150w, https://today.uic.edu/files/2015/08/IMG_1693-HDR-100x100.jpg 100w, https://today.uic.edu/files/2015/08/IMG_1693-HDR-200x200.jpg 200w, https://today.uic.edu/files/2015/08/IMG_1693-HDR-125x125.jpg 125w" sizes="(max-width: 150px) 100vw, 150px" />                    </div>
+                    <div class='news-release-info clearfix'>
+                        <p class="date grayed">October 5, 2018</p>
+                        <a href="https://today.uic.edu/a-message-to-our-community"> A Message to Our Community </a>
+                        <p>Dear Students, Faculty and Staff, We realize that some members [&hellip;]</p>
+                    </div>
+                </div>
+                            <div class='news-release'>
+                    <div class="listing-thumb">
+                        <img width="150" height="150" src="https://today.uic.edu/files/2018/07/state-street-golden-small-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="John Marshall Law School" srcset="https://today.uic.edu/files/2018/07/state-street-golden-small-1-150x150.jpg 150w, https://today.uic.edu/files/2018/07/state-street-golden-small-1-160x160.jpg 160w, https://today.uic.edu/files/2018/07/state-street-golden-small-1-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />                    </div>
+                    <div class='news-release-info clearfix'>
+                        <p class="date grayed">July 19, 2018</p>
+                        <a href="https://today.uic.edu/uic-john-marshall-law-school-join-forces-to-create-chicagos-only-public-law-school"> UIC, John Marshall Law School join forces to create Chicago’s only public law school </a>
+                        <p>First class expected to matriculate in fall 2019</p>
+                    </div>
+                </div>
+                            <div class='news-release'>
+                    <div class="listing-thumb">
+                        <img width="150" height="150" src="https://today.uic.edu/files/2015/09/DSC0186-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="UIC campus and Chicago skyline" srcset="https://today.uic.edu/files/2015/09/DSC0186-150x150.jpg 150w, https://today.uic.edu/files/2015/09/DSC0186-100x100.jpg 100w, https://today.uic.edu/files/2015/09/DSC0186-200x200.jpg 200w, https://today.uic.edu/files/2015/09/DSC0186-160x160.jpg 160w, https://today.uic.edu/files/2015/09/DSC0186-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />                    </div>
+                    <div class='news-release-info clearfix'>
+                        <p class="date grayed">May 9, 2018</p>
+                        <a href="https://today.uic.edu/obama-foundation-and-university-of-illinois-at-chicago-announce-chicago-community-conversation-to-engage-inspire-local-grassroots-leaders"> Obama Foundation and University of Illinois at Chicago Announce Chicago Community Conversation to Engage &#038; Inspire Local Grassroots Leaders </a>
+                        <p>Today, the Obama Foundation and the University of Illinois at [&hellip;]</p>
+                    </div>
+                </div>
+                            <div class='news-release'>
+                    <div class="listing-thumb">
+                        <img width="150" height="150" src="https://today.uic.edu/files/2016/11/DJI_0046-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="University Hall and other east side buildings with Chicago skyline" srcset="https://today.uic.edu/files/2016/11/DJI_0046-150x150.jpg 150w, https://today.uic.edu/files/2016/11/DJI_0046-100x100.jpg 100w, https://today.uic.edu/files/2016/11/DJI_0046-200x200.jpg 200w, https://today.uic.edu/files/2016/11/DJI_0046-160x160.jpg 160w, https://today.uic.edu/files/2016/11/DJI_0046-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />                    </div>
+                    <div class='news-release-info clearfix'>
+                        <p class="date grayed">December 6, 2017</p>
+                        <a href="https://today.uic.edu/message-from-the-chancellor-6"> Message from the Chancellor </a>
+                        <p>Dear Faculty, Staff and Students, I write today to announce [&hellip;]</p>
+                    </div>
+                </div>
+                            <div class='news-release'>
+                    <div class="listing-thumb">
+                        <img width="150" height="150" src="https://today.uic.edu/files/2017/10/Advanced-Research-and-Engineering-building-F-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Engineering Innovation Building" srcset="https://today.uic.edu/files/2017/10/Advanced-Research-and-Engineering-building-F-150x150.jpg 150w, https://today.uic.edu/files/2017/10/Advanced-Research-and-Engineering-building-F-160x160.jpg 160w, https://today.uic.edu/files/2017/10/Advanced-Research-and-Engineering-building-F-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />                    </div>
+                    <div class='news-release-info clearfix'>
+                        <p class="date grayed">November 16, 2017</p>
+                        <a href="https://today.uic.edu/uic-engineering-college-to-break-ground-on-new-building"> UIC engineering college to break ground on new building </a>
+                        <p>First new academic building on the east side of campus in more than 25 years</p>
+                    </div>
+                </div>
+                            <div class='news-release'>
+                    <div class="listing-thumb">
+                        <img width="150" height="150" src="https://today.uic.edu/files/2017/10/spark_half-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://today.uic.edu/files/2017/10/spark_half-150x150.jpg 150w, https://today.uic.edu/files/2017/10/spark_half-160x160.jpg 160w, https://today.uic.edu/files/2017/10/spark_half-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />                    </div>
+                    <div class='news-release-info clearfix'>
+                        <p class="date grayed">October 28, 2017</p>
+                        <a href="https://today.uic.edu/uic-launches-fundraising-campaign-to-raise-750-million"> UIC launches fundraising campaign to raise $750 million </a>
+                        <p>IGNITE: The Campaign for UIC</p>
+                    </div>
+                </div>
+                            <div class='news-release'>
+                    <div class="listing-thumb">
+                        <img width="150" height="150" src="https://today.uic.edu/files/2016/09/2016_8-31_Fotolog-22-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="crowd of students walking on campus" srcset="https://today.uic.edu/files/2016/09/2016_8-31_Fotolog-22-150x150.jpg 150w, https://today.uic.edu/files/2016/09/2016_8-31_Fotolog-22-100x100.jpg 100w, https://today.uic.edu/files/2016/09/2016_8-31_Fotolog-22-200x200.jpg 200w, https://today.uic.edu/files/2016/09/2016_8-31_Fotolog-22-160x160.jpg 160w, https://today.uic.edu/files/2016/09/2016_8-31_Fotolog-22-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />                    </div>
+                    <div class='news-release-info clearfix'>
+                        <p class="date grayed">September 13, 2017</p>
+                        <a href="https://today.uic.edu/number-of-new-freshmen-at-uic-jump-23-pushing-total-enrollment-over-30000"> New freshmen at UIC jumps 23%, pushing total enrollment over 30,000 </a>
+                        <p>&nbsp; The University of Illinois at Chicago enrolled a record [&hellip;]</p>
+                    </div>
+                </div>
+                            <div class='news-release'>
+                    <div class="listing-thumb">
+                        <img width="150" height="150" src="https://today.uic.edu/files/2017/07/Garrett-Klassy-F-e1500392664871-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Garrett Klassy" />                    </div>
+                    <div class='news-release-info clearfix'>
+                        <p class="date grayed">July 18, 2017</p>
+                        <a href="https://today.uic.edu/uic-names-new-athletic-director"> UIC names new athletic director </a>
+                        <p>Garrett Klassy to lead Flames</p>
+                    </div>
+                </div>
+                            <div class='news-release'>
+                    <div class="listing-thumb">
+                        <img width="150" height="150" src="https://today.uic.edu/files/2017/05/power-play-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Operation Power Play promotional graphic" srcset="https://today.uic.edu/files/2017/05/power-play-150x150.jpg 150w, https://today.uic.edu/files/2017/05/power-play-100x100.jpg 100w, https://today.uic.edu/files/2017/05/power-play-200x200.jpg 200w, https://today.uic.edu/files/2017/05/power-play-125x125.jpg 125w" sizes="(max-width: 150px) 100vw, 150px" />                    </div>
+                    <div class='news-release-info clearfix'>
+                        <p class="date grayed">May 17, 2017</p>
+                        <a href="https://today.uic.edu/statewide-drill-tests-resources-response-to-emergency-incidents"> Statewide drill tests resources, response to emergency incidents </a>
+                        <p>“Operation Power Play 2017&#8243; held at UIC</p>
+                    </div>
+                </div>
+            
+            <!-- Creates paginated archive pages -->
+
+            <div class="archivepaged">
+                <span aria-current='page' class='page-numbers current'>1</span>
+<a class='page-numbers' href='https://today.uic.edu/author/smcginn/page/2'>2</a>
+<a class='page-numbers' href='https://today.uic.edu/author/smcginn/page/3'>3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://today.uic.edu/author/smcginn/page/16'>16</a>
+<a class="next page-numbers" href="https://today.uic.edu/author/smcginn/page/2">Next &raquo;</a>            </div>
         
-    <!-- Creates paginated archive pages -->
-    
-     <div class="archivepaged">
-           </div>
-  
 
-<!-- Need 2 closing divs before footer to close divs from page header include -->
-	</div>
     
-</div>    
-
+        </div>
+    </div>
 <div class="clearThis">&nbsp;</div>
 
 
@@ -562,6 +591,24 @@ Submit
 		<script type="text/javascript">
   document.write(unescape("%3Cscript src='//www.uic.edu/inc/emergency/alert.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
+      <script type="text/javascript">
+
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfImagesSize = 'full-size';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+          var pfPlatform = 'Wordpress';
+      (function() {
+            var e = document.createElement('script'); e.type="text/javascript";
+            e.src = 'https://cdn.printfriendly.com/printfriendly.js';
+            document.getElementsByTagName('head')[0].appendChild(e);
+        })();
+      </script>
 <script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/simple-link-directory//assets/js/packery.pkgd.js?ver=1.1'></script>
 <script type='text/javascript' src='https://today.uic.edu/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
  
@@ -584,4 +631,4 @@ Submit
       </script>
 
 </body>
-</html><!-- WP Fastest Cache file was created in 0.12546610832214 seconds, on 21-11-18 10:56:44 -->
+</html><!-- WP Fastest Cache file was created in 0.11658501625061 seconds, on 21-11-18 12:18:53 -->

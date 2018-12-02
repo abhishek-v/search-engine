@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<head><link rel="stylesheet" type="text/css" href="http://engineering.uic.edu/wp-content/cache/minify/1/f6048.css" media="all" />
+<head><link rel="stylesheet" type="text/css" href="http://engineering.uic.edu/wp-content/cache/minify/1/9df6c.css" media="all" />
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +8,7 @@
 <link rel="pingback" href="http://engineering.uic.edu/xmlrpc.php">
 <meta name="format-detection" content="telephone=no">
 
-<title>Kirsten Janson &#8211; UIC College of Engineering</title>
+<title>Student News 2012 &#8211; UIC College of Engineering</title>
 <link sizes="16x16" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-01.png" rel="icon" /><link rel="icon" sizes="57x57" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-iphone-01.png" /><link rel="icon" sizes="114x114" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-iphone-retina-01.png" /><link rel="icon" sizes="72x72" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-ipad-01.png" /><link rel="icon" sizes="144x144" href="http://engineering.uic.edu/wp-content/uploads/2016/10/Webicon-ipad-retina-01.png" /><link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="UIC College of Engineering &raquo; Feed" href="http://engineering.uic.edu/feed/" />
@@ -72,6 +72,7 @@ img.emoji {
 
 
 
+
 <script type="text/javascript" src="http://engineering.uic.edu/wp-content/cache/minify/1/018a2.js"></script>
 
 
@@ -81,13 +82,11 @@ img.emoji {
 <link rel='https://api.w.org/' href='http://engineering.uic.edu/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://engineering.uic.edu/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://engineering.uic.edu/wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='Ronald Fernandez' href='http://engineering.uic.edu/k-Teacher/ronald-fernandez/' />
-<link rel='next' title='Elena Diaz' href='http://engineering.uic.edu/k-Teacher/elena-diaz/' />
 <meta name="generator" content="WordPress 4.9.8" />
-<link rel="canonical" href="http://engineering.uic.edu/k-Teacher/kirsten-gorton/" />
-<link rel='shortlink' href='http://engineering.uic.edu/?p=262' />
-<link rel="alternate" type="application/json+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fk-Teacher%2Fkirsten-gorton%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fk-Teacher%2Fkirsten-gorton%2F&#038;format=xml" />
+<link rel="canonical" href="http://engineering.uic.edu/student-news-2012/" />
+<link rel='shortlink' href='http://engineering.uic.edu/?p=1864' />
+<link rel="alternate" type="application/json+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fstudent-news-2012%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://engineering.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fengineering.uic.edu%2Fstudent-news-2012%2F&#038;format=xml" />
 <script>        jQuery(document).ready(function(){
             var retina = window.devicePixelRatio > 1 ? true : false;
                         if(retina) {
@@ -977,7 +976,7 @@ article
 					};</script>
 <noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 
-<body class="post-k-teacher-template-default single single-post-k-teacher postid-262 offcanvas-type-default  offcanvas-right wpb-js-composer js-comp-ver-5.4.5 vc_responsive" id="">
+<body class="page-template-default page page-id-1864 offcanvas-type-default  offcanvas-right wpb-js-composer js-comp-ver-5.4.5 vc_responsive" id="">
 
 	
 <div class="k2t-container">
@@ -1199,76 +1198,505 @@ article
 	<div class="k2t-body">
 
 		
-	<div class="k2t-title-bar teacher-title-bar no-sidebar parallax" style="" data-stellar-background-ratio=&quot;0.5&quot;>
+	<div class="k2t-title-bar parallax" style="background-size:inherit;background-attachment: fixed" data-stellar-background-ratio=&quot;0.5&quot;>
 				<div>
 			<div class="container k2t-wrap">
 				<h1 class="main-title" style="">
-					Kirsten Janson				</h1>
-				<div class="main-excerpt" style="">
-					Editorial Writer				</div><!-- .main-excerpt -->
+					Student News 2012				</h1>
+				<div class="main-excerpt">
+									</div><!-- .main-excerpt -->
 			</div>
 		</div>
-			
+		
+		<div><div class="container k2t-wrap breadcrumb"><ul class="k2t-breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://engineering.uic.edu">Home</a></li><li class="current">Student News 2012</li></ul></div><!-- k2t-wrap --></div>			
 	</div><!-- .k2t-title-bar -->
 
 
-	<div class="k2t-content no-sidebar">
-		<div class="k2t-wrap">
-			<main class="k2t-main" role="main">
+	<div class="k2t-content no-sidebar" style="">
 
-				
-					<div id="main-col" class="post-262 post-k-teacher type-post-k-teacher status-publish has-post-thumbnail hentry k-teacher-category-uncategorized">
+		<div class="container k2t-wrap">
 
-						<div class="k2t-row">
-							<div class="teacher-entry-meta col-4">
-								<div class="k2t-element-hover">
-																			<div class="teacher-thumbnail">
-											<img width="400" height="400" src="http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton.jpg" class="attachment-thumb_500x500 size-thumb_500x500 wp-post-image" alt="Kirsten Janson" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton.jpg 400w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-300x300.jpg 300w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/Gorton-100x100.jpg 100w" sizes="(max-width: 400px) 100vw, 400px" />										</div>
-																		<div class="entry-meta-inner">
-										<div class="entry_teacher_number">
-																							<i class="fa fa-phone"></i><span class="teacher_phone_number">312-355-5973</span>
-																					</div>
-										<ul class="teacher_social">
-						                							               								               									               		<li>
-							                		<a target='_blank' href="mailto:kgorton@uic.edu">
-							                			<i class="fa fa-envelope"></i>kgorton@uic.edu							                		</a>
-							                	</li>
-						               								               								               								               								               								               								               								               								               								               								               								                </ul>
+			<!-- Main -->
+			<main class="k2t-main page" role="main">
+					
+					
+<article id="post-1864" class="post-1864 page type-page status-publish hentry">
 
-									</div><!--entry-meta-inner-->
-								</div>
-							</div>
-							<div class="teacher-entry-content col-8">
+	<div class="page-entry">
+		<div id="ld_courses_listing">
+			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div  id="vTU27x54KA" class="k2t-heading align-left no-border no-subtitle h2 two_dots"><div class="k2t-heading-inner"><div class="text"><h2 class="h"><span>Student News 2012</span></h2></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+<!--list Created by W4 Post List Ver 2.1.2-->
+<!--W4_Post_list_1853-->
+<style id="w4pl-css-1853" type="text/css">.w4pl-inner li {
+position: relative;
+padding-bottom: 10px;
+width: 100%;
+}
 
-								<h3 class="h"><i class="zmdi zmdi-account"></i><span>Bio</span></h3>
-								<div class="content">
-									<p><strong>Contact Information:</strong></p>
-<blockquote>
-<p>University of Illinois at Chicago, College of Engineering (M/C 159), 851 South Morgan, Chicago, IL 60607</p>
-</blockquote>
-<blockquote>
-<p><strong>Office: </strong>806 SEO</p>
-</blockquote>
-<p></p>								</div>
-								
-							</div>
-						</div>
+.w4pl .w4pl-inner .inner {
+padding: 20px;
+height: 230px;
+background: white;
+}
 
 
-						<div class="teacher-connect">
-							
-							
-						</div><!--teacher-connect-->
 
-					</div><!-- #main-col -->
+.w4pl .w4pl-inner .event-listing-masonry-wrapper {
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-flow: row wrap;
+}
 
-								<div class="clear"></div>
-				
-				
-			</main><!-- .k2t-blog -->
+.w4pl .w4pl-inner .read_more {
+position: absolute;
+right: 0;
+bottom: 0;
+padding: 5px;
+border: 1px solid #CECECE;
+background: #EEE;
+}
 
+
+.w4pl-inner img {
+float: left;
+margin: 0 10px 10px 0;
+}
+
+
+.w4pl-inner .post_title {
+display: block;
+margin-bottom: 10px;
+font-size: 2rem;
+line-height: 2.4rem;
+}
+
+.w4pl-inner .news-article {
+padding-top: 5px;
+}
+
+.w4pl-inner .post-date {
+display: block;
+font-size: 14px;
+margin-bottom: 5px;
+}
+
+
+@media screen and (max-width: 1130px) and (min-width: 951px) {
+
+.w4pl-inner  .post-excerpt,
+.w4pl-inner  .post-excerpt p {
+font-size: 1.4rem;
+line-height: 1.6rem;
+}
+
+.w4pl-inner .post_title {
+font-size: 1.8rem;
+line-height: 2rem;
+}
+}
+
+@media screen and (max-width: 950px) {
+.w4pl .w4pl-inner .masonry-item {
+width: 100%;
+}
+}
+
+@media screen and (max-width: 550px) {
+.w4pl .w4pl-inner .post-excerpt,
+.w4pl .w4pl-inner .read_more {
+display: none;
+}
+}
+
+@media screen and (max-width: 475px) {
+.w4pl .w4pl-inner img {
+width: 100px;
+height: 100px;
+}
+.w4pl .w4pl-inner .inner {
+height: auto;
+}
+}
+
+@media screen and (max-width: 425px) {
+.w4pl .w4pl-inner .post_title {
+font-size: 1.5rem;
+line-height: 1.7rem;
+}
+
+}
+
+/* modify jquery */
+.w4pl-inner .ui-state-active, .w4pl-inner .ui-widget-content .ui-state-active, .w4pl-inner .ui-widget-header .ui-state-active {
+    border: 1px solid #aaa;
+    background: #141b4b;
+    font-weight: bold;
+    color: white
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    border: 1px solid #d3d3d3;
+    background: white;
+    font-weight: bold;
+    color: #555;
+}
+
+.ui-widget {
+font-family: inherit;
+color: inherit;
+}</style>
+<div id="w4pl-list-1853" class="w4pl">
+	<div id="w4pl-inner-1853" class="w4pl-inner">
+		<div id="accordion">
+	<div class="event-listing-masonry-wrapper">
+		<div class="event-listing-masonry columns-2">
 			
-		</div><!-- .k2t-wrap -->
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2016/08/10/uic-society-of-hispanic-professional-engineers/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/COE-SHPEgroupTN-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/COE-SHPEgroupTN-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-SHPEgroupTN-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-SHPEgroupTN-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-SHPEgroupTN-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-SHPEgroupTN-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2016/08/10/uic-society-of-hispanic-professional-engineers/" title="View UIC Society of Hispanic Professional Engineers">UIC Society of Hispanic Professional Engineers</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">UIC Society of Hispanic Professional Engineers - SHPE student chapter named: 2011-2012 Regional Outstanding Chapter for Region 6. We are proud to announce the national recognition received by the UIC Society of Hispanic Professional Engineering - SHPE student chapter at the National SHPE Conference held in Dallas, Texas November 14th – 18th, 2012. Our UIC SHPE student organization was named the: 2011-2012 Regional Outstanding Chapter for Region 6 This annual award is given to one outstanding SHPE student chapter for Region 6 for the states of Illinois, Indiana, Michigan, Wisconsin Minnesota, Iowa, Missouri and Kentucky for the school year. Our student chapter is recognized for its community based success with its SHPE Jr. chapter which engages young Hispanic and minority high&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2016/08/10/uic-society-of-hispanic-professional-engineers/" title="More... UIC Society of Hispanic Professional Engineers">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2016/08/10/team-cuochi-italiani-took-second-place-at-the-fifth-annual-youre-the-chef-cooking-competition/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/CS-CookOff-TN-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/CS-CookOff-TN-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/CS-CookOff-TN-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/CS-CookOff-TN-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/CS-CookOff-TN-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/CS-CookOff-TN-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2016/08/10/team-cuochi-italiani-took-second-place-at-the-fifth-annual-youre-the-chef-cooking-competition/" title="View Team Cuochi Italiani took second place at the fifth annual &#8220;You’re The Chef&#8221; cooking competition">Team Cuochi Italiani took second place at the fifth annual &#8220;You’re The Chef&#8221; cooking competition</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">Team Cuochi Italiani — featuring international students Edoardo Colombo, Luca Cioria and Diego Martinoia— all graduate students in computer science — took second place at the fifth annual "You’re The Chef" cooking competition.Yes, we can cook tooTeam Cuochi Italiani — featuring international students Edoardo Colombo, Luca Cioria and Diego Martinoia— all graduate students in computer science — took second place at the fifth annual “You’re The Chef” cooking competition on October 17th in the East Café at UIC’s Student Center East.Five teams of three students each competed with their own special menus created from ingredients provided by the university’s Dining Services, then prepared three courses: an appetizer, entrée and dessert. Five judges picked the winner based on taste, appearance, creativity,&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2016/08/10/team-cuochi-italiani-took-second-place-at-the-fifth-annual-youre-the-chef-cooking-competition/" title="More... Team Cuochi Italiani took second place at the fifth annual &#8220;You’re The Chef&#8221; cooking competition">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2016/08/10/heres-how-some-of-our-engineering-students-spent-their-time-while-doing-summer-internships/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/COE-ChicagoBeach2TN-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/COE-ChicagoBeach2TN-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-ChicagoBeach2TN-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-ChicagoBeach2TN-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-ChicagoBeach2TN-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-ChicagoBeach2TN-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2016/08/10/heres-how-some-of-our-engineering-students-spent-their-time-while-doing-summer-internships/" title="View Here&#8217;s how some of our engineering students spent their time while doing summer internships">Here&#8217;s how some of our engineering students spent their time while doing summer internships</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">What did you do this summer? Did you spend your time at a crowded beach? Engineering never takes a break! Here's how some of our engineering students spent their time while doing summer internships.What did some of our COE students do this Summer?Our engineering students understand the importance of gaining real world practical experience prior to graduation. The Engineering Career Center works as a resource to students and employers to help build these important relationship connections.Here are a few places where our UIC Engineering students worked over the summer.ELECTRO-MOTIVE DIESELMargaret Zero | Industrial EngineeringSafety Intern for Electro-Motive DieselAs the Safety Intern at EMD, Margaret had two major projects and a few side projects. For the main projects, she communicated with supervisors,&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2016/08/10/heres-how-some-of-our-engineering-students-spent-their-time-while-doing-summer-internships/" title="More... Here&#8217;s how some of our engineering students spent their time while doing summer internships">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://www.uic.edu/life-at-uic#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/CS-HoopsofFireTN-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/CS-HoopsofFireTN-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/CS-HoopsofFireTN-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/CS-HoopsofFireTN-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/CS-HoopsofFireTN-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/CS-HoopsofFireTN-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://www.uic.edu/life-at-uic#new_tab" title="View Mobile Game Markets UIC and Engineering College">Mobile Game Markets UIC and Engineering College</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt"></div>
+						<a class="read_more" href="http://www.uic.edu/life-at-uic#new_tab" title="More... Mobile Game Markets UIC and Engineering College">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2016/08/10/new-scholarship-grant-for-undergraduates/"><img width="150" height="100" src="http://engineering.uic.edu/wp-content/uploads/2016/08/ESP-IGERT2-TN-150x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2016/08/10/new-scholarship-grant-for-undergraduates/" title="View New scholarship grant for undergraduates!">New scholarship grant for undergraduates!</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">New scholarship grant for undergraduates! The Computer Science Department in collaboration with the IGERT in Electronic Security and Privacy (ESP-IGERT), were awarded a $1.96 million grant by NSF for scholarships for CS bachelor and master students. The goal of this federal program is to train and support students in information assurance and cyber security.</div>
+						<a class="read_more" href="http://engineering.uic.edu/2016/08/10/new-scholarship-grant-for-undergraduates/" title="More... New scholarship grant for undergraduates!">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://convocation.uic.edu/#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/COE-Fall2012convocationTN-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/COE-Fall2012convocationTN-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-Fall2012convocationTN-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-Fall2012convocationTN-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-Fall2012convocationTN-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-Fall2012convocationTN-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://convocation.uic.edu/#new_tab" title="View UIC&#8217;s annual convocation">UIC&#8217;s annual convocation</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">UIC's annual convocation is our way of welcoming new students and their families.This year's ceremony will be Aug. 26 in the UIC Pavilion.</div>
+						<a class="read_more" href="http://convocation.uic.edu/#new_tab" title="More... UIC&#8217;s annual convocation">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://securityigert.uic.edu/program/overview#new_tab"><img width="150" height="100" src="http://engineering.uic.edu/wp-content/uploads/2016/08/ESP-IGERT-TN-150x100.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://securityigert.uic.edu/program/overview#new_tab" title="View ESP-IGERT, a new interdisciplinary program for PhD students at UIC">ESP-IGERT, a new interdisciplinary program for PhD students at UIC</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">ESP-IGERT, a new interdisciplinary program for PhD students at UIC that integrates cutting-edge technological, legal, enterprise and public policy aspects in electronic security and privacy education and training.</div>
+						<a class="read_more" href="http://securityigert.uic.edu/program/overview#new_tab" title="More... ESP-IGERT, a new interdisciplinary program for PhD students at UIC">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2016/08/10/edt-purveyors-of-the-finest-robotics-win-1st-2nd-demolition-champion-at-jerry-sanders-creative-design-competition/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/EDTwholeteamSmall-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/EDTwholeteamSmall-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/EDTwholeteamSmall-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/EDTwholeteamSmall-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/EDTwholeteamSmall-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/EDTwholeteamSmall-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2016/08/10/edt-purveyors-of-the-finest-robotics-win-1st-2nd-demolition-champion-at-jerry-sanders-creative-design-competition/" title="View EDT purveyors of the finest robotics win 1st, 2nd &amp; Demolition Champion at Jerry Sanders Creative Design Competition">EDT purveyors of the finest robotics win 1st, 2nd &amp; Demolition Champion at Jerry Sanders Creative Design Competition</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">Every March robotics teams from Universities across the Midwest converge upon the University of Illinois at Urbana-Champaign for a two day competition that tests their skills and creativity. The Jerry Sanders Creative Design Competition, sponsored by Advanced Micro Devices (AMD), is an annual competition that started in 1987, making this its 25th year.This year EDT, the UIC Engineering Design Team won First place, Second Place, and demolition champion. The tasks this year involved picking up nerf balls, bocce balls, and ping pong balls and depositing them in their colored basins. In addition, robots could launch the balls for extra points as well as perform other tasks such as "King of the Hill" for extra points. At any given round there&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2016/08/10/edt-purveyors-of-the-finest-robotics-win-1st-2nd-demolition-champion-at-jerry-sanders-creative-design-competition/" title="More... EDT purveyors of the finest robotics win 1st, 2nd &amp; Demolition Champion at Jerry Sanders Creative Design Competition">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2016/08/10/31212-this-event-is-sponsored-by-swe-the-society-of-women-engineers/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/AfghanTN-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/AfghanTN-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/AfghanTN-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/AfghanTN-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/AfghanTN-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/AfghanTN-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2016/08/10/31212-this-event-is-sponsored-by-swe-the-society-of-women-engineers/" title="View 3/12/12 This event is sponsored by SWE, the Society of Women Engineers">3/12/12 This event is sponsored by SWE, the Society of Women Engineers</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">Readings from the Afghan Women’s Writing Project Monday, March 12th 5:00 - 6:30 PM Cardinal Room, Student Center East, 750 S. Halsted Street View Photos Readings of poetry and prose written by participants in the Afghan Women's Writing Project (AWWP) will be performed and recited by UIC students. AWWP is a non-profit organization that supports and empowers women in Afghanistan by providing them with computer literacy, reading, and writing skills. While improving these skills, participants document their stories, which provides them with confidence and encouragement to make a difference in their communities. All proceeds support American women writers to provide secure online writing workshops to women in Afghanistan. Many participants do so in secret, hiding laptops under burqas or walking&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2016/08/10/31212-this-event-is-sponsored-by-swe-the-society-of-women-engineers/" title="More... 3/12/12 This event is sponsored by SWE, the Society of Women Engineers">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="/student-activities-expo/#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/ExpoTN-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/ExpoTN-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/ExpoTN-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/ExpoTN-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/ExpoTN-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/ExpoTN-100x100.jpg 100w, http://engineering.uic.edu/wp-content/uploads/2016/08/ExpoTN.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="/student-activities-expo/#new_tab" title="View COE Senior Design Competition">COE Senior Design Competition</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt"></div>
+						<a class="read_more" href="/student-activities-expo/#new_tab" title="More... COE Senior Design Competition">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2016/08/10/uic-engineering-career-fair/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/CareerFair-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/CareerFair-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/CareerFair-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/CareerFair-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/CareerFair-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/CareerFair-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2016/08/10/uic-engineering-career-fair/" title="View UIC Engineering Career Fair">UIC Engineering Career Fair</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">Mark your Calendars! UIC Engineering Career Fair Wednesday, February 22, 2012 SCE Illinois Room 12pm-4pm Recruiters will be on-campus recruiting for full-time, internship &amp; co-op positions. This is open to UIC engineering/CS/MIS majors and UIC Alumni only. You will need to present your resume for verification at the registration desk prior to entering the career fair. Before the job fair, check your resume against the data on pages 16-20 in the Career Planning Guide:http://issuu.com/uicocs/docs/cpg20112012. Make sure your resume is polished and dress to impress! Details? Go to the Engineering Career Center (ECC) webpage and click on ENGR Career Fair (top left) for details of which employers are coming and what majors they are searching for! ECC Website</div>
+						<a class="read_more" href="http://engineering.uic.edu/2016/08/10/uic-engineering-career-fair/" title="More... UIC Engineering Career Fair">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2016/08/10/uic-engineering-career-prep-day/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/CareerPrepDay-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/CareerPrepDay-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/CareerPrepDay-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/CareerPrepDay-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/CareerPrepDay-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/CareerPrepDay-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2016/08/10/uic-engineering-career-prep-day/" title="View UIC Engineering Career Prep Day">UIC Engineering Career Prep Day</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">Career Prep Day       STUDENT INFORMATION Students – Registration is required. See below. What: Engineering Career Prep Workshop Career preparation workshop and networking event to connect engineering students with Engineers and Human Resources professionals! Don’t miss out on your opportunity to meet experts in your field. Students participate in 8-10 small group career topical discussions facilitated by engineers and career professionals Who: Open to undergraduate engineering students When: Friday,February 26, 2016 Where: Student Center East - Illinois Room Time: 9:00 a.m. to 11:00 a.m. Workshop 11:00 a.m. to 11:30 a.m. Networking (This session is optional. Students may bring a resume to give to one of the volunteer mentors for networking purposes) What you can expect: Speed networking small&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2016/08/10/uic-engineering-career-prep-day/" title="More... UIC Engineering Career Prep Day">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2016/08/10/the-coe-scholarshipawards-program-announces-the-2012-13-scholarship-application-period-for-eligible-continuing-engineering-students/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/COE-scholarship-TN-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/COE-scholarship-TN-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-scholarship-TN-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-scholarship-TN-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-scholarship-TN-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/COE-scholarship-TN-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2016/08/10/the-coe-scholarshipawards-program-announces-the-2012-13-scholarship-application-period-for-eligible-continuing-engineering-students/" title="View The COE SCHOLARSHIP/AWARDS PROGRAM announces the 2012–13 Scholarship application period for eligible continuing Engineering students">The COE SCHOLARSHIP/AWARDS PROGRAM announces the 2012–13 Scholarship application period for eligible continuing Engineering students</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">ScholarshipsMany scholarships and awards are available through the College of Engineering Scholarship Program. Students can apply to the majority of these engineering scholarships by completing the application below.Student Eligibility: Continuing UIC undergraduate engineering students with 30 or more total semester hours of completed course work at the end of the spring semester, including 12 or more at UIC with a minimum UIC GPA of 3.00/4.00 are eligible to apply.Continuing students for this competition are defined as those continuously enrolled for 12 or more hours per semester during the 2016 - 2017 academic year. Selections will be announced in May 2016, and financial awards will be distributed during the 2016-2017 academic year. Students who expect to complete their degrees in May&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2016/08/10/the-coe-scholarshipawards-program-announces-the-2012-13-scholarship-application-period-for-eligible-continuing-engineering-students/" title="More... The COE SCHOLARSHIP/AWARDS PROGRAM announces the 2012–13 Scholarship application period for eligible continuing Engineering students">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://www.uic.edu/htbin/cgiwrap/bin/uicnews/articledetail.cgi?id=15990#new_tab"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/AnushkaTN-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/AnushkaTN-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/AnushkaTN-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/AnushkaTN-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/AnushkaTN-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/AnushkaTN-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://www.uic.edu/htbin/cgiwrap/bin/uicnews/articledetail.cgi?id=15990#new_tab" title="View Anushka Anand, a doctoral candidate in Computer Science featured in UIC News">Anushka Anand, a doctoral candidate in Computer Science featured in UIC News</a></span>
+						<span class="post-date">August 10, 2016</span>
+						<div class="post-excerpt">Anushka Anand, a doctoral candidate in Computer Science featured in UIC News. Will computers ever think like humans?Photo: Roberta Dupuis-Devlin</div>
+						<a class="read_more" href="http://www.uic.edu/htbin/cgiwrap/bin/uicnews/articledetail.cgi?id=15990#new_tab" title="More... Anushka Anand, a doctoral candidate in Computer Science featured in UIC News">More...</a>
+					</article>
+				</div>
+			</div>
+			
+			<div class="masonry-item">
+				<div class="inner content-wrap k2t-element-hover">
+
+					<div class="post-img attachment-thumb_150x150 size-thumb_150x150 wp-post-image">
+						<a href="http://engineering.uic.edu/2012/07/10/applying-engineering-principles-to-help-the-world/"><img width="150" height="150" src="http://engineering.uic.edu/wp-content/uploads/2016/08/BIOE-SummerInternshipStudent-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" size="thumbnail" return="" srcset="http://engineering.uic.edu/wp-content/uploads/2016/08/BIOE-SummerInternshipStudent-150x150.jpg 150w, http://engineering.uic.edu/wp-content/uploads/2016/08/BIOE-SummerInternshipStudent-55x55.jpg 55w, http://engineering.uic.edu/wp-content/uploads/2016/08/BIOE-SummerInternshipStudent-80x80.jpg 80w, http://engineering.uic.edu/wp-content/uploads/2016/08/BIOE-SummerInternshipStudent-130x130.jpg 130w, http://engineering.uic.edu/wp-content/uploads/2016/08/BIOE-SummerInternshipStudent-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+					</div>
+					<article class="news-article wrapper">
+						<span class="news-title"><a class="post_title w4pl_post_title" href="http://engineering.uic.edu/2012/07/10/applying-engineering-principles-to-help-the-world/" title="View APPLYING ENGINEERING PRINCIPLES TO HELP THE WORLD">APPLYING ENGINEERING PRINCIPLES TO HELP THE WORLD</a></span>
+						<span class="post-date">July 10, 2012</span>
+						<div class="post-excerpt">APPLYING ENGINEERING PRINCIPLES TO HELP THE WORLD. See how our BioE student, Rudhram Gajendran spent his summer in Central America.Rudhram Gajendran, a graduate student pursuing a master’s degree in BioEngineering, travelled during summer, 2012 to Central America along with twenty-six other participants for a two-month summer training and volunteer program conducted by the non-profit Engineering World Health, in association with Duke University.Current statistics indicate that there is a vast amount of medical equipment waiting to be repaired in the hospitals of developing nations like Nicaragua. A lack of original spare parts and insufficient engineering support means hundreds of pieces of such critical medical equipment remain unused. The objective of the Engineering World Health program is to provide engineering support to&hellip;</div>
+						<a class="read_more" href="http://engineering.uic.edu/2012/07/10/applying-engineering-principles-to-help-the-world/" title="More... APPLYING ENGINEERING PRINCIPLES TO HELP THE WORLD">More...</a>
+					</article>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+	</div><!--#w4pl-inner-1853-->
+</div><!--#w4pl-1853-->
+<script id="w4pl-js-1853" type="text/javascript">var shorten_excerpt = function() {
+
+var excerpts = document.getElementsByClassName('post-excerpt');
+if ( document.documentElement.clientWidth > 950 || document.documentElement.clientWidth < 750) {
+	var max_chars = 100;
+} else {
+var max_chars = 200;
+}
+
+	for (var i = 0; i < excerpts.length; ++i) {
+		var excerpt = excerpts[i];
+		var excerpt_string = excerpt.innerHTML;
+		var words = excerpt_string.split(' ');
+		var num_words = words.length;
+		word_lens = [];
+
+		for (var j = 0; j < words.length; ++j) {
+			word_lens.push(words[j].length);
+		}
+
+		var display_amount = 0;
+		var total = 0;
+		var index = 0;
+		while (total < max_chars) {
+			display_amount++;
+			total += word_lens[index];
+			index++;
+		}
+
+		words = words.slice(0, display_amount);
+		new_excerpt = words.join(' ');
+
+		if (display_amount < num_words) {
+			new_excerpt = new_excerpt + '...';
+		}
+		excerpt.innerHTML = new_excerpt;
+	}
+
+	return;
+}
+
+
+window.onload = function() {
+	var titles = document.getElementsByClassName('post_title');
+if ( document.documentElement.clientWidth > 950) {
+	var max_chars = 60;
+} else {
+var max_chars = 100;
+}
+
+	for (var i = 0; i < titles.length; ++i) {
+		var title = titles[i];
+		var title_string = title.innerHTML;
+		var words = title_string.split(' ');
+		var num_words = words.length;
+		word_lens = [];
+
+		for (var j = 0; j < words.length; ++j) {
+			word_lens.push(words[j].length);
+		}
+
+		var display_amount = 0;
+		var total = 0;
+		var index = 0;
+		while (total < max_chars) {
+			display_amount++;
+			total += word_lens[index];
+			index++;
+		}
+
+		words = words.slice(0, display_amount);
+		new_title = words.join(' ');
+
+		if (display_amount < num_words) {
+			new_title = new_title + '...';
+		}
+		title.innerHTML = new_title;
+	}
+
+        shorten_excerpt();
+	return;
+}
+
+
+
+/*
+jQuery(document).ready(
+
+function($) { 
+
+
+$('#accordion').bind('accordionactivate', function(event, ui) {
+  $( ui.newHeader ).ScrollTo(); // or ui.newContent, if you prefer
+});
+
+
+$(".w4pl-inner #accordion").accordion({
+      heightStyle: "content"
+    }); 
+}); */</script>
+
+<!--END_W4_Post_list_1853-->
+</div></div></div></div>
+<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="k2t-button button-default align-center button-fullwidth"><a id="nScNClshTM" style="" class="k2t-btn btn-ripple btn-medium button-icon-right" href="http://engineering.uic.edu/student-news" target="_blank"><span class="button-text" style=""><span class="text">Return to Current News</span></span></a></div></div></div></div></div><p></p>		</div>
+	</div><!-- .page-entry -->
+	
+</article><!-- #post-## -->
+	
+					
+				<div class="clear"></div>
+				
+							</main>
+
+			<!-- Sidebar -->
+					</div>
 	</div><!-- .k2t-content -->
 
 	</div><!-- .k2t-body -->
@@ -1294,7 +1722,7 @@ Chicago, IL 60607</a></p><span class="fa fa-phone"> </span> <span style="padding
 <li id="menu-item-2062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2062"><a href="http://engineering.uic.edu/scholarships/">Scholarships</a></li>
 <li id="menu-item-3772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3772"><a href="http://engineeringalumni.uic.edu">Alumni</a></li>
 <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"><a href="http://engineering.uic.edu/contact/">Contact</a></li>
-</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="eyxcVINbCd" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
+</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="k2t-button button-default align-left"><a id="BenXjqJCiU" style="" class="k2t-btn btn-ripple btn-small button-icon-right" href="http://engineering.uic.edu/donate/" target="_blank"><span class="button-text" style=""><span class="text">Make a Gift</span></span></a></div></div>
 		</aside></div><div class="col-3"><aside id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widget-title"><span>Resources</span></h4><div class="menu-footer-secondary-menu-container"><ul id="menu-footer-secondary-menu" class="menu"><li id="menu-item-2067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2067"><a href="http://vcsa.uic.edu/">Student Affairs</a></li>
 <li id="menu-item-2201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2201"><a href="http://www.uic.edu/apps/departments-az/search">Directory</a></li>
 <li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1694"><a href="http://engineering.uic.edu/offices/">Offices</a></li>
@@ -1408,7 +1836,7 @@ var mainParams = {"sticky_menu":"","smart_sticky":"0"};
 
 <script type='text/javascript'>
 /* <![CDATA[ */
-var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"276d87e536","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"ee093dbe34","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
 /* ]]> */
 </script>
 
@@ -1424,7 +1852,8 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 
 
 
-<script type="text/javascript" src="http://engineering.uic.edu/wp-content/cache/minify/1/ffe2d.js"></script>
+
+<script type="text/javascript" src="http://engineering.uic.edu/wp-content/cache/minify/1/298d1.js"></script>
 
 </body>
 </html>
@@ -1433,7 +1862,7 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
 Minified using disk
-Database Caching 45/85 queries in 0.081 seconds using disk
+Database Caching 49/117 queries in 0.101 seconds using disk
 
-Served from: engineering.uic.edu @ 2018-11-24 03:02:39 by W3 Total Cache
+Served from: engineering.uic.edu @ 2018-11-24 23:40:16 by W3 Total Cache
 -->

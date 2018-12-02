@@ -15,7 +15,7 @@
     <!-- End Google Tag Manager -->
 
         <title>
-                            International Education Week 2018 | Office of Global Engagement | University of Illinois at Chicago
+                            Global Engagement News | Office of Global Engagement | University of Illinois at Chicago
                     </title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -54,14 +54,14 @@
 </script>
 <!-- End Google Tag Manager for WordPress by DuracellTomi -->
 <!-- This site is optimized with the Yoast SEO plugin v7.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://oge.uic.edu/news-stories/international-education-week-2018/" />
+<link rel="canonical" href="http://oge.uic.edu/global-engagement-news/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="International Education Week 2018 - Office of Global Engagement" />
-<meta property="og:url" content="http://oge.uic.edu/news-stories/international-education-week-2018/" />
+<meta property="og:title" content="Global Engagement News - Office of Global Engagement" />
+<meta property="og:url" content="http://oge.uic.edu/global-engagement-news/" />
 <meta property="og:site_name" content="Office of Global Engagement" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="International Education Week 2018 - Office of Global Engagement" />
+<meta name="twitter:title" content="Global Engagement News - Office of Global Engagement" />
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//s.w.org' />
@@ -90,9 +90,6 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://oge.uic.edu/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://oge.uic.edu/wp-includes/wlwmanifest.xml" /> 
 
-<link rel='shortlink' href='http://oge.uic.edu/?p=307' />
-<link rel="alternate" type="application/json+oembed" href="http://oge.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Foge.uic.edu%2Fnews-stories%2Finternational-education-week-2018%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://oge.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Foge.uic.edu%2Fnews-stories%2Finternational-education-week-2018%2F&#038;format=xml" />
 <script type="text/javascript">
 (function(url){
 	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
@@ -124,7 +121,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//oge.uic.edu/?wordfence_lh=1&hid=2C64C7F2B5A486A7BCA59E609A619E13');
+})('//oge.uic.edu/?wordfence_lh=1&hid=D210B4F1A74C23CF3796FF7EAF3A7F4C');
 </script>
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>
@@ -142,11 +139,8 @@ img.emoji {
 
 
 
-  
-  
 
-
-  <div class="l-page news-template-default single single-news postid-307 post-type--news  site-type-b theme--blue no-sidebar  ">
+  <div class="l-page page-template page-template-page-templates page-template-news-listing page-template-page-templatesnews-listing-php page page-id-330 page-parent post-type--news-list  site-type-b theme--blue no-sidebar  ">
 
 
     <!--[if lte IE 9]>
@@ -508,53 +502,225 @@ img.emoji {
 
 
         <div class="l-content ">
-                    
-          <article class="post-type-news" id="article">
+            
+          <article class="post-type-news-list" id="article">
             
     <div class="intro-text">
 
-              <h1 class="_title post-title">International Education Week 2018</h1>
+              <h1 class="_title post-title">Global Engagement News</h1>
         
-        <div class="post-meta">
-    <div class="post-date-line">
-            <span class="post-date">Posted on <strong>November 11, 2018</strong></span>
-    </div>
-              </div>
-    
-    <figure class="captioned-image">
-    <img src="http://oge.uic.edu/wp-content/uploads/sites/49/2018/11/UIC-IEW-2018_news-post-size-e1542403836288.png" alt="International Education Week logo.">
-      </figure>
-
+      
   
-  <p>International Education Week is a nationwide celebration of global engagement and cultural understanding. With universities, the U.S. Department of State and the U.S. Department of Education seeks to promote programs that prepare Americans for a global environment and attract future leaders from abroad to study, learn, and exchange experiences. Through the link below you can see what events are occurring on campus and in Chicago during 11-16 November 2018.</p>
-
+  
+  
 
 </div>
 
-    <div class="components">
-      
-      
-
-<section class="component  ">
-
-  
-  <h2><a class="jumbo-link" href="https://studyabroad.uic.edu/international-education-week/" target="_blank">
-  <span class="_prefix"></span>
-  <span class="_text">IEW events at UIC and in Chicago</span>
-</a></h2>
-
-  
-</section>
-
+            <div class="single-news-list">
+            <div class="single-news-list__container">
+                                    <div class="single-news-list__item">
+                        <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://oge.uic.edu/news-stories/7th-annual-ois-thanksgiving-dinner/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://oge.uic.edu/wp-content/uploads/sites/49/2018/11/OIS-Thanksgiving-2018_web-optimized-600x397.jpg"
+                alt="International students hold plates of Thanksgiving food.">
+        </div>
     
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--none
+        tile-item__content-container--featured">
+        <div class="
+            tile-item__title
+            tile-item__title--featured">
+            7th Annual OIS Thanksgiving Dinner
+        </div>
 
+        
+                    <div class="tile-item__description">
+                Over five hundred members of the UIC international community gathered together to celebrate Thanksgiving at the 7th Annual OIS Thanksgiving Dinner on Thursday, Nov. 15. The event is hosted each year by the&hellip;
+            </div>
+            </div>
+    </a>
 </div>
-
-          <div class="post-date-line">
-        <span class="post-date">Modified on <strong>November 16, 2018</strong></span>
-      </div>
+                    </div>
+                                    <div class="single-news-list__item">
+                        <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://oge.uic.edu/news-stories/hidden-no-more/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://oge.uic.edu/wp-content/uploads/sites/49/2018/11/OIA_Hidden-No-More_optimized-for-web-600x397.jpg"
+                alt="Hidden No More cohort poses with UIC hosts">
+        </div>
     
-              </article>
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--none
+        tile-item__content-container--featured">
+        <div class="
+            tile-item__title
+            tile-item__title--featured">
+            Hidden No More
+        </div>
+
+        
+                    <div class="tile-item__description">
+                On Nov. 9, 2018 UIC hosted an all-female delegation of international leaders in the fields of science, technology, engineering and math (STEM), and the arts as part of the U.S. Bureau of Educational&hellip;
+            </div>
+            </div>
+    </a>
+</div>
+                    </div>
+                                    <div class="single-news-list__item">
+                        <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://oge.uic.edu/news-stories/international-education-week-2018/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://oge.uic.edu/wp-content/uploads/sites/49/2018/11/UIC-IEW-2018_news-post-size-e1542393966914-600x384.png"
+                alt="International Education Week logo.">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--none
+        tile-item__content-container--featured">
+        <div class="
+            tile-item__title
+            tile-item__title--featured">
+            International Education Week 2018
+        </div>
+
+        
+                    <div class="tile-item__description">
+                International Education Week is a nationwide celebration of global engagement and cultural understanding. With universities, the U.S. Department of State and the U.S. Department of Education seeks to promote programs that prepare Americans&hellip;
+            </div>
+            </div>
+    </a>
+</div>
+                    </div>
+                                    <div class="single-news-list__item">
+                        <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://oge.uic.edu/news-stories/tie-celebrates-40-years-of-intensive-english-education/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://oge.uic.edu/wp-content/uploads/sites/49/2018/11/TIE-40th-Anniversary_web-optimized-600x397.jpg"
+                alt="Student and staff celebrate 40 years of TIE at the UIC Bowling Alley.">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--none
+        tile-item__content-container--featured">
+        <div class="
+            tile-item__title
+            tile-item__title--featured">
+            TIE Celebrates 40 Years of Intensive English Education
+        </div>
+
+        
+                    <div class="tile-item__description">
+                The Tutorium in Intensive English at UIC recently celebrated 40 years of delivering the highest quality English language instruction and preparing non-native English speakers for academic and professional success. We are very proud&hellip;
+            </div>
+            </div>
+    </a>
+</div>
+                    </div>
+                                    <div class="single-news-list__item">
+                        <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://oge.uic.edu/news-stories/uic-international-students-scholars-experience-fall-in-the-midwest/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://oge.uic.edu/wp-content/uploads/sites/49/2018/11/OIS-Pumpkin-Farm_web-optimized-600x397.jpg"
+                alt="UIC international students select pumpkins at Seigel's Cottonwood Farm.">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--none
+        tile-item__content-container--featured">
+        <div class="
+            tile-item__title
+            tile-item__title--featured">
+            UIC International Students and Scholars Experience Fall in the Midwest
+        </div>
+
+        
+                    <div class="tile-item__description">
+                On Oct. 20 over one hundred members of the UIC international community ventured out of the city to Seigel’s Cottonwood Farm in Lockport, IL to experience Midwestern fall on a pumpkin farm. The group picked out pumpkins, fed farm animals, and some...
+            </div>
+            </div>
+    </a>
+</div>
+                    </div>
+                                    <div class="single-news-list__item">
+                        <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://oge.uic.edu/news-stories/campus-visit-and-panel-discussion-for-international-student-affairs-staff-held-aug-3/"
+       target="_self">
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--none
+        tile-item__content-container--featured">
+        <div class="
+            tile-item__title
+            tile-item__title--featured">
+            Campus Visit and Panel Discussion for International Student Affairs Staff Held Aug. 3
+        </div>
+
+        
+                    <div class="tile-item__description">
+                On August 3rd, the Study Abroad Office, in collaboration with the Dean of Students Office, the Counseling Center, and Housing hosted a campus visit and panel discussion for 29 international student affairs staff from 16 countries.  For many...
+            </div>
+            </div>
+    </a>
+</div>
+                    </div>
+                                    <div class="single-news-list__item">
+                        <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://oge.uic.edu/news-stories/uic-graduate-student-alex-luft-featured-at-macquarie-university/"
+       target="_self">
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--none
+        tile-item__content-container--featured">
+        <div class="
+            tile-item__title
+            tile-item__title--featured">
+            UIC Graduate Student Alex Luft Featured at Macquarie University
+        </div>
+
+        
+                    <div class="tile-item__description">
+                UIC graduate student and cotutelle candidate Alex Luft (Department of English) is featured on the cover of the 2019 Macquarie University Prospectus along with his Macquarie University cotutelle supervisor...
+            </div>
+            </div>
+    </a>
+</div>
+                    </div>
+                            </div>
+        </div>
+    
+    
+          </article>
         </div>
           
 

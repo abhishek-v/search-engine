@@ -1,9 +1,9 @@
-<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>
-        Special Collections & University Archives - Subject & Course Guides at University of Illinois at Chicago
-        </title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="robots" content="noarchive" /><!-- favicon.twig -->
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <!-- favicon.twig -->
 <link rel="apple-touch-icon" sizes="180x180" href="//libapps.s3.amazonaws.com/apps/common/favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="//libapps.s3.amazonaws.com/apps/common/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="//libapps.s3.amazonaws.com/apps/common/favicon/favicon-16x16.png">
@@ -13,14 +13,207 @@
 <meta name="msapplication-TileColor" content="#ffc40d">
 <meta name="msapplication-config" content="//libapps.s3.amazonaws.com/apps/common/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="/web/jquery/css/jquery-ui.min.css?2695" />
-            <link rel="stylesheet" href="/web/font-awesome/4.7.0/css/font-awesome.min.css" />
+<title>Web Resources - Government Information - Subject & Course Guides at University of Illinois at Chicago</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="robots" content="noarchive" /><!-- favicon.twig -->
+<link rel="apple-touch-icon" sizes="180x180" href="//libapps.s3.amazonaws.com/apps/common/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//libapps.s3.amazonaws.com/apps/common/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//libapps.s3.amazonaws.com/apps/common/favicon/favicon-16x16.png">
+<link rel="manifest" href="//libapps.s3.amazonaws.com/apps/common/favicon/site.webmanifest">
+<link rel="mask-icon" href="//libapps.s3.amazonaws.com/apps/common/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="//libapps.s3.amazonaws.com/apps/common/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-config" content="//libapps.s3.amazonaws.com/apps/common/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<!-- public_metadata.twig -->
+
+    <!-- auto generated dublin core metadata -->
+    <meta name="DC.Title" content="Subject & Course Guides: Government Information: Web Resources"/>
+    <meta name="DC.Creator" content="Benjamin Aldred"/>
+    <meta name="DC.Subject" content="Government Information, Reference & Interdisciplinary, Social Sciences"/>
+    <meta name="DC.Description" content="A compilation of web sites and databases for accessing government information and publications. Web Resources"/>
+    <meta name="DC.Publishers" content="University of Illinois at Chicago"/>
+    <meta name="DC.Rights" content="Copyright University of Illinois at Chicago 2018"/>
+    <meta name="DC.Language" content="en"/>
+    <meta name="DC.Identifier" content="https://researchguides.uic.edu/c.php?g=252249&p=1683040"/>
+    <meta name="DC.Date.Created" content="Aug 7, 2009"/>
+    <meta name="DC.Date.Modified" content="Nov 8, 2018"/>
+    
+		<meta property="og:title" content="Subject & Course Guides: Government Information: Web Resources">
+		<meta property="og:description" content="A compilation of web sites and databases for accessing government information and publications. Web Resources">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://researchguides.uic.edu/c.php?g=252249&p=1683040">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@springshare">
+        <link rel="stylesheet" href="/web/jquery/css/jquery-ui.min.css?2695" />
+        <link rel="stylesheet" href="/web/font-awesome/4.7.0/css/font-awesome.min.css" />
+				<link rel="stylesheet" type="text/css" href="/web/slick-1.7.1/slick/slick.css">
+				<link rel="stylesheet" type="text/css" href="/web/slick-1.7.1/slick/slick-theme.css">
             <link rel="stylesheet" href="/web/css1.27.6/lg-public.min.css" />
         <script type="text/javascript" src="/web/jquery/js/1.12.1_jquery.min.js"></script>
         <script type="text/javascript" src="/web/jquery/js/jquery-ui.min.js?2695"></script>
             <script type="text/javascript" src="/web/js1.27.6/lg-public.min.js"></script>
-        <!-- BEGIN: CUSTOM HEAD JS/CSS -->
-        <link rel="stylesheet" type="text/css" href="https://library.uic.edu/css/main.min.css">
+		<style>/* =========================================== */
+                        /* bootstrap overrides */
+                        /* =========================================== */
+                        #s-lg-tabs-container .nav-tabs > li > a,
+                        #s-lg-tabs-container .nav-tabs > li > button,
+                        #s-lg-tabs-container .nav-pills > li > a,
+                        #s-lg-tabs-container .nav-pills > li > button {
+                            
+                            border: 1px solid transparent;
+                            -webkit-border-radius: 0;
+                            -moz-border-radius: 0;
+                            border-radius: 0;
+                            background-color: #ffffff;
+                            color: #001e62;
+                            font-weight: bold;
+                            padding: 4px 15px;
+                        }
+                        #s-lg-tabs-container .nav-tabs {
+                            border-bottom: 0;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li#s-lg-admin-tab-add > a {
+                            -webkit-border-radius: 4px 4px 0 0;
+                            -moz-border-radius: 4px 4px 0 0;
+                            border-radius: 4px 4px 0 0;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a:hover,
+                        #s-lg-tabs-container .nav-tabs > li > button:hover,
+                        #s-lg-tabs-container .nav-pills > li > a:hover,
+                        #s-lg-tabs-container .nav-pills > li > button:hover {
+                            
+                            border: 1px solid transparent;
+                            -webkit-border-radius: 0;
+                            -moz-border-radius: 0;
+                            border-radius: 0;
+                            background-color: #001e62;
+                            color: #ffffff;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > a,
+                        #s-lg-tabs-container .nav-tabs > .active > button,
+                        #s-lg-tabs-container .nav-pills > .active > a,
+                        #s-lg-tabs-container .nav-pills > .active > button {
+                            color: #ffffff;
+                            cursor: default;
+                            background-color: #001e62;
+                            
+                            border: 1px solid transparent;
+                            -webkit-border-radius: 0;
+                            -moz-border-radius: 0;
+                            border-radius: 0;
+                            border-bottom-color: transparent;
+                            font-weight: bold;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > a,
+                        #s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > button {
+                            color: #ffffff;
+                            cursor: default;
+                            background-color: #001e62;
+                            border-bottom-color: transparent;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > a:hover,
+                        #s-lg-tabs-container .nav-pills > .active > a:hover,
+                        #s-lg-tabs-container .nav-tabs > .active > button:hover,
+                        #s-lg-tabs-container .nav-pills > .active > button:hover {
+                            color: #ffffff;
+                            cursor: pointer;
+                            background-color: #001e62;
+                            
+                            border: 1px solid transparent;
+                            -webkit-border-radius: 0;
+                            -moz-border-radius: 0;
+                            border-radius: 0;
+                            border-bottom-color: transparent;
+                            font-weight: bold;
+                        }
+                        #s-lg-tabs-container .nav .dropdown-toggle .caret {
+                            border-top-color: #e1e1e1;
+                        }
+                        #s-lg-tabs-container .nav-tabs button.dropdown-toggle .caret {
+                            margin-left: 2px;
+                            margin-top: -3px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop {
+                            border-radius: 0;
+                            padding: 4px 6px 4px 3px;
+                            border-left: 1px solid transparent;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop {
+                            border-radius: 0;
+                            padding: 4px 6px 0px 3px;
+                            border-left: 1px solid transparent;
+                            margin-right: 2px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop:hover {
+                            border-radius: 0;
+                            border-left: 1px solid #bbb;
+                            padding: 4px 6px 4px 3px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop:hover {
+                            border-radius: 0;
+                            border-left: 1px solid #bbb;
+                            padding: 4px 6px 0px 3px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link:hover,
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link:hover {
+                            border-radius: 0;
+                            font-weight: bold;
+                            padding: 4px 5px 4px 10px;
+                        }
+                        .nav-tabs > li > a.s-lg-tab-top-link,
+                        .nav-tabs > li > button.s-lg-tab-top-link {
+                            margin-right: 0px;
+                        }
+
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop {
+                            border-radius: 0;
+                            padding: 4px 8px 4px 8px;
+                            border-left: 1px solid transparent;
+                            position: absolute;
+                            right: 0;
+                        }
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop:hover,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop:hover {
+                            border-radius: 0;
+                            border-left: 1px solid #bbb;
+                            padding: 4px 8px 4px 8px;
+                        }
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link:hover,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link:hover {
+                            width: 100%;
+                            float: left;
+                            border-radius: 0;
+                            font-weight: bold;
+                            padding: 4px 15px 4px 15px;
+                        }
+                    .s-lib-box {
+                        border-color: #cccccc;
+                        border-width: 1px;
+                        box-shadow: 0 8px 6px -6px #AAAAAA;border-radius: 0;
+                        background-color: #fff;
+                    }
+                    .s-lib-box-std .s-lib-box-title {
+                        background-color: #002b5c;background-image: none;
+                        color: #ffffff;
+                        border-bottom: 1px solid #cccccc;
+                    }
+                    .s-lib-box .s-lib-box-title {
+                        background-color: #002b5c;background-image: none;
+                        color: #ffffff;
+                        border-bottom: 1px solid #cccccc;;
+                        border-radius: 0;
+                    }
+                    .s-lib-box .s-lg-box-footer {
+                    border-radius: 0;
+                    }</style>
+		<!-- BEGIN: CUSTOM HEAD SYSTEM JS/CSS -->
+		<link rel="stylesheet" type="text/css" href="https://library.uic.edu/css/main.min.css">
 <style type="text/css">
     /* Pixo styles from main website */
 
@@ -666,68 +859,86 @@ $(document).ready(function() {
 });
 
 </script>
-        <!-- END: CUSTOM HEAD JS/CSS -->
-        <script>
+		<!-- END: CUSTOM HEAD SYSTEM JS/CSS -->
+		<!-- BEGIN: CUSTOM HEAD GUIDE JS/CSS -->
+		
+		<!-- END: CUSTOM HEAD GUIDE JS/CSS -->
+		<script>
 var springStats = springStats || {};
 springStats.saConfig = springStats.saConfig || {
     site_id: 34,
-    tracking_parameters: {"_st_site_id":34},
+    tracking_parameters: {"_st_guide_id":252249,"_st_page_id":1683040,"_st_site_id":34},
     tracking_server_host: "libguides-proc.springyaws.com"
 };
 </script>
 <script async  src="/web/js/sa.min.js?3116"></script>
-            <script type="text/javascript">
-                //====================================================
-                jQuery(document).ready(function() {
-					loadSubjectGuides(124575);
-                });
-                //====================================================
-				loadSubjectGuides=function(subject_id) {
-					var is_subject = (subject_id != 0);
-					jQuery("#s-lg-sb-content-guides").html("<div class=\"bold s-lib-color-lt-grey pad-top-med text-center\">Loading...</div>");
-					jQuery("#s-lg-sb-content-databases").html("<div class=\"bold s-lib-color-lt-grey pad-top-med text-center\">Loading...</div>");
-					jQuery("#s-lg-sb-experts-div").html("<div class=\"bold s-lib-color-lt-grey pad-top-med text-center\">Loading...</div>");
-					
-					if (is_subject) {
-						jQuery.ajax({
-							url: "/sb_process.php",
-							dataType: "json",
-							data: {
-								action: 540,
-								subject_id: subject_id,
-								key: "auth_key",
-							},
-							success: function(response, textStatus) {
-								if ( response.errCode == 200 ) {
-									jQuery("#s-lg-sb-content-guides").html(response.data.guides);
-									jQuery("#s-lg-sb-content-databases").html(response.data.databases);
-									jQuery("#s-lg-sb-experts-div").html(response.data.experts);
-									jQuery("#s-lg-sb-content-blog-posts").html(response.data.blog_posts);
-									jQuery("#s-lg-sb-content-er-courses").html(response.data.er_courses);
-								}
-								// Init popovers.
-								springSpace.UI.xhrPopover();
-								springSpace.UI.initPopOvers();
-								jQuery(".az-bs-tooltip").tooltip();
-							},
-							error: function (jqXHR, textStatus, errorThrown) {
-							    springSpace.UI.error(errorThrown);
+		<script>
+			springSpace.Common = springSpace.Common || { };
+			springSpace.Common.constant = {
+					PROCESSING: {
+						ACTION_DISPLAY_POLL: 159
+					}
+			};
+			springSpace.Common.baseURL = "https://researchguides.uic.edu/";
+			handleScroll=function() {
+				var target_elt = "";
+				var anchor = window.location.hash.substring(1);
+
+				if (jQuery.isNumeric(anchor)) {
+					xhr = jQuery.ajax({
+						async: false,
+						url: "/content_process.php",
+						type: "POST",
+						dataType: "json",
+						data: {
+							action: 562,
+							anchor: anchor
+						},
+						success: function(response, textStatus, jqXHR) {
+							if ((response.data.box_id != 0) && jQuery("#s-lg-box-" + response.data.box_id)) {
+								target_elt = "#s-lg-box-" + response.data.box_id;
 							}
-						});
+						},
+						error: function (jqXHR, textStatus, errorThrown) {
+
+						}
+					});
+				}
+				else if (false) {
+					target_elt = "#s-lg-page-section-1683040";
+				}
+
+				if (target_elt != "") {
+					jQuery("html, body").animate({ scrollTop: jQuery(target_elt).offset().top }, 750);
+					if (jQuery(this).scrollTop() > 220) {
+						jQuery("#s-lib-scroll-top").fadeIn(750);
 					}
 				}
-                //====================================================jQuery(window).on('load', function() {springSpace.springTrack.trackPage({_st_type_id: '21'});});</script>
-        <style>h2.muted { font-size: 18px; }</style>
-        <!-- BEGIN: Analytics code --><!-- Google Tag Manager -->
+			}
+	   </script>
+        <script>
+            // Enable tooltips.
+            jQuery(function () {
+                try {
+                    springSpace.UI.initPopOvers();
+                    jQuery(".az-bs-tooltip").tooltip();
+                } catch (e) { }
+            });jQuery(window).on('load', function() {springSpace.springTrack.trackPage({_st_type_id: '1',_st_guide_id: '252249',_st_page_id: '1683040'});});
+            jQuery(document).ready(function() {
+                handleScroll();
+            });
+        </script>
+		<!-- BEGIN: Analytics code --><!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5NVRDL');</script>
-<!-- End Google Tag Manager --><!-- END: Analytics code --></head><body class="s-lib-public-body">
-		<a id="s-lg-public-skiplink" class="alert-info" href="#s-lib-public-main">Skip to main content</a>
-        <!-- BEGIN: Page Header -->
-            <header role="banner">
+<!-- End Google Tag Manager --><!-- END: Analytics code --></head>
+<!-- SIDE NAV -->
+<body class="s-lg-guide-body">
+<a id="s-lg-public-skiplink" class="alert-info" href="#s-lg-guide-main">Skip to main content</a><!-- BEGIN: Page Header -->
+<header role="banner">
       <!--[if lte IE 9]>
 <div class="browser-stripe u-dark-region">
   <div class="l-full">
@@ -986,12 +1197,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
       </div>
 
-</header>
-        <!-- END: Page Header -->
-        <!-- BEGIN: Content Header -->
-        <div id="s-lib-public-header" class="s-lib-header container s-lib-side-borders">
-            <div id="s-lib-bc">
-                
+</header><!-- END: Page Header -->
+<!-- BEGIN: Guide Header -->
+<div id="s-lg-guide-header" class="container s-lib-header s-lib-side-borders">
+    <div id="s-lib-bc">
+        
 			<ol id="s-lib-bc-list" class="breadcrumb">
 				
 					<li id="s-lib-bc-customer">
@@ -1002,191 +1212,496 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<a title="Subject &amp; Course Guides"  href="https://researchguides.uic.edu/">Subject & Course Guides
 						</a>
 					</li>
-					<li id="s-lib-bc-index">
-						<a  href="/sb.php">Subjects
+					<li id="s-lib-bc-guide">
+						<a title="Government Information"  href="https://researchguides.uic.edu/gov">Government Information
 						</a>
 					</li>
-					<li id="s-lib-bc-page" class="active">Special Collections & University Archives
+					<li id="s-lib-bc-page" class="active">Web Resources
 					</li>
-			</ol>
-            </div>
-            <h1 id="s-lib-public-header-title">Special Collections & University Archives</h1>
-        </div>
-        <!-- END: Content Header -->
-        <!-- BEGIN: Nav Bar -->
-        <div id="s-lib-public-nav" class="container s-lib-side-borders">
+			</ol>    </div>
+    <div class="pull-right">
+        <div id="s-lg-guide-header-search">
             
-        </div>
-        <!-- END: Nav Bar -->
-        <!-- BEGIN: content -->
-        <div id="s-lib-public-main" class="s-lib-main container s-lib-side-borders">
-            <section aria-label="Subject Search Bar">
-				<div  id="s-lg-sb-search-bar"  class="row">
-					<div  id="sb-search-col-1"  class="col-md-12 center">
-						<!-- sb_navbar.twig -->
-<nav class="navbar navbar-default" role="navigation">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle pad-right-med" data-toggle="collapse"
-                    data-target="#s-lg-sb-nav-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <div id="s-lg-sb-label" class="navbar-brand">
-                <span id="s-lg-sb-count" class="badge" style="margin-left:10px;">49</span>
-                <span id="s-lg-sb-label-text">SUBJECTS</span>
+                <div id="s-lg-guide-search-box">
+                    <form role="search" id="s-lg-guide-search-form" action="https://researchguides.uic.edu/srch.php"
+                    method="GET">
+                        <div class="input-group input-group-sm">
+                            <input type="text" id="s-lg-guide-search-terms" name="q" class="form-control" placeholder="Find subject and course guides">
+                            <label class="sr-only" for="s-lg-guide-search-terms">Find subject and course guides</label>
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" type="submit">Search guides</button>
+                            </span>
+                        </div>
+                    </form>
+                </div>        </div>
             </div>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="s-lg-sb-nav-1">
-            <div class="navbar-form navbar-left" role="search" style="margin-top:8px;">
-                <div class="form-group row">
-                    <div class="col-md-10" style="display:inline-block;">
-                        <label class="control-label sr-only" for="sel-guide-drop">Guide Subject Filter</label>
-                        <select name="sel-guide-drop" id="sel-guide-drop" class="form-control" style="width:100%;">
-                                                        <option value="/subject/african-american-studies" >African- American Studies</option>
-                            <option value="/subject/applied-health" >Applied Health Sciences</option>
-                            <option value="/subject/architecture-design" >Architecture & Design</option>
-                            <option value="/subject/area-studies" >Area Studies</option>
-                            <option value="/subject/art-art-history" >Art & Art History</option>
-                            <option value="/subject/bio-sciences" >Biological Sciences</option>
-                            <option value="/subject/biomedical-health-info" >Biomedical & Health Information Sciences</option>
-                            <option value="/subject/biomedical-sciences" >Biomedical Sciences</option>
-                            <option value="/subject/business-economics" >Business & Economics</option>
-                            <option value="/subject/chemistry" >Chemistry</option>
-                            <option value="/subject/citation" >Citation Management</option>
-                            <option value="/subject/communication" >Communication</option>
-                            <option value="/subject/copyright-scholarly-publishing" >Copyright & Scholarly Publishing</option>
-                            <option value="/subject/data-management" >Data Management</option>
-                            <option value="/subject/dentistry" >Dentistry</option>
-                            <option value="/subject/disability-human-development" >Disability & Human Development</option>
-                            <option value="/subject/earth-environment" >Earth & Environmental Sciences</option>
-                            <option value="/subject/education" >Education</option>
-                            <option value="/subject/engineering" >Engineering</option>
-                            <option value="/subject/evidence-based-practice" >Evidence Based Practice</option>
-                            <option value="/subject/global-asian-studies" >Global Asian Studies</option>
-                            <option value="/subject/government" >Government Information</option>
-                            <option value="/subject/graduate-medical-ed" >Graduate Medical Education</option>
-                            <option value="/subject/history" >History</option>
-                            <option value="/subject/kinesiology-nutrition" >Kinesiology & Nutrition</option>
-                            <option value="/subject/lang-lit" >Languages & Literature</option>
-                            <option value="/subject/latin-american-latino-studies" >Latin American & Latino Studies</option>
-                            <option value="sb.php?subject_id=132313" >Maps and GIS</option>
-                            <option value="/subject/math-computer-science" >Math & Computer Science</option>
-                            <option value="/subject/medicine" >Medicine</option>
-                            <option value="/subject/nursing" >Nursing</option>
-                            <option value="/subject/occupational-therapy" >Occupational Therapy</option>
-                            <option value="/subject/patient-education" >Patient Education</option>
-                            <option value="/subject/performing-arts" >Performing Arts</option>
-                            <option value="/subject/pharmacy" >Pharmacy</option>
-                            <option value="/subject/philosophy-religion" >Philosophy & Religion</option>
-                            <option value="/subject/physical-therapy" >Physical Therapy</option>
-                            <option value="/subject/physics" >Physics</option>
-                            <option value="/subject/political-science" >Political Science</option>
-                            <option value="/subject/psychology" >Psychology</option>
-                            <option value="/subject/public-health" >Public Health</option>
-                            <option value="/subject/reference" >Reference & Interdisciplinary</option>
-                            <option value="/subject/residency" >Residency & Fellowships</option>
-                            <option value="/subject/social-sciences" >Social Sciences</option>
-                            <option value="/social-work" >Social Work</option>
-                            <option value="/subject/sociology" >Sociology</option>
-                            <option value="/subject/special-collections-archives" selected="selected">Special Collections & University Archives</option>
-                            <option value="/subject/urban-planning" >Urban Planning & Public Affairs</option>
-                            <option value="/subject/writing-style-citations" >Writing, Style & Citations</option>
-                                                    </select>
-                    </div>
-                    <div class="col-md-2 pad-left-none" style="display:inline-block;">
-                        <button type="button" class="btn btn-small btn-primary"
-                                onclick="window.location.href = (jQuery('#sel-guide-drop').val());">
-                            Go
-                        </button>
-                    </div>
-                </div>
-            </div>
+    <div id="s-lg-guide-header-info">
+        <h1 id="s-lg-guide-name">Government Information</h1>
+        <div id="s-lg-guide-desc-container">
+            <span id="s-lg-guide-description">A compilation of web sites and databases for accessing government information and publications.</span>
         </div>
     </div>
-</nav>
-					</div>
-				</div>
-			</section>
-			<section aria-label="Content by Subject">
-				<div  id="s-lg-sb-cols"  class="row">
-					<div  id="col1"  class="col-md-8 center">
-						<ul class="nav nav-tabs margin-bottom-med">
-							<!-- Guide tab -->
-							<li class="active">
-								<a href="#s-lg-sb-guides" data-toggle="tab">Guides
-</a>
-							</li>
-							<!-- Databases tab -->
-							<li class="">
-								<a href="#s-lg-sb-databases" data-toggle="tab">Databases
-</a>
-							</li>
-							
-													</ul>
+</div>
+<!-- END: Guide Header -->
+<div id="s-lg-guide-tabs-title-bar" class="container s-lib-side-borders"></div>
+<div id="s-lg-side-nav-content" class="container s-lib-side-borders pad-top-med">
+    <div class="row">
+        <div class="col-md-3 s-lg-tabs-side pad-bottom-med">
+            <div id="s-lg-tabs-container">
+                <div id="s-lg-guide-tabs" role="navigation" aria-label="Guide Page Menu">
+                    <ul class="nav nav-pills nav-stacked split-button-nav"
+                        role="menu">
+                <li role="menuitem"  class="active">
+                    <a
+                        title="Web Resources"
+                        class="active"
+                        href="https://researchguides.uic.edu/c.php?g=252249&p=1683040" 
+                        aria-label="Navigate to the page: Web Resources"
+                    >
+                        <span>Web Resources</span>
+                        
+                    </a>
+                </li>
+                <li role="menuitem" >
+                    <a
+                        title=""
+                        class=""
+                        href="https://researchguides.uic.edu/c.php?g=252249&p=1683041" 
+                        aria-label="Navigate to the page: Library Databases"
+                    >
+                        <span>Library Databases</span>
+                        
+                    </a>
+                </li>
+                <li role="menuitem" >
+                    <a
+                        title=""
+                        class=""
+                        href="https://researchguides.uic.edu/c.php?g=252249&p=4520458" 
+                        aria-label="Navigate to the page: Legislative Information"
+                    >
+                        <span>Legislative Information</span>
+                        
+                    </a>
+                </li>
+                <li role="menuitem" >
+                    <a
+                        title=""
+                        class=""
+                        href="https://researchguides.uic.edu/c.php?g=252249&p=4522901" 
+                        aria-label="Navigate to the page: Executive Branch Information"
+                    >
+                        <span>Executive Branch Information</span>
+                        
+                    </a>
+                </li>
+                <li role="menuitem" >
+                    <a
+                        title=""
+                        class=""
+                        href="https://researchguides.uic.edu/publicpolicy" 
+                        aria-label="Navigate to the page: Public Policy Research Guide"
+                    >
+                        <span>Public Policy Research Guide</span>
+                        
+                    </a>
+                </li>
+                <li role="menuitem" >
+                    <a
+                        title=""
+                        class=""
+                        href="https://researchguides.uic.edu/c.php?g=252249&p=5352062" 
+                        aria-label="Navigate to the page: FDLP Basic Collection"
+                    >
+                        <span>FDLP Basic Collection</span>
+                        
+                    </a>
+                </li>
+                <li role="menuitem" >
+                    <a
+                        title=""
+                        class=""
+                        href="https://researchguides.uic.edu/c.php?g=252249&p=5402877" 
+                        aria-label="Navigate to the page: FDLP Partnerships"
+                    >
+                        <span>FDLP Partnerships</span>
+                        
+                    </a>
+                </li></ul>
+                    
+                <div class="s-lg-row margin-top-med">
+                    <div id="s-lg-col-0">
+                        <div class="s-lg-col-boxes">
+                        
+							<div id="s-lg-box-wrapper-16458818" class="s-lg-box-wrapper-16458818">
+					<div id="s-lg-box-13963097-container" class="s-lib-box-container">
+						<div id="s-lg-box-13963097" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Federal Depository Library Program
+                                </h2>
+							<div id="s-lg-box-collapse-13963097" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-30104844" class="  clearfix">
+				<p><img alt="" src="//s3.amazonaws.com/libapps/accounts/125033/images/14504.jpg" /></p>
 
-						<!-- Tab panes -->
-						<div class="tab-content margin-bottom-med">
-							<div class="tab-pane active" id="s-lg-sb-guides">
-								<!-- Guides content -->
-								<div id="s-lg-sb-content-guides" class="pad-right-sm"></div>
-							</div>
-							<div class="tab-pane " id="s-lg-sb-databases">
-								<!-- Databases content -->
-								<div id="s-lg-sb-content-databases" class="pad-right-sm"></div>
+<p>This library is a congressionally designated depository for U.S. Government documents. Public access to the government documents collection is guaranteed by public law. (Title 44 United States Code)</p>
+		   </div>
+								</div>
+								
 							</div>
 						</div>
 					</div>
-					
-				<div  id="col2"  class="col-md-4 center">
-						<div style="padding-top: 22px;"></div>
-							<div id="s-lg-sb-experts-div"><div class="bold s-lib-color-lt-grey pad-top-med text-center">Loading...</div></div>
+							</div>
+                        </div>
+                    </div>
+                </div>                </div>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <div class="s-lg-tab-content">
+                <div id="s-lg-guide-main" class="tab-pane active">
+                    <div class="row s-lg-row">
+    <div id="s-lg-col-1" class="col-md-12">
+        <div class="s-lg-col-boxes">        <div id="s-lg-box-wrapper-6012806" class="s-lg-box-wrapper-6012806">
+					<div id="s-lg-box-5128550-container" class="s-lib-box-container">
+						<div id="s-lg-box-5128550" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Gateways to Government Information
+                                </h2>
+							<div id="s-lg-box-collapse-5128550" >
+								<div class="s-lib-box-content">
+									<div class="">
+                        <ul id="s-lg-link-list-11281437" class="s-lg-link-list s-lg-link-list-2"><li class="">
+                        
+			<div id="s-lg-content-10014412" class=""><span><a href="http://www.usa.gov/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10014412'});">USA.gov</a> 
+				</span><div id="s-lg-link-desc-10014412" class="s-lg-link-desc">USA.gov creates and organizes timely, needed government information and services and makes them accessible to the public anytime, anywhere, via their channel of choice.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10009666" class=""><span><a href="http://www.gpo.gov/fdsys/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10009666'});">FDsys</a> 
+				</span><div id="s-lg-link-desc-10009666" class="s-lg-link-desc">GPO's Federal Digital System (formerly GPO Access) provides free online access to official publications from all three branches of the Federal Government.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10008689" class=""><span><a href="http://govinfo.library.unt.edu/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10008689'});">CyberCemetery: University of North Texas Government Information Connection</a> 
+				</span><div id="s-lg-link-desc-10008689" class="s-lg-link-desc">The CyberCemetery is an archive of government websites that have ceased operation (usually websites of defunct government agencies and commissions that have issued a final report).</div>
+
+					<div class="s-lg-label-moreinfo">
+						<a class="s-lg-label-more" id="s-lg-content-more-10008689" href="javascript:void();" style="display:block; font-style:italic;"
+							onclick="
+								jQuery('#s-lg-content-moreinfo-10008689').toggle();
+								jQuery('#s-lg-content-less-10008689').toggle();
+								jQuery('#s-lg-content-more-10008689').toggle();">more...</a>
+						<a class="s-lg-label-less" id="s-lg-content-less-10008689" href="javascript:void();" style="display:none; font-style:italic;"
+							onclick="
+								jQuery('#s-lg-content-moreinfo-10008689').toggle();
+								jQuery('#s-lg-content-more-10008689').toggle();
+								jQuery('#s-lg-content-less-10008689').toggle(); ">less...</a>
 					</div>
-				</div>
-			</section>
+					<div id="s-lg-content-moreinfo-10008689" class="s-lg-content-moreinfo" style="display:none;">This collection features a variety of topics indicative of the broad nature of government information. In particular, this collection features websites that cover topics supporting the university’s curriculum and particular program strengths.
+					</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-30488054" class=""><span><a href="http://llmc.com/browse.aspx" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '30488054'});">LLMC-Archive of Government Information</a> 
+				</span><div id="s-lg-link-desc-30488054" class="s-lg-link-desc">LLMC is a non-profit cooperative of libraries dedicated to the twin goals of, preserving legal titles and government documents, while making copies inexpensively available digitally through its on-line service LLMC-Digital. LLMC provides libraries with a reliable and budget-friendly source of digital replacement when their older, physically deteriorating books became too burdensome to store given diminished use. While aiding libraries in their preservation and space recovery programs, it also provides an economical way to complete retrospective collections.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-32910946" class=""><span><a href="https://archive-it.org/home/FDLPwebarchive" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '32910946'});">FDLP Web Archive</a> 
+				</span><div id="s-lg-link-desc-32910946" class="s-lg-link-desc">Archived Web sites from the federal government, regularly updated and stored.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-34684334" class=""><span><a href="https://www.govinfo.gov/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '34684334'});">Govinfo.gov</a> 
+				</span><div id="s-lg-link-desc-34684334" class="s-lg-link-desc">This is GPO's beta website that will eventually replace the Federal Digital System (FDsys) public website. Being in beta means this site is a work in progress that we are sharing with you to get your feedback.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-41795930" class=""><span><a href="http://proxy.cc.uic.edu/login?url=https://babel.hathitrust.org/cgi/ls?a=srchls;c=959679802;q1=*" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '41795930'});">Illinois State Documents on Hathi Trust</a> 
+				</span><div id="s-lg-link-desc-41795930" class="s-lg-link-desc">This collection includes Illinois state documents received through the Illinois State Library’s Document Depository Program. The Secretary of State and Illinois State Library allow all Illinois State documents fully accessible in the HathiTrust.</div>
+			</div></li>
+                        
+                            </ul>
+                            </div>
+								</div>
+								
+							</div>
+						</div>
+					</div></div><div id="s-lg-box-wrapper-6012808" class="s-lg-box-wrapper-6012808">
+					<div id="s-lg-box-5128551-container" class="s-lib-box-container">
+						<div id="s-lg-box-5128551" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Federal Information: Selected Sites
+                                </h2>
+							<div id="s-lg-box-collapse-5128551" >
+								<div class="s-lib-box-content">
+									<div class="">
+                        <ul id="s-lg-link-list-11266541" class="s-lg-link-list s-lg-link-list-2"><li class="">
+                        
+			<div id="s-lg-content-10003683" class=""><span><a href="https://www.usa.gov/federal-agencies/a" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10003683'});">A-Z Index of Government Departments and Agencies</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10007885" class=""><span><a href="https://www.gpo.gov/fdsys/browse/collectionCfr.action?collectionCode=CFR" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10007885'});">Code of Federal Regulations</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10009678" class=""><span><a href="https://www.federalregister.gov/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10009678'});">Federal Register</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10012553" class=""><span><a href="http://patft.uspto.gov/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10012553'});">Patent Full Text Database</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10009320" class=""><span><a href="http://www.presidency.ucsb.edu/elections.php" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10009320'});">The American Presidency Project (UCSB)</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10012782" class=""><span><a href="https://www.gpo.gov/fdsys/browse/collection.action?collectionCode=CPD" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10012782'});">Compilation of Presidential Documents</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10014094" class=""><span><a href="https://www.state.gov/s/l/treaty/index.htm" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10014094'});">Department of State Treaty Information</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10014511" class=""><span><a href="http://www.cdc.gov/nchs/w2w.htm" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10014511'});">Vital Records by State</a> 
+				</span>
+			</div></li>
+                        
+                            </ul>
+                            </div>
+								</div>
+								
+							</div>
+						</div>
+					</div></div><div id="s-lg-box-wrapper-6012816" class="s-lg-box-wrapper-6012816">
+					<div id="s-lg-box-5128556-container" class="s-lib-box-container">
+						<div id="s-lg-box-5128556" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">International & Foreign Government
+                                </h2>
+							<div id="s-lg-box-collapse-5128556" >
+								<div class="s-lib-box-content">
+									<div class="">
+                        <ul id="s-lg-link-list-11284913" class="s-lg-link-list s-lg-link-list-2"><li class="">
+                        
+			<div id="s-lg-content-10007193" class=""><span><a href="https://www.cia.gov/library/publications/the-world-factbook/" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10007193'});">CIA World Factbook</a> 
+				</span><div id="s-lg-link-desc-10007193" class="s-lg-link-desc">The CIA World Factbook provides a wide range of information about individual countries around the world, from economic indicators to flags of the countries.  It is updated every two weeks.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10009111" class=""><span><a href="https://www.usembassy.gov/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10009111'});">US Embassies Site</a> 
+				</span><div id="s-lg-link-desc-10009111" class="s-lg-link-desc">This site includes the websites of US embassy missions around the world.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10003684" class=""><span><a href="http://www.state.gov/misc/list/index.htm" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10003684'});">A-Z List of Country and other Area Pages (U.S. Department of State)</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10009935" class=""><span><a href="http://international.loc.gov/intldl/intldlhome.html" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10009935'});">Global Gateway: World Culture and Resources (Library of Congress)</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10014272" class=""><span><a href="http://www.un.org/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10014272'});">United Nations</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10012185" class=""><span><a href="http://www.un.org/esa/coordination/ngo/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10012185'});">NGO Branch: United Nations Department of Economic and Social Affairs</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-10014033" class=""><span><a href="http://www.worldbank.org/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10014033'});">The World Bank</a> 
+				</span>
+			</div></li>
+                        
+                            </ul>
+                            </div>
+								</div>
+								
+							</div>
+						</div>
+					</div></div><div id="s-lg-box-wrapper-6012818" class="s-lg-box-wrapper-6012818">
+					<div id="s-lg-box-5128555-container" class="s-lib-box-container">
+						<div id="s-lg-box-5128555" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Census Data
+                                </h2>
+							<div id="s-lg-box-collapse-5128555" >
+								<div class="s-lib-box-content">
+									<div class="">
+                        <ul id="s-lg-link-list-11282294" class="s-lg-link-list s-lg-link-list-10"><li class="">
+                        
+                    <div id="s-lg-content-10002124" class=""><a href="https://www.census.gov/"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '16',_st_content_id: '10002124'});">Census Data</a> <div id="s-lg-database-desc-10002124" class="s-lg-database-desc">Official U.S. site of data from the last census in 2000.   <strong>See also:</strong>  Historical Statistics of the U.S.  elsewhere in this guide.</div>
+                    <div class="s-lg-label-moreinfo s-lg-label-more-info">
+                        <button
+                            class="s-lg-label-more btn btn-sm btn-link"
+                            aria-label="Show more information about this database"
+                            aria-expanded="false"
+                            id="s-lg-0-more-info-database-more-10002124"
+                            style="display:block;"
+                            onclick="
+                                jQuery('#s-lg-0-more-info-database-moreinfo-10002124').toggle();
+                                jQuery('#s-lg-0-more-info-database-less-10002124').toggle();
+                                jQuery('#s-lg-0-more-info-database-more-10002124').toggle();">more...</button>
+                        <button
+                            class="s-lg-label-less btn btn-sm btn-link"
+                            aria-label="Show more information about this database"
+                            aria-expanded="true"
+                            id="s-lg-0-more-info-database-less-10002124"
+                            style="display:none;"
+                            onclick="
+                                jQuery('#s-lg-0-more-info-database-moreinfo-10002124').toggle();
+                                jQuery('#s-lg-0-more-info-database-less-10002124').toggle();
+                                jQuery('#s-lg-0-more-info-database-more-10002124').toggle(); ">less...</button>
+                    </div>
+                    <div id="s-lg-0-more-info-database-moreinfo-10002124" class="s-lg-content-more-info " style="display:none;">Official U.S. census data viewable in a variety of formats.  <strong>See also:</strong>  Historical Statistics of the U.S. (Millennial edition), elsewhere in this guide.
+                    </div>
+                    </div></li>
+                        
+                            </ul>
+                            </div><div class="">
+                        <ul id="s-lg-link-list-11281032" class="s-lg-link-list s-lg-link-list-2"><li class="">
+                        
+			<div id="s-lg-content-10014130" class=""><span><a href="http://www.census.gov/prod/www/decennial.html" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10014130'});">U.S. Census Bureau Archive</a> 
+				</span>
+			</div></li>
+                        
+                            </ul>
+                            </div><div class="">
+                        <ul id="s-lg-link-list-11283377" class="s-lg-link-list s-lg-link-list-10"><li class="">
+                        
+                    <div id="s-lg-content-10002323" class=""><a href="http://proxy.cc.uic.edu/login?url=http://hsus.cambridge.org/HSUSWeb"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '16',_st_content_id: '10002323'});">Historical Statistics of the United States, Millennial ed.</a> <div id="s-lg-database-desc-10002323" class="s-lg-database-desc">Quantitative facts about American history. Provides downloadable data sets, with introductions and analysis by experts.</div>
+                    <div class="s-lg-label-moreinfo s-lg-label-more-info">
+                        <button
+                            class="s-lg-label-more btn btn-sm btn-link"
+                            aria-label="Show more information about this database"
+                            aria-expanded="false"
+                            id="s-lg-0-more-info-database-more-10002323"
+                            style="display:block;"
+                            onclick="
+                                jQuery('#s-lg-0-more-info-database-moreinfo-10002323').toggle();
+                                jQuery('#s-lg-0-more-info-database-less-10002323').toggle();
+                                jQuery('#s-lg-0-more-info-database-more-10002323').toggle();">more...</button>
+                        <button
+                            class="s-lg-label-less btn btn-sm btn-link"
+                            aria-label="Show more information about this database"
+                            aria-expanded="true"
+                            id="s-lg-0-more-info-database-less-10002323"
+                            style="display:none;"
+                            onclick="
+                                jQuery('#s-lg-0-more-info-database-moreinfo-10002323').toggle();
+                                jQuery('#s-lg-0-more-info-database-less-10002323').toggle();
+                                jQuery('#s-lg-0-more-info-database-more-10002323').toggle(); ">less...</button>
+                    </div>
+                    <div id="s-lg-0-more-info-database-moreinfo-10002323" class="s-lg-content-more-info " style="display:none;">Historical Statistics of the U.S. (Millennial Edition, published 2006) presents quantitative historical information covering population, work and welfare, economic structure and performance, governance, and international relations, from earliest time to the present.
+                    </div>
+                    </div></li>
+                        
+                            </ul>
+                            </div><div class="">
+                        <ul id="s-lg-link-list-11275610" class="s-lg-link-list s-lg-link-list-2"><li class="">
+                        
+			<div id="s-lg-content-10010670" class=""><span><a href="http://usa.ipums.org/usa/" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '10010670'});">Integrated Public Use Microdata Sets</a> 
+				</span><div id="s-lg-link-desc-10010670" class="s-lg-link-desc">IPUMS-USA is a project dedicated to collecting and distributing United States census data.</div>
+			</div></li>
+                        
+                            </ul>
+                            </div>
+								</div>
+								
+							</div>
+						</div>
+					</div></div><div id="s-lg-box-wrapper-13850115" class="s-lg-box-wrapper-13850115">
+					<div id="s-lg-box-11745274-container" class="s-lib-box-container">
+						<div id="s-lg-box-11745274" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">State and Local Governing Associations
+                                </h2>
+							<div id="s-lg-box-collapse-11745274" >
+								<div class="s-lib-box-content">
+									<div class="">
+                        <ul id="s-lg-link-list-27355427" class="s-lg-link-list s-lg-link-list-2"><li class="">
+                        
+			<div id="s-lg-content-24648702" class=""><span><a href="http://www.iimc.com/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '24648702'});">Institutional Institute of Municipal Clerks</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-24648653" class=""><span><a href="http://www.naco.org/Pages/default.aspx" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '24648653'});">National Association of Counties</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-24648625" class=""><span><a href="http://www.nlc.org/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '24648625'});">National League of Cities</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-24648636" class=""><span><a href="http://www.ncsl.org/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '24648636'});">National League of State Legislatures</a> 
+				</span>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-24648596" class=""><span><a href="http://usmayors.org/" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '24648596'});">The United States Conference of Mayors</a> 
+				</span>
+			</div></li>
+                        
+                            </ul>
+                            </div>
+								</div>
+								
+							</div>
+						</div>
+					</div></div>
         </div>
-        <!-- END: content -->
-        <!-- BEGIN: Page Footer -->
-        
-        <div id="s-lib-footer-public" class="s-lib-footer footer container  s-lib-side-borders">
-            <div>
-                <div id="s-lib-footer-brand">
-                     
-                </div>
-                <div id="s-lib-footer-rights">
-                     
-                </div>
-                <div id="s-lib-footer-login-link">
-                    <a href="https://uic.libapps.com/libapps/login.php?site_id=34">Staff Login</a>
-                </div>
+    </div>
+</div>                </div>
             </div>
-            <div>
-                <!--
-                <div id="s-lib-footer-print-link">
-                    ~[23]~
-                </div>
-                -->
-                <div id="s-lib-footer-support-link">
-                    
-                </div>
-            </div>
-        </div>
-        <!-- END: Page Footer -->
-        <div id="s-lib-alert" title="">
-                            <div id="s-lib-alert-content"></div>
-                       </div>        
-                <div id="s-lib-popover-title" class="hide">
-                    <span class="text-info"><strong>title</strong></span>
-                    <button type="button" id="popclose" class="close" onclick="jQuery('.s-lib-popover').popover('hide')">&times;</button>
-                </div>
-                <div id="s-lib-popover-content" class="hide"><i class="fa fa-refresh fa-spin"></i> Loading...
-                    <button class="btn btn-default btn-sm popclose" type="button">Close</button>
-                </div>        
+            <ul id="s-lg-page-prevnext" class="pager s-lib-hide"><li class="previous"></li><li class="next"><a href="https://researchguides.uic.edu/c.php?g=252249&p=1683041"><strong>Next:</strong> Library Databases &gt;&gt;</a></li></ul>        </div>
+    </div>
+</div>
+<!-- BEGIN: Page Footer -->
+<div id="s-lib-footer-public"
+     class="s-lib-footer footer container  s-lib-side-borders">
+    <div id="s-lg-guide-header-meta" class="pad-top-sm pad-left-med clearfix">
+        <ul id="s-lg-guide-header-attributes" class="">
+            <li id="s-lg-guide-header-updated" class="s-lg-h-separator">
+                <span class="s-lg-guide-label">Last Updated:</span> <span class="s-lg-text-greyout">Nov 8, 2018 9:32 AM</span>            </li>
+            <li id="s-lg-guide-header-url" class="s-lg-h-separator">
+                <span class="s-lg-guide-label">URL:</span> <span class="s-lg-text-greyout">https://researchguides.uic.edu/gov</span>            </li>
+            <li id="s-lg-guide-print-url">
+                <a href="javascript: window.print();"><i class="fa fa-print" title="Print Page"></i> Print Page</a>            </li>
+        </ul>
+        <div id="s-lib-footer-login-link" class="pull-right pad-right-med">
+            <a href="https://uic.libapps.com/libapps/login.php?site_id=34&target64=L2xpYmd1aWRlcy9hZG1pbl9jLnBocD9nPTI1MjI0OSZwPTE2ODMwNDA=">Staff Login</a>        </div>
+    </div>
+    <div class="pad-bottom-sm clearfix">
+        <div id="s-lib-footer-support-link" class="pull-right pad-right-med">
+                    </div>
+        <div id="s-lg-guide-header-subjects" class="pad-top-sm pad-left-med pad-right-med pull-left">
+            
+                    <span class="s-lg-guide-label">Subjects: </span>
+                    <span class="s-lg-small bold"><a href="https://researchguides.uic.edu/sb.php?subject_id=124573">Government Information</a>, <a href="https://researchguides.uic.edu/sb.php?subject_id=124574">Reference & Interdisciplinary</a>, <a href="https://researchguides.uic.edu/sb.php?subject_id=128851">Social Sciences</a></span>
+                            </div>
+        <div id="s-lg-guide-header-tags" class="pad-top-sm pad-left-med">
+            
+                    <span class="s-lg-guide-label">Tags: </span>
+                    <span class="s-lg-small bold"><a href="https://researchguides.uic.edu/srch.php?tag=daley&default_lg=1">daley</a></span>
+                            </div>
+    </div>
+</div>
+<!-- END: Page Footer -->
+
 			<div id="s-lib-scroll-top">
 				<a href="javascript:void(0);" onclick="jQuery('html, body').animate({scrollTop: 0}, 750);" title="Back to Top" aria-label="Back to Top"
 				aria-hidden="true">
@@ -1195,9 +1710,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					  <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
 					</span>
 				</a>
-			</div>
-        <!-- BEGIN: Custom Footer -->
-        
+			</div><div id="s-lib-alert" title="">
+                            <div id="s-lib-alert-content"></div>
+                       </div>
+                <!-- BEGIN: Custom Footer -->
+                
 <footer class="page__footer" role="contentinfo">
     <div class="footer uic-footer">
         <section class="uic-footer__site">
@@ -1468,6 +1985,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
 </footer>
-
-        <!-- END: Custom Footer -->
-	</body></html>
+		<!-- END: Custom Footer -->
+</body>
+</html>

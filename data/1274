@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://acm.cs.uic.edu/rss.xml">
+  <channel>
+    <title>ACM@UIC - Association for Computing Machinery Student Chapter at the University of Illinois at Chicago</title>
+    <link>https://acm.cs.uic.edu/rss.xml</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Downtime Notice - November 3-4, 2018</title>
+  <link>https://acm.cs.uic.edu/node/356</link>
+  <description>&lt;span&gt;Downtime Notice - November 3-4, 2018&lt;/span&gt;
+
+            &lt;div&gt;&lt;p&gt;ACM Servers and Network will be going down for maintenance on November 3, 2018 and November 4, 2018. Services are expected to return no later than November 5, 2018 @ 6:00am CDT. Sysadmins will be performing critical maintenance.&lt;/p&gt;
+
+&lt;p&gt;Please contact ACM/LUG Systems Administrator Bharat Middha with any questions or concerns.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;span&gt;&lt;span lang="" about="https://acm.cs.uic.edu/user/237" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;wtoher&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Tue, 10/30/2018 - 23:07&lt;/span&gt;
+&lt;section&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Wed, 31 Oct 2018 04:07:13 +0000</pubDate>
+    <dc:creator>wtoher</dc:creator>
+    <guid isPermaLink="false">356 at https://acm.cs.uic.edu</guid>
+    </item>
+<item>
+  <title>[UPDATED] Downtime Notice: acm.cs.uic.edu [September 27, 2018]</title>
+  <link>https://acm.cs.uic.edu/node/354</link>
+  <description>&lt;span&gt;[UPDATED] Downtime Notice: acm.cs.uic.edu [September 27, 2018]&lt;/span&gt;
+
+            &lt;div&gt;&lt;div class="quickedit-field" data-quickedit-field-id="node/353/body/en/full" property="schema:text"&gt;
+&lt;p&gt;Hello,&lt;/p&gt;
+
+&lt;p&gt;On September 27, 2018 around 3:00PM, an unforeseen change caused the main acm.cs.uic.edu website to become inaccessible/slow. &lt;/p&gt;
+
+&lt;p&gt;Affected services:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;The website: acm.cs.uic.edu.&lt;/li&gt;
+	&lt;li&gt;ACM Email may be delayed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;At this time, acm.cs.uic.edu and related services should be back up.&lt;/strong&gt;  A recent change by ACCC caused routing to be treated differently, causing some traffic to be routed out of incorrect interfaces.  These issues has since been resolved.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, please let an ACM/LUG SysAdmin know by emailing sig-sysadmin [at] acm.cs.uic.edu or by messaging the #sig-sysadmin channel on Slack.&lt;/p&gt;
+
+&lt;p&gt;Sorry for the inconvenience,&lt;br /&gt;
+Chase Lee&lt;br /&gt;
+Alumni Systems Administrator&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      &lt;span&gt;&lt;span lang="" about="https://acm.cs.uic.edu/user/59" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;clee231&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 09/28/2018 - 00:40&lt;/span&gt;
+&lt;section&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Fri, 28 Sep 2018 05:40:59 +0000</pubDate>
+    <dc:creator>clee231</dc:creator>
+    <guid isPermaLink="false">354 at https://acm.cs.uic.edu</guid>
+    <comments>https://acm.cs.uic.edu/node/354#comments</comments>
+    </item>
+<item>
+  <title>Downtime Notice: acm.cs.uic.edu [September 20-21]</title>
+  <link>https://acm.cs.uic.edu/node/353</link>
+  <description>&lt;span property="schema:name"&gt;Downtime Notice: acm.cs.uic.edu [September 20-21]&lt;/span&gt;
+&lt;span rel="schema:author"&gt;&lt;span lang="" about="https://acm.cs.uic.edu/user/59" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;clee231&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-09-21T01:24:30+00:00"&gt;Thu, 09/20/2018 - 20:24&lt;/span&gt;
+</description>
+  <pubDate>Fri, 21 Sep 2018 01:24:30 +0000</pubDate>
+    <dc:creator>clee231</dc:creator>
+    <guid isPermaLink="false">353 at https://acm.cs.uic.edu</guid>
+    <comments>https://acm.cs.uic.edu/node/353#comments</comments>
+    </item>
+<item>
+  <title>Correction - SIG Algorithmic Trading Meeting</title>
+  <link>https://acm.cs.uic.edu/node/352</link>
+  <description>&lt;span&gt;Correction - SIG Algorithmic Trading Meeting&lt;/span&gt;
+
+            &lt;div&gt;&lt;p&gt;The GBM slides stated that tonight's SIG Algorithmic Trading meeting would take place in the incorrect room and time. The correct room is &lt;strong&gt;Douglas Hall 170&lt;/strong&gt;, and the time will be from &lt;strong&gt;2:30-4pm.&lt;/strong&gt; Hope to see you there!&lt;/p&gt;&lt;/div&gt;
+      &lt;span&gt;&lt;span lang="" about="https://acm.cs.uic.edu/user/237" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;wtoher&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 09/14/2018 - 10:49&lt;/span&gt;
+&lt;section&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Fri, 14 Sep 2018 15:49:14 +0000</pubDate>
+    <dc:creator>wtoher</dc:creator>
+    <guid isPermaLink="false">352 at https://acm.cs.uic.edu</guid>
+    </item>
+<item>
+  <title>GBM 1 Recap</title>
+  <link>https://acm.cs.uic.edu/node/351</link>
+  <description>&lt;span&gt;GBM 1 Recap&lt;/span&gt;
+
+            &lt;div&gt;&lt;p&gt;Thanks to everyone who came to our first GBM of Fall 2018!&lt;/p&gt;
+
+&lt;p&gt;The slides can be found here: &lt;a href="https://docs.google.com/presentation/d/1yehPpeL8AqrqMJxCh6KApzR1Ifk1z6341ukCMapiV1Q/edit?usp=sharing"&gt;https://docs.google.com/presentation/d/1yehPpeL8AqrqMJxCh6KApzR1Ifk1z6341ukCMapiV1Q/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To recap:&lt;/p&gt;
+
+&lt;p&gt;If you want to come to Reflections|Projections, apply here: &lt;a href="http://bit.ly/2wU3evs"&gt;http://bit.ly/2wU3evs&lt;/a&gt; AND here: &lt;a href="https://reflectionsprojections.org/start"&gt;https://reflectionsprojections.org/start&lt;/a&gt; by Tuesday, September 11th at 5:00 pm.&lt;/p&gt;
+
+&lt;p&gt;If you want to apply for a council position, apply here: &lt;a href="http://bit.ly/2N22wXL"&gt;http://bit.ly/2N22wXL&lt;/a&gt; by Monday, September 17th.&lt;/p&gt;
+
+&lt;p&gt;See our &lt;a href="https://acm.cs.uic.edu/cal"&gt;calendar &lt;/a&gt;for more events, including our Optum tech talk on Monday September 17th, in the CS Lounge at 5pm&lt;/p&gt;
+
+&lt;p&gt;Join our Slack channel &lt;a href="https://uicacm.slack.com/signup"&gt;here&lt;/a&gt;, and our mailing list &lt;a href="https://acm.cs.uic.edu/mailsignup"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;SIG meetings start this week! See calendar for meeting times.&lt;/p&gt;
+
+&lt;p&gt;Thanks again, and hope to see you all again soon!&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;Will Toher&lt;/p&gt;
+
+&lt;p&gt;President, ACM@UIC&lt;/p&gt;
+&lt;/div&gt;
+      &lt;span&gt;&lt;span lang="" about="https://acm.cs.uic.edu/user/237" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;wtoher&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Mon, 09/10/2018 - 18:56&lt;/span&gt;
+&lt;section&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Mon, 10 Sep 2018 23:56:28 +0000</pubDate>
+    <dc:creator>wtoher</dc:creator>
+    <guid isPermaLink="false">351 at https://acm.cs.uic.edu</guid>
+    </item>
+<item>
+  <title>Downtime Notice: GitLab [June 27-August 4, 2018]</title>
+  <link>https://acm.cs.uic.edu/node/349</link>
+  <description>&lt;span&gt;Downtime Notice: GitLab [June 27-August 4, 2018]&lt;/span&gt;
+
+            &lt;div&gt;&lt;p&gt;The GitLab instance hosted on &lt;em&gt;acm.cs.uic.edu/git&lt;/em&gt; will be undergoing maintenance on &lt;strong&gt;July 27, 2018&lt;/strong&gt;. The site is expected to be live on &lt;strong&gt;August 4, 2018&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;LUG Members will be testing a new infrastructure setup.  GitLab will be inaccessible throughout this period.  LUG members will update this post if further updates are needed.&lt;/p&gt;
+
+&lt;p&gt;We apologize for any inconvenience.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, feel free to contact a LUG Member and/or a Systems Administrator.&lt;/p&gt;
+
+&lt;p&gt;-&lt;br /&gt;
+Chase Lee&lt;br /&gt;
+ACM/LUG Systems Administrator 2016-2018&lt;/p&gt;&lt;/div&gt;
+      &lt;span&gt;&lt;span lang="" about="https://acm.cs.uic.edu/user/59" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;clee231&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Sat, 07/28/2018 - 19:41&lt;/span&gt;
+&lt;section&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Sun, 29 Jul 2018 00:41:34 +0000</pubDate>
+    <dc:creator>clee231</dc:creator>
+    <guid isPermaLink="false">349 at https://acm.cs.uic.edu</guid>
+    <comments>https://acm.cs.uic.edu/node/349#comments</comments>
+    </item>
+<item>
+  <title>NOTICE: Unexpected Service Disruption - July 14-16, 2018</title>
+  <link>https://acm.cs.uic.edu/node/348</link>
+  <description>&lt;span&gt;NOTICE: Unexpected Service Disruption - July 14-16, 2018&lt;/span&gt;
+
+            &lt;div&gt;&lt;p&gt;Hello,&lt;/p&gt;
+
+&lt;p&gt;On July 14, 2018 around 1:00PM, SysAdmins noticed authentication and acm.cs.uic.edu became inaccessible.  From initial investigation, the HVAC system was suffering an unexpected water shutoff.  The main AC unit in the server room is not functioning, allowing temperatures to rise in excess of 116&lt;span&gt;°&lt;/span&gt;F.&lt;/p&gt;
+
+&lt;p&gt;SysAdmins have contacted the appropriate parties to help resolve this issue. We expect this issue to be resolved by Monday, July 16, 2018.  We apologize for any inconvenience this may have caused.&lt;/p&gt;
+
+&lt;p&gt;Due to high temperatures, ACM/LUG services will be running in limited capacity.  The majority of servers will be powered down for the weekend to mitigate any catastrophic hardware failures.&lt;/p&gt;
+
+&lt;p&gt;Currently affected services:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;All services hosted on acm.cs.uic.edu.
+	&lt;ul&gt;
+		&lt;li&gt;Including, but not limited to the following:
+		&lt;ul&gt;
+			&lt;li&gt;Email Services&lt;/li&gt;
+			&lt;li&gt;Hosting Services&lt;/li&gt;
+			&lt;li&gt;Secure Shell&lt;/li&gt;
+			&lt;li&gt;GitLab&lt;/li&gt;
+			&lt;li&gt;IRC&lt;/li&gt;
+			&lt;li&gt;Mailing Lists&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Monitor Wall&lt;/li&gt;
+	&lt;li&gt;ACMAPP Kubernetes Cluster&lt;/li&gt;
+	&lt;li&gt;Cuda machine&lt;/li&gt;
+	&lt;li&gt;Test Servers&lt;/li&gt;
+	&lt;li&gt;Non-critical subdomain machines&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have any questions, please let an ACM/LUG SysAdmin know by emailing sig-sysadmin [at] acm.cs.uic.edu or by messaging the #sig-sysadmin channel on Slack.&lt;/p&gt;
+
+&lt;p&gt;Sorry for the inconvenience,&lt;br /&gt;
+Chase Lee&lt;br /&gt;
+ACM/LUG Systems Administrator 2016-2018&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;span&gt;&lt;span lang="" about="https://acm.cs.uic.edu/user/59" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;clee231&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Sat, 07/14/2018 - 13:47&lt;/span&gt;
+&lt;section&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Sat, 14 Jul 2018 18:47:22 +0000</pubDate>
+    <dc:creator>clee231</dc:creator>
+    <guid isPermaLink="false">348 at https://acm.cs.uic.edu</guid>
+    <comments>https://acm.cs.uic.edu/node/348#comments</comments>
+    </item>
+<item>
+  <title>NOTICE: Unexpected Service Disruption - June 5, 2018</title>
+  <link>https://acm.cs.uic.edu/node/347</link>
+  <description>&lt;span&gt;NOTICE: Unexpected Service Disruption - June 5, 2018&lt;/span&gt;
+
+            &lt;div&gt;&lt;p&gt;Hello,&lt;/p&gt;
+
+&lt;p&gt;On June 5, 2018 around 1:30PM, senior SysAdmins noticed an issue with DNS records pertaining to acm.cs.uic.edu.  From initial investigation, the DNS record is now being overridden by UIC DNS records. At this time, acm.cs.uic.edu is not currently accessible due to an incorrect DNS configuration.  The cause for this change is still unknown.&lt;/p&gt;
+
+&lt;p&gt;SysAdmins have contacted the appropriate parties to help resolve this issue, however we do not currently have an ETA of when this issue will be fixed.  We apologize for any inconvenience this may have caused.&lt;/p&gt;
+
+&lt;p&gt;Services requiring the acm.cs.uic.edu domain will unfortunately  be inaccessible at this time.&lt;/p&gt;
+
+&lt;p&gt;Currently affected services:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;All services hosted on acm.cs.uic.edu.
+	&lt;ul&gt;
+		&lt;li&gt;Including, but not limited to the following:
+		&lt;ul&gt;
+			&lt;li&gt;Email Services&lt;/li&gt;
+			&lt;li&gt;Hosting Services&lt;/li&gt;
+			&lt;li&gt;Secure Shell&lt;/li&gt;
+			&lt;li&gt;GitLab&lt;/li&gt;
+			&lt;li&gt;IRC&lt;/li&gt;
+			&lt;li&gt;Mailing Lists&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As a temporary solution, you may use lug.cs.uic.edu to resolve to the same server. (e.g.: If you need to SSH into our servers, do so with lug.cs.uic.edu)&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, please let an ACM/LUG SysAdmin know by emailing sig-sysadmin [at] acm.cs.uic.edu or by messaging the #sig-sysadmin channel on Slack.&lt;/p&gt;
+
+&lt;p&gt;Sorry for the inconvenience,&lt;br /&gt;
+Chase Lee&lt;br /&gt;
+ACM/LUG Systems Administrator 2016-2018&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      &lt;span&gt;&lt;span lang="" about="https://acm.cs.uic.edu/user/59" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;clee231&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Tue, 06/05/2018 - 13:35&lt;/span&gt;
+&lt;section&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Tue, 05 Jun 2018 18:35:22 +0000</pubDate>
+    <dc:creator>clee231</dc:creator>
+    <guid isPermaLink="false">347 at https://acm.cs.uic.edu</guid>
+    <comments>https://acm.cs.uic.edu/node/347#comments</comments>
+    </item>
+<item>
+  <title>Gitlab Status Update [May 29, 2018]</title>
+  <link>https://acm.cs.uic.edu/node/346</link>
+  <description>&lt;span&gt;Gitlab Status Update [May 29, 2018]&lt;/span&gt;
+
+            &lt;div&gt;&lt;p&gt;Hello,&lt;/p&gt;
+
+&lt;p&gt;Due to technical difficulties, &lt;strong&gt;Gitlab&lt;/strong&gt; upgrades have been &lt;strong&gt;postponed until a later date&lt;/strong&gt; most likely during the Summer 2018 session.  More information will be released as they are available.&lt;/p&gt;
+
+&lt;p&gt;We apologize for any inconvenience this may have caused.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, please let an ACM SysAdmin know by emailing sig-sysadmin [at] acm.cs.uic.edu or by messaging the #sig-sysadmin channel on Slack.&lt;/p&gt;
+
+&lt;p&gt;Regards,&lt;br /&gt;
+Chase Lee&lt;br /&gt;
+ACM/LUG Systems Administrator 2016-2018&lt;/p&gt;&lt;/div&gt;
+      &lt;span&gt;&lt;span lang="" about="https://acm.cs.uic.edu/user/59" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;clee231&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Tue, 05/29/2018 - 04:58&lt;/span&gt;
+&lt;section&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Tue, 29 May 2018 09:58:04 +0000</pubDate>
+    <dc:creator>clee231</dc:creator>
+    <guid isPermaLink="false">346 at https://acm.cs.uic.edu</guid>
+    <comments>https://acm.cs.uic.edu/node/346#comments</comments>
+    </item>
+<item>
+  <title>Downtime notice: GitLab</title>
+  <link>https://acm.cs.uic.edu/node/345</link>
+  <description>&lt;span&gt;Downtime notice: GitLab&lt;/span&gt;
+
+            &lt;div&gt;&lt;p&gt;The GitLab instance hosted on &lt;em&gt;acm.cs.uic.edu/git&lt;/em&gt; will be undergoing maintenance on &lt;strong&gt;May 26,2018 @ 9:00am CDT&lt;/strong&gt;. The site is expected to be live no later than &lt;strong&gt;May 29, 2018 @ 6:00am CDT&lt;/strong&gt;. Sysadmins will be installing critical software updates.&lt;/p&gt;
+
+&lt;p&gt;GitLab will be inaccessible throughout this maintenance period.&lt;/p&gt;
+
+&lt;p&gt;We apologize for any inconvenience.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, feel free to contact an ACM officer and/or a Systems Administrator.&lt;br /&gt;
+-&lt;br /&gt;
+Bharat Middha&lt;br /&gt;
+Linux Users Group Vice President 2018-2019&lt;/p&gt;&lt;/div&gt;
+      &lt;span&gt;&lt;span lang="" about="https://acm.cs.uic.edu/user/273" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;bmiddha&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Mon, 05/21/2018 - 22:47&lt;/span&gt;
+&lt;section&gt;
+  
+  
+
+  
+&lt;/section&gt;
+</description>
+  <pubDate>Tue, 22 May 2018 03:47:07 +0000</pubDate>
+    <dc:creator>bmiddha</dc:creator>
+    <guid isPermaLink="false">345 at https://acm.cs.uic.edu</guid>
+    </item>
+
+  </channel>
+</rss>

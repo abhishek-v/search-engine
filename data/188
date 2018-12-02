@@ -123,7 +123,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//testing.uic.edu/?wordfence_lh=1&hid=8626432A70F27B4D64AA4B9C79820657');
+})('//testing.uic.edu/?wordfence_lh=1&hid=21B1B0B6B04507BBE679394D164618B9');
 </script>
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>

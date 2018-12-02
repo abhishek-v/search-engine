@@ -14,7 +14,7 @@
     <!-- End Google Tag Manager -->
 
         <title>
-                            Career Toolbox | Engineering Career Center | University of Illinois at Chicago
+                            Networking | Engineering Career Center | University of Illinois at Chicago
                     </title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,14 +53,14 @@
 </script>
 <!-- End Google Tag Manager for WordPress by DuracellTomi -->
 <!-- This site is optimized with the Yoast SEO plugin v7.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://ecc.uic.edu/career-toolbox/" />
+<link rel="canonical" href="http://ecc.uic.edu/networking/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Career Toolbox - Engineering Career Center" />
-<meta property="og:url" content="http://ecc.uic.edu/career-toolbox/" />
+<meta property="og:title" content="Networking - Engineering Career Center" />
+<meta property="og:url" content="http://ecc.uic.edu/networking/" />
 <meta property="og:site_name" content="Engineering Career Center" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Career Toolbox - Engineering Career Center" />
+<meta name="twitter:title" content="Networking - Engineering Career Center" />
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//s.w.org' />
@@ -89,9 +89,9 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ecc.uic.edu/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ecc.uic.edu/wp-includes/wlwmanifest.xml" /> 
 
-<link rel='shortlink' href='http://ecc.uic.edu/?p=49' />
-<link rel="alternate" type="application/json+oembed" href="http://ecc.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecc.uic.edu%2Fcareer-toolbox%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://ecc.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecc.uic.edu%2Fcareer-toolbox%2F&#038;format=xml" />
+<link rel='shortlink' href='http://ecc.uic.edu/?p=59' />
+<link rel="alternate" type="application/json+oembed" href="http://ecc.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecc.uic.edu%2Fnetworking%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://ecc.uic.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecc.uic.edu%2Fnetworking%2F&#038;format=xml" />
 <script type="text/javascript">
 (function(url){
 	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
@@ -123,7 +123,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//ecc.uic.edu/?wordfence_lh=1&hid=8AF9350F5EF4E3A1F29A12943EA83ED0');
+})('//ecc.uic.edu/?wordfence_lh=1&hid=76321131E41C1DFD30BB3C6B4264E479');
 </script>
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>
@@ -147,8 +147,14 @@ img.emoji {
   
   
 
+  
+  
 
-  <div class="l-page page-template page-template-page-templates page-template-landing-page page-template-page-templateslanding-page-php page page-id-49 page-parent post-type--landing_page  site-type-b theme--navy is-sidebar  ">
+  
+  
+
+
+  <div class="l-page page-template-default page page-id-59 page-parent post-type--page  site-type-b theme--navy is-sidebar  ">
 
 
     <!--[if lte IE 9]>
@@ -376,7 +382,7 @@ img.emoji {
                       </div>
         </div>
           </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-49 current_page_item menu-item-116 menu-item-has-children">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-116 menu-item-has-children">
       <a
         class="menu-main__first-link"
         href="/career-toolbox/"
@@ -424,7 +430,7 @@ img.emoji {
                   Searching
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-133">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-59 current_page_item menu-item-133">
                 <a
                   class="menu-main__second-link"
                   href="/networking/"
@@ -837,23 +843,6 @@ img.emoji {
 
   </div>
 
-          <div
-  class="header-title header-title--type-treatment  "
-  style="
-    background-image:url('http://ecc.uic.edu/wp-content/uploads/sites/78/2018/10/tools-landing-banner-1440x166.png');">      <div class="color-wash ">
-
-                  <img src="" alt="pepper tour">
-        
-    </div>
-    <div class="l-full">
-    <div class="header-title__content">
-            <div class="_text  _text--no-wordmark  _text--landing ">
-                  <h1
-            class="header-title-title  header-title-title--b header-title-title--landing">Career Toolbox</h1>
-              </div>
-    </div>
-  </div>
-</div>
     
         <a href="#menu-secondary" class="menu-secondary-anchor">
       View Menu
@@ -876,267 +865,66 @@ img.emoji {
 
         <div class="l-content ">
             
-          <article class="post-type-landing_page" id="article">
-            		<div class="intro-text">
+          <article class="post-type-page" id="article">
+            
+    <div class="intro-text">
 
-      
+              <h1 class="_title post-title">Networking</h1>
+        
       
   
   
-  <p><!-- Global Site Tag (gtag.js) - Google Analytics --><br />
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-103177591-1"></script><br />
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());</p>
-<p>  gtag('config', 'UA-103177591-1');
-</script></p>
-<p>Securing an internship or job is a job in itself. There are many important components to the entire search process and each step along the way should be treated as such. We have compiled a selection of resources that will help you reach your ultimate goal of securing employment. Each component listed below will help you map out and complete your entire search process, ensuring a more efficient and effective search.</p>
+  <p>Networking is part of a successful job search strategy. Building a strong network of professional contacts now will help you throughout your career!</p>
 
 
 </div>
     
-		<div class="components">
+    <div class="components">
       
       
 
 <section class="component  ">
 
   
-  
-  <div class="component-call-to-action -dark">
+  <div class="component-accordion js-component-accordion">
 
-    <h2 class="visible">Career Readiness Toolbox</h2>
-
-    <ul class="_items call-to-action-links">
-              <li>
-                      <a
-              href="http://ecc.uic.edu/resume/"
-              target="_self">
-                        <span class="_icon text-icon" aria-hidden="true">
-                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <title>Document icon</title>
-  <g fill="none" fill-rule="evenodd">
-    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
-    <rect class="_mark" fill="#FFF" x="10" y="11" width="16" height="2" rx="1"/>
-    <rect class="_mark" fill="#FFF" x="10" y="23" width="10" height="2" rx="1"/>
-    <rect class="_mark" fill="#FFF" x="10" y="19" width="16" height="2" rx="1"/>
-    <rect class="_mark" fill="#FFF" x="10" y="15" width="10" height="2" rx="1"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">Resume</span>
-            </a>
-        </li>
-              <li>
-                      <a
-              href="http://ecc.uic.edu/cover-letter/"
-              target="_self">
-                        <span class="_icon text-icon" aria-hidden="true">
-                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <title>Document icon</title>
-  <g fill="none" fill-rule="evenodd">
-    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
-    <rect class="_mark" fill="#FFF" x="10" y="11" width="16" height="2" rx="1"/>
-    <rect class="_mark" fill="#FFF" x="10" y="23" width="10" height="2" rx="1"/>
-    <rect class="_mark" fill="#FFF" x="10" y="19" width="16" height="2" rx="1"/>
-    <rect class="_mark" fill="#FFF" x="10" y="15" width="10" height="2" rx="1"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">Cover Letter</span>
-            </a>
-        </li>
-              <li>
-                      <a
-              href="http://ecc.uic.edu/go-search/"
-              target="_self">
-                        <span class="_icon map-icon" aria-hidden="true">
-                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <title>Map pin icon</title>
-  <g fill="none" fill-rule="evenodd">
-    <ellipse class="_circle" fill="#001E62" cx="18" cy="18" rx="18" ry="18"/>
-    <path class="_mark" d="M22.934 18.415C23.606 17.445 24 16.27 24 15c0-3.314-2.686-6-6-6s-6 2.686-6 6c0 1.27.394 2.446 1.066 3.415L18 27l4.934-8.585zM18 19c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4z" fill="#FFF"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">Searching</span>
-            </a>
-        </li>
-              <li>
-                      <a
-              href="http://ecc.uic.edu/networking/"
-              target="_self">
-                        <span class="_icon user-icon" aria-hidden="true">
-                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <title>User icon</title>
-  <g fill="none" fill-rule="evenodd">
-    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
-    <path class="_mark" d="M28.09 26.197C25.707 29.127 22.072 31 18 31s-7.707-1.872-10.09-4.803c1.367-.762 4.573-2.54 5.125-2.744.182-.077.428-.823.488-1.48l.04-.428h.455l.304-1.474.007-.02c.013-.05.022-.174-.018-.2-.473-.32-1.248-1.518-1.41-3.416l-.327-.17-.298-2.284.502-.326-.118-3.344-.004-.02c-.022-.16-.455-3.955 7.11-5.145l.088-.014c.24.036.476.076.71.123l-.28.56c-.028.067-.098.343.384.618.812.468 2.276 1.307 2.608 3.184h.07l-.002.484-.004.102.032.5h-.05l-.103 2.954.503.326-.298 2.283-.327.17c-.162 1.9-.937 3.097-1.41 3.416-.044.028-.025.173-.017.2l.312 1.495h.455l.04.427c.07.735.324 1.41.488 1.48.553.205 3.76 1.983 5.125 2.745z" fill="#FFF"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">Networking</span>
-            </a>
-        </li>
-              <li>
-                      <a
-              href="http://ecc.uic.edu/linkedin/"
-              target="_self">
-                        <span class="_icon matrix-icon" aria-hidden="true">
-                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <title>Matrix icon</title>
-  <g fill="none" fill-rule="evenodd">
-    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
-    <circle class="_mark" fill="#FFF" cx="12" cy="24" r="2"/>
-    <circle class="_mark" fill="#FFF" cx="18" cy="24" r="2"/>
-    <circle class="_mark" fill="#FFF" cx="24" cy="24" r="2"/>
-    <circle class="_mark" fill="#FFF" cx="12" cy="18" r="2"/>
-    <circle class="_mark" fill="#FFF" cx="18" cy="18" r="2"/>
-    <circle class="_mark" fill="#FFF" cx="24" cy="18" r="2"/>
-    <circle class="_mark" fill="#FFF" cx="12" cy="12" r="2"/>
-    <circle class="_mark" fill="#FFF" cx="18" cy="12" r="2"/>
-    <circle class="_mark" fill="#FFF" cx="24" cy="12" r="2"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">LinkedIn</span>
-            </a>
-        </li>
-              <li>
-                      <a
-              href="http://ecc.uic.edu/following-up/"
-              target="_self">
-                        <span class="_icon envelope-icon" aria-hidden="true">
-                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <title>Envelope icon</title>
-  <g fill="none" fill-rule="evenodd">
-    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
-    <rect class="_mark" fill="#FFF" x="8" y="10" width="20" height="16" rx="1"/>
-    <path class="_circle-color" d="M22.354 19.646c-.196-.195-.512-.195-.708 0-.195.196-.195.512 0 .708l4 4c.196.195.512.195.708 0 .195-.196.195-.512 0-.708l-4-4zM9.646 23.646c-.195.196-.195.512 0 .708.196.195.512.195.708 0l4-4c.195-.196.195-.512 0-.708-.196-.195-.512-.195-.708 0l-4 4zM17.646 20.354c.196.195.512.195.708 0l8-8c.195-.196.195-.512 0-.708-.196-.195-.512-.195-.708 0l-8 8h.708l-8-8c-.196-.195-.512-.195-.708 0-.195.196-.195.512 0 .708l8 8z" fill="#001E62"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">Following Up & Thank You Messages</span>
-            </a>
-        </li>
-              <li>
-                      <a
-              href="http://ecc.uic.edu/interviewing/"
-              target="_self">
-                        <span class="_icon speech-icon" aria-hidden="true">
-                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <title>Speech bubble icon</title>
-  <g fill="none" fill-rule="evenodd">
-    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
-    <path class="_mark" d="M8 17.1C8 12.626 12.477 9 18 9s10 3.626 10 8.1-4.477 8.1-10 8.1c-1.502 0-2.927-.268-4.205-.75L9 27l.887-5.163C8.7 20.505 8 18.867 8 17.1z" stroke="#FFF" stroke-width="2"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">Interviewing</span>
-            </a>
-        </li>
-              <li>
-                      <a
-              href="http://ecc.uic.edu/negotiating/"
-              target="_self">
-                        <span class="_icon dollar-icon" aria-hidden="true">
-                <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
-  <g fill="none" fill-rule="evenodd">
-    <circle class="_circle" cx="18" cy="18" r="18" fill="#001E62"/>
-    <path class="_mark" fill="#FFF"
-          d="M23.559 12.759l-1.485 1.218c-.766-1.057-1.765-1.678-3.018-1.908v5.011l.441.092c2.53.644 4.503 1.54 4.503 4.253 0 2.598-2.089 4.184-4.944 4.46V28H17.27v-2.115c-2.484-.253-4.294-1.471-5.269-3.057l1.648-1.15c.603 1.127 1.857 2.115 3.62 2.414v-5.494l-.394-.115c-2.251-.575-4.224-1.288-4.224-3.977 0-2.529 2.066-4.023 4.619-4.253V8h1.787v2.299c2.252.299 3.69 1.402 4.503 2.46zm-1.625 8.781c0-1.402-1.067-2.023-2.878-2.506v5.08c1.671-.183 2.878-1.034 2.878-2.574zm-7.265-7.218c0 1.333.766 1.862 2.6 2.322V12c-1.532.16-2.6.989-2.6 2.322z"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">Offers & Salary</span>
-            </a>
-        </li>
-              <li>
-                      <a
-              href="http://ecc.uic.edu/international-students/"
-              target="_self">
-                        <span class="_icon flag-icon" aria-hidden="true">
-                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <title>Flag icon</title>
-  <g fill="none" fill-rule="evenodd">
-    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
-    <path class="_mark" d="M9 10l3 18" stroke="#FFF" stroke-width="2" stroke-linecap="round"/>
-    <path class="_mark" d="M11 11s9-2 10 0 5 0 5 0l3 10s-6.167 3-7 1c-1-2-8 1-8 1l-3-12z" fill="#FFF"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">International Students</span>
-            </a>
-        </li>
-              <li>
-                      <a
-              href="http://ecc.uic.edu/mentoring-program/"
-              target="_self">
-                        <span class="_icon user-icon" aria-hidden="true">
-                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <title>User icon</title>
-  <g fill="none" fill-rule="evenodd">
-    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
-    <path class="_mark" d="M28.09 26.197C25.707 29.127 22.072 31 18 31s-7.707-1.872-10.09-4.803c1.367-.762 4.573-2.54 5.125-2.744.182-.077.428-.823.488-1.48l.04-.428h.455l.304-1.474.007-.02c.013-.05.022-.174-.018-.2-.473-.32-1.248-1.518-1.41-3.416l-.327-.17-.298-2.284.502-.326-.118-3.344-.004-.02c-.022-.16-.455-3.955 7.11-5.145l.088-.014c.24.036.476.076.71.123l-.28.56c-.028.067-.098.343.384.618.812.468 2.276 1.307 2.608 3.184h.07l-.002.484-.004.102.032.5h-.05l-.103 2.954.503.326-.298 2.283-.327.17c-.162 1.9-.937 3.097-1.41 3.416-.044.028-.025.173-.017.2l.312 1.495h.455l.04.427c.07.735.324 1.41.488 1.48.553.205 3.76 1.983 5.125 2.745z" fill="#FFF"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">Mentoring Program</span>
-            </a>
-        </li>
-              <li>
-                      <a
-              href="http://ecc.uic.edu/meet/"
-              target="_self">
-                        <span class="_icon calendar-icon" aria-hidden="true">
-                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <title>Calendar icon</title>
-  <g fill="none" fill-rule="evenodd">
-    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
-    <path class="_mark" d="M13 12h1v-2h8v1-2.502c0-.275.232-.498.5-.498.276 0 .5.215.5.498V12h1v-2h3v17H9V10h3v1-2.502c0-.275.232-.498.5-.498.276 0 .5.215.5.498V12zm-2 10h4v3h-4v-3zm5 0h4v3h-4v-3zm5 0h4v3h-4v-3zm-10-4h4v3h-4v-3zm5 0h4v3h-4v-3zm5 0h4v3h-4v-3zm-10-4h4v3h-4v-3zm5 0h4v3h-4v-3zm5 0h4v3h-4v-3z" fill="#FFF"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">Schedule Appointment</span>
-            </a>
-        </li>
-              <li>
-                      <a
-              href="http://ecc.uic.edu/graduation-survey-results/"
-              target="_self">
-                        <span class="_icon graduate-icon" aria-hidden="true">
-                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <title>Graduate icon</title>
-  <g fill="none" fill-rule="evenodd">
-    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
-    <path class="_mark" d="M18 27c-3.314 0-6-1.79-6-4v-4.5l6 3.5 6-3.5V23c0 2.21-2.686 4-6 4z" fill="#FFF"/>
-    <path class="_mark" fill="#FFF" d="M6 14l12 7 12-7-12-5"/>
-    <path class="_mark" d="M9.5 15v10" stroke="#FFF" stroke-linecap="round"/>
-  </g>
-</svg>
-              </span>
-              <span class="_text">Employment  Outcomes</span>
-            </a>
-        </li>
-          </ul>
-  </div>
-
-  
-</section>
-
+      <h2 class="component-accordion__title visible">Networking Tips</h2>
     
-    
+    <div class="component-description">
+            </div>
+
+  <dl class="component-accordion__accordion"
+      role="presentation">
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="1">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-1"
+          id="tab-sectionID-1-1"
+          type="button">
+            What is networking?
+        </button>
+      </dt>
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-1"
+          id="panel-sectionID-1-1"
+          role="region">
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+      
       
 
 <section class="component  ">
 
   
   <div class="component-text-block">
-    <h2 class="invisible">spark</h2>
+    <h2 class="invisible">What is networking?</h2>
   
   
-  <p><a href="http://ecc.uic.edu/this-week-archives/"><img class="alignnone" src="http://ecc.uic.edu/wp-content/uploads/sites/78/2018/08/spark-banner23-e1535675212618.png" alt="" width="750" height="153" /></a></p>
+  <p>Networking is simply a word to describe connecting with people in your chosen professional field. It&#8217;s a process of developing professional relationships that will help you grow your career.</p>
+<p>You probably network regularly without realizing it (e.g. speaking with professors about your career goals, meeting a recruiter at a career fair and following up with a LinkedIn connection request, or asking a friend&#8217;s parent who&#8217;s also an engineer about how they got into engineering).</p>
 
 
 
@@ -1149,6 +937,526 @@ img.emoji {
     
 
 </div>
+          </div>
+      </dd>
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="2">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-2"
+          id="tab-sectionID-1-2"
+          type="button">
+            Why is networking important?
+        </button>
+      </dt>
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-2"
+          id="panel-sectionID-1-2"
+          role="region">
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+      
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+    <h2 class="invisible">Why is networking important?</h2>
+  
+  
+  <p>Believe it or not, <a href="https://www.payscale.com/career-news/2017/04/many-jobs-found-networking" target="_blank" rel="noopener">as many as 80% of new jobs are never posted online</a>; they&#8217;re obtained through networking. That means that a majority of your job searching time should be spent networking.</p>
+
+
+
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+          </div>
+      </dd>
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="3">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-3"
+          id="tab-sectionID-1-3"
+          type="button">
+            Is it weird or inappropriate to approach strangers to ask for help?
+        </button>
+      </dt>
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-3"
+          id="panel-sectionID-1-3"
+          role="region">
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+      
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+    <h2 class="invisible">Is it weird or inappropriate to approach strangers to ask for help?</h2>
+  
+  
+  <p>Not at all! Most working professionals have obtained at least one job or internship through networking. Engineers and other professionals have been in your shoes before, and some will be happy to help you. Not everyone will be receptive or have time to give you advice, so, if one person can&#8217;t provide the information you want, move on to someone else.</p>
+
+
+
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+          </div>
+      </dd>
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="4">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-4"
+          id="tab-sectionID-1-4"
+          type="button">
+            Where and with whom can I network?
+        </button>
+      </dt>
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-4"
+          id="panel-sectionID-1-4"
+          role="region">
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+      
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+    <h2 class="invisible">Where and with whom can I network?</h2>
+  
+  
+  <p>Your network is a lot bigger than you think. Anybody you have ever met is part of your network.  Family, friends, neighbors, co-workers, professors, and classmates. People who interview you are part of your network. Even some people you have never met are part of your network, including <a href="https://www.linkedin.com/school/2649/alumni/">UIC alumni</a>. The amount of networking opportunities available to you are only limited by your willingness and ability to simply talk to people.</p>
+<p>You can network at real-time events (including career fairs, trade shows, networking-focused happy hour events, student org meetings, Career Center employer events) or virtually over email and LinkedIn. Check out events both on- and off-campus to talk to people who are working in your desired field(s).</p>
+
+
+
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+          </div>
+      </dd>
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="5">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-5"
+          id="tab-sectionID-1-5"
+          type="button">
+            How can I successfully network at a live event?
+        </button>
+      </dt>
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-5"
+          id="panel-sectionID-1-5"
+          role="region">
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+      
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+    <h2 class="invisible">How can I be a successful networker?</h2>
+  
+  
+  <ul>
+<li>Identify networking events to attend.</li>
+<li>Find a friend to go with.</li>
+<li>Set a realistic goal to collect 3-5 business cards at a networking event.</li>
+<li>Get to an event early to get comfortable with the environment.</li>
+<li>Focus on asking questions to help ease into conversation. (e.g. How did you hear about this event? What does a typical day look like for you? What&#8217;s most rewarding/challenging about your job?)</li>
+<li>DON&#8217;T ask them for a job or to refer you for an open position at their company! This comes across as pushy.</li>
+<li>Practice talking to people at smaller networking events to boost your confidence to talk to people at larger events such as career fairs and trade shows.</li>
+<li>Follow up with the people you meet by sending a personalized connection request on LinkedIn. But don&#8217;t bombard them with messages! If they don&#8217;t reply to your message, let them be.</li>
+</ul>
+
+
+
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+          </div>
+      </dd>
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="6">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-6"
+          id="tab-sectionID-1-6"
+          type="button">
+            How can I network virtually?
+        </button>
+      </dt>
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-6"
+          id="panel-sectionID-1-6"
+          role="region">
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+      
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+    <h2 class="invisible">How can I network virtually?</h2>
+  
+  
+  <p>For networking virtually through email or LinkedIn:</p>
+<ul>
+<li>Identify a person who works at a company that you want to work for or learn more about.</li>
+<li>Send them a personalized note mentioning something you have in common (UIC alum, they had the same major as you in college, from the same geographic area, both interested in a specific field or industry, etc.).</li>
+<li>Ask if they have a moment to speak with you about their company or field.</li>
+<li>DON&#8217;T ask them for a job or to refer you for an open position at their company! This comes across as pushy.</li>
+<li>If they agree to meet or speak with you on the phone, come prepared with questions and use their time wisely &#8212; don&#8217;t ask for more than 30 minutes of their time. You reached out to them, so they will expect you to lead the conversation.</li>
+<li>Once you&#8217;ve connected, congrats! This person is now in your network. Make sure to stay in touch with them periodically so you don&#8217;t lose touch!</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Sample Message sent through a LinkedIn connection request:</strong></p>
+<p>Hi {NAME},</p>
+<p>I&#8217;m an engineering student at UIC thinking about my overall career path. I&#8217;m interested in {INDUSTRY} and want to network with professionals in your field. I saw that you went to UIC for engineering as well! Would you be open to a conversation with me about what you do at {COMPANY NAME} and how you&#8217;ve gotten there?</p>
+<p>Thanks!</p>
+<p>{YOUR NAME}</p>
+
+
+
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+          </div>
+      </dd>
+      </dl>
+</div>
+
+  
+</section>
+
+    
+    
+      
+
+<section class="component  ">
+
+  
+  
+      <h2 class="visible">Opportunities to Connect</h2>
+  
+  <ul class="component-link-tile ">
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://ecc.uic.edu/events/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2017/06/eventspage-noline-600x397.jpg"
+                alt="events">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--internal
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            On-campus and local events
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a class="tile-item__link"
+       href="https://www.meetup.com/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2017/06/meetup-button-600x397.jpg"
+                alt="meetup">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Join a group or start a group
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a class="tile-item__link"
+       href="https://www.eventbrite.com/d/il--chicago/events/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2017/06/eventbrite-button-600x397.jpg"
+                alt="eventbrite">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Search local events
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://www.builtinchicago.org/events#/events"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2017/10/built-in-chicago-events-600x397.jpg"
+                alt="builtinchicago">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Search Built In Chicago events
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a class="tile-item__link"
+       href="https://www.illinoistech.org/upcoming"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2017/10/ita-events-600x397.jpg"
+                alt="ita">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Search ITA events
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a class="tile-item__link"
+       href="http://chicagotechevents.com/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                src="http://ecc.uic.edu/wp-content/uploads/sites/78/2018/04/chi-tech-events-tile-600x397.png"
+                alt="techevents">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Search local tech events
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+    </ul>
+
+  
+</section>
+
+    
+    
+      
+
+<section class="component  ">
+
+  
+  
+  <div class="component-category-link-list">
+
+    <h2 class="_title invisible">groups</h2>
+
+    <ul class="_list">
+          <li class="_item u-rich-text">
+
+        <h3 class="_title">Suggested Meetup Groups to Attend</h3>
+        <ul class="_list">
+                      <li class="_item">
+                                         <a href="https://www.meetup.com/Chicago-WomenTech/">
+                                  Chicago WomenTech - 3K+
+              </a>
+            </li>
+                      <li class="_item">
+                                         <a href="https://www.meetup.com/Built-in-Chicago/">
+                                  Built in Chicago - 6K+
+              </a>
+            </li>
+                      <li class="_item">
+                                         <a href="https://www.meetup.com/NetworkingAfterWorkChicago/">
+                                  Network After Work-Chicago - 9K+
+              </a>
+            </li>
+                  </ul>
+      </li>
+
+          <li class="_item u-rich-text">
+
+        <h3 class="_title">Career-Focused Companies to Follow</h3>
+        <ul class="_list">
+                      <li class="_item">
+                                         <a href="https://www.linkedin.com/company/2370031/">
+                                  Work it Daily
+              </a>
+            </li>
+                      <li class="_item">
+                                         <a href="https://www.linkedin.com/company/2787403/">
+                                  Human Workplace
+              </a>
+            </li>
+                      <li class="_item">
+                                         <a href="https://www.linkedin.com/company/2336259/">
+                                  The Muse
+              </a>
+            </li>
+                  </ul>
+      </li>
+
+        </ul>
+  </div>
+
+
+  
+</section>
+
+    
+    
+      
+
+<section class="component  ">
+
+  
+  <h2><a class="jumbo-link" href="http://ecc.uic.edu/meet/" target="_blank">
+  <span class="_prefix">Need help networking?</span>
+  <span class="_text">Schedule an appointment</span>
+</a></h2>
+
+  
+</section>
+
+    
+
+</div>
+
           </article>
         </div>
           
@@ -1245,66 +1553,8 @@ img.emoji {
 
 
    
-                                 
+                       
               
-
-                      <div class="l-sidebar">
-             <nav role="navigation" id="menu-secondary" aria-label="Secondary Navigation for Career Toolbox section" class="menu-secondary">
-               <div class="_title">
-                 <h2><a href="http://ecc.uic.edu/career-toolbox/">Career Toolbox</a></h2>
-                 <a class="_back-to-content" href="#main">
-                   <svg aria-label="Back to main content" width="32" height="32" viewBox="0 0 32 32">
-                     <title>Back to main content</title>
-                     <g fill="none" fill-rule="evenodd">
-                       <circle class="_circle" fill="#fff" stroke="#007FA5" stroke-width="1" cx="16" cy="16" r="15"/>
-                       <path class="_arrow" d="M16 21v-9M12 15l4-4 4 4" stroke="#001E62" stroke-width="2" stroke-linecap="round"/>
-                     </g>
-                   </svg>
-                 </a>
-               </div>
-
-                <ul  class="menu ">
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-136">
-                    <a href="/resume/" target="_self">Resume</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-135">
-                    <a href="/cover-letter/" target="_self">Cover Letter</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-2632">
-                    <a href="/go-search/" target="_self">Searching</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-133">
-                    <a href="/networking/" target="_self">Networking</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-2638">
-                    <a href="/linkedin/" target="_self">LinkedIn</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-131">
-                    <a href="/interviewing/" target="_self">Interviewing</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-132">
-                    <a href="/following-up/" target="_self">Following Up &amp; Thank You Messages</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-130">
-                    <a href="/negotiating/" target="_self">Offers &amp; Salary</a>
-                                      </li>
-                  
-                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-3571">
-                    <a href="/meet/" target="_self">Schedule an Appointment</a>
-                                      </li>
-                                  </ul>
-
-              </nav>
-            </div>
-       
                       
       
                        
@@ -1641,26 +1891,26 @@ img.emoji {
 
     <ul class="billboard-list u-dark-region">
   <li class="_item">
-    <a href="http://ecc.uic.edu/engineering-career-fair/" target="_self">
-      <h2 class="_text">Engineering & Computer Science Career Fair</h2>
+    <a href="http://ecc.uic.edu/following-up/" target="_self">
+      <h2 class="_text">Following Up With Contacts & Employers</h2>
       <div class="_description">
-        2-Day Event | Sept. 18-19th | 100+ Employers. Get more info. Get prepared
+        Follow up on your job search and networking efforts to ensure more favorable outcomes.
       </div>
     </a>
   </li>
   <li class="_item">
-    <a href="http://ecc.uic.edu/events/" target="_self">
-      <h2 class="_text">Upcoming Events</h2>
+    <a href="http://ecc.uic.edu/go-search/" target="_self">
+      <h2 class="_text">Conducting your Search</h2>
       <div class="_description">
-        See what career-related events are taking place both on and off campus
+        Utilize these resources to identify potential opportunities and take a more proactive approach to your search.
       </div>
     </a>
   </li>
   <li class="_item">
-    <a href="http://ecc.uic.edu/networking/" target="_self">
-      <h2 class="_text">Build & Maintain your Network</h2>
+    <a href="http://ecc.uic.edu/interviewing/" target="_self">
+      <h2 class="_text">Navigating the Interview Process</h2>
       <div class="_description">
-        Networking is one of the most effective ways to create career opportunities, especially at the beginning of your career.
+        Prepare for all phases of the interview process.  Build your confidence with additional preparation.
       </div>
     </a>
   </li>

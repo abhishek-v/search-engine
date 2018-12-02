@@ -14,12 +14,12 @@
     <!-- End Google Tag Manager -->
 
         <title>
-                            Student Affairs | University of Illinois at Chicago
+                            Student Leadership and Civic Engagement | University of Illinois at Chicago
                     </title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pingback" href="https://sa.uic.edu/xmlrpc.php" />
+    <link rel="pingback" href="http://slce.uic.edu/xmlrpc.php" />
 
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
@@ -42,8 +42,8 @@
 <meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
 
-    <link rel="stylesheet" href="https://sa.uic.edu/wp-content/themes/uic-red/main.css?v=1540906708" type="text/css" media="all" />
-    <link rel="stylesheet" href="https://sa.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1540906708" type="text/css" media="all">
+    <link rel="stylesheet" href="http://slce.uic.edu/wp-content/themes/uic-red/main.css?v=1540906708" type="text/css" media="all" />
+    <link rel="stylesheet" href="http://slce.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1540906708" type="text/css" media="all">
 
     
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
@@ -53,20 +53,20 @@
 </script>
 <!-- End Google Tag Manager for WordPress by DuracellTomi -->
 <!-- This site is optimized with the Yoast SEO plugin v7.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="https://sa.uic.edu/" />
+<link rel="canonical" href="http://slce.uic.edu/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Student Affairs -" />
-<meta property="og:url" content="https://sa.uic.edu/" />
-<meta property="og:site_name" content="Student Affairs" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Student Affairs -" />
-<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/sa.uic.edu\/","name":"Student Affairs","potentialAction":{"@type":"SearchAction","target":"https:\/\/sa.uic.edu\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta property="og:title" content="Student Leadership and Civic Engagement -" />
+<meta property="og:url" content="http://slce.uic.edu/" />
+<meta property="og:site_name" content="Student Leadership and Civic Engagement" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Student Leadership and Civic Engagement -" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/slce.uic.edu\/","name":"Student Leadership and Civic Engagement","potentialAction":{"@type":"SearchAction","target":"http:\/\/slce.uic.edu\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//s.w.org' />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sa.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=cc9894277b2a1c716141ab25511c2b33"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/slce.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=cc9894277b2a1c716141ab25511c2b33"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -83,12 +83,12 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='tablepress-default-css'  href='https://sa.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://slce.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9' type='text/css' media='all' />
 <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js'></script>
-<script type='text/javascript' src='https://sa.uic.edu/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.8.1'></script>
-<link rel='https://api.w.org/' href='https://sa.uic.edu/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sa.uic.edu/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sa.uic.edu/wp-includes/wlwmanifest.xml" /> 
+<script type='text/javascript' src='http://slce.uic.edu/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.8.1'></script>
+<link rel='https://api.w.org/' href='http://slce.uic.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://slce.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://slce.uic.edu/wp-includes/wlwmanifest.xml" /> 
 
 <script type="text/javascript">
 (function(url){
@@ -121,7 +121,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//sa.uic.edu/?wordfence_lh=1&hid=6F868EC0BAE2851B436A2AFA812615AD');
+})('//slce.uic.edu/?wordfence_lh=1&hid=BE2D10B4BFEB04B369FAD6DEF44F9519');
 </script>
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>
@@ -138,9 +138,6 @@ img.emoji {
 <!-- End Google Tag Manager (noscript) -->
 
 
-
-  
-  
 
   
   
@@ -188,7 +185,7 @@ img.emoji {
         <a class="_search" href="#google_translate_element">Google Translate</a>,
     <a class="_search" href="#search">the site search form</a>
     or go to the
-    <a class="_home" href="https://sa.uic.edu">the site home page</a>.
+    <a class="_home" href="http://slce.uic.edu">the site home page</a>.
   </p>
 </div>
 
@@ -202,7 +199,7 @@ img.emoji {
 </svg>
 </a>
     <div class="site-title-eyebrow-mobile">
-      <a href="https://sa.uic.edu">Student Affairs</a>
+      <a href="http://slce.uic.edu">Student Leadership and Civic Engagement</a>
     </div>
     <button aria-label="Search the site" class="search-toggle-mobile js-search-toggle-mobile">
       <span class="icon-search">
@@ -221,7 +218,7 @@ img.emoji {
         Search
         <a class="search-close search-toggle-mobile">
           <svg aria-label="Close search box" width="100%" height="100%" viewBox="0 0 22 22">
-            <use xlink:href="https://sa.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
+            <use xlink:href="http://slce.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
           </svg>
         </a>
       </div>
@@ -241,13 +238,13 @@ img.emoji {
 </a>
 
     <div class="l-full">
-      <div class="site-title-main -large">
-        <a href="https://sa.uic.edu">Student Affairs</a>
+      <div class="site-title-main ">
+        <a href="http://slce.uic.edu">Student Leadership and Civic Engagement</a>
       </div>
       <nav class="header-menus js-header-menus " aria-label="Primary Navigation" role="navigation">
 
   <div class="site-title-mobile-menu">
-    <a href="https://sa.uic.edu">Student Affairs</a>
+    <a href="http://slce.uic.edu">Student Leadership and Civic Engagement</a>
   </div>
 
   <h2 class="assistive-text">Google Translate</h2>
@@ -256,574 +253,7 @@ img.emoji {
 
   <h2 class="assistive-text">Main Menu</h2>
   <ul id="menu-main" class="menu menu-main" aria-label="Main Menu">
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-31 menu-item-has-children">
-      <a
-        class="menu-main__first-link"
-        href="/student-life/"
-        target="_self">
-
-        Student Life
-      </a>
-
-              <button class="menu-main__expand-item js-expand-item" role="button">
-          <svg class="menu-main__expand-icon" aria-label="Expand Student Life menu" width="32" height="32" viewBox="0 0 32 32">
-            <title>Expand Student Life menu</title>
-            <g fill="none" fill-rule="evenodd">
-              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
-              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
-            </g>
-          </svg>
-        </button>
-
-        <div class="menu-main__submenus-container">
-          <ul class="menu-main__second-list">
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-54">
-                <a
-                  class="menu-main__second-link"
-                  href="http://dining.uic.edu/"
-                  target="_blank">
-
-                  Campus Dining &amp; Meal Plans
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-50">
-                <a
-                  class="menu-main__second-link"
-                  href="https://housing.uic.edu/"
-                  target="_blank">
-
-                  Campus Housing
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-423">
-                <a
-                  class="menu-main__second-link"
-                  href="/student-life/campus-safety/"
-                  target="_self">
-
-                  Campus Safety
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-51">
-                <a
-                  class="menu-main__second-link"
-                  href="http://slce.uic.edu/"
-                  target="_blank">
-
-                  Student Leadership &amp; Civic Engagement
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-52">
-                <a
-                  class="menu-main__second-link"
-                  href="http://campusprograms.uic.edu/"
-                  target="_blank">
-
-                  Center for Student Involvement
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-53">
-                <a
-                  class="menu-main__second-link"
-                  href="http://commuter.uic.edu/"
-                  target="_blank">
-
-                  Commuter Student Resource Center
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-55">
-                <a
-                  class="menu-main__second-link"
-                  href="http://fsl.uic.edu/"
-                  target="_blank">
-
-                  Fraternity &amp; Sorority Life
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-56">
-                <a
-                  class="menu-main__second-link"
-                  href="http://studentcenters.uic.edu/"
-                  target="_blank">
-
-                  Student Centers
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-57">
-                <a
-                  class="menu-main__second-link"
-                  href="http://campusprograms.uic.edu/solist.shtml"
-                  target="_blank">
-
-                  Student Organizations
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-58">
-                <a
-                  class="menu-main__second-link"
-                  href="http://impact.uic.edu/"
-                  target="_blank">
-
-                  UIC Impact
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-59">
-                <a
-                  class="menu-main__second-link"
-                  href="http://creditunion1arena.com"
-                  target="_blank">
-
-                  Credit Union 1 Arena
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-343">
-                <a
-                  class="menu-main__second-link"
-                  href="https://dos.uic.edu/uicare.shtml"
-                  target="_blank">
-
-                  U &amp; I Care
-                </a>
-              </li>
-                      </ul>
-
-          <div class="menu-main__mega-menu-container">
-                      </div>
-        </div>
-          </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-27 menu-item-has-children">
-      <a
-        class="menu-main__first-link"
-        href="/academic-cultural-support/"
-        target="_self">
-
-        Academics
-      </a>
-
-              <button class="menu-main__expand-item js-expand-item" role="button">
-          <svg class="menu-main__expand-icon" aria-label="Expand Academics menu" width="32" height="32" viewBox="0 0 32 32">
-            <title>Expand Academics menu</title>
-            <g fill="none" fill-rule="evenodd">
-              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
-              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
-            </g>
-          </svg>
-        </button>
-
-        <div class="menu-main__submenus-container">
-          <ul class="menu-main__second-list">
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-75">
-                <a
-                  class="menu-main__second-link"
-                  href="http://studentaffairs.uic.edu/ace/"
-                  target="_blank">
-
-                  Academic Center for Execellence
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-76">
-                <a
-                  class="menu-main__second-link"
-                  href="http://studentaffairs.uic.edu/aaan/"
-                  target="_blank">
-
-                  African American Support Program
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-77">
-                <a
-                  class="menu-main__second-link"
-                  href="http://studentaffairs.uic.edu/nasp/"
-                  target="_blank">
-
-                  Native American Support Program
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-78">
-                <a
-                  class="menu-main__second-link"
-                  href="http://testing.uic.edu/"
-                  target="_blank">
-
-                  Testing Services
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-79">
-                <a
-                  class="menu-main__second-link"
-                  href="http://studentaffairs.uic.edu/trio/"
-                  target="_blank">
-
-                  TRIO
-                </a>
-              </li>
-                      </ul>
-
-          <div class="menu-main__mega-menu-container">
-                      </div>
-        </div>
-          </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-29 menu-item-has-children">
-      <a
-        class="menu-main__first-link"
-        href="/health-wellness/"
-        target="_self">
-
-        Health &amp; Wellness
-      </a>
-
-              <button class="menu-main__expand-item js-expand-item" role="button">
-          <svg class="menu-main__expand-icon" aria-label="Expand Health &amp; Wellness menu" width="32" height="32" viewBox="0 0 32 32">
-            <title>Expand Health &amp; Wellness menu</title>
-            <g fill="none" fill-rule="evenodd">
-              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
-              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
-            </g>
-          </svg>
-        </button>
-
-        <div class="menu-main__submenus-container">
-          <ul class="menu-main__second-list">
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-60">
-                <a
-                  class="menu-main__second-link"
-                  href="http://recreation.uic.edu/"
-                  target="_blank">
-
-                  Campus Recreation
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-61">
-                <a
-                  class="menu-main__second-link"
-                  href="http://counseling.uic.edu/index.shtml"
-                  target="_blank">
-
-                  Counseling Center
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-62">
-                <a
-                  class="menu-main__second-link"
-                  href="https://dos.uic.edu/uicare.shtml"
-                  target="_blank">
-
-                  U &amp; I Care
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-63">
-                <a
-                  class="menu-main__second-link"
-                  href="http://wellnesscenter.uic.edu/"
-                  target="_blank">
-
-                  Wellness Center
-                </a>
-              </li>
-                      </ul>
-
-          <div class="menu-main__mega-menu-container">
-                      </div>
-        </div>
-          </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-32 menu-item-has-children">
-      <a
-        class="menu-main__first-link"
-        href="/student-resources/"
-        target="_self">
-
-        Resources
-      </a>
-
-              <button class="menu-main__expand-item js-expand-item" role="button">
-          <svg class="menu-main__expand-icon" aria-label="Expand Resources menu" width="32" height="32" viewBox="0 0 32 32">
-            <title>Expand Resources menu</title>
-            <g fill="none" fill-rule="evenodd">
-              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
-              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
-            </g>
-          </svg>
-        </button>
-
-        <div class="menu-main__submenus-container">
-          <ul class="menu-main__second-list">
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-697">
-                <a
-                  class="menu-main__second-link"
-                  href="http://dining.uic.edu/"
-                  target="_blank">
-
-                  Campus Dining &amp; Meal Plans
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-80">
-                <a
-                  class="menu-main__second-link"
-                  href="http://careerservices.uic.edu/"
-                  target="_blank">
-
-                  Career Services
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-81">
-                <a
-                  class="menu-main__second-link"
-                  href="http://dos.uic.edu/"
-                  target="_blank">
-
-                  Dean of Students
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-82">
-                <a
-                  class="menu-main__second-link"
-                  href="http://financialaid.uic.edu/"
-                  target="_blank">
-
-                  Financial Aid
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-84">
-                <a
-                  class="menu-main__second-link"
-                  href="http://idcenter.uic.edu/"
-                  target="_blank">
-
-                  ID Center
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-698">
-                <a
-                  class="menu-main__second-link"
-                  href="http://meetings.uic.edu/"
-                  target="_blank">
-
-                  Meetings &amp; Events
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-85">
-                <a
-                  class="menu-main__second-link"
-                  href="http://orientation.uic.edu/"
-                  target="_blank">
-
-                  Orientation
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-83">
-                <a
-                  class="menu-main__second-link"
-                  href="http://scholarships.uic.edu/"
-                  target="_blank">
-
-                  Scholarships
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-86">
-                <a
-                  class="menu-main__second-link"
-                  href="http://studentemployment.uic.edu/"
-                  target="_blank">
-
-                  Student Employment
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-87">
-                <a
-                  class="menu-main__second-link"
-                  href="https://dos.uic.edu/studentlegalservices.shtml"
-                  target="_blank">
-
-                  Student Legal Services
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-88">
-                <a
-                  class="menu-main__second-link"
-                  href="https://dos.uic.edu/studentombudsservices.shtml"
-                  target="_blank">
-
-                  Student Ombuds Services
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-89">
-                <a
-                  class="menu-main__second-link"
-                  href="https://dos.uic.edu/studentveteranaffairs.shtml"
-                  target="_blank">
-
-                  Student Veterans Services
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-90">
-                <a
-                  class="menu-main__second-link"
-                  href="https://www.uicbookstore.org/"
-                  target="_blank">
-
-                  UIC Bookstores &amp; Retail
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-91">
-                <a
-                  class="menu-main__second-link"
-                  href="http://uictechcenter.uic.edu/"
-                  target="_blank">
-
-                  UIC Tech Center
-                </a>
-              </li>
-                      </ul>
-
-          <div class="menu-main__mega-menu-container">
-                      </div>
-        </div>
-          </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-28 menu-item-has-children">
-      <a
-        class="menu-main__first-link"
-        href="/faculty-staff-community-services/"
-        target="_self">
-
-        Community
-      </a>
-
-              <button class="menu-main__expand-item js-expand-item" role="button">
-          <svg class="menu-main__expand-icon" aria-label="Expand Community menu" width="32" height="32" viewBox="0 0 32 32">
-            <title>Expand Community menu</title>
-            <g fill="none" fill-rule="evenodd">
-              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
-              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
-            </g>
-          </svg>
-        </button>
-
-        <div class="menu-main__submenus-container">
-          <ul class="menu-main__second-list">
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-696">
-                <a
-                  class="menu-main__second-link"
-                  href="http://dining.uic.edu"
-                  target="_blank">
-
-                  Campus Dining/Catering
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-64">
-                <a
-                  class="menu-main__second-link"
-                  href="http://recreation.uic.edu/"
-                  target="_blank">
-
-                  Campus Recreation
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-65">
-                <a
-                  class="menu-main__second-link"
-                  href="http://childrenscenter.uic.edu/"
-                  target="_blank">
-
-                  Children’s Center
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-66">
-                <a
-                  class="menu-main__second-link"
-                  href="http://commencement.uic.edu/"
-                  target="_blank">
-
-                  Commencement
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-67">
-                <a
-                  class="menu-main__second-link"
-                  href="http://creative.uic.edu/"
-                  target="_blank">
-
-                  Creative &amp; Digital Services
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-68">
-                <a
-                  class="menu-main__second-link"
-                  href="http://dining.uic.edu/"
-                  target="_blank">
-
-                  Dining Services
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-69">
-                <a
-                  class="menu-main__second-link"
-                  href="http://idcenter.uic.edu/"
-                  target="_blank">
-
-                  ID Center
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-70">
-                <a
-                  class="menu-main__second-link"
-                  href="http://meetings.uic.edu/"
-                  target="_blank">
-
-                  Meetings &amp; Events
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-71">
-                <a
-                  class="menu-main__second-link"
-                  href="https://dos.uic.edu/religiousworkersassociation.shtml"
-                  target="_blank">
-
-                  Religious Workers Association
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-72">
-                <a
-                  class="menu-main__second-link"
-                  href="http://uicforum.uic.edu/"
-                  target="_blank">
-
-                  UIC Forum
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-73">
-                <a
-                  class="menu-main__second-link"
-                  href="http://impact.uic.edu/"
-                  target="_blank">
-
-                  UIC Impact
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-74">
-                <a
-                  class="menu-main__second-link"
-                  href="http://creditunion1arena.com"
-                  target="_blank">
-
-                  Credit Union 1 Arena
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-699">
-                <a
-                  class="menu-main__second-link"
-                  href="http://uictechcenter.uic.edu/"
-                  target="_blank">
-
-                  UIC Tech Center
-                </a>
-              </li>
-                      </ul>
-
-          <div class="menu-main__mega-menu-container">
-                      </div>
-        </div>
-          </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-429 menu-item-has-children">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22 menu-item-has-children">
       <a
         class="menu-main__first-link"
         href="/about/"
@@ -844,76 +274,301 @@ img.emoji {
 
         <div class="menu-main__submenus-container">
           <ul class="menu-main__second-list">
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-786">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-223">
                 <a
                   class="menu-main__second-link"
-                  href="/about/leadership/"
+                  href="/about/staff-directory/"
                   target="_self">
 
-                  Senior Leadership
+                  Staff Directory
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-782">
-                <a
-                  class="menu-main__second-link"
-                  href="/about/student-affairs-department-directors/"
-                  target="_self">
-
-                  Department Directors
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-781">
-                <a
-                  class="menu-main__second-link"
-                  href="/about/office-student-affairs-staff/"
-                  target="_self">
-
-                  Office Staff
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-436 menu-item-has-children">
-                <a
-                  class="menu-main__second-link"
-                  href="/about/giving/"
-                  target="_self">
-
-                  Giving Opportunities
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-437">
-                <a
-                  class="menu-main__second-link"
-                  href="/about/priorities/"
-                  target="_self">
-
-                  Strategic Priorities
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-438 menu-item-has-children">
-                <a
-                  class="menu-main__second-link"
-                  href="/about/student-affairs-assessment/"
-                  target="_self">
-
-                  Student Affairs Assessment
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-564">
-                <a
-                  class="menu-main__second-link"
-                  href="/about/social-media/"
-                  target="_self">
-
-                  Social Media
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-441 menu-item-has-children">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-23">
                 <a
                   class="menu-main__second-link"
                   href="/about/contact/"
                   target="_self">
 
-                  Contact Us
+                  Contact
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-436">
+                <a
+                  class="menu-main__second-link"
+                  href="/about/donate/"
+                  target="_self">
+
+                  Donate
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-442">
+                <a
+                  class="menu-main__second-link"
+                  href="/about/feedback-suggestions/"
+                  target="_self">
+
+                  Feedback &amp; Suggestions
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-35 menu-item-has-children">
+      <a
+        class="menu-main__first-link"
+        href="/leadership/"
+        target="_self">
+
+        Leadership
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Leadership menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Leadership menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-120">
+                <a
+                  class="menu-main__second-link"
+                  href="/leadership/flashpoint/"
+                  target="_self">
+
+                  Flashpoint
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-119">
+                <a
+                  class="menu-main__second-link"
+                  href="/leadership/ignite/"
+                  target="_self">
+
+                  Ignite
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-117">
+                <a
+                  class="menu-main__second-link"
+                  href="/leadership/catalyst/"
+                  target="_self">
+
+                  Catalyst
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-116">
+                <a
+                  class="menu-main__second-link"
+                  href="/leadership/institute/"
+                  target="_self">
+
+                  Institute
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-115">
+                <a
+                  class="menu-main__second-link"
+                  href="/leadership/awards/"
+                  target="_self">
+
+                  Awards
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-114">
+                <a
+                  class="menu-main__second-link"
+                  href="/leadership/ambassadors/"
+                  target="_self">
+
+                  University Ambassadors
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-113">
+                <a
+                  class="menu-main__second-link"
+                  href="/leadership/workshops/"
+                  target="_self">
+
+                  Workshops
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-34 menu-item-has-children">
+      <a
+        class="menu-main__first-link"
+        href="/service/"
+        target="_self">
+
+        Service
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Service menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Service menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
+                <a
+                  class="menu-main__second-link"
+                  href="/leadership/awards/"
+                  target="_self">
+
+                  Awards
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-318">
+                <a
+                  class="menu-main__second-link"
+                  href="/service/give/"
+                  target="_self">
+
+                  GIVE
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-319">
+                <a
+                  class="menu-main__second-link"
+                  href="/service/expo/"
+                  target="_self">
+
+                  Leadership &amp; Service Expo
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-320">
+                <a
+                  class="menu-main__second-link"
+                  href="/service/hours/"
+                  target="_self">
+
+                  Log Your Hours
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-321">
+                <a
+                  class="menu-main__second-link"
+                  href="/service/mondays/"
+                  target="_self">
+
+                  Make Mondays Matter
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-322">
+                <a
+                  class="menu-main__second-link"
+                  href="/service/mlk-day-service/"
+                  target="_self">
+
+                  MLK Day of Service
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-323">
+                <a
+                  class="menu-main__second-link"
+                  href="/service/president/"
+                  target="_self">
+
+                  President’s Volunteer Service Award
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-693">
+                <a
+                  class="menu-main__second-link"
+                  href="/service/service-leaders/"
+                  target="_self">
+
+                  Service Leaders
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-325">
+                <a
+                  class="menu-main__second-link"
+                  href="/service/uic-day/"
+                  target="_self">
+
+                  UIC Day of Service
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-326">
+                <a
+                  class="menu-main__second-link"
+                  href="/service/welcome/"
+                  target="_self">
+
+                  Welcome Service Project
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-29 menu-item-has-children">
+      <a
+        class="menu-main__first-link"
+        href="/civic-engagement/"
+        target="_self">
+
+        Civic Engagement
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Civic Engagement menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Civic Engagement menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-292">
+                <a
+                  class="menu-main__second-link"
+                  href="/civic-engagement/registration/"
+                  target="_self">
+
+                  Registration
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-295">
+                <a
+                  class="menu-main__second-link"
+                  href="/civic-engagement/education/"
+                  target="_self">
+
+                  Education
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-298">
+                <a
+                  class="menu-main__second-link"
+                  href="/civic-engagement/participation/"
+                  target="_self">
+
+                  Participation
                 </a>
               </li>
                       </ul>
@@ -928,17 +583,14 @@ img.emoji {
 
     <h2 class="assistive-text">Eyebrow menu</h2>
     <ul id="menu-eyebrow" class="menu menu-eyebrow" aria-label="Eyebrow menu">
-            <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-413">
-            <a href="/about/giving/" target="_self">Give to SA</a>
+            <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-437">
+            <a href="/about/donate/" target="_self">Donate</a>
         </li>
-            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-199">
-            <a href="http://scholarships.uic.edu/" target="_blank">Scholarships</a>
-        </li>
-            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-1102">
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-886">
             <a href="http://connect.uic.edu" target="_blank">UIC Connection</a>
         </li>
-            <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-204">
-            <a href="/about/contact/" target="_self">Contact Us</a>
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-37">
+            <a href="https://vcsa.uic.edu/" target="_blank">Student Affairs</a>
         </li>
     </ul>
 
@@ -978,15 +630,15 @@ img.emoji {
           <div
   class="header-title header-title--type-treatment header-title--hero header-title--home"
   style="
-    background-image:url('https://sa.uic.edu/wp-content/uploads/sites/10/2017/10/SA_HomeBanner3.jpg');">      <div class="color-wash ">
+    background-image:url('http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_HomeBanner.jpg');">      <div class="color-wash ">
 
-                  <img src="" alt="Students">
+                  <img src="" alt="rock the vote">
         
     </div>
     <div class="l-full">
     <div class="header-title__content">
               <div class="_brand">
-          <div class="uic-type-treatment -large ">
+          <div class="uic-type-treatment  ">
   <div class="_mark">
     <a href="http://uic.edu" class="uic-logo-icon ">
  <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
@@ -997,16 +649,16 @@ img.emoji {
 </a>
   </div>
   <div class="_text">
-    <a href="https://sa.uic.edu">
-          Student Affairs
+    <a href="http://slce.uic.edu">
+          Student Leadership and Civic Engagement
         </a>
   </div>
 </div>
         </div>
             <div class="_text  _text--no-wordmark ">
-                  <h1 class="assistive-text">Student Affairs</h1>
+                  <h1 class="assistive-text">Student Leadership and Civic Engagement</h1>
           <div
-            class="header-title-title header-title-title--b">Ignite Your Passion</div>
+            class="header-title-title header-title-title--b">Lead. Serve. Engage.</div>
               </div>
     </div>
   </div>
@@ -1031,7 +683,7 @@ img.emoji {
       
   
   
-  <h2>We foster student success and affinity by creating experiences that engage students in programs and services that support their learning and personal development.</h2>
+  <h2>Student Leadership and Civic Engagement is committed to supporting students in developing as lifelong active citizens who have the skills and knowledge to build a more just and equitable world.</h2>
 
 
 </div>
@@ -1046,74 +698,61 @@ img.emoji {
       <div class="l-full">
   
   
-      <h2 class="invisible">Quick Links</h2>
-  
-  <ul class="component-link-tile ">
-      <li class="component-link-tile__item component-link-tile__item--featured">
+  <div class="component-call-to-action -light">
 
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="https://sa.uic.edu/academic-cultural-support/"
-       target="_self">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="https://sa.uic.edu/wp-content/uploads/sites/10/2017/10/SA_FTile_LearningSupport-600x365.png"
-                alt="Learning Support">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--internal
-        tile-item__content-container--featured">
-        <div class="
-            tile-item__title
-            tile-item__title--featured">
-            Academic & Cultural Support
-        </div>
+    <h2 class="invisible">Quick links</h2>
 
-        
-                    <div class="tile-item__description">
-                Providing opportunities for students to achieve their goals.
-            </div>
-            </div>
-    </a>
-</div>
-
-    </li>
-      <li class="component-link-tile__item component-link-tile__item--featured">
-
-                  <div class="tile-item ">
-    <a class="tile-item__link"
-       href="https://sa.uic.edu/student-life/"
-       target="_self">
-            <div class="tile-item__image-container">
-            <img
-                class="tile-item__image"
-                src="https://sa.uic.edu/wp-content/uploads/sites/10/2017/10/SA_FTile_StudentLife-600x365.png"
-                alt="Student Life">
-        </div>
-    
-    <div class="
-        tile-item__content-container
-        tile-item__content-container--internal
-        tile-item__content-container--featured">
-        <div class="
-            tile-item__title
-            tile-item__title--featured">
-            UIC Student Life
-        </div>
-
-        
-                    <div class="tile-item__description">
-                We are dedicated to providing a welcoming environment all students.
-            </div>
-            </div>
-    </a>
-</div>
-
-    </li>
-    </ul>
+    <ul class="_items call-to-action-links">
+              <li>
+                      <a
+              href="http://slce.uic.edu/events/"
+              target="_self">
+                        <span class="_icon calendar-icon" aria-hidden="true">
+                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Calendar icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <path class="_mark" d="M13 12h1v-2h8v1-2.502c0-.275.232-.498.5-.498.276 0 .5.215.5.498V12h1v-2h3v17H9V10h3v1-2.502c0-.275.232-.498.5-.498.276 0 .5.215.5.498V12zm-2 10h4v3h-4v-3zm5 0h4v3h-4v-3zm5 0h4v3h-4v-3zm-10-4h4v3h-4v-3zm5 0h4v3h-4v-3zm5 0h4v3h-4v-3zm-10-4h4v3h-4v-3zm5 0h4v3h-4v-3zm5 0h4v3h-4v-3z" fill="#FFF"/>
+  </g>
+</svg>
+              </span>
+              <span class="_text">Events</span>
+            </a>
+        </li>
+              <li>
+                      <a
+              href="https://go.uic.edu/findservice"
+              target="_blank">
+                        <span class="_icon check-icon" aria-hidden="true">
+                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Check icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <ellipse class="_circle" fill="#001E62" cx="18" cy="18" rx="18" ry="18"/>
+    <path class="_mark" d="M15.168 24.555c.396.593 1.268.593 1.664 0l8-12c.306-.46.182-1.08-.277-1.387-.46-.306-1.08-.182-1.387.277l-8 12h1.664l-4-6c-.306-.46-.927-.583-1.387-.277-.46.306-.583.927-.277 1.387l4 6z" fill="#FFF"/>
+  </g>
+</svg>
+              </span>
+              <span class="_text">Find an Opportunity</span>
+            </a>
+        </li>
+              <li>
+                      <a
+              href="https://go.uic.edu/serviceopps"
+              target="_blank">
+                        <span class="_icon speech-icon" aria-hidden="true">
+                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Speech bubble icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <path class="_mark" d="M8 17.1C8 12.626 12.477 9 18 9s10 3.626 10 8.1-4.477 8.1-10 8.1c-1.502 0-2.927-.268-4.205-.75L9 27l.887-5.163C8.7 20.505 8 18.867 8 17.1z" stroke="#FFF" stroke-width="2"/>
+  </g>
+</svg>
+              </span>
+              <span class="_text">Post an Opportunity</span>
+            </a>
+        </li>
+          </ul>
+  </div>
 
       </div>
   
@@ -1128,20 +767,20 @@ img.emoji {
       <div class="l-full">
   
   
-      <h2 class="invisible">Health & Wellness, Student Resources</h2>
+      <h2 class="invisible">Leadership, Service and Civic Engagement</h2>
   
   <ul class="component-link-tile ">
       <li class="component-link-tile__item component-link-tile__item--image">
 
                   <div class="tile-item ">
     <a class="tile-item__link"
-       href="https://sa.uic.edu/health-wellness/"
+       href="http://slce.uic.edu/leadership/"
        target="_self">
             <div class="tile-item__image-container">
             <img
                 class="tile-item__image"
-                src="https://sa.uic.edu/wp-content/uploads/sites/10/2017/10/SA_Tile_Health-600x365.jpg"
-                alt="Health & Wellness">
+                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_Leadership-600x365.jpg"
+                alt="rock the vote">
         </div>
     
     <div class="
@@ -1151,13 +790,10 @@ img.emoji {
         <div class="
             tile-item__title
             tile-item__title--image">
-            Health & Wellness
+            Leadership
         </div>
 
         
-                    <div class="tile-item__description">
-                We offer programs and services that address mind, body, and spirit.
-            </div>
             </div>
     </a>
 </div>
@@ -1167,13 +803,13 @@ img.emoji {
 
                   <div class="tile-item ">
     <a class="tile-item__link"
-       href="https://sa.uic.edu/student-resources/"
+       href="http://slce.uic.edu/service/"
        target="_self">
             <div class="tile-item__image-container">
             <img
                 class="tile-item__image"
-                src="https://sa.uic.edu/wp-content/uploads/sites/10/2017/10/SA_Tile_Service-600x365.jpg"
-                alt="Student Services">
+                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_Service-600x365.jpg"
+                alt="day of service">
         </div>
     
     <div class="
@@ -1183,13 +819,10 @@ img.emoji {
         <div class="
             tile-item__title
             tile-item__title--image">
-            Student Resources
+            Service
         </div>
 
         
-                    <div class="tile-item__description">
-                We are dedicated to creating an environment that allows students to achieve their full potential
-            </div>
             </div>
     </a>
 </div>
@@ -1199,13 +832,13 @@ img.emoji {
 
                   <div class="tile-item ">
     <a class="tile-item__link"
-       href="https://sa.uic.edu/faculty-staff-community-services/"
+       href="http://slce.uic.edu/civic-engagement/"
        target="_self">
             <div class="tile-item__image-container">
             <img
                 class="tile-item__image"
-                src="https://sa.uic.edu/wp-content/uploads/sites/10/2017/10/SA_Tile_Community2-600x365.jpg"
-                alt="Faculty, Staff  & Community Services">
+                src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/01/CLCE_Tile_Vote-600x365.jpg"
+                alt="day of service">
         </div>
     
     <div class="
@@ -1215,182 +848,16 @@ img.emoji {
         <div class="
             tile-item__title
             tile-item__title--image">
-            UIC Community
+            Civic Engagement
         </div>
 
         
-                    <div class="tile-item__description">
-                Meet new people, nurture your abilities, and become involved with the UIC Community 
-            </div>
             </div>
     </a>
 </div>
 
     </li>
     </ul>
-
-      </div>
-  
-</section>
-
-    
-    
-      
-
-<section class="component  ">
-
-      <div class="l-full">
-  
-  <article class="slideshow">
-    <div class="slideshow__navigation">
-        <div class="slideshow-navigation">
-    <ul class="slideshow-navigation__slides">
-                    <li class="slideshow-navigation__slide slideshow-navigation__slide--active" data-slide-index="1">
-                <a href="#slide-1"><span>Go to slide 1</span></a>
-            </li>
-                    <li class="slideshow-navigation__slide " data-slide-index="2">
-                <a href="#slide-2"><span>Go to slide 2</span></a>
-            </li>
-                    <li class="slideshow-navigation__slide " data-slide-index="3">
-                <a href="#slide-3"><span>Go to slide 3</span></a>
-            </li>
-                    <li class="slideshow-navigation__slide " data-slide-index="4">
-                <a href="#slide-4"><span>Go to slide 4</span></a>
-            </li>
-            </ul>
-</div>
-    </div>
-    <ol class="slideshow__slides">
-                    <li id="slide-1" class="slideshow__slide slideshow__slide--active" data-slide-index="1">
-                
-<article class="slideshow-slide" id="1172067101-1">
-
-    <div class="slideshow-slide__image-and-buttons">
-        <div class="slideshow-slide__image">
-            <img class="image-pane" src="https://sa.uic.edu/wp-content/uploads/sites/10/2018/11/Native-American-Heritage-Month-2018-1090x541.jpg" alt="Native American Heritage Month" data-image-width="800" data-image-height="400" role="presentation">
-        </div>
-        <div class="slideshow-slide__buttons">
-            <ul>
-                <li class="slideshow-slide__button slideshow-slide__button--next" id="1172067101-1-next" data-slide-index="2">
-                    <a href="#slide-2"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
-                </li>
-                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1172067101-1-prev" data-slide-index="4">
-                    <a href="#slide-4"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
-                </li>
-            </ul>
-        </div>
-    </div>
-
-        <div class="slideshow-slide__credit-and-caption">
-                    <div class="slideshow-slide__credit">Dean Of Students</div>
-        
-                                    <div class="slideshow-slide__caption"><a href="http://www.facebook.com/events/243967836266005/">Participate in several events and programs happening around UIC’s campus to celebrate and recognize the significant contributions of the Native Americans.</a></div>
-                        </div>
-    
-</article>
-            </li>
-                    <li id="slide-2" class="slideshow__slide " data-slide-index="2">
-                
-<article class="slideshow-slide" id="735612374-2">
-
-    <div class="slideshow-slide__image-and-buttons">
-        <div class="slideshow-slide__image">
-            <img class="image-pane" src="https://sa.uic.edu/wp-content/uploads/sites/10/2018/11/Cookbook-Launch-2018-1090x541.jpg" alt="UIC’s First Cookbook Launch “The Ultimate In-College Cookbook”" data-image-width="800" data-image-height="400" role="presentation">
-        </div>
-        <div class="slideshow-slide__buttons">
-            <ul>
-                <li class="slideshow-slide__button slideshow-slide__button--next" id="735612374-2-next" data-slide-index="3">
-                    <a href="#slide-3"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
-                </li>
-                <li class="slideshow-slide__button slideshow-slide__button--previous" id="735612374-2-prev" data-slide-index="1">
-                    <a href="#slide-1"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
-                </li>
-            </ul>
-        </div>
-    </div>
-
-        <div class="slideshow-slide__credit-and-caption">
-        
-                                    <div class="slideshow-slide__caption"><a href="http://www.facebook.com/events/441290416403216/">Save the date for the launch of UIC's first Cookbook, "The Ultimate In-College Cookbook", on Tuesday, December 4, 2018. Proceeds from the sale of the cookbook will benefit the UIC Pop-Up Pantry operated by UIC Wellness Center.</a></div>
-                        </div>
-    
-</article>
-            </li>
-                    <li id="slide-3" class="slideshow__slide " data-slide-index="3">
-                
-<article class="slideshow-slide" id="1745117856-3">
-
-    <div class="slideshow-slide__image-and-buttons">
-        <div class="slideshow-slide__image">
-            <img class="image-pane" src="https://sa.uic.edu/wp-content/uploads/sites/10/2018/05/23832_Flames-Friday_1090x541.jpg" alt="#FlamesFriday" data-image-width="800" data-image-height="400" role="presentation">
-        </div>
-        <div class="slideshow-slide__buttons">
-            <ul>
-                <li class="slideshow-slide__button slideshow-slide__button--next" id="1745117856-3-next" data-slide-index="4">
-                    <a href="#slide-4"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
-                </li>
-                <li class="slideshow-slide__button slideshow-slide__button--previous" id="1745117856-3-prev" data-slide-index="2">
-                    <a href="#slide-2"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
-                </li>
-            </ul>
-        </div>
-    </div>
-
-        <div class="slideshow-slide__credit-and-caption">
-                    <div class="slideshow-slide__credit">UIClife</div>
-        
-                                    <div class="slideshow-slide__caption"><a href="http://www.facebook.com/UIClife">Follow us on social media to know where we will be giving away some awesome items to those who show off how proud you are to be a UIC Flame!</a></div>
-                        </div>
-    
-</article>
-            </li>
-                    <li id="slide-4" class="slideshow__slide " data-slide-index="4">
-                
-<article class="slideshow-slide" id="915828389-4">
-
-    <div class="slideshow-slide__image-and-buttons">
-        <div class="slideshow-slide__image">
-            <img class="image-pane" src="https://sa.uic.edu/wp-content/uploads/sites/10/2018/05/Tapingo-Dont-Miss-Out_1090x541.jpg" alt="Tapingo" data-image-width="800" data-image-height="400" role="presentation">
-        </div>
-        <div class="slideshow-slide__buttons">
-            <ul>
-                <li class="slideshow-slide__button slideshow-slide__button--next" id="915828389-4-next" data-slide-index="1">
-                    <a href="#slide-1"><span class="slideshow-slide__button-icon">Go to the next slide</span></a>
-                </li>
-                <li class="slideshow-slide__button slideshow-slide__button--previous" id="915828389-4-prev" data-slide-index="3">
-                    <a href="#slide-3"><span class="slideshow-slide__button-icon">Go to the previous slide</span></a>
-                </li>
-            </ul>
-        </div>
-    </div>
-
-        <div class="slideshow-slide__credit-and-caption">
-                    <div class="slideshow-slide__credit">Tapingo</div>
-        
-                                    <div class="slideshow-slide__caption"><a href="http://home.tapingo.com/get-the-app">Try the Tapingo app to order food on campus (participating locations include Argo Tea, Au Bon Pain, Chick-fil-A, Dunkin’ Donuts/Baskin-Robbins, Freshii, Subway)!</a></div>
-                        </div>
-    
-</article>
-            </li>
-            </ol>
-</article>
-
-      </div>
-  
-</section>
-
-    
-    
-      
-
-<section class="component  ">
-
-      <div class="l-full">
-  
-  <h2><a class="jumbo-link" href="http://life.uic.edu/" target="_blank">
-  <span class="_prefix">UIC Life -</span>
-  <span class="_text">NEWS EVENTS & GIVEAWAYS</span>
-</a></h2>
 
       </div>
   
@@ -1412,27 +879,168 @@ img.emoji {
 
 
   <div class="_image" style="
-  background-image: url('https://sa.uic.edu/wp-content/uploads/sites/10/2018/01/HarrisonHall-550x550.jpg')
+  background-image: url('http://slce.uic.edu/wp-content/uploads/sites/184/2018/08/TurboVote-logo-550x550.jpg')
   ">
-    <img src="https://sa.uic.edu/wp-content/uploads/sites/10/2018/01/HarrisonHall-550x550.jpg" alt="Harrison Hall" class="invisible">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/08/TurboVote-logo-550x550.jpg" alt="TurboVote logo" class="invisible">
   </div>
 
 
   <div class="_content u-dark-region">
       
   <div class="highlight-image">
-    <h2 class="_title visible">SPOTLIGHT : ACADEMIC & RESIDENTIAL COMPLEX</h2>
-    <div class="_text"><p>On January 16th, UIC and our private partner, American Campus Communities, broke ground on Harrison Hall, a 10 story, 550 bed residence hall opening Fall 2019. Harrison Hall will connect to a new 50,000 square foot academic space with several classrooms, including a 258-seat lecture center, as well as a cafe. Harrison Hall is targeting LEED Gold certification.</p>
-<p><a href="https://app.oxblue.com/open/acc/universityofIL" target="_blank" rel="noopener">Click here to view live stream</a></p>
+    <h2 class="_title visible">SPOTLIGHT: UIC partners with TurboVote</h2>
+    <div class="_text"><p>UIC has signed on as a partner with TurboVote, a non-partisan application that makes voting easy. Using TurboVote, students, faculty, and staff can register to vote and sign up for election reminders. TurboVote is one facet of UIC&#8217;s commitment to civic engagement. Help yourself by making your voice heard!</p>
+<p>To register to vote and/or sign up for election reminders, visit <a href="http://vote.uic.edu">vote.uic.edu</a>.</p>
 </div>
-        <a href="https://cas.uic.edu/hhall/" class="_button button" target="_blank">
-      Learn More
+        <a href="http://vote.uic.edu" class="_button button" target="_blank">
+      Register
     </a>
       </div>
 
   </div>
 
 </div>
+
+      </div>
+  
+</section>
+
+    
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+    <div class="component-highlight-news-events">
+
+            <h2 class="component-highlight-news-events__title visible">News & Events</h2>
+    
+    <div class="component-highlight-news-events__container">
+      <div class="component-highlight-news-events__column">
+                  <article class="tease tease-news" id="tease-868">
+	
+    <figure class="teaser-image captioned-image">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/10/Website_student-profile_Marissa_IGNITE_photo.jpg" alt="Marissa headshot">
+  </figure>
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/giving-back-ignite-mentor-marissa-scavelli/">Giving Back: IGNITE Mentor Marissa Scavelli</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>October 15, 2018</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>                  <article class="tease tease-news" id="tease-822">
+	
+    <figure class="teaser-image captioned-image">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2017/12/Webp.net-resizeimage.jpg" alt="Student tabling with vote stickers">
+  </figure>
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/im-all-in-are-you-uicvotes/">I’M ALL IN! ARE YOU? #UICVotes</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>September 24, 2018</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>                  <article class="tease tease-news" id="tease-776">
+	
+    <figure class="teaser-image captioned-image">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2017/12/day_of_service_029.jpg" alt="Volunteers tabling at a book fair">
+  </figure>
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/community-orgs-at-involvement-fair/">Community Orgs at Involvement Fair</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>September 06, 2018</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>                  <article class="tease tease-news" id="tease-716">
+	
+    <figure class="teaser-image captioned-image">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/08/2018-08-27_ballpit2_crop.jpg" alt="2 students in a ball pit">
+  </figure>
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/uic-ignites-the-conversation/">UIC Ignites the Conversation</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>August 29, 2018</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>                  <article class="tease tease-news" id="tease-709">
+	
+    <figure class="teaser-image captioned-image">
+    <img src="http://slce.uic.edu/wp-content/uploads/sites/184/2018/08/2018-08-24_Welcome-Service-Project-1_big_thumbnail.jpg" alt="Volunteers with wheelbarrow and rakes in park">
+  </figure>
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a href="http://slce.uic.edu/news-stories/welcome-service-project/">Welcome Service Project</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>August 24, 2018</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>                      </div>
+      <div class="component-highlight-news-events__column">
+                  <article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Jan</span>
+    <span class="_day">21</span>
+    <span class="_year">2019</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h3 class="_name">
+      <a href="http://slce.uic.edu/events/mlk-day-of-service/">MLK Day of Service</a>
+    </h3>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        Monday
+                                    , 9:00 am
+              - 1:00 pm      </div>
+          </div>
+
+      </div>
+
+</article>
+        
+          </div>
+  </div>
+  </div>
 
       </div>
   
@@ -1487,199 +1095,6 @@ img.emoji {
 
 
    
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-
-
-
-
-   
-                       
-              
-                      
-      
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-
-
-
-
-   
-                       
-              
-                      
-      
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-
-
-
-
-   
-                       
-              
-                      
-      
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
 
 
 
@@ -1689,146 +1104,6 @@ img.emoji {
               
                       
       
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-
-
-
-
-   
-                       
-              
-                      
-      
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
                        
               
                       
@@ -1892,10 +1167,6 @@ img.emoji {
 
 
    
-                       
-              
-                      
-      
 
 
 
@@ -1905,29 +1176,15 @@ img.emoji {
               
                       
       
-
-
-
-
-   
                        
               
                       
       
-
-
 
 
-   
-
-
 
 
    
-                       
-              
-                      
-      
                        
               
                       
@@ -1955,23 +1212,14 @@ img.emoji {
 
 
    
-                       
-              
-                      
-      
                        
               
                       
       
-
 
 
 
-   
-
-
 
-
    
                        
               
@@ -1982,10 +1230,6 @@ img.emoji {
 
 
    
-                       
-              
-                      
-      
                        
               
                       
@@ -2022,10 +1266,6 @@ img.emoji {
 
 
    
-                       
-              
-                      
-      
 
 
 
@@ -2035,16 +1275,6 @@ img.emoji {
               
                       
       
-
-
-
-
-   
-
-
-
-
-   
                        
               
                       
@@ -2054,10 +1284,6 @@ img.emoji {
 
 
    
-                       
-              
-                      
-      
                        
               
                       
@@ -2071,11 +1297,6 @@ img.emoji {
               
                       
       
-
-
-
-
-   
 
 
 
@@ -2103,7 +1324,7 @@ img.emoji {
           <div class="footer-contact__mega">
 
     <div class="footer-mega__brand -type-treatment">
-            <div class="uic-type-treatment -large uic-wordmark--footer">
+            <div class="uic-type-treatment  uic-wordmark--footer">
   <div class="_mark">
     <a href="http://uic.edu" class="uic-logo-icon ">
  <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
@@ -2114,8 +1335,8 @@ img.emoji {
 </a>
   </div>
   <div class="_text">
-    <a href="https://sa.uic.edu">
-          Student Affairs
+    <a href="http://slce.uic.edu">
+          Student Leadership and Civic Engagement
         </a>
   </div>
 </div>
@@ -2126,55 +1347,37 @@ img.emoji {
         <div class="quick-menus _quick-menus">
 
             <nav class="quick-menu" id="menu1" aria-label="footer-menu-1">
-        <h2>For Employees</h2>
-        <ul id="menu-quick-1" class="menu menu-quick-1" aria-label="For Employees">
-      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-341">
-      <a href="http://cas.uic.edu/hr/" target="_blank">SA Human Resources</a>
+        <h2>Quick Links</h2>
+        <ul id="menu-quick-1" class="menu menu-quick-1" aria-label="Quick Links">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-354">
+      <a href="http://clce.uic.edu/about/donate/" target="_blank">Donate</a>
     </li>
-      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-342">
-      <a href="http://cas.uic.edu/it/" target="_blank">SA Technology</a>
-    </li>
-      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-1020">
-      <a href="https://vcsaonline.uic.edu/lms" target="_blank">Leave Management</a>
-    </li>
-      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-587">
-      <a href="/the-pulse/" target="_self">The Pulse</a>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-171">
+      <a href="/events/" target="_self">Events</a>
     </li>
   </ul>
       </nav>
       
             <nav class="quick-menu" id="menu2" aria-label="footer-menu-2">
-        <h2>About Us</h2>
-        <ul id="menu-quick-2" class="menu menu-quick-2" aria-label="About Us">
-      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-360">
-      <a href="/about/" target="_self">Mission &amp; Vision</a>
+        <h2>Tools</h2>
+        <ul id="menu-quick-2" class="menu menu-quick-2" aria-label="Tools">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-172">
+      <a href="/service/hours/" target="_self">Log Hours</a>
     </li>
-      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-414">
-      <a href="/about/priorities/" target="_self">Strategic Priorities</a>
-    </li>
-      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-287">
-      <a href="/about/student-affairs-assessment/annual-report/" target="_self">Annual Report</a>
-    </li>
-      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-415">
-      <a href="/about/student-affairs-assessment/" target="_self">Assessment</a>
-    </li>
-      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-416">
-      <a href="/about/giving/" target="_self">Giving Opportunities</a>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-606">
+      <a href="/newsletter-sign-up/" target="_self">Newsletter Sign Up</a>
     </li>
   </ul>
       </nav>
       
             <nav class="quick-menu" id="menu3" aria-label="footer-menu-3">
-        <h2>INITIATIVES</h2>
-        <ul id="menu-quick-3" class="menu menu-quick-3" aria-label="INITIATIVES">
-      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-466">
-      <a href="https://dos.uic.edu/uicare.shtml" target="_blank">U &amp; I Care</a>
+        <h2>Resources</h2>
+        <ul id="menu-quick-3" class="menu menu-quick-3" aria-label="Resources">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-174">
+      <a href="http://vote.uic.edu" target="_blank">Register To Vote</a>
     </li>
-      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-468">
-      <a href="http://connect.uic.edu" target="_blank">UIC Connection</a>
-    </li>
-      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-467">
-      <a href="http://impact.uic.edu/" target="_blank">UIC Impact</a>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-175">
+      <a href="https://uic.campuslabs.com/engage/organization/slce" target="_blank">UIC Connection</a>
     </li>
   </ul>
       </nav>
@@ -2183,17 +1386,17 @@ img.emoji {
     
         <div class="button-menus _button-menus">
       <nav class="button-menu" id="menu4" aria-label="footer-menu-4">
-        <h2 class="assistive-text">BUTTON</h2>
+        <h2 class="assistive-text">Button Menu</h2>
 
-        <ul id="button-menu" class="menu button-menu" aria-label="BUTTON">
-      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-469">
-      <a href="/student-life/campus-safety/" target="_self">Campus Safety</a>
+        <ul id="button-menu" class="menu button-menu" aria-label="Button Menu">
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-177">
+      <a href="/leadership/" target="_self">Leadership</a>
     </li>
-      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-219">
-      <a href="/about/contact/" target="_self">Contact Us</a>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-178">
+      <a href="/service/" target="_self">Service</a>
     </li>
-      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-592">
-      <a href="/about/giving/" target="_self">Support our Students</a>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-176">
+      <a href="/civic-engagement/" target="_self">Civic Engagement</a>
     </li>
   </ul>
 
@@ -2205,9 +1408,9 @@ img.emoji {
   <div class="footer-mega__contact">
 
     <div class="_contact">
-          <div class="site-address">1200 West Harrison St., 3010 SSB  Chicago, IL 60607</div>
-      <div class="site-phone">Phone: <a href="tel:(312) 996-7140">(312) 996-7140</a></div>
-        <div class="site-email"><a href="mailto:studentaffairs@uic.edu">studentaffairs@uic.edu</a></div>
+          <div class="site-address">750 S. Halsted Street, Suite 390 UIC Student Center East</div>
+      <div class="site-phone">Phone: <a href="tel:(312) 996-4500">(312) 996-4500</a></div>
+        <div class="site-email"><a href="mailto:slce@uic.edu">slce@uic.edu</a></div>
     </div>
 
      <div aria-label="Social Media Accounts" class="_social">
@@ -2284,13 +1487,13 @@ img.emoji {
 
 	    </div>
   <script type="text/javascript">
-  document.write(unescape("%3Cscript src='//www.uic.edu/inc/emergency/.js' type='text/javascript'%3E%3C/script%3E"));
+  document.write(unescape("%3Cscript src='//www.uic.edu/inc/emergency/a.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 
-<!-- Google Tag Manager (noscript) --><script type='text/javascript' src='https://sa.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://sa.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://sa.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1'></script>
-<script type='text/javascript' src='https://sa.uic.edu/wp-includes/js/wp-embed.min.js?ver=cc9894277b2a1c716141ab25511c2b33'></script>
+<!-- Google Tag Manager (noscript) --><script type='text/javascript' src='http://slce.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://slce.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://slce.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1'></script>
+<script type='text/javascript' src='http://slce.uic.edu/wp-includes/js/wp-embed.min.js?ver=cc9894277b2a1c716141ab25511c2b33'></script>
 
 
     <script>
@@ -2301,11 +1504,11 @@ img.emoji {
 
         ga('create', 'UA-20665772-1', 'auto');
     
-        ga('create', 'UA-54530386-1', 'auto', 'saTracker');
+        ga('create', 'UA-54655537-2', 'auto', 'clceTracker');
     
         ga('send', 'pageview');
     
-        ga('saTracker.send', 'pageview');
+        ga('clceTracker.send', 'pageview');
       </script>
 
 

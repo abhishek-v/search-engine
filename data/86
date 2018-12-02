@@ -120,7 +120,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//advance.uic.edu/?wordfence_lh=1&hid=585AE43DE395F6F9D3730FF395FA11B4');
+})('//advance.uic.edu/?wordfence_lh=1&hid=EE9BB5258121B03ADFC9F0FFDC141F8B');
 </script>
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>

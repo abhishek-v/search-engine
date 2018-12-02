@@ -14,12 +14,12 @@
     <!-- End Google Tag Manager -->
 
         <title>
-                            ID Center | University of Illinois at Chicago
+                            Student Employment | University of Illinois at Chicago
                     </title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pingback" href="http://idcenter.uic.edu/xmlrpc.php" />
+    <link rel="pingback" href="http://studentemployment.uic.edu/xmlrpc.php" />
 
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
@@ -42,8 +42,8 @@
 <meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
 
-    <link rel="stylesheet" href="http://idcenter.uic.edu/wp-content/themes/uic-red/main.css?v=1540906708" type="text/css" media="all" />
-    <link rel="stylesheet" href="http://idcenter.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1540906708" type="text/css" media="all">
+    <link rel="stylesheet" href="http://studentemployment.uic.edu/wp-content/themes/uic-red/main.css?v=1540906708" type="text/css" media="all" />
+    <link rel="stylesheet" href="http://studentemployment.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1540906708" type="text/css" media="all">
 
     
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
@@ -53,20 +53,20 @@
 </script>
 <!-- End Google Tag Manager for WordPress by DuracellTomi -->
 <!-- This site is optimized with the Yoast SEO plugin v7.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://idcenter.uic.edu/" />
+<link rel="canonical" href="http://studentemployment.uic.edu/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="ID Center -" />
-<meta property="og:url" content="http://idcenter.uic.edu/" />
-<meta property="og:site_name" content="ID Center" />
+<meta property="og:title" content="Student Employment -" />
+<meta property="og:url" content="http://studentemployment.uic.edu/" />
+<meta property="og:site_name" content="Student Employment" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="ID Center -" />
-<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/idcenter.uic.edu\/","name":"ID Center","potentialAction":{"@type":"SearchAction","target":"http:\/\/idcenter.uic.edu\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="twitter:title" content="Student Employment -" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/studentemployment.uic.edu\/","name":"Student Employment","potentialAction":{"@type":"SearchAction","target":"http:\/\/studentemployment.uic.edu\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//s.w.org' />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/idcenter.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=cc9894277b2a1c716141ab25511c2b33"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/studentemployment.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=cc9894277b2a1c716141ab25511c2b33"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -83,12 +83,12 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='tablepress-default-css'  href='http://idcenter.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://studentemployment.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9' type='text/css' media='all' />
 <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js'></script>
-<script type='text/javascript' src='http://idcenter.uic.edu/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.8.1'></script>
-<link rel='https://api.w.org/' href='http://idcenter.uic.edu/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://idcenter.uic.edu/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://idcenter.uic.edu/wp-includes/wlwmanifest.xml" /> 
+<script type='text/javascript' src='http://studentemployment.uic.edu/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.8.1'></script>
+<link rel='https://api.w.org/' href='http://studentemployment.uic.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://studentemployment.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://studentemployment.uic.edu/wp-includes/wlwmanifest.xml" /> 
 
 <script type="text/javascript">
 (function(url){
@@ -121,7 +121,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//idcenter.uic.edu/?wordfence_lh=1&hid=7505E6B2D6554B965EE490F1514E4EC2');
+})('//studentemployment.uic.edu/?wordfence_lh=1&hid=4A36A6FEC0179DE8DB221C550748B66F');
 </script>
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[//]]>
@@ -138,6 +138,9 @@ img.emoji {
 <!-- End Google Tag Manager (noscript) -->
 
 
+
+  
+  
 
   
   
@@ -179,7 +182,7 @@ img.emoji {
         <a class="_search" href="#google_translate_element">Google Translate</a>,
     <a class="_search" href="#search">the site search form</a>
     or go to the
-    <a class="_home" href="http://idcenter.uic.edu">the site home page</a>.
+    <a class="_home" href="http://studentemployment.uic.edu">the site home page</a>.
   </p>
 </div>
 
@@ -193,7 +196,7 @@ img.emoji {
 </svg>
 </a>
     <div class="site-title-eyebrow-mobile">
-      <a href="http://idcenter.uic.edu">ID Center</a>
+      <a href="http://studentemployment.uic.edu">Student Employment</a>
     </div>
     <button aria-label="Search the site" class="search-toggle-mobile js-search-toggle-mobile">
       <span class="icon-search">
@@ -212,7 +215,7 @@ img.emoji {
         Search
         <a class="search-close search-toggle-mobile">
           <svg aria-label="Close search box" width="100%" height="100%" viewBox="0 0 22 22">
-            <use xlink:href="http://idcenter.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
+            <use xlink:href="http://studentemployment.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
           </svg>
         </a>
       </div>
@@ -233,12 +236,12 @@ img.emoji {
 
     <div class="l-full">
       <div class="site-title-main -large">
-        <a href="http://idcenter.uic.edu">ID Center</a>
+        <a href="http://studentemployment.uic.edu">Student Employment</a>
       </div>
       <nav class="header-menus js-header-menus " aria-label="Primary Navigation" role="navigation">
 
   <div class="site-title-mobile-menu">
-    <a href="http://idcenter.uic.edu">ID Center</a>
+    <a href="http://studentemployment.uic.edu">Student Employment</a>
   </div>
 
   <h2 class="assistive-text">Google Translate</h2>
@@ -247,18 +250,28 @@ img.emoji {
 
   <h2 class="assistive-text">Main Menu</h2>
   <ul id="menu-main" class="menu menu-main" aria-label="Main Menu">
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-55 menu-item-has-children">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-34">
       <a
         class="menu-main__first-link"
-        href="/identification-cards/"
+        href="/about-seo/"
         target="_self">
 
-        Identification Cards
+        About SEO
+      </a>
+
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-40 menu-item-has-children">
+      <a
+        class="menu-main__first-link"
+        href="/students/"
+        target="_self">
+
+        Students
       </a>
 
               <button class="menu-main__expand-item js-expand-item" role="button">
-          <svg class="menu-main__expand-icon" aria-label="Expand Identification Cards menu" width="32" height="32" viewBox="0 0 32 32">
-            <title>Expand Identification Cards menu</title>
+          <svg class="menu-main__expand-icon" aria-label="Expand Students menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Students menu</title>
             <g fill="none" fill-rule="evenodd">
               <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
               <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
@@ -268,58 +281,40 @@ img.emoji {
 
         <div class="menu-main__submenus-container">
           <ul class="menu-main__second-list">
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-74">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-752">
                 <a
                   class="menu-main__second-link"
-                  href="https://www.icardnet.uillinois.edu/public/get-card.cfm"
-                  target="_blank">
-
-                  Get an i-card
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-75">
-                <a
-                  class="menu-main__second-link"
-                  href="https://www.icardnet.uillinois.edu/public/report-lost.cfm"
-                  target="_blank">
-
-                  Lost Card or Stolen Card
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-87">
-                <a
-                  class="menu-main__second-link"
-                  href="/identification-cards/fees/"
+                  href="/students/job-listings/"
                   target="_self">
 
-                  Fees
+                  Job Listings
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-76">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-258 menu-item-has-children">
                 <a
                   class="menu-main__second-link"
-                  href="https://www.icardnet.uillinois.edu/public/uins.cfm"
-                  target="_blank">
-
-                  UINs
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-90">
-                <a
-                  class="menu-main__second-link"
-                  href="/identification-cards/visitor-cards/"
+                  href="/students/requirements/"
                   target="_self">
 
-                  Visitor Cards
+                  On Campus Job Requirements
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-89">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-749">
                 <a
                   class="menu-main__second-link"
-                  href="/identification-cards/departmental-name-badges/"
+                  href="/students/jld/"
                   target="_self">
 
-                  Name Badges
+                  Job Location &amp; Development
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1128">
+                <a
+                  class="menu-main__second-link"
+                  href="/students/student-faqs/"
+                  target="_self">
+
+                  Student FAQs
                 </a>
               </li>
                       </ul>
@@ -328,18 +323,18 @@ img.emoji {
                       </div>
         </div>
           </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-56 menu-item-has-children">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-44 menu-item-has-children">
       <a
         class="menu-main__first-link"
-        href="/dragon-dollar/"
+        href="/departments/"
         target="_self">
 
-        Dragon Dollar$ and Flames Fare
+        Departments
       </a>
 
               <button class="menu-main__expand-item js-expand-item" role="button">
-          <svg class="menu-main__expand-icon" aria-label="Expand Dragon Dollar$ and Flames Fare menu" width="32" height="32" viewBox="0 0 32 32">
-            <title>Expand Dragon Dollar$ and Flames Fare menu</title>
+          <svg class="menu-main__expand-icon" aria-label="Expand Departments menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Departments menu</title>
             <g fill="none" fill-rule="evenodd">
               <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
               <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
@@ -349,49 +344,58 @@ img.emoji {
 
         <div class="menu-main__submenus-container">
           <ul class="menu-main__second-list">
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-60">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-242">
                 <a
                   class="menu-main__second-link"
-                  href="/dragon-dollar/using-dragon-dollar/"
+                  href="/departments/student-employment-hiring-procedures/"
                   target="_self">
 
-                  Using Dragon Dollar$ and Flames Fare
+                  Hiring Procedures
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-61">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-260">
                 <a
                   class="menu-main__second-link"
-                  href="/dragon-dollar/purchase-locations-fees/"
+                  href="/departments/job-descriptions/"
                   target="_self">
 
-                  Purchase Locations &amp; Fees
+                  Job Descriptions
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-69">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-241">
                 <a
                   class="menu-main__second-link"
-                  href="/dragon-dollar/terms-conditions/"
+                  href="/departments/handbook/"
                   target="_self">
 
-                  Terms &amp; Conditions
+                  Handbook
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-91">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-240">
                 <a
                   class="menu-main__second-link"
-                  href="http://dining.uic.edu/meal-plans/"
-                  target="_blank">
+                  href="/departments/forms/"
+                  target="_self">
 
-                  Meal Plans
+                  Forms
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-92">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-751">
                 <a
                   class="menu-main__second-link"
-                  href="http://dragoncenter.uic.edu/"
-                  target="_blank">
+                  href="/departments/student-wage-plan/"
+                  target="_self">
 
-                  Add Dragon Dollar$ and Flames Fare Online
+                  Student Wage Plan
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
+                <a
+                  class="menu-main__second-link"
+                  href="/departments/faqs/"
+                  target="_self">
+
+                  FAQs
                 </a>
               </li>
                       </ul>
@@ -400,18 +404,28 @@ img.emoji {
                       </div>
         </div>
           </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-57 menu-item-has-children">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-80">
       <a
         class="menu-main__first-link"
-        href="/cta-u-pass/"
+        href="/off-campus-employers/"
         target="_self">
 
-        CTA U-PASS
+        Off Campus Employers
+      </a>
+
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-519 menu-item-has-children">
+      <a
+        class="menu-main__first-link"
+        href="/news-and-events/"
+        target="_self">
+
+        Events
       </a>
 
               <button class="menu-main__expand-item js-expand-item" role="button">
-          <svg class="menu-main__expand-icon" aria-label="Expand CTA U-PASS menu" width="32" height="32" viewBox="0 0 32 32">
-            <title>Expand CTA U-PASS menu</title>
+          <svg class="menu-main__expand-icon" aria-label="Expand Events menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Events menu</title>
             <g fill="none" fill-rule="evenodd">
               <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
               <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
@@ -421,67 +435,40 @@ img.emoji {
 
         <div class="menu-main__submenus-container">
           <ul class="menu-main__second-list">
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-261">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-516">
                 <a
                   class="menu-main__second-link"
-                  href="https://cas.uic.edu/upass_pickup/index2.php"
-                  target="_blank">
-
-                  U-PASS Alternate Pickup
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-141">
-                <a
-                  class="menu-main__second-link"
-                  href="/cta-u-pass/troubleshoot-u-pass/"
+                  href="/news-and-events/workshops/"
                   target="_self">
 
-                  Troubleshoot U-Pass
+                  Workshops
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-143">
+                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-1243">
                 <a
                   class="menu-main__second-link"
-                  href="/cta-u-pass/u-pass-faq/"
+                  href="/events/on-campus-job-fair/"
                   target="_self">
 
-                  U-PASS FAQ
+                  On Campus Job Fair
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-145">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-782">
                 <a
                   class="menu-main__second-link"
-                  href="/cta-u-pass/about-u-pass/"
+                  href="/news-and-events/uic-spring-internship-part-time-job-fair/"
                   target="_self">
 
-                  About U-PASS
+                  UIC Spring Internship &amp; Part-Time Job Fair
                 </a>
               </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-139">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-514 menu-item-has-children">
                 <a
                   class="menu-main__second-link"
-                  href="/cta-u-pass/eligibility/"
+                  href="/news-and-events/nsew/"
                   target="_self">
 
-                  Eligibility
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-140">
-                <a
-                  class="menu-main__second-link"
-                  href="/cta-u-pass/history/"
-                  target="_self">
-
-                  History
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-146">
-                <a
-                  class="menu-main__second-link"
-                  href="http://www.transitchicago.com/upass/"
-                  target="_blank">
-
-                  U-PASS @ CTA Website
+                  National Student Employment Week (NSEW)
                 </a>
               </li>
                       </ul>
@@ -490,59 +477,15 @@ img.emoji {
                       </div>
         </div>
           </li>
-      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-58 menu-item-has-children">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-36">
       <a
         class="menu-main__first-link"
-        href="/faq/"
+        href="/contact-us/"
         target="_self">
 
-        FAQ
+        Contact
       </a>
 
-              <button class="menu-main__expand-item js-expand-item" role="button">
-          <svg class="menu-main__expand-icon" aria-label="Expand FAQ menu" width="32" height="32" viewBox="0 0 32 32">
-            <title>Expand FAQ menu</title>
-            <g fill="none" fill-rule="evenodd">
-              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
-              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
-            </g>
-          </svg>
-        </button>
-
-        <div class="menu-main__submenus-container">
-          <ul class="menu-main__second-list">
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-149">
-                <a
-                  class="menu-main__second-link"
-                  href="/faq/identification-cards-faq/"
-                  target="_self">
-
-                  Identification Cards FAQ
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-148">
-                <a
-                  class="menu-main__second-link"
-                  href="/faq/dragon-dollar-meal-plans-faqs/"
-                  target="_self">
-
-                  Dragon Dollar$ &amp; Meal Plans FAQ’s
-                </a>
-              </li>
-                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-147">
-                <a
-                  class="menu-main__second-link"
-                  href="/faq/u-pass-faqs/"
-                  target="_self">
-
-                  U-Pass FAQ’s
-                </a>
-              </li>
-                      </ul>
-
-          <div class="menu-main__mega-menu-container">
-                      </div>
-        </div>
           </li>
   </ul>
 
@@ -550,11 +493,14 @@ img.emoji {
 
     <h2 class="assistive-text">Eyebrow menu</h2>
     <ul id="menu-eyebrow" class="menu menu-eyebrow" aria-label="Eyebrow menu">
-            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-291">
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-23">
+            <a href="http://careerservices.uic.edu/" target="_blank">Career Services</a>
+        </li>
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-1283">
             <a href="http://connect.uic.edu" target="_blank">UIC Connection</a>
         </li>
-            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-199">
-            <a href="http://vcsa.uic.edu" target="_blank">Student Affairs</a>
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-15">
+            <a href="http://studentaffairs.uic.edu" target="_blank">Student Affairs</a>
         </li>
     </ul>
 
@@ -594,9 +540,9 @@ img.emoji {
           <div
   class="header-title header-title--type-treatment header-title--hero header-title--home"
   style="
-    background-image:url('http://idcenter.uic.edu/wp-content/uploads/sites/107/2017/08/2017_IDCenterWeb-7-2.jpg');">      <div class="color-wash ">
+    background-image:url('http://studentemployment.uic.edu/wp-content/uploads/sites/27/2018/03/HomeBanner_4.jpg');">      <div class="color-wash ">
 
-                  <img src="" alt="ID Center Office">
+                  <img src="" alt="Student Employment Banner">
         
     </div>
     <div class="l-full">
@@ -613,16 +559,16 @@ img.emoji {
 </a>
   </div>
   <div class="_text">
-    <a href="http://idcenter.uic.edu">
-          ID Center
+    <a href="http://studentemployment.uic.edu">
+          Student Employment
         </a>
   </div>
 </div>
         </div>
             <div class="_text  _text--no-wordmark ">
-                  <h1 class="assistive-text">ID Center</h1>
+                  <h1 class="assistive-text">Student Employment</h1>
           <div
-            class="header-title-title header-title-title--b"> </div>
+            class="header-title-title header-title-title--b">Meeting student employment needs</div>
               </div>
     </div>
   </div>
@@ -647,11 +593,9 @@ img.emoji {
       
   
   
-  <p><strong>Our Mission</strong><br />
-The mission of the ID Center is to support the university community with a standardized and convenient form of identification. The ID Center strives to equip the card as a means to provide access to related university systems and services. A dedicated staff is committed to serving all customers in an efficient and courteous manner. The ID Center will endeavor to bring expanded uses of the card through advances in technology and innovation.</p>
-<p><strong>What we do</strong><br />
-The ID Center provides a one-stop shop for university students‚ faculty‚ staff and visitors identification card needs. We directly support the production of i-cards‚ visitor cards‚ the Dragon Dollar$ program‚ the CTA U-Pass program‚ and provide assistance with all facets of using your university issued ID on campus.</p>
-<p>Our satellite ID Center on the west campus supports the medical &amp; professional community with ID creation services close to their offices and classrooms.</p>
+  <p>We are a centralized service that offers assistance to UIC students, departments and off-campus employers. Such employment not only provides students with a means of earning money, it also provides students an opportunity to develop new skills and positive work habits which will ensure professional success. Students are expected to consistently execute job responsibilities in a satisfactory manner. In addition, we sponsor various job fairs throughout the year and a series of career development workshops.</p>
+<h2>Mission</h2>
+<p>Our mission is to enhance student learning and meet departmental student employment needs by providing meaningful work experiences.</p>
 
 
 </div>
@@ -666,20 +610,89 @@ The ID Center provides a one-stop shop for university students‚ faculty‚ sta
       <div class="l-full">
   
   
-      <h2 class="invisible">Contact Information for Main ID Center</h2>
+  <div class="component-call-to-action -light">
+
+    <h2 class="invisible">Home Buttons</h2>
+
+    <ul class="_items call-to-action-links">
+              <li>
+                      <a
+              href="http://studentemployment.uic.edu/contact-us/"
+              target="_self">
+                        <span class="_icon speech-icon" aria-hidden="true">
+                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Speech bubble icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <path class="_mark" d="M8 17.1C8 12.626 12.477 9 18 9s10 3.626 10 8.1-4.477 8.1-10 8.1c-1.502 0-2.927-.268-4.205-.75L9 27l.887-5.163C8.7 20.505 8 18.867 8 17.1z" stroke="#FFF" stroke-width="2"/>
+  </g>
+</svg>
+              </span>
+              <span class="_text">Contact Us</span>
+            </a>
+        </li>
+              <li>
+                      <a
+              href="http://studentemployment.uic.edu/news-and-events/"
+              target="_self">
+                        <span class="_icon calendar-icon" aria-hidden="true">
+                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Calendar icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <path class="_mark" d="M13 12h1v-2h8v1-2.502c0-.275.232-.498.5-.498.276 0 .5.215.5.498V12h1v-2h3v17H9V10h3v1-2.502c0-.275.232-.498.5-.498.276 0 .5.215.5.498V12zm-2 10h4v3h-4v-3zm5 0h4v3h-4v-3zm5 0h4v3h-4v-3zm-10-4h4v3h-4v-3zm5 0h4v3h-4v-3zm5 0h4v3h-4v-3zm-10-4h4v3h-4v-3zm5 0h4v3h-4v-3zm5 0h4v3h-4v-3z" fill="#FFF"/>
+  </g>
+</svg>
+              </span>
+              <span class="_text">Event Calendar</span>
+            </a>
+        </li>
+              <li>
+                      <a
+              href="http://studentemployment.uic.edu/contact-us/"
+              target="_self">
+                        <span class="_icon map-icon" aria-hidden="true">
+                <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Map pin icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <ellipse class="_circle" fill="#001E62" cx="18" cy="18" rx="18" ry="18"/>
+    <path class="_mark" d="M22.934 18.415C23.606 17.445 24 16.27 24 15c0-3.314-2.686-6-6-6s-6 2.686-6 6c0 1.27.394 2.446 1.066 3.415L18 27l4.934-8.585zM18 19c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4z" fill="#FFF"/>
+  </g>
+</svg>
+              </span>
+              <span class="_text">Our Location</span>
+            </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+  
+</section>
+
+    
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+  
+      <h2 class="invisible">Students, Departments</h2>
   
   <ul class="component-link-tile ">
       <li class="component-link-tile__item component-link-tile__item--image">
 
                   <div class="tile-item ">
     <a class="tile-item__link"
-       href="http://idcenter.uic.edu/cta-u-pass/"
+       href="http://studentemployment.uic.edu/students/"
        target="_self">
             <div class="tile-item__image-container">
             <img
                 class="tile-item__image"
-                src="http://idcenter.uic.edu/wp-content/uploads/sites/107/2017/08/hometile_UPASS-600x365.jpg"
-                alt="CTA U-PASS Card">
+                src="http://studentemployment.uic.edu/wp-content/uploads/sites/27/2017/06/hometile1.jpg"
+                alt="Students">
         </div>
     
     <div class="
@@ -689,12 +702,12 @@ The ID Center provides a one-stop shop for university students‚ faculty‚ sta
         <div class="
             tile-item__title
             tile-item__title--image">
-            CTA U-PASS
+            Students
         </div>
 
         
                     <div class="tile-item__description">
-                Your U-Pass provides you unlimited rides on the CTA during your enrollment as a full-time student at the University.
+                Information about part-time job listings, both on and off campus along with various tips and tools to assist students
             </div>
             </div>
     </a>
@@ -705,13 +718,13 @@ The ID Center provides a one-stop shop for university students‚ faculty‚ sta
 
                   <div class="tile-item ">
     <a class="tile-item__link"
-       href="http://idcenter.uic.edu/identification-cards/"
+       href="http://studentemployment.uic.edu/departments/"
        target="_self">
             <div class="tile-item__image-container">
             <img
                 class="tile-item__image"
-                src="http://idcenter.uic.edu/wp-content/uploads/sites/107/2017/09/hometile_ID2-600x365.jpg"
-                alt="ID card">
+                src="http://studentemployment.uic.edu/wp-content/uploads/sites/27/2017/06/hometile2.jpg"
+                alt="Departments">
         </div>
     
     <div class="
@@ -721,12 +734,12 @@ The ID Center provides a one-stop shop for university students‚ faculty‚ sta
         <div class="
             tile-item__title
             tile-item__title--image">
-            Identification Cards
+            Departments
         </div>
 
         
                     <div class="tile-item__description">
-                Your i-card is your official permanent ID card and will be used as long as you attend or are employed by the University.
+                Rules, regulations, and student employment outlines as well as training tools, job order forms, student employment forms
             </div>
             </div>
     </a>
@@ -737,13 +750,13 @@ The ID Center provides a one-stop shop for university students‚ faculty‚ sta
 
                   <div class="tile-item ">
     <a class="tile-item__link"
-       href="http://idcenter.uic.edu/dragon-dollar/"
+       href="http://studentemployment.uic.edu/off-campus-employers/"
        target="_self">
             <div class="tile-item__image-container">
             <img
                 class="tile-item__image"
-                src="http://idcenter.uic.edu/wp-content/uploads/sites/107/2017/08/hometile_Dragon-600x365.jpg"
-                alt="Dragon Dollar$ Card">
+                src="http://studentemployment.uic.edu/wp-content/uploads/sites/27/2017/06/hometile3.jpg"
+                alt="Companies">
         </div>
     
     <div class="
@@ -753,12 +766,12 @@ The ID Center provides a one-stop shop for university students‚ faculty‚ sta
         <div class="
             tile-item__title
             tile-item__title--image">
-            Dragon Dollar$
+            Companies
         </div>
 
         
                     <div class="tile-item__description">
-                The Dragon Dollar$ program is the official campus debit account linked to your i-card.
+                How to submit part-time job listings, job fair information and a breakdown of our services to external companies.
             </div>
             </div>
     </a>
@@ -779,45 +792,141 @@ The ID Center provides a one-stop shop for university students‚ faculty‚ sta
 
       <div class="l-full">
   
-    <h2 class="visible">Locations</h2>
+    <div class="component-highlight-news-events">
 
-      <div class="table-container">
-    <table aria-label="Locations">
-            <thead>
-      <tr>
-                  <th scope="col">Main ID Center </th>
-                  <th scope="col">Satellite ID Center
-</th>
-              </tr>
-    </thead>
-      <tbody>
-          <tr>
-                            <td>
-            1200 W. Harrison St., 1790 SSB, Chicago, Illinois 60607, MC 049
-<br>
-Monday – Friday 8:30 AM -5:00 PM
-<br>
-Phone: (312) 413-5940
-<br>
-Email: idcenter@uic.edu
+            <h2 class="component-highlight-news-events__title visible">Student Employment News & Events</h2>
+    
+    <div class="component-highlight-news-events__container">
+      <div class="component-highlight-news-events__column">
+                  <article class="tease tease-news" id="tease-1057">
+	
+    <figure class="teaser-image captioned-image">
+    <img src="http://studentemployment.uic.edu/wp-content/uploads/sites/27/2018/04/George-Rico-Juarez-.2-Student-Employee-of-the-Year-2018.jpg" alt="Employee of the year">
+  </figure>
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a href="http://studentemployment.uic.edu/news-stories/meet-the-2018-student-employee-of-the-year/">Meet the 2018 Student Employee of the Year</a></h3>
 
-          </td>
-                                      <td>
-            828 S. Wolcott (@ Polk), 241 SCW, Chicago, Illinois 60607, MC 579
-<br>
-Monday – Friday 8:30 AM-4:00 PM
-<br>
-Phone: (312) 413-5944<br>
-Email: idcenter@uic.edu
-
-          </td>
-                        </tr>
-        </tbody>
-
-    </table>
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>April 09, 2018</strong></span>
+    </div>
+    </div>
+        
+    
   </div>
 
+</article>                  <article class="tease tease-news" id="tease-72">
+	
+    <figure class="teaser-image captioned-image">
+    <img src="http://studentemployment.uic.edu/wp-content/uploads/sites/27/2017/07/UIC_2015-3545.png" alt="News 1">
+  </figure>
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a href="http://studentemployment.uic.edu/news-stories/seo-news-item-1/">Federal Work Study (FWS) 2018-2019</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>July 13, 2017</strong></span>
+    </div>
+    </div>
+        
     
+  </div>
+
+</article>                      </div>
+      <div class="component-highlight-news-events__column">
+                  <article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Feb</span>
+    <span class="_day">7</span>
+    <span class="_year">2019</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h3 class="_name">
+      <a href="http://studentemployment.uic.edu/events/resume-cover-letter-workshop/">Resume and Cover Letter Workshop</a>
+    </h3>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        Thursday
+                                    , 3:30 pm
+              - 5:00 pm      </div>
+              <div class="_place">
+          SCE, Cardinal Room (329)
+        </div>
+          </div>
+
+      </div>
+
+</article>
+                  <article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Feb</span>
+    <span class="_day">14</span>
+    <span class="_year">2019</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h3 class="_name">
+      <a href="http://studentemployment.uic.edu/events/navigating-career-fair/">Navigating a Career Fair</a>
+    </h3>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        Thursday
+                                    , 3:30 pm
+              - 5:00 pm      </div>
+              <div class="_place">
+          SCE, White Oak - AB
+        </div>
+          </div>
+
+      </div>
+
+</article>
+                  <article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Feb</span>
+    <span class="_day">21</span>
+    <span class="_year">2019</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h3 class="_name">
+      <a href="http://studentemployment.uic.edu/events/internship-part-time-job-fair/">Internship &amp; Part-Time Job Fair</a>
+    </h3>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        Thursday
+                                    , 10:00 am
+              - 2:00 pm      </div>
+              <div class="_place">
+          UIC Forum
+        </div>
+          </div>
+
+      </div>
+
+</article>
+        
+          </div>
+  </div>
+  </div>
 
       </div>
   
@@ -836,60 +945,6 @@ Email: idcenter@uic.edu
               
                       
       
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
-                       
-              
-                      
-      
-
-
-
-
-   
 
 
 
@@ -912,15 +967,15 @@ Email: idcenter@uic.edu
               
                       
       
+                       
+              
+                      
+      
 
 
 
 
    
-                       
-              
-                      
-      
 
 
 
@@ -1007,28 +1062,6 @@ Email: idcenter@uic.edu
 
 
    
-                       
-              
-                      
-      
-
-
-
-
-   
-
-
-
-
-   
-                       
-              
-                      
-      
-                       
-              
-                      
-      
 
 
 
@@ -1047,11 +1080,60 @@ Email: idcenter@uic.edu
               
                       
       
+                       
+              
+                      
+      
 
 
 
 
    
+                       
+              
+                      
+      
+
+
+
+
+   
+                       
+              
+                      
+      
+
+
+
+
+   
+                       
+              
+                      
+      
+                       
+              
+                      
+      
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+                       
+              
+                      
+      
 
 
 
@@ -1071,9 +1153,10 @@ Email: idcenter@uic.edu
   <div class="footer-contact">
     <div class="l-full">
 
-          <div class="footer-contact__simple _grid-container">
-  <div class="_wordmark">
-    <div class="uic-type-treatment -large uic-wordmark--footer">
+          <div class="footer-contact__mega">
+
+    <div class="footer-mega__brand -type-treatment">
+            <div class="uic-type-treatment -large uic-wordmark--footer">
   <div class="_mark">
     <a href="http://uic.edu" class="uic-logo-icon ">
  <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
@@ -1084,40 +1167,106 @@ Email: idcenter@uic.edu
 </a>
   </div>
   <div class="_text">
-    <a href="http://idcenter.uic.edu">
-          ID Center
+    <a href="http://studentemployment.uic.edu">
+          Student Employment
         </a>
   </div>
 </div>
+          </div>
+
+  <div class="footer-mega__menus">
+
+        <div class="quick-menus _quick-menus">
+
+            <nav class="quick-menu" id="menu1" aria-label="footer-menu-1">
+        <h2>Quick Links</h2>
+        <ul id="menu-quick-1" class="menu menu-quick-1" aria-label="Quick Links">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-56">
+      <a href="http://careerservices.uic.edu/" target="_blank">UIC Career Services</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-58">
+      <a href="https://uic-csm.symplicity.com/" target="_blank">UIC Careers</a>
+    </li>
+  </ul>
+      </nav>
+      
+            <nav class="quick-menu" id="menu2" aria-label="footer-menu-2">
+        <h2>For Students</h2>
+        <ul id="menu-quick-2" class="menu menu-quick-2" aria-label="For Students">
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-683">
+      <a href="/students/job-listings/" target="_self">Job Listings</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-684">
+      <a href="/students/jld/" target="_self">JLD Program</a>
+    </li>
+  </ul>
+      </nav>
+      
+            <nav class="quick-menu" id="menu3" aria-label="footer-menu-3">
+        <h2>For Departments</h2>
+        <ul id="menu-quick-3" class="menu menu-quick-3" aria-label="For Departments">
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-680">
+      <a href="/departments/forms/" target="_self">Forms</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-681">
+      <a href="/departments/job-descriptions/" target="_self">Job Descriptions</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-682">
+      <a href="/departments/student-wage-plan/" target="_self">Student Wage Plan</a>
+    </li>
+  </ul>
+      </nav>
+      
+    </div>
+    
+        <div class="button-menus _button-menus">
+      <nav class="button-menu" id="menu4" aria-label="footer-menu-4">
+        <h2 class="assistive-text">Footer Menu</h2>
+
+        <ul id="button-menu" class="menu button-menu" aria-label="Footer Menu">
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-49">
+      <a href="/students/" target="_self">Students</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-50">
+      <a href="/departments/" target="_self">Departments</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-55">
+      <a href="https://uic-csm.symplicity.com/" target="_blank">UIC Careers</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-686">
+      <a href="http://careerservices.uic.edu" target="_blank">UIC Career Services</a>
+    </li>
+  </ul>
+
+      </nav>
+    </div>
+    
   </div>
 
+  <div class="footer-mega__contact">
 
-  <div class="_contact">
-    <h2>Contact</h2>
-    <div class="site-contact-container">          <div class="site-email"><a href="mailto:idcenter@uic.edu">idcenter@uic.edu</a></div>
-</div>
-    <div class="site-contact-container">        </div>
-  </div>
+    <div class="_contact">
+          <div class="site-address">Suite 2100 1200 West Harrison Street Chicago, Illinois 60607</div>
+      <div class="site-phone">Phone: <a href="tel:(312) 996-3130">(312) 996-3130</a></div>
+      <div class="site-fax">Fax: <a href="tel:(312) 413-7944">(312) 413-7944</a></div>
+      <div class="site-email"><a href="mailto:studentjobs@uic.edu">studentjobs@uic.edu</a></div>
+    </div>
 
-
-   <div aria-label="Social Media Accounts" class="_social">
+     <div aria-label="Social Media Accounts" class="_social">
   <h2 class="assistive-text">Social Media Accounts</h2>
   <ul class="site-social-links">
-        <li><a class="facebook" href="https://www.facebook.com/UIClife/">
+        <li><a class="facebook" href="https://www.facebook.com/UICStudentEmployment/">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Facebook"><title>Facebook</title><path d="M17 26.7V15h3.2s.3-2 .4-4H17V8.3s.5-.9 1-.9h2.5c0-.6.2-2.4.3-4h-3.7c-5 0-4.9 3.9-4.9 4.5v3.2h-3v4h3.1v11.7H17z"/></svg>
     </a></li>
-                <li><a class="twitter" href="https://twitter.com/@UIClife">
+                <li><a class="twitter" href="https://twitter.com/UICStudntEmploy">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Twitter"><title>Twitter</title><path d="M25.4 9.4c-.7.3-1.5.6-2.4.7.9-.5 1.5-1.3 1.8-2.3-.8.5-1.7.8-2.6 1-.8-.8-1.8-1.3-3-1.3-2.3 0-4.1 1.9-4.1 4.1 0 .3 0 .6.1.9-3.4-.2-6.5-1.8-8.5-4.3-.4.6-.6 1.3-.6 2.1 0 1.4.7 2.7 1.8 3.4-.7 0-1.3-.2-1.9-.5v.1c0 2 1.4 3.7 3.3 4.1-.3.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.6 2.1 2.8 3.9 2.9-1.4 1.1-3.2 1.8-5.1 1.8-.3 0-.7 0-1-.1 1.8 1.2 4 1.9 6.3 1.9 7.6 0 11.8-6.3 11.8-11.8v-.5c.9-.6 1.6-1.3 2.1-2.2z"/></svg>
     </a></li>
-            <li><a class="instagram" href="https://www.instagram.com/UIClife/">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Instagram"><title>Instagram</title><path fill="none" d="M15 18.8c2 0 3.6-1.6 3.6-3.6S17 11.5 15 11.5s-3.6 1.6-3.6 3.6 1.6 3.7 3.6 3.7z"/><path fill="none" d="M20 15.2c0 2.7-2.2 5-5 5s-5-2.2-5-5c0-.7.1-1.3.4-1.9H6.5V22c0 .9.7 1.6 1.6 1.6H22c.9 0 1.6-.7 1.6-1.6v-8.7h-3.9c.1.6.3 1.2.3 1.9z"/><path d="M21.9 5.1H11.5v5.8h-1.4V5.1H8.8v5.8H7.4V5.2c-1.3.2-2.3 1.4-2.3 2.9V22c0 1.6 1.3 3 3 3H22c1.6 0 3-1.3 3-3V8.1c-.1-1.7-1.4-3-3.1-3zm-2.6 3.4h2.4v2.4h-2.4V8.5zm-4.3 3c2 0 3.6 1.6 3.6 3.6S17 18.8 15 18.8s-3.6-1.6-3.6-3.6 1.6-3.7 3.6-3.7zm8.5 10.4c0 .9-.7 1.6-1.6 1.6H8.1c-.9 0-1.6-.7-1.6-1.6v-8.7h3.9c-.2.6-.4 1.2-.4 1.9 0 2.7 2.2 5 5 5s5-2.2 5-5c0-.7-.1-1.3-.4-1.9h3.9v8.7z"/></svg>
-    </a></li>
-            <li><a class="youtube" href=" https://www.youtube.com/user/UIClife">
+                <li><a class="youtube" href="https://www.youtube.com/channel/UCVVv6mLUZ1KyEDePuv2vJQA">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Youtube"><title>YouTube</title><path d="M9.5 11.8h1.4V8.3l1.6-4.8h-1.4l-.9 3.3-.9-3.3H7.9l1.6 5M14.4 11.9c.6 0 1-.1 1.3-.4.3-.3.5-.7.5-1.2V7.1c0-.5-.2-.8-.5-1.1-.3-.3-.7-.4-1.3-.4-.6 0-1 .1-1.3.4-.3.3-.5.7-.5 1.1v3.2c0 .5.2.9.5 1.2.3.3.7.4 1.3.4zM13.9 7c0-.1 0-.2.1-.3.1-.1.2-.1.4-.1s.3 0 .4.1c.1.1.2.2.2.3v3.3c0 .2 0 .3-.1.4-.1.1-.2.1-.4.1s-.3 0-.4-.1c-.1-.1-.1-.2-.1-.4V7zM18 11.8c.2 0 .5-.1.7-.2.2-.1.5-.3.7-.6v.7h1.2V5.6h-1.2v4.6c-.1.1-.2.2-.4.3-.1.1-.3.1-.3.1-.1 0-.2 0-.2-.1-.1-.1-.1-.2-.1-.3V5.6h-1.2v5.1c0 .4.1.6.2.8.1.3.3.3.6.3zM20.7 19.3c-.2 0-.3 0-.4.2-.1.1-.1.3-.1.5v.6h1V20c0-.2 0-.4-.1-.5-.1-.1-.2-.2-.4-.2zM17 19.3c-.4-.1-.6.2-.6.2V23s.3.4.7.2c0 0 .2-.1.2-.5v-2.9c.1.1.2-.4-.3-.5z"/><path d="M23.1 14.9c-.9-.9-8.4-.9-8.4-.9s-7.6 0-8.5.9c-.9.9-.9 5.3-.9 5.4 0 0 0 4.5.9 5.4.9.9 8.5.9 8.5.9s7.6 0 8.5-.9c.9-.9.9-5.4.9-5.4 0-.1-.1-4.5-1-5.4zm-12.2 2.7H9.7V24H8.4v-6.4H7.2v-1.1H11v1.1zm3.6 6.4h-1.1v-.6c-.2.2-.4.4-.6.5-.2.1-.4.2-.6.2-.3 0-.4-.1-.6-.2-.1-.2-.2-.4-.2-.7v-4.6h1.1v4.3c0 .1 0 .2.1.3 0 .1.1.1.2.1s.2 0 .3-.1l.3-.3v-4.2h1.1V24zm4-1.1c0 .4-.1.7-.3.9-.2.2-.4.3-.7.3-.2 0-.4 0-.6-.1-.2-.1-.3-.2-.5-.4v.4h-1.1v-7.5h1.1v2.4c.1-.2.3-.3.5-.4.2-.1.3-.1.5-.1.3 0 .6.1.8.4.2.2.3.6.3 1v3.1zm3.8-1.5h-2.1v1c0 .3 0 .5.1.6.1.1.2.2.4.2s.3 0 .4-.1c.1-.1.1-.3.1-.6v-.3h1.1v.3c0 .6-.1 1-.4 1.3-.3.3-.7.4-1.2.4s-.9-.2-1.2-.5c-.3-.3-.4-.7-.4-1.3V20c0-.5.2-.9.5-1.2.3-.3.7-.5 1.2-.5s.9.1 1.2.4c.3.3.4.7.4 1.2v1.5z"/></svg>
     </a></li>
           </ul>
 </div>
-
+  </div>
 </div>
     
     </div>
@@ -1174,13 +1323,13 @@ Email: idcenter@uic.edu
 
 	    </div>
   <script type="text/javascript">
-  document.write(unescape("%3Cscript src='//www.uic.edu/inc/emergency/a.js' type='text/javascript'%3E%3C/script%3E"));
+  document.write(unescape("%3Cscript src='//www.uic.edu/inc/emergency/.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 
-<!-- Google Tag Manager (noscript) --><script type='text/javascript' src='http://idcenter.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://idcenter.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://idcenter.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1'></script>
-<script type='text/javascript' src='http://idcenter.uic.edu/wp-includes/js/wp-embed.min.js?ver=cc9894277b2a1c716141ab25511c2b33'></script>
+<!-- Google Tag Manager (noscript) --><script type='text/javascript' src='http://studentemployment.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://studentemployment.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://studentemployment.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1'></script>
+<script type='text/javascript' src='http://studentemployment.uic.edu/wp-includes/js/wp-embed.min.js?ver=cc9894277b2a1c716141ab25511c2b33'></script>
 
 
     <script>
@@ -1191,11 +1340,11 @@ Email: idcenter@uic.edu
 
         ga('create', 'UA-20665772-1', 'auto');
     
-        ga('create', 'UA-54652322-1', 'auto', 'idcenterTracker');
+        ga('create', 'UA-54655831-1', 'auto', 'studentemployTracker');
     
         ga('send', 'pageview');
     
-        ga('idcenterTracker.send', 'pageview');
+        ga('studentemployTracker.send', 'pageview');
       </script>
 
 

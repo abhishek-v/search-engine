@@ -2,7 +2,7 @@
 <html lang="en" class="no-js">
 <head>
         <!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-WXRNQ8');</script> <!-- End Google Tag Manager -->
-    <title>Digital Images</title>
+    <title>Search Help</title>
     <link rel="stylesheet" href="/css/gdpr.css">
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -92,7 +92,6 @@
     Skip to
     <a class="_main" href="#main">the content of this page</a>,
     <a class="_primary-menu" href="#menu-main">the main menu</a>,
-        <a class="_secondary-menu" href="#menu-secondary">the secondary menu</a>,
         <a class="_search" href="#search">the site search form</a>
     or go to the
     <a class="_home" href="/">the site home page</a>.
@@ -108,7 +107,7 @@
 	<li class="_item ">
 		<a href="/help" target="_self">Help</a>
     	</li>
-	<li class="_item menu-item-has-children current-page-ancestor">
+	<li class="_item menu-item-has-children">
 		<a href="/collections" target="_self">Collections</a>
           <button role="button" class="expand-item js-expand-item">Expand Collections menu</button>
   <ul class="_child">
@@ -118,7 +117,7 @@
     <li class="_item ">
     <a href="/collections/books-media" target="_self">Books & Media</a>
     </li>
-    <li class="_item menu-item-has-children current-menu-item current-page-ancestor">
+    <li class="_item menu-item-has-children">
     <a href="/collections/digital-images" target="_self">Digital Images</a>
         <button role="button" class="expand-item js-expand-item">Expand Digital Images menu</button>
   <ul class="_child">
@@ -317,204 +316,731 @@
     </div>
 
     
-            <a href="#menu-secondary" class="menu-secondary-anchor">View Menu</a>
     
 </div>
                     </header>
 
                 <main id="main" class="page__main">
-                            <div class="layout ">
-    <div class="layout__main">
-        
-        <nav class="breadcrumbs" aria-label="Breadcrumbs">
-        <h2 class="breadcrumbs__header">Breadcrumbs</h2>
-        <ol>
-                                                <li class="breadcrumbs__list-item">
-                        <a class="breadcrumb breadcrumb--home" href="/">Home</a>
-                    </li>
-                                                                <li class="breadcrumbs__list-item">
-                        <a class="breadcrumb " href="/collections">Collections</a>
-                    </li>
-                                                                <li class="breadcrumbs__list-item">
-                        <a href="/collections/digital-images"><span class="breadcrumb breadcrumb--here">Digital Images</span></a>
-                    </li>
-                                    </ol>
-    </nav>
-
-    <h1 class="page-title">Digital Images</h1>
-            <div class="page-content__content">
-            <!-- container.twig -->
-<div class="content-container">
-  
-          <div class="text-content"><p>Digital image collections, online exhibits and databases.</p>
-</div>    
-    
-    
-    
-    
-  
-    
-    
-          <div class="tiles-content">
-        <p class="tiles-content__title">Digital image resources</p>
-        <ul class="tiles-content__list">
-                    <li class="tiles-content__tile">
-                <div class="tile-content">
-            <a class="tile-content__link" href="/collections/digital-images/uic-image-collections">
-            <div class="tile-content__icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
-</svg>
-</div>
-            <p class="tile-content__title">UIC Image Collections</p>
-            <div class="tile-content__body"><p>Digitized materials from UIC collections and University Archives. Some collections may include digitized documents, letters and media such as audio or video.</p>
-</div>
-        </a>
-    </div>
-            </li>
-                    <li class="tiles-content__tile">
-                <div class="tile-content">
-            <a class="tile-content__link" href="http://explore.chicagocollections.org/">
-            <div class="tile-content__icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
-</svg>
-</div>
-            <p class="tile-content__title">Explore Chicago Collections</p>
-            <div class="tile-content__body"><p>Images of Chicago history and culture from libraries, museums and archives throughout Chicago, including UIC, and guides to Chicago-area archives if you plan to visit in person.</p>
-</div>
-        </a>
-    </div>
-            </li>
-                    <li class="tiles-content__tile">
-                <div class="tile-content">
-            <a class="tile-content__link" href="http://dp.la/">
-            <div class="tile-content__icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
-</svg>
-</div>
-            <p class="tile-content__title">Digital Public Library of America</p>
-            <div class="tile-content__body"><p>Images, documents and letters digitized from the collections of libraries and museums throughout the U.S. in a wide range of subject areas.</p>
-</div>
-        </a>
-    </div>
-            </li>
-                    <li class="tiles-content__tile">
-                <div class="tile-content">
-            <a class="tile-content__link" href="http://www.europeana.eu/portal/">
-            <div class="tile-content__icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
-</svg>
-</div>
-            <p class="tile-content__title">Europeana</p>
-            <div class="tile-content__body"><p>Images, documents and media from libraries and museums in Europe.</p>
-</div>
-        </a>
-    </div>
-            </li>
-                    <li class="tiles-content__tile">
-                <div class="tile-content">
-            <a class="tile-content__link" href="http://researchguides.uic.edu/go.php?c=10002071">
-            <div class="tile-content__icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
-</svg>
-</div>
-            <p class="tile-content__title">ArtStor</p>
-            <div class="tile-content__body"><p>Artworks from museums world wide.</p>
-</div>
-        </a>
-    </div>
-            </li>
-                    <li class="tiles-content__tile">
-                <div class="tile-content">
-            <a class="tile-content__link" href="http://www.idaillinois.org/">
-            <div class="tile-content__icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
-    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
-</svg>
-</div>
-            <p class="tile-content__title">Illinois Digital Archive</p>
-            <div class="tile-content__body"><p>Images pertaining to Illinois history from libraries throughout the state.</p>
-</div>
-        </a>
-    </div>
-            </li>
-            </ul>
-</div>
-    
-    
-    
-  
-          <div class="text-content"><h2>Image exhibits</h2>
-<ul>
-<li><a href="http://rjd.library.uic.edu/">Remembering Richard J. Daley</a></li>
-<li><a href="http://uicarchives.library.uic.edu/Exhibits">University Archives exhibits</a></li>
-</ul>
-</div>    
-    
-    
-    
-    
-  </div>
+            
+    <div class="banner help-banner">
+    <div class="help-banner__container">
+        <div class="help-banner__content">
+            <div class="help-banner__title">
+                <h1>Help</h1>
+            </div>
+            <div class="help-banner__search" role="search" aria-label="Search help articles">
+              <form class="search-form" method="get" action="&#x2F;help&#x2F;search" >
+  <label for="search-form__input">Search</label>
+  <input type="search"
+    id="search-form__input"
+    class="search-form__input"
+    placeholder="Search&#x20;library&#x20;help"
+    name="q"
+    value=""
+  />
+  <button class="search-button" type="submit">
+    <span class="label">Search</span>
+    <span class="icon"><svg class="search-icon" width="20" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+    <title>Expand search box</title>
+    <path d="M19.7 18.3l-5.9-5.9c1-1.3 1.6-2.9 1.6-4.7C15.4 3.5 12 0 7.7 0S0 3.4 0 7.7c0 4.2 3.4 7.7 7.7 7.7 1.8 0 3.4-.6 4.7-1.6l5.9 5.9c.2.2.4.3.7.3s.5-.1.7-.3c.4-.4.4-1 0-1.4zM2 7.7C2 4.6 4.6 2 7.7 2s5.7 2.6 5.7 5.7-2.5 5.7-5.7 5.7C4.6 13.4 2 10.8 2 7.7z"/>
+</svg></span>
+  </button>
+</form>
+            </div>
         </div>
+    </div>
+</div>
+
+    <form method="get" action="/help/search" onsubmit="syncForms()">
+  <div class="layout help-search-layout">
+    <div class="layout__main">
+              
+            <input id="search-form-sync" type="hidden" name="q" value="" />
+      <script>
+        function syncForms() {
+          document.getElementById('search-form-sync').value = document.getElementById('search-form__input').value;
+        }
+      </script>
+
+              <section  aria-label="Search results">
+          <article class="help-search-results" aria-label="Help search results">
+
+    <h2>Help Search Results</h2>
+
+            <ul class="help-search-results__results">
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/7065/find-health-information-non-uic-guests">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Find health information (non-UIC guests)</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>The Library of the Health Sciences provides support for individuals outside of the UIC community to access health information.  All LHS locations (Chicago, Peoria and Rockford) are open to the public.</p>
+</div>
     
-            <section class="section help-articles-list" aria-label="Help Articles list section">
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
 
-    <h2 class="section__title section-heading"><span>How Do I...?</span></h2>
+    <h2 class="help-search-result__title">
+        <a href="/help/article/6085/use-the-library-search">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Use the Library Search</span>
+        </a>
+    </h2>
 
-    <div class="section__content">
-    <ul class="help-articles-list__articles">
-                    <li class="help-articles-list__article">
-                <a href="/help/article/1945/search-for-images">Search for images</a>
+            <div class="help-search-result__summary"><p>You can search for articles, books, news, events and more from the library homepage and the magnifying glass icon on the top right of every page.</p>
+</div>
+    
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/6049/request-film-and-video-for-your-classroom-daley-library">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Request film and video for your classroom (Daley Library)</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>Faculty and instructors can request to pick up film or video at the Daley Library. Instructors can submit requests at any time. To guarantee availability, please submit requests at least a month before the semester start date.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/4244/find-articles-databases-and-journals">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Search for articles, databases and journals</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>You can search for articles in databases and journals. Databases search many journals in a discipline or subject.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/3332/order-documents-alumni-and-non-uic-affiliates">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Order documents (alumni and non-UIC affiliates)</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>If you are not a UIC student, faculty or staff member, you can order documents from the UIC Library collection for a fee. UIC students, faculty and staff can order articles for no cost through <a href="/help/article/1935/request-items-from-other-libraries#interlibrary-loan">interlibrary loan.</a></p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/2990/visit-special-collections-and-university-archives">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Visit Special Collections and University Archives</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>Two reading rooms are dedicated to researchers using our collections. View Special Collections and University Archives hours at <a href="http://library.uic.edu/libraries/daley/hours/">Daley Library hours</a> or <a href="http://library.uic.edu/libraries/lhs-chicago/hours">Library of the Health Sciences-Chicago hours</a>.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1949/submit-work-to-indigo">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Submit work to INDIGO - UIC's institutional repository</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p><a href="http://indigo.uic.edu/">INDIGO</a> is UIC&#8217;s institutional Repository. Faculty, staff and graduate students can deposit their research and scholarship-published and unpublished-directly into INDIGO. Departments can use INDIGO to distribute their working papers, technical reports or other research materials. See the <a href="http://researchguides.uic.edu/indigohelp">guide to using INDIGO.</a></p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1921/measure-the-impact-of-my-scholarship">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Measure the impact of my scholarship</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>The UIC Library provides several resources to obtain information on the number of times your articles have been cited and your <a href="https://en.wikipedia.org/wiki/H-index">h-index</a>. See the <a href="http://researchguides.uic.edu/c.php?g=252299&amp;p=1683200">guide to measuring your impact.</a></p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1910/get-help-with-data-management">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Get help with data management</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>The Library can help you with many aspects of data management. See the <a href="http://researchguides.uic.edu/dataplans">guide to managing your data.</a></p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1906/get-help-conducting-a-systematic-review-or-meta-analysis">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Learn more about systematic review or meta-analysis methodology and standards</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>Librarians can instruct you on the basic principles of search methodology for systematic reviews, scoping reviews and other literature review types. This includes tips on selecting databases to search, choosing keywords, building search strategies, and organizing citations. <a href="/help/article/1919/make-an-appointment-with-a-librarian/" target="_blank" rel="noopener">Make an appointment with a librarian</a> to get started on your search.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1887/distance-student-services">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Distance education user services</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>The Library offers many services to distance education users and online students who connect to UIC remotely.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1883/cite-in-icmje-style">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Cite in ICMJE style</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>Get official guidance on ICMJE (International Committee of Medical Journal Editors) style from the online guide <a href="http://www.icmje.org/recommendations/" target="_blank" rel="noopener">Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals</a>. Produced by the International Committee of Medical Journal Editors, this guide is only available online. You may also <a href="http://www.icmje.org/icmje-recommendations.pdf" target="_blank" rel="noopener">download it in PDF format</a>.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1880/cite-in-ama-style">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Cite in AMA style</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>The complete 10th edition of the <a href="http://researchguides.uic.edu/go.php?c=10002023" target="_blank" rel="noopener">AMA Manual of Style</a> can be accessed online by current UIC students, faculty and staff. The manual can be accessed from off-campus using your NetID and password.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1869/access-uptodate">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Access UpToDate</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p><a href="http://researchguides.uic.edu/go.php?c=10002639">UpToDate</a> is an online, peer-reviewed clinical decision support tool with topic reviews covering symptoms, tests and diagnosis, and treatment options for over 8,500 conditions. Off-campus users do not need to log in to their account to access the database.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1867/access-clinical-key">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Access Clinical Key</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p><a href="http://researchguides.uic.edu/go.php?c=10002146">ClinicalKey</a> is a peer-reviewed, evidence-based point-of-care clinical information service for physicians and healthcare professionals. It provides electronic books, medical journals, clinical resources, practice guidelines and content from PubMed/MEDLINE. ClinicalKey replaces the content formerly offered through MD Consult.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1909/get-help-with-copyright-fair-use">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Get help with copyright &amp; fair use</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>The Library can provide some information about copyright and fair use. See our <a href="http://researchguides.uic.edu/copyright">guide to copyright and fair use</a>. However, for legal advice about the copyright law in the academic setting, consult the <a href="http://www.legal.uillinois.edu/">University of Illinois Office of Legal Counsel</a>.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1907/get-help-making-my-scholarship-more-accessible">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Open access publishing</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>Publishing in an openly accessible venue makes your scholarship available to more people because there are no paywalls to prevent access. The Library supports open access through several initiatives. See our <a href="http://researchguides.uic.edu/c.php?g=252224&amp;p=1682887">guide to publishing, scholarly communication and open access.</a></p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1874/apply-for-funding-to-make-my-work-more-openly-accessible">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Apply for funding to make my work open access</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>The UIC Research Open Access Publishing (ROAPP) fund supports faculty, researchers, staff, post-docs and students who want to make their journal articles open access. <a href="http://researchguides.uic.edu/ROAAP">Learn more and apply for the ROAPP fund.</a></p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1956/use-an-archival-finding-aid">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Use an archival finding aid</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>A &#8220;finding aid&#8221; describes the contents of an archival collection. It is the first thing to look at before handling a collection at Special Collections and University Archives.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                    </div>
+    
+</div>
+                </li>
+                            <li class="help-search-results__result">
+                    <div class="help-search-result">
+
+    <h2 class="help-search-result__title">
+        <a href="/help/article/1917/learn-about-the-history-of-uic">
+            <span class="help-search-result__title-icon"><svg class="arrow-right-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+    <path d="M1 3.9h5L3.9 1.8c-.4-.4-.4-1.1 0-1.5.4-.4 1.1-.4 1.5 0L10 5 5.4 9.7c-.2.2-.5.3-.8.3s-.5-.1-.7-.3c-.4-.4-.4-1.1 0-1.5L6.1 6H1c-.5 0-1-.4-1-1s.5-1.1 1-1.1z"/>
+</svg>
+</span>
+            <span class="help-search-result__title-text">Learn about the history of UIC</span>
+        </a>
+    </h2>
+
+            <div class="help-search-result__summary"><p>Special Collections and University Archives has multiple resources to help researchers learn about the history of UIC. Visit our <a href="http://researchguides.uic.edu/UICArchives/ResearchUICHistory">research UIC history</a> guide or <a href="http://ask.library.uic.edu/widget_standalone.php?la_widget_id=6169">Ask an Archivist</a> for more information.</p>
+</div>
+    
+            <div class="help-search-result__locations">
+                            <span class="help-search-result__location">Richard J. Daley Library</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Chicago</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Peoria</span>
+                            <span class="help-search-result__location">Crawford Library of the Health Sciences-Rockford</span>
+                            <span class="help-search-result__location">Library of the Health Sciences-Urbana</span>
+                    </div>
+    
+</div>
+                </li>
+                    </ul>
+    
+</article>
+        </section>
+                  <section  aria-label="Next and previous page buttons">
+            <p>
+                                            <a class="button" href="/help/search?p=2">Next page</a>
+                          </p>
+          </section>
+                      </div>
+    <div class="layout__sidebar">
+                    <section class="filters" aria-label="Filters to limit results">
+
+        <h2 class="filters__title">Filter by Location</h2>
+    
+    <ul class="filters__options">
+                    <li>
+                <label>
+                    <input type="checkbox" name="l[]" value="386">
+                    Chicago-Daley
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="l[]" value="388">
+                    Chicago-Health Sciences
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="l[]" value="389">
+                    Peoria-Health Sciences
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="l[]" value="390">
+                    Rockford-Health Sciences
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="l[]" value="391">
+                    Urbana-Health Sciences
+                </label>
             </li>
             </ul>
 
-    <p class="section__footer">
-        <a class="button" href="/help/search?&">Get More Help</a>
+    <p class="filters__button">
+        <button type="submit">Apply filters</button>
     </p>
 
-</div>
-
-</section>    
-    
-    </div>
-    <div class="layout__sidebar">
-        
-    <section aria-label="Secondary Menu" >
-    <div id="menu-secondary" class="menu-secondary">
-        <div class="_title">
-                        <h2><a href="/collections">Collections</a></h2>
-                        <a class="icon-circle-arrow-up" href="#main">Back to content</a>
-        </div>
-        <ul  class="menu " aria-label="Secondary menu">
-	<li class="_item ">
-		<a href="/collections/articles" target="_self">Articles</a>
-    	</li>
-	<li class="_item ">
-		<a href="/collections/books-media" target="_self">Books & Media</a>
-    	</li>
-	<li class="_item menu-item-has-children current-menu-item current-page-ancestor">
-		<a href="/collections/digital-images" target="_self">Digital Images</a>
-          <span class="expand-item"></span>
-  <ul class="_child">
-    <li class="_item ">
-    <a href="/collections/digital-images/uic-image-collections" target="_self">UIC Image Collections</a>
-    </li>
-  </ul>
-	</li>
-	<li class="_item ">
-		<a href="/special-collections-university-archives" target="_self">Special Collections & University Archives</a>
-    	</li>
-	<li class="_item ">
-		<a href="/collections/maps-gis" target="_self">Maps & GIS</a>
-    	</li>
-	<li class="_item ">
-		<a href="/collections/uic-publications" target="_self">Theses, Dissertations & UIC Publications</a>
-    	</li>
-</ul>
-    </div>
 </section>
+      <section class="filters" aria-label="Filters to limit results">
 
+        <h2 class="filters__title">Filter by Topic</h2>
+    
+    <ul class="filters__options">
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="17">
+                    Accessibility
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="18">
+                    Borrowing
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="19">
+                    Computers, Printing &amp; Scanning
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="48">
+                    Copyright &amp; Scholarly Publishing
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="20">
+                    Course Reserves
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="21">
+                    Electronic Resources
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="23">
+                    Library Accounts
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="24">
+                    Off-Campus Access
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="26">
+                    Requesting Materials
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="27">
+                    Research Help
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="361">
+                    Searching
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="29">
+                    Special Collections &amp; University Archives
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="208">
+                    Study Spaces
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="1">
+                    Uncategorized
+                </label>
+            </li>
+                    <li>
+                <label>
+                    <input type="checkbox" name="t[]" value="286">
+                    Writing, Style &amp; Citations
+                </label>
+            </li>
+            </ul>
+
+    <p class="filters__button">
+        <button type="submit">Apply filters</button>
+    </p>
+
+</section>
+        </div>
+</div>
+</form>
+
+    <div class="contact-callout" aria-label="Contact a Librarian">
+    <div class="contact-callout__container uic_grid">
+        <div class="contact-callout__content">
+            <div>
+                <a href="/contact" class="jumbo-link">
+                    <span class="_prefix">Need help?</span>
+                    <span class="_text">Contact a Librarian!</span>
+                </a>
+            </div>
+        </div>
     </div>
 </div>
-                    </main>
+
+        </main>
         
         <footer class="page__footer" role="contentinfo">
                             <div class="footer uic-footer">

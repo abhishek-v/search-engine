@@ -13,11 +13,13 @@
 
 <head profile="http://www.w3.org/1999/xhtml/vocab">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="next" href="/service/collaboration-tools" />
-<link rel="shortlink" href="/node/3086" />
-<link rel="canonical" href="/LTS" />
+<link rel="up" href="/LTS" />
+<link rel="next" href="/service/lecture-capture/echo360-alp" />
+<link rel="prev" href="/service/learning-management-system/blackboard-ultra-pilot" />
+<link rel="shortlink" href="/node/426" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-  <title>Learning Technology Solutions | Academic Computing and Communications Center  </title>
+<link rel="canonical" href="/service/lecture-capture" />
+  <title>Lecture Capture | Academic Computing and Communications Center  </title>
   <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_C97MNtte-L48LG9bh-ZvFzSRgqR9x1gIfrvIDp9o6Y4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://accc.uic.edu/sites/default/files/css/css_OsO2r3O_I2E-8-khV3NulWZIRJOw7aXphEVlJbgm2xI.css" media="all" />
@@ -42,11 +44,11 @@
 <script type="text/javascript" src="https://accc.uic.edu/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"f6BBcBers6Om9IZmjqygGGkiqU1rGJnRfahsgv0ymxI","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/LTS":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acccbartik","theme_token":"SCZiP2zJcFXh42DPLfe39czktkhZKb09IA1uobiPNUs","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/acccbartik\/css\/colors.css":1,"sites\/all\/themes\/acccbartik\/css\/acccbartik.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/themes\/acccbartik\/css\/ie.css":1,"sites\/all\/themes\/acccbartik\/css\/ie6.css":1}},"googleCSE":{"cx":"007190388697399463499:niyo8zpomss","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"urlIsAjaxTrusted":{"\/service\/lecture-capture":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"full"}});
 //--><!]]>
 </script>
 </head>
-<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-3086 node-type-service-catalog-entry footer-columns" >
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-426 node-type-service-catalog-entry featured footer-columns" >
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
     <a href="/service/learning-environments/accessibility" class="element-invisible element-focusable">Accessibility Resources</a>
@@ -75,13 +77,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     
   <div class="content">
-    <form class="google-cse" action="/LTS" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <form class="google-cse" action="/service/lecture-capture" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
       <h2 class="element-invisible">Search form</h2>
     <div class="form-item form-type-textfield form-item-search-block-form">
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-jeNh3FUIez3-7suYUDN1x7aDWZ1ABIyJDc49jtao3iE" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-qX7sTDxC-VieTRQpkfkm0Q3MxVP5Pqjt9DQEMmWRjoM" />
 <input type="hidden" name="form_id" value="search_block_form" />
 </div>
 </div></form>  </div>
@@ -109,6 +111,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </div></div> <!-- /.section, /#header -->
 
   
+      <div id="featured"><div class="section clearfix">
+        <div class="region region-featured">
+    <div id="block-block-20" class="block block-block">
+
+    
+  <div class="content">
+    <p><img alt="Echo 360" src="/sites/default/files/echo360-monthlycampaign2.jpg" style="height:195px; width:955px" /></p>
+  </div>
+</div>
+  </div>
+    </div></div> <!-- /.section, /#featured -->
   
   <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
 
@@ -118,7 +131,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <div class="region region-sidebar-first">
     <div id="block-book-navigation" class="block block-book">
 
-    <h2><a href="/policies" class="block-title-link"><a href="/LTS" class="book-title active">Learning Technology Solutions</a></a></h2>
+    <h2><a href="/policies" class="block-title-link"><a href="/LTS" class="book-title">Learning Technology Solutions</a></a></h2>
   
   <div class="content">
     <ul class="menu clearfix"><li class="first collapsed"><a href="/service/collaboration-tools">Collaboration Tools</a></li>
@@ -127,7 +140,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="leaf"><a href="/service/learning-design-and-development">Learning Design and Development</a></li>
 <li class="collapsed"><a href="/service/learning-environments">Learning Environments</a></li>
 <li class="collapsed"><a href="/service/learning-management-system">Learning Management System</a></li>
-<li class="collapsed"><a href="/service/lecture-capture">Lecture Capture</a></li>
+<li class="expanded active-trail"><a href="/service/lecture-capture" class="active-trail active">Lecture Capture</a><ul class="menu clearfix"><li class="first leaf"><a href="/service/lecture-capture/echo360-alp">Echo360 Active Learning Platform (ALP)</a></li>
+<li class="leaf"><a href="/service/lecture-capture/echo360-online-help">Echo360 Online Help</a></li>
+<li class="last leaf"><a href="/service/lecture-capture/request">Lecture Capture Request</a></li>
+</ul></li>
 <li class="leaf"><a href="/service/media-conversion">Media Conversion</a></li>
 <li class="collapsed"><a href="/service/media-streaming">Media Streaming</a></li>
 <li class="collapsed"><a href="/service/multimedia-production">Multimedia Production</a></li>
@@ -135,63 +151,112 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="last collapsed"><a href="/service/professional-development-training">Professional Development &amp; Training</a></li>
 </ul>  </div>
 </div>
+<div id="block-views-answers-block-4" class="block block-views">
+
+    <h2><a href="/answer/Lecture%20Capture" class="block-title-link">Answers related to Lecture Capture</a></h2>
+  
+  <div class="content">
+    <div class="view view-answers view-id-answers view-display-id-block_4 nocontent view-dom-id-2823903f8bf9450dafdc2b79299e84fb">
+            <div class="view-header">
+      Displaying 4 of 4 answers    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/downloading-echo360-personal-capture">Downloading Echo360 Personal Capture</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-get-my-lecture-recorded">How do I get my lecture recorded?</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-add-echo360-alp-lti-tool-link-course-content">How do I add the Echo360 ALP LTI tool link to course content?</a></span>  </span></li>
+          <li class="views-row views-row-4 views-row-even views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/answer/how-do-i-create-link-echo360-alp-left-navigation">How do I create a link to Echo360 ALP in the left navigation?</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
   </div>
       </div></div> <!-- /.section, /#sidebar-first -->
     
     <div id="content" class="column"><div class="section">
             <a id="main-content"></a>
                     <h1 class="title" id="page-title">
-          Learning Technology Solutions        </h1>
+          Lecture Capture        </h1>
                           <div class="tabs">
                   </div>
                           <div class="region region-content">
     <div class="ds-1col node node-service-catalog-entry node-full view-mode-full clearfix">
 
   
-  <div id="node-service-catalog-entry-full-group-borderwrap" class=" group-borderwrap field-group-div"><div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Category:&nbsp;</strong><span class="field-items"><a href="/category/facilities-and-equipment" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Facilities and Equipment</a>, <a href="/category/help" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Help</a>, <a href="/category/learning-tools" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Learning Tools</a></span></div><div class="field field-name-field-audience field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Audience:&nbsp;</strong><span class="field-items"><a href="/audience/faculty" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Faculty</a>, <a href="/audience/students" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Students</a></span></div></div><h2 class="field-label">Overview&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>Formed in 2016, the <strong>Learning Technology Solutions (LTS)</strong> team brings together the instructional design and software support aspects of the Instructional Technology Lab, with the classroom and computer lab technology support of the Learning Environments &amp; Technology Services office. This group works to improve your experience as an instructor here at UIC by providing a central point of contact for all of your learning technology needs.</p>
-<p><strong>OUR MISSION</strong></p>
-<p><em>To enhance student success and faculty empowerment through learning technologies.</em></p>
-</div></div><h2 class="field-label">Features&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>We fulfill our mission by providing and supporting the following services, and offering solutions to the learning technology challenges faced by Faculty and the UIC community at large.</p>
-<p><strong>Learning Tools</strong></p>
-<p>The LTS team not only provides and supports the <a href="/service/learning-management-system">Blackboard learning management system</a>, <a href="/service/lecture-capture">Echo360 lecture capture</a>, <a href="/service/web-conferencing">web conferencing</a>, <a href="/service/media-streaming">media streaming</a> and many other tools for the UIC community, it can help identify the best combination of these tools to meet your specific instructional needs.  Here are just some of the tools we support:</p>
-<ul><li><a href="https://go.uic.edu/gethelp">http://go.uic.edu/gethelp</a></li>
-</ul><p><strong>Learning Environments</strong></p>
-<p>The LTS team provides a single point of contact for support of all aspects of the <a href="/service/learning-environments">common-use learning spaces</a>.  We not only assist with the use of technology in these spaces, we also actively monitor the spaces for any facility-related problems and work on your behalf with Facilities Management, Classroom Scheduling, and other groups on campus so you can focus on the teaching and learning experience!</p>
-<p><strong>Course Design &amp; Development</strong></p>
-<p>The instructional design staff of LTS offers support for the use of quality design standards and best practices in course design for technology-enhanced, blended, and fully online courses. This includes the exploration of collaborative tools, the redesign of courses to meet accessibility requirements, and the improvement of the course structure in general.</p>
-<p><strong>Equipment Lending</strong></p>
-<p>LTS offers equipment for short-term loan to both faculty and students</p>
-<ul><li>Faculty can check out equipment including microphones, laptops, and presentation remotes for use in a specific class session from our LTS Support office in Lecture Center E room E112</li>
-<li>Students can check out laptops and mobile device charging cables for a three-day loan from the BSB Learning Center</li>
-<li>Both faculty and students can check out laptops, camcorders, audio recorders, and more from the LTS Multimedia Lab in the Daley Library IDEA Commons.</li>
-</ul><p><strong>Professional Development</strong></p>
-<p>The LTS team provides <a href="/service/professional-development-training">trainings</a> in various formats. We offer webinars and workshops on a variety of topics including all of the basic instructional tools supported at UIC. The goal of these sessions is to help instructors improve their use of technology by providing guidance on the use of best practices for teaching with technology. We also design tailored sessions for academic departments. Online video tutorials are also available on a wide range of topics through our Lynda.com subscription.</p>
-<p><strong>Community Engagement</strong></p>
-<p>We continually strive to create a campus community that shares best practices for using technology for teaching and learning.</p>
-</div></div><h2 class="field-label">Support&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row" style="vertical-align:middle; width:250px">Email</th>
-<td colspan="2" style="vertical-align:middle"><a href="mailto:itl@uic.edu">LTS@uic.edu</a></td>
-</tr><tr><th scope="row" style="vertical-align:middle; width:250px">Phone</th>
-<td colspan="2" style="vertical-align:middle">312-413-0003 Option 1</td>
-</tr><tr><th rowspan="3" scope="row" style="vertical-align:middle; width:250px">In person</th>
-<td style="text-align:left; vertical-align:middle; width:350px"><strong>LTS Support Office</strong></td>
-<td style="vertical-align:middle; width:50%">
-<p><strong>Lecture Center E<br />
-			Room E112</strong> (west side of building)</p>
-<p>Open 7:45am to 7:00pm Monday through Thursday and 7:45am to 5:00pm Friday during academic sessions</p>
+  <div id="node-service-catalog-entry-full-group-borderwrap" class=" group-borderwrap field-group-div"><div class="field field-name-field-category field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Category:&nbsp;</strong><span class="field-items"><a href="/category/learning-tools" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Learning Tools</a></span></div><div class="field field-name-field-audience field-type-taxonomy-term-reference field-label-inline clearfix inline-list"><strong class="field-label bold-label">Audience:&nbsp;</strong><span class="field-items"><a href="/audience/faculty" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Faculty</a>, <a href="/audience/staff" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Staff</a>, <a href="/audience/it" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">IT</a>, <a href="/audience/accc" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">ACCC</a></span></div><div class="field field-name-field-launch field-type-link-field field-label-hidden"><div class="field-item odd first last"><a href="http://accc.uic.edu/service/lecture-capture/request" target="_blank">Request Lecture Capture</a></div></div></div><h2 class="field-label">Overview&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>UIC provides all faculty and instructors with a free and easy-to-use lecture capture tool called Echo360 ALP. Along with features provided by the tool, UIC faculty have access to support, learning workshops, and personal consultations.</p>
+<p>The captures created from Echo360 ALP can be linked to <a href="/service/blackboard" style="text-decoration:none;"> <u>Blackboard Learn</u></a> and accessed via Echo 360.org</p>
+</div></div><h2 class="field-label">Features&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>Echo360 provides faculty with two distinct lecture capture options that facilitate blended learning:</p>
+<p>      1. Classroom Capture<br />
+      2. Personal Capture </p>
+<p><a id="echo-record" name="echo-record"></a></p>
+<p><strong>RECORD</strong></p>
+<p><strong>Classroom Capture</strong> allows instructors to easily record lectures taught in <a href="https://answers.uillinois.edu/uic/page.php?id=83665" style="text-decoration:none;"><u>specific classrooms</u></a> and make them available to their students electronically via Blackboard learn or Echo360.org.</p>
+<p>The system will capture all audio and video sources in the classroom’s multimedia system, including the installed PC, an instructor’s laptop, the built-in and wireless microphones, and more.</p>
+<p><strong>Personal Capture </strong>allows you to record captures using a stand-alone application that runs on Windows and Mac computers. Personal Capture allows instructors to record a webcam video or simply record audio and their computer screen simultaneously, which allows adding sound to PowerPoint presentations and other course material.</p>
+<p><a name="#echo-edit" id="#echo-edit"></a></p>
+<p><strong>EDIT</strong></p>
+<p>All recorded <a href="/answer/how-do-i-edit-my-uicast-presentation" style="text-decoration:none;"><u>captures can be modified</u></a> in your dashboard and tailored for your lecture and student needs.</p>
+<p><strong>PUBLISH</strong></p>
+<p>Captures created from both of these options can be linked to <a href="/service/blackboard" style="text-decoration:none;"> <u>Blackboard Learn</u></a> and also accessed at Echo360.org. Echo360 ALP provides the instructor with reports on student activities such as viewing of Echoes and participation in discussions, and polling.</p>
+<p>Recorded captures are kept on Echo 360’s servers for a period of four years before being removed.</p>
+<p><strong>HELP</strong></p>
+<p>Visit our <a href="/service/lecture-capture/echo360-online-help">Echo360 Online Help</a> page to discover many popular topics to get started, present, analyse data, and more.</p>
+</div></div><h2 class="field-label">Requirements&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p><strong>Classroom Capture </strong>recordings must be scheduled ahead of time, and can be either one-time events or repeating semester events. Captures are available within 3-6 hours of a one-hour long lecture.</p>
+<p>The ACCC assists with scheduling automatic capture of the<a href="https://accc-fs.webhost.uic.edu/uicast/index.cgi" style="text-decoration:none;"> <u>east campus common use classrooms</u></a>. For other classrooms, contact the appropriate department to have your lecture captured:</p>
+<ul><li><a href="mailto:pharmhelp@uic.edu">College of Pharmacy</a></li>
+<li><a href="mailto:mdpchelp@uic.edu">College of Medicine</a></li>
+<li><a href="mailto:nnorman@uic.edu">College of Dentistry</a></li>
+</ul><p><strong>Personal Capture</strong> is available to all UIC faculty and instructors by <a href="https://accc-fs.webhost.uic.edu/uicast/index.cgi" style="text-decoration:none;"><u>request</u></a>. Please note you must already have your <a href="/service/blackboard/request-site" style="text-decoration:none;"><u>course created via Blackboard</u></a> before submitting your request.</p>
+<p>For additional information, please consult the Echo Center <a href="http://confluence.echo360.com/display/54/EchoCenter+for+Academic+Staff" style="text-decoration:none;"><u>Academic Staff Guide</u></a> from the Echo System documentation page.</p>
+</div></div><h2 class="field-label">Cost&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><p>There is no charge for this service.</p>
+</div></div><h2 class="field-label">Support&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row" style="width:30%">Email</th>
+<td><a href="mailto:LTS@uic.edu">LTS@uic.edu</a></td>
+</tr><tr><th scope="row">Phone</th>
+<td><a href="tel:312-413-0003">312-413-0003</a> Option 1</td>
+</tr><tr><th scope="row">In person</th>
+<td>
+<p>Lecture Center E<br />
+			Room E112</p>
+<ul><li>Monday - Thursday 7:45am to 7:00pm, Friday 8:00 am to 5:00 pm during academic sessions</li>
+</ul></td>
+</tr></tbody></table></div></div><h2 class="field-label">Further Information&nbsp;</h2><div class="field-items"><div class="field-item odd first last"><ul><li><a href="http://echo360.uic.edu">Echo360 System Administration</a></li>
+<li><a href="/answer/downloading-echo360-personal-capture">Personal Capture Downloads</a></li>
+</ul><h3>ACCC Service Level Agreement (SLA)</h3>
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%"><tbody><tr><th scope="row">Service Request Fulfillment Time</th>
+<td>
+<p>Under 2 business days, unless in-person training/discussion is required, or escalation to the vendor is required.</p>
 </td>
-</tr><tr><td style="text-align:left; vertical-align:middle; width:350px"><strong>LTS Multimedia Lab</strong></td>
-<td style="vertical-align:middle; width:50%">
-<p><strong>Richard J. Daley Library<br />
-			Room LIB 1-030</strong> (first floor at the south side of the IDEA Commons)</p>
-<p>			Open weekdays 9:00am to 5:00pm</p></td>
-</tr><tr><td scope="row" style="text-align:left; vertical-align:middle; width:350px"><strong>LTS Instructional Design Office</strong></td>
-<td style="vertical-align:middle">
-<p><strong>Benjamin Goldberg Research Center (BGRC)<br />
-			Room 181</strong></p>
-<p>By appointment only</p>
+</tr><tr><th scope="row">Incident Resolution Time</th>
+<td>
+<p>Under 2 business days unless escalation to the vendor is required.</p>
 </td>
-</tr></tbody></table><p> </p>
-</div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tag:&nbsp;</div><div class="field-items"><div class="field-item odd"><a href="/tag/itl" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">ITL</a></div><div class="field-item even"><a href="/tag/lets" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">LETS</a></div></div></div></div>
+</tr><tr><th scope="row">Service Availability</th>
+<td>24x7</td>
+</tr><tr><th scope="row">Maintenance Window(s)</th>
+<td>Approved ACCC maintenance window(s): <a href="/service-status">accc.uic.edu/service-status</a></td>
+</tr><tr><th scope="row">Service Notification Channel(s)</th>
+<td>ACCC News and Alerts: <a href="/news/all">accc.uic.edu/news/all</a><br />
+			casters@uic.edu listserv of lecture capture administrators on campus.<br />
+			Faculty Notification System for targeted notifications for specific spaces.</td>
+</tr><tr><th scope="row">Reviewed to Ensure SLA Meets Business Requirements</th>
+<td>
+<p>Provisional SLA - Currently under IT Governance review.</p>
+</td>
+</tr><tr><th scope="row">Date Reviewed</th>
+<td>
+<p>Provisional SLA - Currently under IT Governance review.</p>
+</td>
+</tr></tbody></table></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tag:&nbsp;</div><div class="field-items"><div class="field-item odd"><a href="/tag/classroom" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">classroom</a></div><div class="field-item even"><a href="/tag/recording" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">recording</a></div><div class="field-item odd"><a href="/tag/lecture-capture" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">lecture capture</a></div><div class="field-item even"><a href="/tag/multimedia" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">multimedia</a></div><div class="field-item odd"><a href="/tag/personal-capture" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">personal capture</a></div><div class="field-item even"><a href="/tag/classroom-capture" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">classroom capture</a></div></div></div></div>
 
   </div>
       
@@ -204,12 +269,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/service/all" class="block-title-link">Service Catalog</a></h2>
   
   <div class="content">
-    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-70bb9ff70f18d4b28b9fc04695a8b93b">
+    <div class="view view-service-catalog view-id-service_catalog view-display-id-block_2 view-dom-id-ee090ce9389359f11666c0777854a4d2">
         
   
   
       <div class="view-content">
-      <form action="/LTS" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+      <form action="/service/lecture-capture" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
  <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump" name="jump"><option value="">Choose service</option><option value="f1c0fd1eb440653d41d9b934c81f2e1d::/service/acccell">  
           ACCC Extended Laptop Loan (ACCCELL)  </option><option value="9fdd844bb8a1c40b07e178fc3338f2d5::/service/servicedesk">  
           ACCC Service Desk  </option><option value="ecc409c51f10b0b63be5a6571ce81b96::/service/acccess-helpdesk">  
@@ -248,8 +313,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           Instant Messaging  </option><option value="f94278ec0e388291a8f3988411d314cc::/service/learning-design-and-development">  
           Learning Design and Development  </option><option value="c6147deed44acd6ca048ad470afcbe33::/service/learning-environments">  
           Learning Environments  </option><option value="3689d4a6c97c3fd4162a0506b8d959ef::/service/learning-management-system">  
-          Learning Management System  </option><option value="8936c111080f3aa031c861e4448efc99::/LTS" selected="selected">  
-          Learning Technology Solutions  </option><option value="4989923a8a910d2acbb7464d28c7f2a5::/service/lecture-capture">  
+          Learning Management System  </option><option value="8936c111080f3aa031c861e4448efc99::/LTS">  
+          Learning Technology Solutions  </option><option value="4989923a8a910d2acbb7464d28c7f2a5::/service/lecture-capture" selected="selected">  
           Lecture Capture  </option><option value="67919309615b8414e3dee04798b5804d::/service/listserv">  
           Listserv  </option><option value="844e9859712145ab647f937e528f81af::/service/mass-and-emergency-communications">  
           Mass and Emergency Communications  </option><option value="c27a9506dce9ed22050fde8417def8ba::/service/massmail">  
@@ -295,7 +360,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           Wired Network  </option><option value="7b8b5252a137d17387b07d7470d684d6::/service/wireless">  
           Wireless Network  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-Phk3kTVgMW35MXAppti-OXqLN8Bas8iSW04utETrCyk" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-fLNRP9dY0L76hr6thgVAacWGjTsNemxcAN0h9a3y8jU" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -311,12 +376,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2>Service Categories</h2>
   
   <div class="content">
-    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-f1eee99dd9dc55864f21a0540cbbf3db">
+    <div class="view view-service-categories view-id-service_categories view-display-id-block view-dom-id-3d24178277ef85027f2a9c026a9dbe15">
         
   
   
       <div class="view-content">
-      <form action="/LTS" method="post" id="ctools-jump-menu--2" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+      <form action="/service/lecture-capture" method="post" id="ctools-jump-menu--2" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
  <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump--2" name="jump"><option value="" selected="selected">Choose category</option><option value="0d6b0768f9fe01f93fc2f5863e2e1e1d::/category/accounts-and-passwords">  
           Accounts and Passwords  </option><option value="cefded44a726cebc33c154a1ce92a03d::/category/business-tools">  
           Business Tools  </option><option value="3352f6a597d71c0803f0598a0ec1fdf3::/category/email-calendar-and-communications">  
@@ -328,7 +393,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           Research  </option><option value="af03098223978b67697bc3c4992ec42b::/category/security">  
           Security  </option></select>
 </div>
-<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-BKGv1GEQUJLjg8a7OhnOHwmtoqaMrQgwwV3DaMzNhv0" />
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-hBwL_jOq6LiCLw4uPIAe4btFap8kocmI0hwiMcUq4xU" />
 <input type="hidden" name="form_id" value="ctools_jump_menu" />
 </div></form>    </div>
   
@@ -344,7 +409,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <h2><a href="/popular/all" class="block-title-link">Popular Services</a></h2>
   
   <div class="content">
-    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-309bb007eaca65b64ec656cb11ee167e">
+    <div class="view view-popular view-id-popular view-display-id-block view-dom-id-4465fde913b892ec7d1a574cd23c25d6">
         
   
   
@@ -364,7 +429,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <li class="views-row views-row-7 views-row-odd">  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/service/servicedesk">ACCC Service Desk</a></span>  </span></li>
           <li class="views-row views-row-8 views-row-even">  
-  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless">Wireless Network</a></span>  </span></li>
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/service/wireless" class="active">Wireless Network</a></span>  </span></li>
           <li class="views-row views-row-9 views-row-odd">  
   <span class="views-field views-field-title">        <span class="field-content"><a href="/LTS">Learning Technology Solutions</a></span>  </span></li>
           <li class="views-row views-row-10 views-row-even views-row-last">  
@@ -430,7 +495,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <div class="content">
     <ul class="menu clearfix"><li class="first leaf"><a href="/service/acccess-helpdesk" title="">ACCCeSS Helpdesk</a></li>
 <li class="leaf"><a href="/service/servicedesk" title="">Client Services Office</a></li>
-<li class="collapsed"><a href="/LTS" title="" class="active">Learning Technology Solutions</a></li>
+<li class="collapsed"><a href="/LTS" title="">Learning Technology Solutions</a></li>
 <li class="last leaf"><a href="/service/noc" title="">Network Operations Center</a></li>
 </ul>  </div>
 </div>
@@ -461,7 +526,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     
   <div class="content">
     <div id="shib_login_url">
-  <a href="https://accc.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Faccc.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F3086">Log in</a>
+  <a href="https://accc.uic.edu/Shibboleth.sso/Login?target=https%3A%2F%2Faccc.uic.edu%2F%3Fq%3Dshib_login%2Fnode%2F426">Log in</a>
 </div>
   </div>
 </div>
