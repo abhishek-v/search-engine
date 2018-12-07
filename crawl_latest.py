@@ -7,7 +7,6 @@ from nltk.corpus import stopwords
 import re
 from nltk.stem import PorterStemmer #For Porter Stemmer function
 import pickle
-from copy import deepcopy
 from urllib.parse import urlparse
 
 class Crawler:
@@ -29,12 +28,10 @@ class Crawler:
         '''WHOLE DOCUMENT'''
         self.inv_index = {} #TF for all documents
         self.IDF = {} #IDF for all documents
-        self.stream_length = {}
 
         '''TITLE'''
         self.inv_index_title = {}
         self.IDF_title = {}
-        self.stream_length_title = {}
 
         '''BODY'''
         '''self.inv_index_body = {}
@@ -42,7 +39,8 @@ class Crawler:
 
         '''URL'''
         self.no_slashes = {}
-        self.len_URL = {} #feature 127
+        self.len_URL = {}
+
 
         self.ps = PorterStemmer()
         self.nodes_score = dict()
@@ -87,7 +85,6 @@ class Crawler:
             words = self.text_from_html(r)
             words = " ".join(re.findall("[a-zA-Z0-9]+", words)) #Only alphabets and numbers
             words = words.split(" ")
-            self.stream_length[index] = len(words)
             for word in words:
                 #preprocess each word
                 if(word not in self.stop_words):
@@ -101,17 +98,15 @@ class Crawler:
                         self.IDF[word] = self.IDF.get(word,0) + 1
                     temp_word_list.append(word)
             temp_word_list = []
-            # print("DONE PROCESSING WHOLE DOCUMENT")
+            print("DONE PROCESSING WHOLE DOCUMENT")
             #SOUP CREATED
             soup = BeautifulSoup(r, 'lxml')
             '''
-                STORING TF , IDF AND STREAM LENGTH FOR TITLE
+                STORING TF AND IDF FOR TITLE
             '''
             try:
                 tags = soup.find('title').text
                 words = tags.split(" ")
-                self.stream_length_title[index] = len(words)
-
                 for word in words:
                     if(word not in self.stop_words):
                         word = word.lstrip(" ")
@@ -125,7 +120,7 @@ class Crawler:
                         temp_word_list.append(word)
             except:
                 pass
-            # print("DONE PROCESSING TITLE")
+            print("DONE PROCESSING TITLE")
             temp_word_list = []
             '''
                 STORING TF AND IDF FOR BODY
@@ -183,7 +178,7 @@ class Crawler:
                             self.nodes_inlink[temp_val][index] = self.nodes_inlink[temp_val].get(index,0) + 1
                 except:
                     continue
-            # print("DONE PROCESSING ANCHORS")
+            print("DONE PROCESSING ANCHORS")
             # if(index == 1):
             #     print(self.nodes_outlink[index])
             #     exit()
@@ -206,40 +201,20 @@ class Crawler:
         for k,v in self.nodes_inlink.items():
             inlink_count[k] = len(v)
 
-        for k,v in self.IDF.items():
-            self.IDF[k] = 1/v
-
-        for k,v in self.IDF_title.items():
-            self.IDF_title[k] = 1/v
-
-
-        self.TF_IDF_title = deepcopy(self.inv_index_title)
-        for k,v in self.inv_index_title.items():
-            for k1,v1 in v.items():
-                self.TF_IDF_title[k][k1] = v1*self.IDF_title[k1]
-        self.TF_IDF = deepcopy(self.inv_index)
-        for k,v in self.inv_index.items():
-            for k1,v1 in v.items():
-                self.TF_IDF[k][k1] = v1*self.IDF[k1]
-
         outfile = open("preprocess2_"+str(self.page_threshold),"wb")
-        pickle.dump(self.stream_length_title, outfile)
-        pickle.dump(self.stream_length, outfile)
-        pickle.dump(self.IDF_title, outfile)
-        pickle.dump(self.IDF,outfile)
         pickle.dump(self.inv_index_title, outfile)
-        pickle.dump(self.inv_index,outfile)
-        pickle.dump(self.TF_IDF_title,outfile)
-        pickle.dump(self.TF_IDF,outfile)
+        pickle.dump(self.IDF_title, outfile)
+        # pickle.dump(self.inv_index_body, outfile)
+        # pickle.dump(self.IDF_body, outfile)
         pickle.dump(self.no_slashes, outfile)
         pickle.dump(self.len_URL, outfile)
+
         pickle.dump(outlink_count, outfile)
         pickle.dump(inlink_count, outfile)
 
         outfile.close()
 
         print("Successfully pickled the files")
-
 
 
 if(__name__=="__main__"):

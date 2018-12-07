@@ -33,6 +33,7 @@ class PageRank:
         self.dampFactor = 0.85
         self.nodeCount = len(self.link_reference.keys())
 
+
     def pagerank(self):
         #initialize page rank
         init_score = 1/self.nodeCount
@@ -76,19 +77,18 @@ class PageRank:
             sum = sum + (value)
         print(sum)
 
-    def search(self):
-        pass
 
 if(__name__=="__main__"):
     pr = PageRank()
     pr.pagerank()
-    outfile = file("pagerank_"+str(self.page_threshold),"wb")
-    pickle.dump(self.nodes_score, outfile)
-    outfile.close()
+    outfile = open("pagerank_"+str(pr.page_threshold),"wb")
+    # pickle.dump(pr.nodes_score, outfile)
+    page_rank = {}
     page_order = sorted(pr.nodes_score.items(), key=lambda kv: kv[1], reverse=True)
+    pickle.dump(page_order, outfile)
+    outfile.close()
+    rank = 1
     for page in page_order:
-        print(pr.link_reference[page[0]])
+        page_rank[page[0]] = rank
+        rank = rank + 1
     print("Terminating PageRank program")
-    exit()
-    query = input("Enter search query: ")
-    pr.search(query)
