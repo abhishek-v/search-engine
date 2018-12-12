@@ -41,6 +41,7 @@ class Crawler:
         self.IDF_body = {}'''
 
         '''URL'''
+        self.url_split = {}
         self.no_slashes = {}
         self.len_URL = {} #feature 127
 
@@ -162,6 +163,16 @@ class Crawler:
                 COUNT NUMBER OF CHARACTERS IN URL
                 COUNT NUMBER OF SLASHES IN URL
             '''
+
+            split_dot = self.link_reference[index].split(".")
+            self.url_split[index] = {}
+            for element in split_dot:
+                element = " ".join(re.findall("[a-zA-Z0-9]+", element)) #Only alphabets and numbers
+                element = element.split(" ")
+                element_new = ""
+                for x in element:
+                    element_new += self.ps.stem(x)
+                    self.url_split[index][element_new] = self.url_split[index].get(element_new,0) + 1
             self.len_URL[index] = len(value)
             self.no_slashes[index] = value.count("/")
 
@@ -235,6 +246,7 @@ class Crawler:
         pickle.dump(self.len_URL, outfile)
         pickle.dump(outlink_count, outfile)
         pickle.dump(inlink_count, outfile)
+        pickle.dump(self.url_split, outfile)
 
         outfile.close()
 

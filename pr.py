@@ -81,14 +81,16 @@ class PageRank:
 if(__name__=="__main__"):
     pr = PageRank()
     pr.pagerank()
-    outfile = open("pagerank_"+str(pr.page_threshold),"wb")
+
     # pickle.dump(pr.nodes_score, outfile)
     page_rank = {}
     page_order = sorted(pr.nodes_score.items(), key=lambda kv: kv[1], reverse=True)
-    pickle.dump(page_order, outfile)
-    outfile.close()
+
     rank = 1
     for page in page_order:
         page_rank[page[0]] = rank
         rank = rank + 1
+    outfile = open("pagerank_"+str(pr.page_threshold),"wb")
+    pickle.dump(page_rank, outfile)
+    outfile.close()
     print("Terminating PageRank program")
